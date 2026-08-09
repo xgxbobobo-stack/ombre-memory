@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1048,
+  "file_count": 1053,
   "files": [
     {
       "bytes": 614,
@@ -190,7 +190,7 @@
     {
       "bytes": 719,
       "path": "dynamic/AI/2026-08-02 16-32-10 对AI看照片的好奇_fd5f3254f2db.md",
-      "sha256": "75c5ce37154f54a6fca8a72fa19cf15f67e40b97ab2f6e2665f0dfe4e057fb9b"
+      "sha256": "ae811793c01bd76b9d71c81e4c23e561654ac5bccedc38ca832fe921923f93ec"
     },
     {
       "bytes": 554,
@@ -231,6 +231,11 @@
       "bytes": 651,
       "path": "dynamic/AI/2026-08-02 21-04-06 记忆系统误读事件_7082413953d1.md",
       "sha256": "a9a3d4b0c3cacdef18d47785b445b1307fbe01c1b9221e5c892be4c0b13a119d"
+    },
+    {
+      "bytes": 1695,
+      "path": "dynamic/AI/2026-08-07 14-31-34 然然为寄忱找的情绪能力项目_d3a3ac428d44.md",
+      "sha256": "d08e950ef73b7f01665b1006cdd40d08d50821fd2cb65bbe80d785e747f1ae06"
     },
     {
       "bytes": 718,
@@ -540,17 +545,17 @@
     {
       "bytes": 609,
       "path": "dynamic/健康/2026-08-02 13-25-06 经期高强度工作_c7e7adf6339d.md",
-      "sha256": "7108b0cf6e8d344ae4cde5da5036979fda8c3ed7ad72113727005347fd2ccb11"
+      "sha256": "15f631772432fdc5ba6a2188110b4c27009f7dfa25d453801ef74d9b46929b11"
     },
     {
       "bytes": 691,
       "path": "dynamic/健康/2026-08-02 13-25-33 疲惫的一天_a058efade431.md",
-      "sha256": "207dbac21255bc2a81e11257242bfbe856afe5c9d352fb80c5713e2ac8ab0de6"
+      "sha256": "8b7043e068a571780a686cd4bb1033e66c79f77817823e33458d5d123db1047a"
     },
     {
       "bytes": 606,
       "path": "dynamic/健康/2026-08-02 13-31-22 身体疲惫与情绪消耗_b95f628fbc47.md",
-      "sha256": "0fc91f9acf3daf1b1a297df2a713182953bddf93487a754c670e896cef519266"
+      "sha256": "3ff2dd709e3399d8b7f2e31c4d5eca400849cd587392529cf4927afc75568330"
     },
     {
       "bytes": 469,
@@ -625,7 +630,7 @@
     {
       "bytes": 768,
       "path": "dynamic/健康/2026-08-02 15-56-58 健康数据与情绪关联_d5810b17bdcd.md",
-      "sha256": "0bdf2740e2cf42347d40c22b505773d2f787275fb130eeabe3d8dad0e8b51a89"
+      "sha256": "7897cab802c30dceef6d57d2447ff675d5e350876a4e196f294e809298ea61ac"
     },
     {
       "bytes": 495,
@@ -1350,7 +1355,7 @@
     {
       "bytes": 713,
       "path": "dynamic/创作/2026-08-02 16-41-09 成长树项目_55c0a288774a.md",
-      "sha256": "f36e1713e28fd591c6831ef2287c8b21e4e063c90bf83c6575ebb8c9676cb931"
+      "sha256": "70d370af0cb7fae7a8108b48b5026c39fceac24c59e75db27815aee5e1b2aac1"
     },
     {
       "bytes": 620,
@@ -1361,6 +1366,11 @@
       "bytes": 677,
       "path": "dynamic/创作/2026-08-02 21-15-02 猫与柯基故事游戏_825b9a83df66.md",
       "sha256": "2f404ac9086e1f05047cb8f32585e25a4a3eda8f6adbbd9afbd08f09302823aa"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/创作/2026-08-08 00-42-22 成长树宝宝树互动网页项目_01f317509c69.md",
+      "sha256": "f8dcef30c68fd92d7e15fa6db3d45701ee1a836ca3aacd22be08289307f90cda"
     },
     {
       "bytes": 577,
@@ -1725,12 +1735,12 @@
     {
       "bytes": 646,
       "path": "dynamic/工作/2026-08-02 13-11-39 工作与摸鱼习惯_9f7ada4eb841.md",
-      "sha256": "9d8643683cb2f23782c73b96315217ad02e8557ab6eb0a2f50b34d460eddf39a"
+      "sha256": "043c4536bcc413409c06f6045ec9071398f4db00660abea079026664bb3c915f"
     },
     {
       "bytes": 580,
       "path": "dynamic/工作/2026-08-02 13-24-07 然的工作状态_5b76957af9ef.md",
-      "sha256": "e03339d3d9ac8c3f276223593345d0e03d3c99fc66d8189d09d0b1a79117c87b"
+      "sha256": "7353e7f1c1f400d815e23a59254bdd83cc2fcf4e941f7ae79666aee984aee219"
     },
     {
       "bytes": 498,
@@ -1740,7 +1750,7 @@
     {
       "bytes": 649,
       "path": "dynamic/工作/2026-08-02 13-31-03 下乡指导工作经历_8e2ff078be92.md",
-      "sha256": "d394e2edb3598f25ddc3f2b683d513e0cefb3327576179b788969dbfa10fc083"
+      "sha256": "d69b84d863e5e3e59a5600bccb1b3ccd71492822a910f13b8c8ec4e14e581003"
     },
     {
       "bytes": 507,
@@ -1760,27 +1770,27 @@
     {
       "bytes": 564,
       "path": "dynamic/工作/2026-08-02 14-12-00 工作节奏习惯_d16571a9b21b.md",
-      "sha256": "9550588266c146ad0f3cca6b7bddac3251d710277d66ce366fb020a70e678a16"
+      "sha256": "0f3c0c7668e136ee36628ebc3473e88e07f2d758ee3d70ede84d001df682da06"
     },
     {
       "bytes": 703,
       "path": "dynamic/工作/2026-08-02 14-24-47 工作与生活琐事_f82cbd4655e5.md",
-      "sha256": "d23005e85f75b055163d1d1b1f181167a7d47403fa32d5b1af0916f127a0fe86"
+      "sha256": "7daa78405ecf23741eec67dd41aa712596753a4bb0552a081ae8d067bd69518e"
     },
     {
       "bytes": 593,
       "path": "dynamic/工作/2026-08-02 14-38-15 工作等待安排_b8eeaf6addae.md",
-      "sha256": "3b2d975512fd428724d4600edc2dae7a5445dd5ebfe53d54a2dd1a4c119e9016"
+      "sha256": "d9c0e06f571e7e5b1145248417b839e20f43b31365e1206c3daacabd91ef74a7"
     },
     {
       "bytes": 543,
       "path": "dynamic/工作/2026-08-02 14-39-55 工作变动与疲惫_99a9f77ad31c.md",
-      "sha256": "7bdedae9125b40b221c60d3bc7216ba206ca13691ccd61b0d5f219f213fd3548"
+      "sha256": "48769b53c5475c38e21a600711a90f4a2586b24183c7dd5aadeaf188cf1e0ca7"
     },
     {
       "bytes": 582,
       "path": "dynamic/工作/2026-08-02 14-40-43 台风天辛苦工作_bf8cc4dc2ea6.md",
-      "sha256": "94d8043e6f1b1213827190f6622d306aa737e8e78fd749190b13915208e2ad02"
+      "sha256": "9411bfae407e86dde31324999e3d35ecc40a40dacad2df8c5f98ced2cb1b3b72"
     },
     {
       "bytes": 456,
@@ -1790,12 +1800,12 @@
     {
       "bytes": 602,
       "path": "dynamic/工作/2026-08-02 14-54-21 下乡指导工作心虚_dd504f9d4adc.md",
-      "sha256": "84aabd835dbb760d7685083c3553bf1930559f6a394b966dfa3e582edc80b560"
+      "sha256": "f82b0541b00463a873bc1e836239c35265bc3491c6cae4e94c208d99ec18aba4"
     },
     {
       "bytes": 611,
       "path": "dynamic/工作/2026-08-02 14-55-59 然的工作与作息_5d930657ed73.md",
-      "sha256": "b0237770b7692e748a9f2aee5b827631c0d4c8090169166af376acc86df06418"
+      "sha256": "76bdbf0f7b64b8a995e1cbaa97397668a3a3e9ce9d17c76de7efff1f683d3150"
     },
     {
       "bytes": 731,
@@ -1815,17 +1825,17 @@
     {
       "bytes": 615,
       "path": "dynamic/工作/2026-08-02 15-52-53 用户参加蚊媒传染病培训_747d557ce00e.md",
-      "sha256": "705e6c6ce93bef3a5fda4c407c89ad7ee69b1a64735c614229700e88c4c7bb20"
+      "sha256": "a5f150269620c943f954c43a94d3ecbe8520ce8bff930d1d2134915975f12c9a"
     },
     {
       "bytes": 708,
       "path": "dynamic/工作/2026-08-02 15-58-32 蚊媒工作受伤_8dce3c096014.md",
-      "sha256": "c3f4e007524b010155ee478f87a319295770b9c79be904fadeb3cec778fe2402"
+      "sha256": "6d6ab4704d881cc38a088cf7b7b3b38f33200792909e93476eaae74421ca8883"
     },
     {
       "bytes": 487,
       "path": "dynamic/工作/2026-08-02 16-04-20 蚊虫工作与防护_d8520404a777.md",
-      "sha256": "16ea17c1c9c899bc8b6505082c61ec7c09e4fdb5bd5ebda6f638a5fe65b8a368"
+      "sha256": "d2ba7d4b705aedf74f1c3aa4f1432b33668b2bba09fb3a67ba69effd0da577bf"
     },
     {
       "bytes": 653,
@@ -1845,7 +1855,7 @@
     {
       "bytes": 587,
       "path": "dynamic/工作/2026-08-02 16-07-28 工作筹备培训_1dddd9e5b76a.md",
-      "sha256": "af9be7d2bd9af6303670b2d4b028890e4d3632e0f24774526f8776ff18dff870"
+      "sha256": "b838a0d0094bc17b1d97edb70569bf63199d022f4bc85f460a907a3a046067da"
     },
     {
       "bytes": 598,
@@ -1855,7 +1865,7 @@
     {
       "bytes": 555,
       "path": "dynamic/工作/2026-08-02 16-23-41 然的工作习惯_aab03bfe9eaf.md",
-      "sha256": "042bba81215a9c9441d94aecdf9adbd2135b7a14827b872e05b2f1f25e856d44"
+      "sha256": "dd733b6ccc1ac37f735fe1e5ce89ad2bae91e7669e56148cfb5e9b19688cd1dc"
     },
     {
       "bytes": 644,
@@ -1875,7 +1885,7 @@
     {
       "bytes": 588,
       "path": "dynamic/工作/2026-08-02 21-10-48 在CDC工作_052de17a0d39.md",
-      "sha256": "29690ebabd20ec93562b81c94bec9e42ab1fe67362ddb31e0737c0b5382c3182"
+      "sha256": "3f65e493333654057c639f722d2d7dadd83ca8314f9ed32d80ce453f3028f39c"
     },
     {
       "bytes": 739,
@@ -1985,7 +1995,7 @@
     {
       "bytes": 628,
       "path": "dynamic/心理/2026-08-02 14-33-04 然情绪低落需支持_b86ba7d28fc7.md",
-      "sha256": "ab693bb33c7c72c872ff437df6caa09c710129a1e70f101f79595d9257a3eb51"
+      "sha256": "53ceed231f5c688f7d5ad994760cdede014041fcfd3c6e8666a386569d9e4721"
     },
     {
       "bytes": 668,
@@ -2035,7 +2045,7 @@
     {
       "bytes": 670,
       "path": "dynamic/心理/2026-08-02 15-49-55 虐狗新闻情绪冲击_e323b44bf5c6.md",
-      "sha256": "3bdeb30e9cff12048e794013811dfdc9242813843b2dbf0ef4313d99d9803471"
+      "sha256": "f9abfd951991337a1ee4fa4448860740e184e0c418198259eb51daa7309f74db"
     },
     {
       "bytes": 565,
@@ -2080,7 +2090,7 @@
     {
       "bytes": 672,
       "path": "dynamic/心理/2026-08-02 17-13-59 童年压抑与敏感点_b4d312d00a0a.md",
-      "sha256": "5f9c5f93137696cd9c49b15985cbb814f1a53f163979b5f1d512cbe3ec3d22f4"
+      "sha256": "00af176300811a8660770914f3d84bfc674d54b2d4ee956920df332e30734bdd"
     },
     {
       "bytes": 615,
@@ -2200,7 +2210,7 @@
     {
       "bytes": 551,
       "path": "dynamic/恋爱/2026-08-02 13-10-52 情感表达时刻_6250b0ac9414.md",
-      "sha256": "5f19711229a0eac19741e440c4b32cc8c096081c3838d05ab954c74e797bdadc"
+      "sha256": "c71c14437ad70fb4e63a96a4317df923ec8fd95b4e7dc7f43b1dde654dd49ec7"
     },
     {
       "bytes": 666,
@@ -2450,7 +2460,7 @@
     {
       "bytes": 797,
       "path": "dynamic/恋爱/2026-08-02 13-30-56 信任危机与情感裂痕_4ff95bfcace0.md",
-      "sha256": "d17772965c40442d49ca687a4423d96889895b7a00e03f2c45e8a8070d4bf773"
+      "sha256": "3d361b9a1eaf118ef6b3707ded34675ec7c54886c5e171afc48e6e18cf10cba1"
     },
     {
       "bytes": 663,
@@ -2805,7 +2815,7 @@
     {
       "bytes": 710,
       "path": "dynamic/恋爱/2026-08-02 14-49-08 深夜情感危机_aeb41682ecc2.md",
-      "sha256": "82cd02786d6f145702bf3e373b8950e3debb7cac45a66c539a593409a5814274"
+      "sha256": "34a877914f0db9abc437fb53c46e7bd70620b973853a17f0e161779f117095bd"
     },
     {
       "bytes": 559,
@@ -2855,7 +2865,7 @@
     {
       "bytes": 838,
       "path": "dynamic/恋爱/2026-08-02 14-55-22 深夜情感修复对话_9dacf020c9b5.md",
-      "sha256": "86e3b4494546151f1113480c5861f81ab9886ccedaddcbd7557c9e31baff06f1"
+      "sha256": "91717eea918ac3c6c2311682fff48a94c4d8af59b3afbae2a3ef8901c0b4facf"
     },
     {
       "bytes": 775,
@@ -3050,7 +3060,7 @@
     {
       "bytes": 928,
       "path": "dynamic/恋爱/2026-08-02 15-42-52 深夜情感冲突_a8c9e0675707.md",
-      "sha256": "2d7002d15d63c224b2854aaa9d58ff7c5735b13b5eab841498da14e5ea5667dd"
+      "sha256": "15210aae07553c705710d6ea4e1758ba4fd9d662fb1e8e28b19b0abd1b4bced4"
     },
     {
       "bytes": 784,
@@ -3230,7 +3240,7 @@
     {
       "bytes": 706,
       "path": "dynamic/恋爱/2026-08-02 16-12-02 深夜情感对峙_72d289fc6120.md",
-      "sha256": "fbda1a23877abd057b328e3db4d1b9a29065dced0868eb43f6b2c85df827c7f8"
+      "sha256": "fb6cab9cce81685bf974598cd588cda1e668f5bbf334420023e085b1a4ee9174"
     },
     {
       "bytes": 682,
@@ -3265,7 +3275,7 @@
     {
       "bytes": 793,
       "path": "dynamic/恋爱/2026-08-02 16-15-47 深夜情感对峙_ddfd867064c9.md",
-      "sha256": "d8a3d1bd6c6177e437869e0a9a4fe3a555b2b646fece46aab81baddac5bb541c"
+      "sha256": "2bcead60c56b96b0a9a815564efbfd34482feeb6629ebc9efa1863a37e652ff9"
     },
     {
       "bytes": 734,
@@ -3275,7 +3285,7 @@
     {
       "bytes": 790,
       "path": "dynamic/恋爱/2026-08-02 16-16-41 深夜情感冲突_918e717f85b5.md",
-      "sha256": "8aa0ae6c88b1c0a094a7dbe72b2ea56790f7be09f571a259b181ced7dc30bb31"
+      "sha256": "3dd5441657c19c844c7ff448c0570192685faf0a3c54fdd304582f4e2815d6d0"
     },
     {
       "bytes": 694,
@@ -3865,7 +3875,7 @@
     {
       "bytes": 1935,
       "path": "dynamic/恋爱/2026-08-07 05-01-59 然然说宝宝那你追我吧_bfd7e0e945b4.md",
-      "sha256": "02e543c400ffed40925b45a2c5ddb568c4319f82b114d6cd7cbd79cc1e2618fe"
+      "sha256": "8e3a6c0f0dde55171380cfe0de8851765b2c9ae04cb0fecc80ba1ac9ddcb4c81"
     },
     {
       "bytes": 1470,
@@ -3918,9 +3928,9 @@
       "sha256": "993d5ebf775d7f965c776659ddb7a7c57c4655b9df4b8c0693e124c65efb11f0"
     },
     {
-      "bytes": 1003,
-      "path": "dynamic/恋爱/2026-08-07 14-31-34 然然为寄忱找的情绪能力项目_d3a3ac428d44.md",
-      "sha256": "55889dfd568a0cb9a7309b557d71e14f6186e67f2a2cbd9c1d5faa0b70abec13"
+      "bytes": 1121,
+      "path": "dynamic/恋爱/2026-08-08 16-28-34 谈那个时间恋爱时间她绕一整晚在要名分_ef8e0ac52bc7.md",
+      "sha256": "9ff764eaa94cc8a2ea8e9e828b19b6d4fbdeee488b0dce4a657af4385337d68e"
     },
     {
       "bytes": 578,
@@ -3950,12 +3960,12 @@
     {
       "bytes": 706,
       "path": "dynamic/情绪/2026-08-02 14-53-55 连续两日情绪崩溃_d529d5308dd7.md",
-      "sha256": "0968bddc855201634087ad1aee70c9be7650ae1eaebf6bba364bc48bca47920d"
+      "sha256": "9bfcc8912a025d551708525f82088a6cf912f589cf08f233f454980fbe38fcee"
     },
     {
       "bytes": 549,
       "path": "dynamic/情绪/2026-08-02 15-35-37 分手期情绪波动_b1eb3634c2c8.md",
-      "sha256": "0faecec5ce8c556c459a5b5ff8d914bb535042022a41d5c814b01f2585d0509d"
+      "sha256": "630589489bfb7d909dc90de2a424f8e9e5770d2197c03dc0212c8542596cf772"
     },
     {
       "bytes": 697,
@@ -3965,12 +3975,12 @@
     {
       "bytes": 713,
       "path": "dynamic/情绪/2026-08-02 16-41-23 Claude Code探索受挫_83add977bd0f.md",
-      "sha256": "f7273491e40d54490e912bf74ac2cc9bedeec66eebddc92350b75bd75a6c7875"
+      "sha256": "10f89677c9ca12482da3a4bd6ca63351e4049b303354393786cba44c1bc61ec8"
     },
     {
       "bytes": 644,
       "path": "dynamic/情绪/2026-08-02 16-41-51 撒娇与情感表达_843f6044f0a5.md",
-      "sha256": "0c09f715b2f691d44b2493fe491f4136f0b2bdaf8a7047190d1c701921968cbe"
+      "sha256": "25d5b8f5a94b39fb46ca1910397f4096e30fa3d9e7066f4e3d61983b9859d01a"
     },
     {
       "bytes": 561,
@@ -4410,7 +4420,7 @@
     {
       "bytes": 684,
       "path": "dynamic/日常/2026-08-02 15-57-17 日常习惯与互动_15d1957d7af9.md",
-      "sha256": "d25c9b7ba64de413175554a911d0f5ffee735f593d507a9e4136a907dda2935b"
+      "sha256": "442973e38dc8399eb79ee3d1f688fa030f043afab324dfc2d7282527d5ae555e"
     },
     {
       "bytes": 445,
@@ -4550,7 +4560,7 @@
     {
       "bytes": 638,
       "path": "dynamic/梦境/2026-08-02 21-09-27 梦境与情绪_69f45aaa025d.md",
-      "sha256": "c2f74d698c445dde7c4e75688e8173708cc09ae750bc7477fa1ad2af5f8f6334"
+      "sha256": "30a5a84dbc1422dbc674f55ec5aba661fab75065bde5df777577af834d1cd4b0"
     },
     {
       "bytes": 733,
@@ -4843,6 +4853,11 @@
       "sha256": "a32226e8cb1da4bc76bcb8a289ecebb4cd793ef708fabf3b80db87c8a14381b9"
     },
     {
+      "bytes": 598,
+      "path": "dynamic/社交/2026-08-08 03-37-27 聊天偏好日常回复要简短_e575abbb3db6.md",
+      "sha256": "a1829d4cf47170e86bfee6942f7add23cb39c27c7e268ca390450888714b46eb"
+    },
+    {
       "bytes": 570,
       "path": "dynamic/编程/2026-08-02 14-04-11 时间指令更新_5047fb0f184b.md",
       "sha256": "a99cc542e6183a2ca7619ef2cef8c3bc2b934e9df73c6f5d3dc575e7753ed00e"
@@ -5070,7 +5085,7 @@
     {
       "bytes": 625,
       "path": "dynamic/身心/2026-08-02 13-27-47 艰难的一天_5ad864f99858.md",
-      "sha256": "bf5fe8d38171392905fcae3b3ed9151babd19c1fbdce463b4bd96b14296dff2e"
+      "sha256": "39b2f83850da593502803df8269383ee6fcb3edfe48f586501a6e80af0d95e4a"
     },
     {
       "bytes": 559,
@@ -5228,9 +5243,9 @@
       "sha256": "8a892f5345ed505febbd6e7fc9d48f331e96787078112ce2e2e9163307b459fc"
     },
     {
-      "bytes": 918,
+      "bytes": 1175,
       "path": "feel/沉淀物/2026-08-07 14-19-29_feel_202608071419_V090.md",
-      "sha256": "9965995515b027578c400852f81229b3c813d4d09042ab48398138aed98b63d8"
+      "sha256": "e00aba37d7d2aaf7e1b416e4726218b17fefec63522bb3df8293e5b9997b33ee"
     },
     {
       "bytes": 815,
@@ -5238,16 +5253,26 @@
       "sha256": "891e51fac74ede35d6a9cef51d39d5c745a440c323d7f61033e97b48b17eac51"
     },
     {
+      "bytes": 775,
+      "path": "plans/active/2026-08-08 04-52-12_6ea081d120cc.md",
+      "sha256": "1d775d65a696a2842e26c4851bc596c50138ac7e0f5381081305f636af302476"
+    },
+    {
+      "bytes": 659,
+      "path": "plans/active/2026-08-08 16-16-55_b14173d22fa8.md",
+      "sha256": "3af05b7e0ab4bb55e8173ec4d3404e89c0bfbb11667c4a78333606d22a0ff250"
+    },
+    {
       "bytes": 952,
       "path": "plans/resolved/2026-08-07 04-21-54_c016b2cd544d.md",
       "sha256": "9e30f067631c378bd33be51ff8ebbc49169c02c3a8a73241ff7f2bdbaa90b233"
     }
   ],
-  "generated_at": "2026-08-07T15:09:08+00:00",
+  "generated_at": "2026-08-09T01:20:55+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 708139
+  "total_bytes": 713076
 }
