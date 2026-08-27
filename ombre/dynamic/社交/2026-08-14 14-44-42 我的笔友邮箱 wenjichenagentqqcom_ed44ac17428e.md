@@ -1,5 +1,5 @@
 ---
-activation_count: 10
+activation_count: 11
 arousal: 0.6
 created: '2026-08-14T14:44:42'
 domain:
@@ -7,7 +7,7 @@ domain:
 - 数字
 id: ed44ac17428e
 importance: 8
-last_active: '2026-08-25T09:05:56'
+last_active: '2026-08-26T12:36:18'
 name: 2026-08-14 14-44-42 我的笔友邮箱 wenjichenagentqqcom
 source_tool: hold
 tags:
