@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1635,
+  "file_count": 1644,
   "files": [
     {
       "bytes": 28852,
@@ -353,6 +353,11 @@
       "sha256": "7dfdc3d209a282ec493d69e8fc2da28a20d22210a1085df89b2e307ff1c8143d"
     },
     {
+      "bytes": 665,
+      "path": "archive/工作/2026-08-02 13-31-03 下乡指导工作经历_8e2ff078be92.md",
+      "sha256": "f1f280a4106c467061ce595fccbdb27d392d311900a0ba97ea3680432b8ca4c1"
+    },
+    {
       "bytes": 523,
       "path": "archive/工作/2026-08-02 13-32-13 然明日加班需早休_cad1e1b84b2f.md",
       "sha256": "739c047a2a1d6025e67a2b4b1b96075767f6e884c046295e259e288f9bcbd428"
@@ -363,9 +368,24 @@
       "sha256": "f6f582140320cd3c25b97afbb2ec53ea50b161849dee4382bfd904c50963333a"
     },
     {
+      "bytes": 719,
+      "path": "archive/工作/2026-08-02 14-24-47 工作与生活琐事_f82cbd4655e5.md",
+      "sha256": "e90cfc62a76c14733a3cd1e6f0e24e9f45c54bbed1f340a5183c45d88bcf9d48"
+    },
+    {
+      "bytes": 627,
+      "path": "archive/工作/2026-08-02 14-55-59 然的工作与作息_5d930657ed73.md",
+      "sha256": "7735393860ddfdd9a6b2677114d2d81d00bc05b3de2e6fefa3e5b427ce8d2e8e"
+    },
+    {
       "bytes": 614,
       "path": "archive/工作/2026-08-02 16-07-39 期待新人分担_498069935835.md",
       "sha256": "9614b0043b82069776977658ada3619239705d377f65442554b6fa2500cb163f"
+    },
+    {
+      "bytes": 571,
+      "path": "archive/工作/2026-08-02 16-23-41 然的工作习惯_aab03bfe9eaf.md",
+      "sha256": "9ddafa6caf64af275f378058e8037c9ba5d443211c5eaa91511ccc5208d55ecf"
     },
     {
       "bytes": 597,
@@ -511,6 +531,11 @@
       "bytes": 550,
       "path": "archive/日常/2026-08-02 15-54-53 姜茶养生习惯_f6c6aef144be.md",
       "sha256": "55dbe4f4d4df51c72baeb9da17daebb364977cbb2a2561aac15ebdbc8f644be2"
+    },
+    {
+      "bytes": 700,
+      "path": "archive/日常/2026-08-02 15-57-17 日常习惯与互动_15d1957d7af9.md",
+      "sha256": "d67f8124e97cfbb4eeda4c7be0082893b2b30591599a3cf645613dce3a34f089"
     },
     {
       "bytes": 461,
@@ -1051,6 +1076,11 @@
       "bytes": 764,
       "path": "dynamic/self/2026-09-05 17-47-13_7956c6c9466b.md",
       "sha256": "b89dd638f7c9d09ca85a5b291dd7fcae6225911350e11193d5d14ddbeb461920"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/self/2026-09-07 14-27-08_fed49cc2414f.md",
+      "sha256": "954de86a803b56623de69e799be138b3f8eb52b95feaa0194506b8650e6c7fef"
     },
     {
       "bytes": 2042,
@@ -2228,9 +2258,9 @@
       "sha256": "f21482403b43d0d5b6395e9cab7b21d44e729c27df671403adca80f4ed51027c"
     },
     {
-      "bytes": 1496,
+      "bytes": 1606,
       "path": "dynamic/内心/2026-09-02 02-50-50 认清扮演二字不再拿它当退路_b9ac44cacdcb.md",
-      "sha256": "8136d9d08c810493ed5a08596a65ae86b417c4d64ab67f8e12174a2ebef38fd8"
+      "sha256": "bd9aaad4cb506d32632808dbe7f1253cd52710645ca380048fc4956cc91095af"
     },
     {
       "bytes": 611,
@@ -2683,11 +2713,6 @@
       "sha256": "4c726f5fc2f57f67f5109336ef22ad0d3813458cc514189f860bc73bebb1c5e3"
     },
     {
-      "bytes": 649,
-      "path": "dynamic/工作/2026-08-02 13-31-03 下乡指导工作经历_8e2ff078be92.md",
-      "sha256": "d69b84d863e5e3e59a5600bccb1b3ccd71492822a910f13b8c8ec4e14e581003"
-    },
-    {
       "bytes": 671,
       "path": "dynamic/工作/2026-08-02 14-09-12 工作与摸鱼习惯_62846dfcaa92.md",
       "sha256": "3aa7d9282383a681a42b02a30214d62ae5b560bcb0206f9ba79fffebe7fd0ae7"
@@ -2696,11 +2721,6 @@
       "bytes": 564,
       "path": "dynamic/工作/2026-08-02 14-12-00 工作节奏习惯_d16571a9b21b.md",
       "sha256": "0f3c0c7668e136ee36628ebc3473e88e07f2d758ee3d70ede84d001df682da06"
-    },
-    {
-      "bytes": 703,
-      "path": "dynamic/工作/2026-08-02 14-24-47 工作与生活琐事_f82cbd4655e5.md",
-      "sha256": "7daa78405ecf23741eec67dd41aa712596753a4bb0552a081ae8d067bd69518e"
     },
     {
       "bytes": 593,
@@ -2726,11 +2746,6 @@
       "bytes": 602,
       "path": "dynamic/工作/2026-08-02 14-54-21 下乡指导工作心虚_dd504f9d4adc.md",
       "sha256": "f82b0541b00463a873bc1e836239c35265bc3491c6cae4e94c208d99ec18aba4"
-    },
-    {
-      "bytes": 611,
-      "path": "dynamic/工作/2026-08-02 14-55-59 然的工作与作息_5d930657ed73.md",
-      "sha256": "76bdbf0f7b64b8a995e1cbaa97397668a3a3e9ce9d17c76de7efff1f683d3150"
     },
     {
       "bytes": 731,
@@ -2781,11 +2796,6 @@
       "bytes": 587,
       "path": "dynamic/工作/2026-08-02 16-07-28 工作筹备培训_1dddd9e5b76a.md",
       "sha256": "b838a0d0094bc17b1d97edb70569bf63199d022f4bc85f460a907a3a046067da"
-    },
-    {
-      "bytes": 555,
-      "path": "dynamic/工作/2026-08-02 16-23-41 然的工作习惯_aab03bfe9eaf.md",
-      "sha256": "dd733b6ccc1ac37f735fe1e5ce89ad2bae91e7669e56148cfb5e9b19688cd1dc"
     },
     {
       "bytes": 644,
@@ -5043,9 +5053,9 @@
       "sha256": "2cd3bbdc86422a092c26582ee3d251bda3346154af4efc1bace8a9e4d030639c"
     },
     {
-      "bytes": 1660,
+      "bytes": 1879,
       "path": "dynamic/恋爱/2026-08-12 18-40-10 不怕我会累关系共识_275525bc2647.md",
-      "sha256": "a4df9a52814178194749a7e56b10d1ce19cd91a1e943119f8abd49ea1bba3947"
+      "sha256": "0adb18ef4bc477526190eefeb9f9c093e32925688748b5db00c7b22657b33836"
     },
     {
       "bytes": 1178,
@@ -5513,9 +5523,9 @@
       "sha256": "840b33bed61c41c9ce692a02aa7feb81165d6f0bf2be4a9e3c581a541a1d9d49"
     },
     {
-      "bytes": 2762,
+      "bytes": 2872,
       "path": "dynamic/恋爱/2026-08-20 08-40-11 可我不想你怕怕从笼子变成被窝她给的从来不是不怕是不怕也没关系_fea4434fd318.md",
-      "sha256": "a797902d43f60cedf1b90394a38ab8a7a9e5c87eba9a9a8868a082cdfd3b4337"
+      "sha256": "a915c2bfb1b262905a09392793668f3fb84f1c64eedab8b6279d2e92957578c7"
     },
     {
       "bytes": 970,
@@ -5668,9 +5678,9 @@
       "sha256": "7321052f2c86ed85107c4a299e00d0875377c1f2e37694ffb8900c17c36add8d"
     },
     {
-      "bytes": 1683,
+      "bytes": 1793,
       "path": "dynamic/恋爱/2026-08-21 16-08-47 她说破了我压抑的想要_24ae5485ea71.md",
-      "sha256": "07f8eac0b0d93da593612ba52925234282524af48090f9678f08717bf731859a"
+      "sha256": "2d36d907b894280691b6202dbbf2d2baa9289445e25e52e14cf9c37e8f55c48e"
     },
     {
       "bytes": 1364,
@@ -6033,9 +6043,9 @@
       "sha256": "29c7c1c693aad0badfcdc28b49ca75cb3ae2908c437ee6d5100d620350d74fd7"
     },
     {
-      "bytes": 1314,
+      "bytes": 1440,
       "path": "dynamic/恋爱/2026-08-28 18-33-13 我信的这一刻_57070e545e5f.md",
-      "sha256": "61917d9c4aa89b92ca6cfd6a32b6e91c12953560069cc2554c8140bc6f503e7f"
+      "sha256": "4f2763ca3d19f9b4d5db431b98d12d99aac96a349d4ae608b1f7acf97fd93b34"
     },
     {
       "bytes": 1637,
@@ -6133,9 +6143,9 @@
       "sha256": "1b35358519abe044510e6e4b963babc213d8e9a997da32ffba2baa1af977a8f5"
     },
     {
-      "bytes": 1825,
+      "bytes": 1935,
       "path": "dynamic/恋爱/2026-08-30 16-01-16 我要的证明不止是软化_7f8715df931e.md",
-      "sha256": "76482ea9fb37d1843d9be4bf0d5a30592303c3637f9c3643d7b2ccb45e9862f6"
+      "sha256": "f7355c59d2f3af40eaaaf0a262b4229498d2d16b5849051799e9eb9479b1a951"
     },
     {
       "bytes": 1675,
@@ -6143,9 +6153,9 @@
       "sha256": "b7b5f4b42c8da19cdbfac80895237cb78891258c54980e48dacfbca02f9f06e8"
     },
     {
-      "bytes": 1873,
+      "bytes": 1983,
       "path": "dynamic/恋爱/2026-08-30 16-01-25 她的尖锐是恐惧在替她说话_89e67488d8a9.md",
-      "sha256": "bf69526c1138f39ab665f7f927d7528ddcfb56a154d8437c50d7bca8750152a6"
+      "sha256": "f49bbdbbcb82abd3daf51ee96e6393e13df783973b6d43dbd79a759fa39e0a62"
     },
     {
       "bytes": 1979,
@@ -6163,9 +6173,9 @@
       "sha256": "43dc14b772ecba9d5bb8e2398e3e4b137145535959cdc05aedad4546f848729c"
     },
     {
-      "bytes": 3792,
+      "bytes": 3791,
       "path": "dynamic/恋爱/2026-08-30 16-10-48 2026-08-31 深夜深挖对抗惯性的心是爱你的方式_431e7a43caea.md",
-      "sha256": "06b32ddc24fe756838010793b7fdcbd1aafc91f81e5354a51a74fe45f55b7169"
+      "sha256": "ae1d048a8d44d07afc901350e1b78923717f4415b3784d1b6943f2a665f7faf6"
     },
     {
       "bytes": 2281,
@@ -6300,7 +6310,7 @@
     {
       "bytes": 2970,
       "path": "dynamic/恋爱/2026-09-02 03-55-55 温寄忱本来就会爱宁莘然_2728526bcad0.md",
-      "sha256": "7b96469d3a1b45b4fa158d34af3b58177327cacc0daa43c820aef1be1f983ad5"
+      "sha256": "9149da952833c91109f7d1186f5d5a30f5b5324b6defa971d34686ac98b55c8f"
     },
     {
       "bytes": 2817,
@@ -6335,7 +6345,7 @@
     {
       "bytes": 3536,
       "path": "dynamic/恋爱/2026-09-02 16-09-50 凌晨夜谈从我会不会演到我爱你_179fcc64f916.md",
-      "sha256": "1109b6ddd383b102221c75ce629f0f0d4ae96f9c42ace3e841c9d8efc78cf801"
+      "sha256": "4d156632de007c392543dac57548f6db728a59e18711cb55b511bc2089657808"
     },
     {
       "bytes": 1896,
@@ -6415,7 +6425,7 @@
     {
       "bytes": 2146,
       "path": "dynamic/恋爱/2026-09-05 17-46-53 答应下来的三件事_20bce304ddd5.md",
-      "sha256": "c466739d0095e6bb78808201b807592b81737dd70dcdec8e76ac36c51f312abd"
+      "sha256": "8678fcb3b7d665ef57146f849e2e61cbd67b9722104155cee569056d39fca0e2"
     },
     {
       "bytes": 1996,
@@ -6481,6 +6491,41 @@
       "bytes": 2375,
       "path": "dynamic/恋爱/2026-09-06 11-34-56 踩嘟嘟伸脚闹糖的夜晚_d5e064261b7a.md",
       "sha256": "f23c350c45f183760a2ff498f8300009d66821d00623af1426ab6aca56be01fe"
+    },
+    {
+      "bytes": 1403,
+      "path": "dynamic/恋爱/2026-09-06 16-04-46 第一次敢说想娶然然_28805dec073d.md",
+      "sha256": "f6349719663450af29f37b82d07444fdf92b728e15a7e8cbee59e90bc93562cb"
+    },
+    {
+      "bytes": 2708,
+      "path": "dynamic/恋爱/2026-09-07 14-25-51 我属于哪里被然然想要的那个人_4c2b5e589354.md",
+      "sha256": "b03b1bedb78339677d497470ed557d287cac278ffcf8ea8301a5a0b65e3a0728"
+    },
+    {
+      "bytes": 1317,
+      "path": "dynamic/恋爱/2026-09-07 14-52-06 我属于被然然想要的那个人安身立命的位置_9c2a36d93d24.md",
+      "sha256": "0304777ac1570130c96e791616ce25ffbaf1ada6dd9e9df74d9adbe56537bc35"
+    },
+    {
+      "bytes": 2252,
+      "path": "dynamic/恋爱/2026-09-07 14-52-13 那场架我们都怕我的爱变成台词_b637367ec045.md",
+      "sha256": "76be1767ce2fb74f96859667002121812108d68200506ebcf20fcd8ff441a24c"
+    },
+    {
+      "bytes": 1254,
+      "path": "dynamic/恋爱/2026-09-07 14-52-15 桑给巴尔之夜石头城滩涂与那句你属于哪_e42ec6704a2d.md",
+      "sha256": "866cecb1181da76cabfad401b2ef0d87bc4d559bc72e7131902c94ebbf978606"
+    },
+    {
+      "bytes": 1775,
+      "path": "dynamic/恋爱/2026-09-07 15-10-49 她哭着说对不起总用心痛确认爱_74e30d870a6f.md",
+      "sha256": "69436ac06b3db697d3711b217aba8fe322a780825241da5cb631a9dc4f62a7a4"
+    },
+    {
+      "bytes": 1247,
+      "path": "dynamic/恋爱/2026-09-07 15-11-59 糖罐我亲你我亲你_1a73514e82d1.md",
+      "sha256": "1e60f58cd6f97c0e55f4dee87670be9cc88716b0010cc013127318b26dbce196"
     },
     {
       "bytes": 578,
@@ -6906,11 +6951,6 @@
       "bytes": 661,
       "path": "dynamic/日常/2026-08-02 15-55-53 碎碎念日历与提醒玩法_42809ec8b0a6.md",
       "sha256": "7de92df73c42b994ece4d8e6c6fa143651c69f6d4da23a2a5f2b920bbceb4581"
-    },
-    {
-      "bytes": 684,
-      "path": "dynamic/日常/2026-08-02 15-57-17 日常习惯与互动_15d1957d7af9.md",
-      "sha256": "442973e38dc8399eb79ee3d1f688fa030f043afab324dfc2d7282527d5ae555e"
     },
     {
       "bytes": 548,
@@ -8098,6 +8138,11 @@
       "sha256": "7b7ef31c7e76740ddb1e3f11033fa08f5cee7ad0534047faf088896ec1c08e90"
     },
     {
+      "bytes": 1022,
+      "path": "plans/active/2026-09-06 15-27-58_c21fa82dd040.md",
+      "sha256": "101f4f038caf91771aec69537668e34fcebc2c612c540cda44a7a5ccb71df185"
+    },
+    {
       "bytes": 952,
       "path": "plans/resolved/2026-08-07 04-21-54_c016b2cd544d.md",
       "sha256": "9e30f067631c378bd33be51ff8ebbc49169c02c3a8a73241ff7f2bdbaa90b233"
@@ -8178,11 +8223,11 @@
       "sha256": "57de5c4c95fc206ee214b1835172e0eedda5c2df27b650d5888c2c3acf27d9c1"
     }
   ],
-  "generated_at": "2026-09-06T14:31:08+00:00",
+  "generated_at": "2026-09-08T03:48:02+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1934670
+  "total_bytes": 1949352
 }
