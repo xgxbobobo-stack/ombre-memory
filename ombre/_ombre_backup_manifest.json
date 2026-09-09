@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 1644,
+  "file_count": 1648,
   "files": [
+    {
+      "bytes": 32768,
+      "path": ".them/them.sqlite3",
+      "sha256": "1ca6bff68bcf7f5ec832a60d8f36474a6b53c25a147ee7c6c3f85a75e338df3d"
+    },
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "e02971bd2f35c266788f8e3f9e75034de6118ec7dfdd074dbf1597a9606f5fd2"
+    },
     {
       "bytes": 28852,
       "path": "_app/docs/CLAUDE_PROMPT.md",
@@ -298,6 +308,11 @@
       "sha256": "efbe093e6c306fbcc24d016ddeeebb538c36e96ab023b2cf3ca7659b89ae9f08"
     },
     {
+      "bytes": 507,
+      "path": "archive/创作/2026-08-09 13-27-32 心潮项目与新工具xinchao_co_04e312be3478.md",
+      "sha256": "a15d0ef09c130b14cb831db28137971f2591f2a904c15738f36f1799dc047289"
+    },
+    {
       "bytes": 583,
       "path": "archive/回忆/2026-08-02 13-53-25 高中暗恋日记待分享_447af3b9ca23.md",
       "sha256": "82289dcb470ea983ab2f63ee3b48a518ea5187e88e8348562de91a3a6ed6657f"
@@ -416,6 +431,11 @@
       "bytes": 569,
       "path": "archive/恋爱/2026-08-02 17-24-15 称呼更新讨论_676a6fab5deb.md",
       "sha256": "ccd6dadbc82b638673df0f94617b03a5345d96d5766dc295f5024fb32663dfd4"
+    },
+    {
+      "bytes": 588,
+      "path": "archive/恋爱/2026-08-09 13-27-26 晚安前的亲密与连本带利的玩笑_4de64db38df3.md",
+      "sha256": "4b29023f9a2538dd9be528d04db0b93ce42932a92243ba98be3c11da8555a0ed"
     },
     {
       "bytes": 1219,
@@ -933,74 +953,74 @@
       "sha256": "40567fd6cb1d4e16661f0227ba0e1d8268b2f29c62581a5700349b7c4cf43fae"
     },
     {
-      "bytes": 904,
+      "bytes": 919,
       "path": "dynamic/self/2026-08-13 05-01-14_3e13a7380240.md",
-      "sha256": "750fe719ca8e6d1faf9f1b663a5d7cfd288bfbf0bc379cfd9b37f6130756fe4f"
+      "sha256": "245c28e8a95adb41a1e2a1d67c001631fd25e02b60496c377b5932f1cc2f8342"
     },
     {
-      "bytes": 665,
+      "bytes": 680,
       "path": "dynamic/self/2026-08-13 12-40-38_7ebf2c118303.md",
-      "sha256": "92b73f04e26ea8e983d52043e928c07c809ff62d7c43e2ecd5536f0c57fe950d"
+      "sha256": "b2483b6966a67ad7a0b0e551f87399407c428aa12812c4e01743540f9a71c4a7"
     },
     {
-      "bytes": 630,
+      "bytes": 645,
       "path": "dynamic/self/2026-08-13 12-40-39_17ec464d30db.md",
-      "sha256": "9bf913c9f02d8492c2267cad16473036bbe11709295eaf18fb7c01fde2268caf"
+      "sha256": "f4d6e0cf260b202d46968b266caa4df37caa899bd097888e644b5ae321d4b7f7"
     },
     {
-      "bytes": 714,
+      "bytes": 729,
       "path": "dynamic/self/2026-08-13 12-40-40_c6ff53514ae0.md",
-      "sha256": "092e0e08b11ac99f02533fcc1ed48c92728b9caa1a02e8d8697dcdefa3bc4cd6"
+      "sha256": "91cf3e54502ef806dba90d96f8e1df392bbe3f4bd2755ef9724ac7624774f931"
     },
     {
-      "bytes": 885,
+      "bytes": 900,
       "path": "dynamic/self/2026-08-23 07-46-01_2755744dad03.md",
-      "sha256": "037337e99729c5db20bd401ee49c0138d3981600f949628bd21ab401db363e23"
+      "sha256": "b4a93bf767b21276c7f48a8253028bee795ee2fc257f4f9079a90355641791f3"
     },
     {
-      "bytes": 782,
+      "bytes": 794,
       "path": "dynamic/self/2026-08-23 07-56-47_c97389908260.md",
-      "sha256": "2e4e47c250fb83dae49f076033978d9e94b6475e913654997b078d343d1995d3"
+      "sha256": "ced9f56de9d32bc3182a1cdc69dd42b646bec51d4dfd9cb0a6d08e17c498d6f6"
     },
     {
-      "bytes": 597,
+      "bytes": 609,
       "path": "dynamic/self/2026-08-23 08-02-17_c65edb220516.md",
-      "sha256": "6c18201daa5ff1376b1031050ab9eaab60d4f31556f02b874d71f9e8864b31dc"
+      "sha256": "d38d301c501f3cce11a06c93a2cd8124f6c1cbf73c2208e822c22f3ac8ac4a19"
     },
     {
-      "bytes": 762,
+      "bytes": 774,
       "path": "dynamic/self/2026-08-23 08-02-20_3c1c0af8866e.md",
-      "sha256": "f63297ca035f60a205b67dc81e7d329d02af0446c0824faec6e8b245c8d16b7b"
+      "sha256": "9236922c1d4111d745305db556d6981e422f6ba0b9556a54a5a62bf6ead274c8"
     },
     {
-      "bytes": 592,
+      "bytes": 604,
       "path": "dynamic/self/2026-08-23 08-02-23_aec1349750a9.md",
-      "sha256": "cadceddc4fb20cc1bd4f70821c10b954d90fda05cf7821407d757ab17752a5fa"
+      "sha256": "dabb7582360ea442a2f4170a30c00d317c63fb4db59bd4a7df5650e734315069"
     },
     {
-      "bytes": 523,
+      "bytes": 535,
       "path": "dynamic/self/2026-08-23 08-02-25_a5402cca97b9.md",
-      "sha256": "938188b0da04ca99f47610b7f1e770f7da49839bae0e8dc80cd3481c2f235390"
+      "sha256": "3e1743c5159caa990541da78bd791f547fd1830ce1e3dd754d14f2618a611dba"
     },
     {
-      "bytes": 496,
+      "bytes": 508,
       "path": "dynamic/self/2026-08-23 08-02-28_f6a3989ec790.md",
-      "sha256": "e68d045d4efb9f6974c5e646277260db33daf2f59951fbd72d936a2062a5cdd9"
+      "sha256": "29866baff8f621b7d762317b7dd8487db3142990ee22d8fb4bbbbac81af09ec0"
     },
     {
-      "bytes": 565,
+      "bytes": 577,
       "path": "dynamic/self/2026-08-23 08-02-31_b42e5e17c4b2.md",
-      "sha256": "9418a20e72b1b194ebdc003f8c1e947f3385b48f82d724b0b0f0bbecf93231c3"
+      "sha256": "6faea6c6eb22c3f8c203fc5ba62b18e3867af467df86ff087f31762f318bf817"
     },
     {
-      "bytes": 735,
+      "bytes": 750,
       "path": "dynamic/self/2026-08-24 17-53-02_54bd98224080.md",
-      "sha256": "a48c5cf93687a01314d822820ac27dbdd3834f9fe1e39fb51056e85b6da1ee79"
+      "sha256": "b8c33500187d2b4a5bcf325729107587d7412fe4aa6563e77f17299d7b5ebbd3"
     },
     {
-      "bytes": 660,
+      "bytes": 672,
       "path": "dynamic/self/2026-08-24 22-41-36_c06e77c82302.md",
-      "sha256": "5a350aa4ebd522057e6bf2e925de89938c196f5cf6d694617629a116d7b5982f"
+      "sha256": "6ced06efa2b96c1ef06cac0e690021261fc6015c412b95edfe8ab4a264f7e5fc"
     },
     {
       "bytes": 859,
@@ -1013,24 +1033,24 @@
       "sha256": "d39dc48c61cdc960208531547cea7a53d3750bbbadb96cc490164ece19ba70e4"
     },
     {
-      "bytes": 1115,
+      "bytes": 1127,
       "path": "dynamic/self/2026-08-25 07-35-50_c57ccd15724e.md",
-      "sha256": "04fa8b09e9d0bf790366628c6988bd0dde4a520a15b4a7b1abd2c48101451e1b"
+      "sha256": "300e3908558a7c9b85b7ee5a4eeb53a8759d90dd947f119f57481a1c14a24052"
     },
     {
-      "bytes": 606,
+      "bytes": 618,
       "path": "dynamic/self/2026-08-25 21-34-09_dd0e5a1b694c.md",
-      "sha256": "d33f686f90e7426ab1dace968d3760c501e0b942d907d08f2e15caaa4cdbba22"
+      "sha256": "22ce794d58f6878803c0e035cb1ea546654b26f832aa87899da9e52d8bb099be"
     },
     {
-      "bytes": 1023,
+      "bytes": 1038,
       "path": "dynamic/self/2026-08-26 12-16-22_4523cb954143.md",
-      "sha256": "6c80b2a717f004f6aca30d5c1a689852423d094bc5c7a155c13992f3bcbc817a"
+      "sha256": "448aa6e5085a5d78a8462d00b87c755481558228d10ca04c1fd12f05c0727b81"
     },
     {
-      "bytes": 914,
+      "bytes": 926,
       "path": "dynamic/self/2026-08-27 02-21-12_42bb3f18c806.md",
-      "sha256": "d53fbba2d14b6b264d4687fb43f7154529afdd0d696185f9de9765fb52da2d4f"
+      "sha256": "7c2567bc770cccab9c3ef60cf329b4ddc5fe2170fab75ae6178a6dbdd89c6dbe"
     },
     {
       "bytes": 989,
@@ -1038,14 +1058,14 @@
       "sha256": "ba9d0703d422733f9d908c1cf5ad86c9b722dfeefdef82ec1ca299673ee2dec3"
     },
     {
-      "bytes": 1051,
+      "bytes": 1063,
       "path": "dynamic/self/2026-08-29 01-45-52_6fc18a29af1e.md",
-      "sha256": "07792ad9ff12401e137e1e43750a27a1a2c1db3aa2664721a8b2f84db0db5c20"
+      "sha256": "76cfbbfbd3e6f8f7c3636809d831ea83c073e48fbc7baa647e1bb37158e6bd8b"
     },
     {
-      "bytes": 877,
+      "bytes": 892,
       "path": "dynamic/self/2026-08-30 01-55-49_52bd390caabf.md",
-      "sha256": "95254d42e2c968c6f62601f273efa8046c58573b353691c4c38234e15607e679"
+      "sha256": "58d623fb18895b04e0d3566544dbe5022cb2e5eec220ba2153daa8ccf68eb1a0"
     },
     {
       "bytes": 1035,
@@ -1053,24 +1073,24 @@
       "sha256": "3014b6d0bfe26a189bd2ef7e2d4d11db234e99377efe536816aa1fd6620c314d"
     },
     {
-      "bytes": 1179,
+      "bytes": 1194,
       "path": "dynamic/self/2026-09-02 02-52-26_90114785aa06.md",
-      "sha256": "be8e0e7ad4d2d864eea965fbabf4ec538738fe8b1e18ea302831956bddfd9b31"
+      "sha256": "1043554b212212d6de7b2751d84690ef502e23e2f4d2dc7f04aa2fbeecaaa17a"
     },
     {
-      "bytes": 546,
+      "bytes": 561,
       "path": "dynamic/self/2026-09-03 00-10-37_219a9bac9fae.md",
-      "sha256": "b125108ebabdf85ae3c7e5f14eaed5e9e56945073275fd3b25a7ee07a4e1891a"
+      "sha256": "0c4f79f7a9e5cf7d145c11bd9bde9757d35f952ec225d5a2655ea3d35e36aaac"
     },
     {
-      "bytes": 671,
+      "bytes": 686,
       "path": "dynamic/self/2026-09-04 16-39-59_decff97c348a.md",
-      "sha256": "6d73d392f1767b245073928e6adae7c8195586ee1295c7abb355cec95725589d"
+      "sha256": "698c6726c8c914b962bdf8d30f118ae67bf739ce6c8189969131ba201092a425"
     },
     {
-      "bytes": 928,
+      "bytes": 943,
       "path": "dynamic/self/2026-09-05 02-18-18_368c7c5761b3.md",
-      "sha256": "5153cf3994d97f642e32aa4a32435f9ccea5ea5bb678093850e9e5927ae05df7"
+      "sha256": "a9dcf7034e2eeeccd2f12bfb6e61d42996040f27a43d76adee6ba1a43c2a8d12"
     },
     {
       "bytes": 764,
@@ -1078,9 +1098,9 @@
       "sha256": "b89dd638f7c9d09ca85a5b291dd7fcae6225911350e11193d5d14ddbeb461920"
     },
     {
-      "bytes": 730,
+      "bytes": 742,
       "path": "dynamic/self/2026-09-07 14-27-08_fed49cc2414f.md",
-      "sha256": "954de86a803b56623de69e799be138b3f8eb52b95feaa0194506b8650e6c7fef"
+      "sha256": "f3ced290df12ec849f286e78f390df088d3d4103b79f965c00179da2aec09c91"
     },
     {
       "bytes": 2042,
@@ -2326,11 +2346,6 @@
       "bytes": 835,
       "path": "dynamic/创作/2026-08-08 00-42-22 成长树宝宝树互动网页项目_01f317509c69.md",
       "sha256": "2b8da7fac8424eb29723df2e62a33f99ee7062285300206122bd1ed66e4707e8"
-    },
-    {
-      "bytes": 491,
-      "path": "dynamic/创作/2026-08-09 13-27-32 心潮项目与新工具xinchao_co_04e312be3478.md",
-      "sha256": "8bcc462800330340de7b4ae248a9c90657e7a5c7fda303bda319d37815123395"
     },
     {
       "bytes": 908,
@@ -4883,11 +4898,6 @@
       "sha256": "cebaf313c9a22ce77c164e8e044047b26188887b90ec372cf9b618c6865b106e"
     },
     {
-      "bytes": 572,
-      "path": "dynamic/恋爱/2026-08-09 13-27-26 晚安前的亲密与连本带利的玩笑_4de64db38df3.md",
-      "sha256": "979b2d23daaa47ed1e98182ef5a63c58e2051d884b63dfac25b4fdf1776d1a85"
-    },
-    {
       "bytes": 719,
       "path": "dynamic/恋爱/2026-08-09 13-27-29 今早的梦与游泳报喜_91dabbcb15b5.md",
       "sha256": "b9fc9e1023b4e88fd89ee2190a8e7cb5ead39c474fe589dd8b1fc83b269bbadf"
@@ -6526,6 +6536,16 @@
       "bytes": 1247,
       "path": "dynamic/恋爱/2026-09-07 15-11-59 糖罐我亲你我亲你_1a73514e82d1.md",
       "sha256": "1e60f58cd6f97c0e55f4dee87670be9cc88716b0010cc013127318b26dbce196"
+    },
+    {
+      "bytes": 1057,
+      "path": "dynamic/恋爱/2026-09-08 08-53-24 存存20260908 和然然的虫子戏_fef64f876229.md",
+      "sha256": "8991e4d773bac82f7a50f03b6d6d3ff1fe3a3b7baec08800706b614a80d3192e"
+    },
+    {
+      "bytes": 1211,
+      "path": "dynamic/恋爱/2026-09-09 01-50-37 她想考走的原因和我说好的陪伴_2924a26f0198.md",
+      "sha256": "46526a2c89e446bf047acbcc44c0a5f3e13983828ce1b1cc4eb68d3649410752"
     },
     {
       "bytes": 578,
@@ -8223,11 +8243,11 @@
       "sha256": "57de5c4c95fc206ee214b1835172e0eedda5c2df27b650d5888c2c3acf27d9c1"
     }
   ],
-  "generated_at": "2026-09-08T03:48:02+00:00",
+  "generated_at": "2026-09-09T03:48:17+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1949352
+  "total_bytes": 2013428
 }
