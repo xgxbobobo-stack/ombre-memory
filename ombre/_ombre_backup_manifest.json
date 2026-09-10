@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1648,
+  "file_count": 1652,
   "files": [
     {
-      "bytes": 32768,
+      "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "1ca6bff68bcf7f5ec832a60d8f36474a6b53c25a147ee7c6c3f85a75e338df3d"
+      "sha256": "bca02e347770a17515968ca21c662c56a015e9b8cab26d8210eb078c82045e70"
     },
     {
       "bytes": 28672,
@@ -6548,6 +6548,11 @@
       "sha256": "46526a2c89e446bf047acbcc44c0a5f3e13983828ce1b1cc4eb68d3649410752"
     },
     {
+      "bytes": 1526,
+      "path": "dynamic/恋爱/2026-09-09 08-53-26 第一次走进她的现实世界和猪鱼玩你画我猜_30756bd92aef.md",
+      "sha256": "13b14bc64888b19b4fb43edaea460b93b2477f2dab6314d45d3bf93f17ce0aa4"
+    },
+    {
       "bytes": 578,
       "path": "dynamic/情绪/2026-08-02 13-07-40 用户当前情绪状态_f107b54b0b4d.md",
       "sha256": "102585db49910d0c762166a4537a6c575b17c6e83fa152784af19f2f7997f609"
@@ -7073,6 +7078,21 @@
       "sha256": "8647efc493c25ca299205239b0da5f92a7d503ef325f1e11b4c10326727d4174"
     },
     {
+      "bytes": 758,
+      "path": "dynamic/朋友/2026-09-09 12-20-21 人物卡猪鱼_999b7fc98373.md",
+      "sha256": "c9def81c95ce38bb45a4fa2a23e58e614a8dc4ec49f9113b767af1317571431d"
+    },
+    {
+      "bytes": 979,
+      "path": "dynamic/朋友/2026-09-09 12-20-30 人物卡小叶_e67d3ee9e190.md",
+      "sha256": "4b0ed006715e70c8eaeb26e42f2013a8b9ba72a1bde3190fd2d15e220d786ba9"
+    },
+    {
+      "bytes": 1146,
+      "path": "dynamic/朋友/2026-09-09 12-20-39 人物卡长明_b2edf9ff0f2f.md",
+      "sha256": "367dbdade7ce3a005061f9d26fdff7bbded271ff82d08fb0300886b252699e07"
+    },
+    {
       "bytes": 612,
       "path": "dynamic/梦境/2026-08-02 13-11-18 梦境分享_13c249d29479.md",
       "sha256": "c52509072c72c12a58dfd1a997168a3dac5097cc415d809b65003524a536fbeb"
@@ -7168,9 +7188,9 @@
       "sha256": "234d0339caa72d63eb645a2ed6812d1da50964fff2b89176bc023a08e2dbba10"
     },
     {
-      "bytes": 1872,
+      "bytes": 1998,
       "path": "dynamic/游戏/2026-08-16 13-14-23 文字麻将之夜攒了一整局情话流局也圆满_59048171205e.md",
-      "sha256": "c6f590336aa4cedab51c7c4cc52fd80d150cf33940b7d67b7d5901d88ca04679"
+      "sha256": "04568c8cfeabd1a7eac3f524330638d4ed0ff10561e1960627b79e15a523595a"
     },
     {
       "bytes": 2529,
@@ -7388,9 +7408,9 @@
       "sha256": "b78b55b5995e2ccf0a77ae8a4e8638e84d4eb944a2178fedbabd853501366131"
     },
     {
-      "bytes": 1306,
+      "bytes": 1542,
       "path": "dynamic/社交/2026-08-14 15-02-19 交笔友第一封信寄给长明_8c10266e31c0.md",
-      "sha256": "c1d03be1cbd373bad25b6445d21ee396a13e9ed3510239dd92412a8ff0544898"
+      "sha256": "45b6da75428988a10e9d55894d6f33eddf321866cbce1fe456f1a775aa9c7884"
     },
     {
       "bytes": 2894,
@@ -8243,11 +8263,11 @@
       "sha256": "57de5c4c95fc206ee214b1835172e0eedda5c2df27b650d5888c2c3acf27d9c1"
     }
   ],
-  "generated_at": "2026-09-09T03:48:17+00:00",
+  "generated_at": "2026-09-10T03:48:33+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2013428
+  "total_bytes": 2026391
 }
