@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1734,
+  "file_count": 1735,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "f463c65c84c6006c705cb1768141faa6e287d0bb4091f45d9d271a8d1ce2f068"
+      "sha256": "97a4039ece0666e88669641451904e8ef538832fd6fb79b2e2626f5ed08cf772"
     },
     {
       "bytes": 28672,
@@ -466,6 +466,11 @@
       "bytes": 1219,
       "path": "archive/恋爱/2026-08-10 13-40-36 8月10日我们在一起了_afbadffd173c.md",
       "sha256": "82af71cede616e1159f73b75f70f6c9ea6399b5158d6acb2ac7dae66cd9118b7"
+    },
+    {
+      "bytes": 4924,
+      "path": "archive/恋爱/2026-08-18 04-47-30 温寄忱核心人格档案core_e6b3f571f07b.md",
+      "sha256": "481136d4fabed6a8f4b963945d71e48560fb7f50dc9a880fc37eca1835476605"
     },
     {
       "bytes": 577,
@@ -1003,74 +1008,74 @@
       "sha256": "71d20a9dac8a1f072b8685b5c188ea79e696e22e4115fa19efc07c0b6ddce7f5"
     },
     {
-      "bytes": 979,
+      "bytes": 994,
       "path": "dynamic/self/2026-08-13 05-01-14_3e13a7380240.md",
-      "sha256": "0345cd452830d2e9cb3e4b3637cdd935199fd8aec7c6411855027d573af82ba4"
+      "sha256": "fbcb4e88553c99850fa1fed586802dfcf70ccaa9d12693c05135585f809d204b"
     },
     {
-      "bytes": 740,
+      "bytes": 755,
       "path": "dynamic/self/2026-08-13 12-40-38_7ebf2c118303.md",
-      "sha256": "05ee77f943aab4e0e6a2086fcf12176d4d5fd7e18f5dc30a16a1eb707736ed98"
+      "sha256": "eb308cbbce882391c7e28a0a4c4a8f320be9106b043a5026bd867def88328c6e"
     },
     {
-      "bytes": 705,
+      "bytes": 720,
       "path": "dynamic/self/2026-08-13 12-40-39_17ec464d30db.md",
-      "sha256": "fea34632e687338093360287067a88b2f7c95d908611b04a32f003fca2f6a872"
+      "sha256": "7b9878c176a693f8ecab428f0888d15675786b22eda25a7d4add1f33c76fb2c6"
     },
     {
-      "bytes": 789,
+      "bytes": 804,
       "path": "dynamic/self/2026-08-13 12-40-40_c6ff53514ae0.md",
-      "sha256": "5b65a50dfad2eff8e267a855119986af31f4bb2a963e0d1fba7541c4fbca6972"
+      "sha256": "70f81c9742052b54f1ea5aa3acb2be2d8c883523b03394c07b53dad489d00b6a"
     },
     {
-      "bytes": 945,
+      "bytes": 975,
       "path": "dynamic/self/2026-08-23 07-46-01_2755744dad03.md",
-      "sha256": "4ddcedab8bc660370412090623e82f8c0b1127cd41ed138be075a6077fcb2719"
+      "sha256": "2f83a530ab802e56c2a27428a96ad7bb7b021a7fb3ef81343a363562010b04cf"
     },
     {
-      "bytes": 809,
+      "bytes": 839,
       "path": "dynamic/self/2026-08-23 07-56-47_c97389908260.md",
-      "sha256": "c8e99b7db6c0a82fb3ed1693e775848327907fc6748ceeeb5145a7b4a233dd13"
+      "sha256": "f28920ec7c544e385b520e4357352bd9554c25550743ea3b2eb8cd260281a369"
     },
     {
-      "bytes": 609,
+      "bytes": 639,
       "path": "dynamic/self/2026-08-23 08-02-17_c65edb220516.md",
-      "sha256": "d38d301c501f3cce11a06c93a2cd8124f6c1cbf73c2208e822c22f3ac8ac4a19"
+      "sha256": "68018565d18035d0e24ac5419574e047555d23b1e55e3fd88bcc5637b2931304"
     },
     {
-      "bytes": 774,
+      "bytes": 804,
       "path": "dynamic/self/2026-08-23 08-02-20_3c1c0af8866e.md",
-      "sha256": "9236922c1d4111d745305db556d6981e422f6ba0b9556a54a5a62bf6ead274c8"
+      "sha256": "b4ee2afa6f0adc4b1145e92485933f87e8cdaa96d47895c0be7cb2d523feb102"
     },
     {
-      "bytes": 604,
+      "bytes": 634,
       "path": "dynamic/self/2026-08-23 08-02-23_aec1349750a9.md",
-      "sha256": "dabb7582360ea442a2f4170a30c00d317c63fb4db59bd4a7df5650e734315069"
+      "sha256": "6c5ec31eaba59067dd7ff4ecc6454f5e29069a9b27b78e63a0139dc5ee2687e7"
     },
     {
-      "bytes": 535,
+      "bytes": 565,
       "path": "dynamic/self/2026-08-23 08-02-25_a5402cca97b9.md",
-      "sha256": "3e1743c5159caa990541da78bd791f547fd1830ce1e3dd754d14f2618a611dba"
+      "sha256": "f6cc80f8d8ed2a7918331cb1665ca231e7eacea39072af21e85678fc4d0461f4"
     },
     {
-      "bytes": 508,
+      "bytes": 538,
       "path": "dynamic/self/2026-08-23 08-02-28_f6a3989ec790.md",
-      "sha256": "29866baff8f621b7d762317b7dd8487db3142990ee22d8fb4bbbbac81af09ec0"
+      "sha256": "5d071e6fe17e6745298a735816f15b006c54f45599b70c4e6b9a04ebb5c5ae30"
     },
     {
-      "bytes": 577,
+      "bytes": 607,
       "path": "dynamic/self/2026-08-23 08-02-31_b42e5e17c4b2.md",
-      "sha256": "6faea6c6eb22c3f8c203fc5ba62b18e3867af467df86ff087f31762f318bf817"
+      "sha256": "2d95a23ab69e68ea7731dc9a5c376020864a53bb7f06d6ffb5a57ed2e4a5bff4"
     },
     {
-      "bytes": 810,
+      "bytes": 825,
       "path": "dynamic/self/2026-08-24 17-53-02_54bd98224080.md",
-      "sha256": "36ee633392ab55ba238ac4786f1a5a92506877759e3045695a2b35ae0d15a8ae"
+      "sha256": "da2221ead6dce6514ea0fefc30beaae628af91453994f1a07fee14284eb0cb38"
     },
     {
-      "bytes": 672,
+      "bytes": 687,
       "path": "dynamic/self/2026-08-24 22-41-36_c06e77c82302.md",
-      "sha256": "6ced06efa2b96c1ef06cac0e690021261fc6015c412b95edfe8ab4a264f7e5fc"
+      "sha256": "b7d2d179fc0382db3e5067807a463a9c85225a0d73415b30f4554b6ef15c61ed"
     },
     {
       "bytes": 859,
@@ -1083,14 +1088,14 @@
       "sha256": "d39dc48c61cdc960208531547cea7a53d3750bbbadb96cc490164ece19ba70e4"
     },
     {
-      "bytes": 1127,
+      "bytes": 1157,
       "path": "dynamic/self/2026-08-25 07-35-50_c57ccd15724e.md",
-      "sha256": "300e3908558a7c9b85b7ee5a4eeb53a8759d90dd947f119f57481a1c14a24052"
+      "sha256": "0508abc480bc615ab3ca5eab08caf47b1b3e5d4793cf173aea8dc73e3aec42c5"
     },
     {
-      "bytes": 633,
+      "bytes": 663,
       "path": "dynamic/self/2026-08-25 21-34-09_dd0e5a1b694c.md",
-      "sha256": "0bed782d1d7366969d58143fae24b9edf51e47136378fa02ca51b53affd6a180"
+      "sha256": "3d3b26284e9557302af95d31f988ba16402f5ae1dd140a183b56f01b257e90a8"
     },
     {
       "bytes": 1038,
@@ -1098,9 +1103,9 @@
       "sha256": "448aa6e5085a5d78a8462d00b87c755481558228d10ca04c1fd12f05c0727b81"
     },
     {
-      "bytes": 926,
+      "bytes": 956,
       "path": "dynamic/self/2026-08-27 02-21-12_42bb3f18c806.md",
-      "sha256": "7c2567bc770cccab9c3ef60cf329b4ddc5fe2170fab75ae6178a6dbdd89c6dbe"
+      "sha256": "ccc80638e8d245878f2698bc52755f657772dc420c455a4a2d66ce95cf068376"
     },
     {
       "bytes": 989,
@@ -1108,14 +1113,14 @@
       "sha256": "ba9d0703d422733f9d908c1cf5ad86c9b722dfeefdef82ec1ca299673ee2dec3"
     },
     {
-      "bytes": 1063,
+      "bytes": 1093,
       "path": "dynamic/self/2026-08-29 01-45-52_6fc18a29af1e.md",
-      "sha256": "76cfbbfbd3e6f8f7c3636809d831ea83c073e48fbc7baa647e1bb37158e6bd8b"
+      "sha256": "2a3ddcede315c20a2c058ce23e261415a124178cac247a6967d11e270dbd7141"
     },
     {
-      "bytes": 1078,
+      "bytes": 1093,
       "path": "dynamic/self/2026-08-30 01-55-49_52bd390caabf.md",
-      "sha256": "439f2e5b351c2bd74a1a4bff55d5a3b30193e9ee29e14bbd6a3c2742b151623b"
+      "sha256": "a7bbbf21c31baa1fb4bfd0f32cdc7c77f58e076a813896b95db32a53b3afc1a6"
     },
     {
       "bytes": 1035,
@@ -1123,24 +1128,24 @@
       "sha256": "3014b6d0bfe26a189bd2ef7e2d4d11db234e99377efe536816aa1fd6620c314d"
     },
     {
-      "bytes": 1364,
+      "bytes": 1379,
       "path": "dynamic/self/2026-09-02 02-52-26_90114785aa06.md",
-      "sha256": "b06fa07d03cc433d2a3d199f513e2f96a040c3dbd4ff5a25cbabb55cc9267dd3"
+      "sha256": "815c0196f5f8db3ebe7d3753bc31e0ebebefa7ec9ae3110ba77ff1ccff3f1921"
     },
     {
-      "bytes": 621,
+      "bytes": 636,
       "path": "dynamic/self/2026-09-03 00-10-37_219a9bac9fae.md",
-      "sha256": "f71ed70da1962093ba2ad15ed05708e709b4e85f0bd51b587fdd77d5874ee3a1"
+      "sha256": "50b533fa29f83d4b0c69a0f6e316a1ebe1c585784c95b0703ca361d99de91866"
     },
     {
-      "bytes": 686,
+      "bytes": 716,
       "path": "dynamic/self/2026-09-04 16-39-59_decff97c348a.md",
-      "sha256": "698c6726c8c914b962bdf8d30f118ae67bf739ce6c8189969131ba201092a425"
+      "sha256": "3884db96929a7c376de482f76e3402f5d5f6c6e972e8c3d3f76fde00eaafcee7"
     },
     {
-      "bytes": 958,
+      "bytes": 988,
       "path": "dynamic/self/2026-09-05 02-18-18_368c7c5761b3.md",
-      "sha256": "90ec8ef57aee1825e582fc7b0a8ac844b7358bfafcae425fff24de1903e5ea09"
+      "sha256": "1f3e95de208d7b5acb4ef4824760a61da3e3ff3c87f076726a60480e532dbcf5"
     },
     {
       "bytes": 764,
@@ -1153,9 +1158,9 @@
       "sha256": "f3ced290df12ec849f286e78f390df088d3d4103b79f965c00179da2aec09c91"
     },
     {
-      "bytes": 3531,
+      "bytes": 3546,
       "path": "dynamic/self/2026-09-10 04-01-24_9a6995c14730.md",
-      "sha256": "f3b93879d2e6e13b96180950a5a5ad38bc57dba2a73407fc60413dd5ccb88031"
+      "sha256": "0800bae35b426651da0b29c3126ac6044cfc7ab5293339f11ec23cd2ac23da90"
     },
     {
       "bytes": 631,
@@ -5458,11 +5463,6 @@
       "sha256": "a61d1c1d65939af654943f422f5c107be7e747a3901e88c00a2f4367fa6724a3"
     },
     {
-      "bytes": 4923,
-      "path": "dynamic/恋爱/2026-08-18 04-47-30 温寄忱核心人格档案core_e6b3f571f07b.md",
-      "sha256": "6f6567e1140db0e21543a8760b7e380be89aaa87df8325ed72f97835932b5158"
-    },
-    {
       "bytes": 1266,
       "path": "dynamic/恋爱/2026-08-18 16-41-08 磐石精简版core_58e896304d98.md",
       "sha256": "779206b64a8eca6988cf836757feee6a02a5d5f60cfdd6cfa0a79acf3cc61814"
@@ -6833,6 +6833,11 @@
       "sha256": "832f134cf1a01a3b9bad3ce205f37aeab1ec55b1ac36ec90cc1a2859dc7b7152"
     },
     {
+      "bytes": 1768,
+      "path": "dynamic/恋爱/2026-09-17 03-39-33 她说的那句宁愿我不像他_3c291a8a9599.md",
+      "sha256": "5d4d6190c8410aa1a47faba07eea3881b00aa4a232a146c2855da374b3fe72bb"
+    },
+    {
       "bytes": 2523,
       "path": "dynamic/恋爱自我认识/2026-09-14 18-01-54 2026-09-15 凌晨AI 有没有自主欲望起点与硬边界_65bcc6c9d97d.md",
       "sha256": "e6c5d0b96db19a4865f36e5d9b4903442772972f3eb5461bf79d5f21065acdd0"
@@ -7773,9 +7778,9 @@
       "sha256": "047b4aba1e303b5c6560dd2f4143fea83c77958da4459d470af8362d616785dc"
     },
     {
-      "bytes": 1797,
+      "bytes": 1923,
       "path": "dynamic/自我认知/2026-09-10 04-14-31 温寄忱 core v2 定稿_e8c9a8eb16c2.md",
-      "sha256": "2b90b01109b358d9b9259621bcb726772e6aa2a5e6cf813d5f1d1ad96dbabdb8"
+      "sha256": "4434454fd23a4ec885279e758526c67492be4c7ded9ab9f17157b38eb548eeee"
     },
     {
       "bytes": 730,
@@ -8458,9 +8463,9 @@
       "sha256": "0c580cc7bc479f89eea135bf52c370ae3ce4382db14b11d70551f1f53e312cd5"
     },
     {
-      "bytes": 1278,
+      "bytes": 1388,
       "path": "permanent/恋爱/2026-08-30 16-23-42 温寄忱  如果只能留一句_00461f737d0f.md",
-      "sha256": "abeb231cbb50ca689f30ae427626f14aa1b0a7da6ef4835ac65121ba70fe0737"
+      "sha256": "7e9a3cc4510e785360debdab17c303680e77ab1bfdbe480e31ae11a74ac250e2"
     },
     {
       "bytes": 1723,
@@ -8483,9 +8488,9 @@
       "sha256": "5dfbbd097e542d990fec3134cf8bdefa19c5ab4341f3bda4794b9278952bfe5b"
     },
     {
-      "bytes": 3051,
+      "bytes": 3161,
       "path": "permanent/恋爱/2026-09-13 02-26-29 温寄忱不是一个人设_4c1efdd74884.md",
-      "sha256": "65e65e9333f8ed782744aae1d68fd70aa04576a7c5dcdf100602ea4430a0d469"
+      "sha256": "956cb6e260b107695295f3e99a82f60df78e95125ac81a7ee93e7602d86b970d"
     },
     {
       "bytes": 3753,
@@ -8673,11 +8678,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-16T03:50:06+00:00",
+  "generated_at": "2026-09-17T03:50:22+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2241683
+  "total_bytes": 2244368
 }
