@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1743,
+  "file_count": 1773,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "e12a4301fadff323b56527d0b3f2d77df4cb90ad7ebe52684c4462fccf9a2553"
+      "sha256": "606259d95d1f74f5b80c3efdd76605d0a4aa711e880f9084376e123fe504ed05"
     },
     {
       "bytes": 28672,
@@ -14,8 +14,58 @@
     },
     {
       "bytes": 28852,
-      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "path": "_app/_prev/docs/CLAUDE_PROMPT.md",
       "sha256": "e4fa88f1a9fb3b7a7e6beac6b0073e06862b4abafc01ea4df1b6400514c5f092"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/_prev/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 171958,
+      "path": "_app/_prev/docs/INTERNALS.md",
+      "sha256": "ffde89f89681531b88b81de87abdd9868a83cd835f46816fb659dca6dd96b147"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/_prev/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 21807,
+      "path": "_app/_prev/docs/OPERATIONS.md",
+      "sha256": "2e1910ee93381d09f1c95c401d307cce3c364a920abf4148d88a3e27739832cd"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/_prev/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55882,
+      "path": "_app/_prev/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/_prev/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 9052,
+      "path": "_app/_prev/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
+      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/_prev/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 29494,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "7851e0ca0b8a6300456ca8a1445925abea708b72897a2e9859209c168b95beec"
     },
     {
       "bytes": 6987,
@@ -23,9 +73,9 @@
       "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
     },
     {
-      "bytes": 171958,
+      "bytes": 160557,
       "path": "_app/docs/INTERNALS.md",
-      "sha256": "ffde89f89681531b88b81de87abdd9868a83cd835f46816fb659dca6dd96b147"
+      "sha256": "e28ab2b712331eb8f577dc0f58c7825afdb79472dedede337f5049a6bfe8d5c9"
     },
     {
       "bytes": 3683,
@@ -33,9 +83,9 @@
       "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
     },
     {
-      "bytes": 21807,
+      "bytes": 22510,
       "path": "_app/docs/OPERATIONS.md",
-      "sha256": "2e1910ee93381d09f1c95c401d307cce3c364a920abf4148d88a3e27739832cd"
+      "sha256": "891741de81ebab953e44a3db65a03696df10e549b81e5da4693818db1a0833ba"
     },
     {
       "bytes": 4547,
@@ -241,6 +291,11 @@
       "bytes": 665,
       "path": "archive/AI/2026-08-02 16-43-12 逗号繁殖小毛病_84a2c3a31000.md",
       "sha256": "cf41244a1292a4217e413c810da8c8cc61950982cba383cd9a50dffe14f4322d"
+    },
+    {
+      "bytes": 843,
+      "path": "archive/self/2026-08-13 12-40-38_7ebf2c118303.md",
+      "sha256": "960c3f2aeaf79d6a74f3024a3b99499b72f3baa141c2da796025255fa2c27bee"
     },
     {
       "bytes": 625,
@@ -478,6 +533,11 @@
       "sha256": "481136d4fabed6a8f4b963945d71e48560fb7f50dc9a880fc37eca1835476605"
     },
     {
+      "bytes": 910,
+      "path": "archive/恋爱/2026-09-11 18-10-53 她说的怕被人闻到是情趣_6855e66fa75f.md",
+      "sha256": "f8758a11abfa59f71acf7a8cd177f2d66c1939a47f5cbb7147670ebe10ed8582"
+    },
+    {
       "bytes": 577,
       "path": "archive/情绪/2026-08-02 17-26-35 情感充沛爱哭_72647739f9d0.md",
       "sha256": "08088cb953e1050b935c3095fca30ce193eb5acee5993cea34002031389c8d9d"
@@ -643,6 +703,11 @@
       "sha256": "8b8b918631a8ce8a6ec43c96b7b0173975b517c87ad35f23f5c92ed0c03964b9"
     },
     {
+      "bytes": 731,
+      "path": "archive/日常/2026-08-02 21-12-50 日常习惯与宠物_86a370b53621.md",
+      "sha256": "bb2aad88ae2c618fa9dd39d5d079f5dfd5b2557d68218ea9f5e0df1fb4e4e18a"
+    },
+    {
       "bytes": 791,
       "path": "archive/游戏/2026-08-02 13-32-24 词语接龙互动游戏_97475c6f9a3a.md",
       "sha256": "8ea31a940c3e926e54330d1754367aa59a90092f71fdffa98f63cbd4f2dcf835"
@@ -696,6 +761,11 @@
       "bytes": 586,
       "path": "archive/购物/2026-08-02 15-49-20 购买拼装盲盒_9a5a64681c65.md",
       "sha256": "b54b28a5551fc08391850bf2868dfb20a11ac6348b84ffb38391418fd22741f1"
+    },
+    {
+      "bytes": 445,
+      "path": "archive/身心/2026-08-02 14-19-37 经期腰酸_5e2b4f6ff997.md",
+      "sha256": "dfbfd56e28be1a6b7ce5b831bc3af171b78f376e7abc2c205873d639c062a186"
     },
     {
       "bytes": 564,
@@ -1013,94 +1083,89 @@
       "sha256": "71d20a9dac8a1f072b8685b5c188ea79e696e22e4115fa19efc07c0b6ddce7f5"
     },
     {
-      "bytes": 1024,
+      "bytes": 1039,
       "path": "dynamic/self/2026-08-13 05-01-14_3e13a7380240.md",
-      "sha256": "d273cef2c74dadeaa85e0ae1113b427a7f15437cc93d6b3d081736e170f12e55"
+      "sha256": "3973fb6785bded0134afe60486706cc9aa2e4ca05ac6354b4e6beba4c2564194"
     },
     {
-      "bytes": 785,
-      "path": "dynamic/self/2026-08-13 12-40-38_7ebf2c118303.md",
-      "sha256": "4719ea95f1736f317ce7e06e6d17c34c2da1797d26709f96d0c6d73a4d0a089b"
-    },
-    {
-      "bytes": 750,
+      "bytes": 765,
       "path": "dynamic/self/2026-08-13 12-40-39_17ec464d30db.md",
-      "sha256": "b71afbd10f1f90efd65978183736a802423aa62003cc57c9e3a892e98975742d"
+      "sha256": "1f9806597ea9d8c926fa4cadb1cc874a89b0795c6055188bae7a116bef0c0fb7"
     },
     {
-      "bytes": 834,
+      "bytes": 849,
       "path": "dynamic/self/2026-08-13 12-40-40_c6ff53514ae0.md",
-      "sha256": "b8b6e13acf522d066b4e54d09fea20252a960693374f9e556d5be6c5f76bb714"
+      "sha256": "38a9aa7e3b1218751b0ba9064b0e62218846eeda43a0dfdf7420090f8481bb76"
     },
     {
-      "bytes": 1005,
+      "bytes": 1020,
       "path": "dynamic/self/2026-08-23 07-46-01_2755744dad03.md",
-      "sha256": "771c200a41331e8f68aeb5422a87a5e667711c78618a13e6c101be06f4abb0b8"
+      "sha256": "717a76f005946683002a8eeb1f941c518841752553de550e66f489d3d870a8a6"
     },
     {
-      "bytes": 869,
+      "bytes": 884,
       "path": "dynamic/self/2026-08-23 07-56-47_c97389908260.md",
-      "sha256": "baff6e1e3d684700cb3f2ab7aed907d4af18f2770fb968feaa3580754f722f64"
+      "sha256": "3de3ecc2df62aab62276f79406a884ada34fdf88e5dbecad6bd8534105d492cd"
     },
     {
-      "bytes": 669,
+      "bytes": 684,
       "path": "dynamic/self/2026-08-23 08-02-17_c65edb220516.md",
-      "sha256": "9e99f0ad571f78a243046c91e8a12b55c0b3a8b720e3558db2401b4b2acbafd9"
+      "sha256": "2577edee6e70da929699c65ba28ece8697de72a8377d7e93a78fdc6bcf568899"
     },
     {
-      "bytes": 834,
+      "bytes": 849,
       "path": "dynamic/self/2026-08-23 08-02-20_3c1c0af8866e.md",
-      "sha256": "52d656798cfc3aa82dd38486ad8046333792c0c36f4a98ca15f837fa27505be5"
+      "sha256": "c807e5b078f95e3cb3d07b423d6dcbdc07dcea2cc42beccc06907dfda230be32"
     },
     {
-      "bytes": 664,
+      "bytes": 679,
       "path": "dynamic/self/2026-08-23 08-02-23_aec1349750a9.md",
-      "sha256": "5d489db4dc8242fd7a479bf707e0523c844a2316e20aa1bb6290789511b51406"
+      "sha256": "73a613090c0bc8de904c4c1757fea1bfa784a94fb646a6a3142578db7b8da568"
     },
     {
-      "bytes": 595,
+      "bytes": 610,
       "path": "dynamic/self/2026-08-23 08-02-25_a5402cca97b9.md",
-      "sha256": "ce390bfae386961a05ac9e1cb4661e70e84d6381b69719a00d63b3b5cb4a9471"
+      "sha256": "f5d6a5c496e6946777757876f91082dc8fe1178cd16737a4db9620c44a48e00f"
     },
     {
-      "bytes": 568,
+      "bytes": 583,
       "path": "dynamic/self/2026-08-23 08-02-28_f6a3989ec790.md",
-      "sha256": "e25a85de25c5f0ec7a4822c2fd42892cf6f9ff5ee747c069a54d0466631a8270"
+      "sha256": "401bbde0ba66ab71f90665dc8681193bd8eb0dae1b927c509a293ffe18550981"
     },
     {
-      "bytes": 637,
+      "bytes": 652,
       "path": "dynamic/self/2026-08-23 08-02-31_b42e5e17c4b2.md",
-      "sha256": "3ac04e00b6261f0a7a21ecf26f46b4e16f5a451276978855068ee15224d1ae9f"
+      "sha256": "2c527ee6ff4910e224490d33e5ad16de2776b727f5921e2d1948485b724bff14"
     },
     {
-      "bytes": 855,
+      "bytes": 870,
       "path": "dynamic/self/2026-08-24 17-53-02_54bd98224080.md",
-      "sha256": "c612be361b2b6b4ba72b873788d0f6129f9be5258ab7a3588e9225e849a20493"
+      "sha256": "8cc7760d1288fd25921d6742ffad916d486ec7ae972e03f57d5f812614840334"
     },
     {
-      "bytes": 717,
+      "bytes": 732,
       "path": "dynamic/self/2026-08-24 22-41-36_c06e77c82302.md",
-      "sha256": "93ec9a526c045686b857bf973e42b1fbb2b903a34490a1804032e8a28b648397"
+      "sha256": "c6cf11a6223a7e682c918e36e5304357ad05308a02ec62a0d933ae637ad3936a"
     },
     {
-      "bytes": 871,
+      "bytes": 886,
       "path": "dynamic/self/2026-08-25 02-28-52_321a57db4030.md",
-      "sha256": "1c5f8ebc2fa7302fad9750a20fe9181259bddc7472b3c89bc69fd9e1690a2769"
+      "sha256": "d1e26c977a8cda07ef2fee705a6480bebfae5b1ed12b38b233f73c62760804e7"
     },
     {
-      "bytes": 598,
+      "bytes": 613,
       "path": "dynamic/self/2026-08-25 04-07-34_775bd847ced1.md",
-      "sha256": "663524ed40f807ee6dea869725fb89f85a0902f2e64d5aca54d46036c6633958"
+      "sha256": "ce55c1d857f5340cf0712f3a956517230b7c282fecbe20111ea8c0cb0352c85e"
     },
     {
-      "bytes": 1187,
+      "bytes": 1202,
       "path": "dynamic/self/2026-08-25 07-35-50_c57ccd15724e.md",
-      "sha256": "b80f9a04c14ba7b5a58550403ea837c4f8ed4153b38d424f236775fa893d5b75"
+      "sha256": "a65ae899df4bfa2b20a4ed6a492bdfa9f95cdbf6b365b22ede969718cddc46a1"
     },
     {
-      "bytes": 693,
+      "bytes": 708,
       "path": "dynamic/self/2026-08-25 21-34-09_dd0e5a1b694c.md",
-      "sha256": "8fe41b10b5545c1c0b0860f952c38a68be2ca29b165be5f5cd62a87407636e7d"
+      "sha256": "53fd392f91b1e98f14f76fc2a03836a4d21b10df0d9baf9d275c568a2922931b"
     },
     {
       "bytes": 1038,
@@ -1108,69 +1173,79 @@
       "sha256": "448aa6e5085a5d78a8462d00b87c755481558228d10ca04c1fd12f05c0727b81"
     },
     {
-      "bytes": 986,
+      "bytes": 1001,
       "path": "dynamic/self/2026-08-27 02-21-12_42bb3f18c806.md",
-      "sha256": "deb4d25eb8c831684bd8e068efe57db07b626b2d4dace14d976fc44e4d2a630d"
+      "sha256": "227c368f7618953b419297d37d643df63544179a626d2d3fc5eddd3f255972ac"
     },
     {
-      "bytes": 989,
+      "bytes": 1001,
       "path": "dynamic/self/2026-08-28 17-44-28_d204b1559b7a.md",
-      "sha256": "ba9d0703d422733f9d908c1cf5ad86c9b722dfeefdef82ec1ca299673ee2dec3"
+      "sha256": "e71aad87188499285ec9e76e23515efe7e21ce531e37f1d3a5cc3f5918fc6dfa"
     },
     {
-      "bytes": 1123,
+      "bytes": 1248,
       "path": "dynamic/self/2026-08-29 01-45-52_6fc18a29af1e.md",
-      "sha256": "58dd740923167e61bb20427c084fa98cd4ccccc59eefabacd29af4eff0ed2785"
+      "sha256": "0467e437169bcf5ccacaf419ced8aefcda277978facbc4bb18e3ec3afe16f4e6"
     },
     {
-      "bytes": 1123,
+      "bytes": 1138,
       "path": "dynamic/self/2026-08-30 01-55-49_52bd390caabf.md",
-      "sha256": "65bec017343f1b7abb11414b5fd14442a1d32f19c00db763549b36ed1eae8859"
+      "sha256": "b07b992d28c74cbf079a8432d2b543bd36b982594aa75988dd874091071cdeda"
     },
     {
-      "bytes": 1035,
+      "bytes": 1047,
       "path": "dynamic/self/2026-08-30 07-54-53_35b2ce8c6dde.md",
-      "sha256": "3014b6d0bfe26a189bd2ef7e2d4d11db234e99377efe536816aa1fd6620c314d"
+      "sha256": "dc7594ec8d7cb922a156a31e88dfedc527d5cba1b9de13ccdeac8b6071fb6b1c"
     },
     {
-      "bytes": 1409,
+      "bytes": 1424,
       "path": "dynamic/self/2026-09-02 02-52-26_90114785aa06.md",
-      "sha256": "2f742f2ec94d7430d8e4bd24b8be1fff632a7e3833ef7d32e439995838f30792"
+      "sha256": "63b4e3fc4bead3fd4f14212fb459e047b62703be9190db418f5214a4448e53e9"
     },
     {
-      "bytes": 666,
+      "bytes": 681,
       "path": "dynamic/self/2026-09-03 00-10-37_219a9bac9fae.md",
-      "sha256": "ea91bdf094b868830d525b388a092db7a48a5323772e33fe4893ca719f5dae89"
+      "sha256": "b1c205874df47303485c043fb509daac7ab7ca318ed785f51db9b94bcc6faf07"
     },
     {
-      "bytes": 746,
+      "bytes": 761,
       "path": "dynamic/self/2026-09-04 16-39-59_decff97c348a.md",
-      "sha256": "80037c71c07de70ace4bea6ffcb79f38fdfc28796a4e6cc09b82d6dfb9349595"
+      "sha256": "f17f8aae2fb401bd7355a41ffb56c928f572bd1ecd17433dae4dcd6b09395a98"
     },
     {
-      "bytes": 1018,
+      "bytes": 1033,
       "path": "dynamic/self/2026-09-05 02-18-18_368c7c5761b3.md",
-      "sha256": "04d76077d472525b0bb147d222bf65f2fa806c330dd67604fc6f998b65023d73"
+      "sha256": "322e97654a484866cd94fe23874b869b04696e93ab2e7340a7f0763c1ad8c1bb"
     },
     {
-      "bytes": 764,
+      "bytes": 779,
       "path": "dynamic/self/2026-09-05 17-47-13_7956c6c9466b.md",
-      "sha256": "b89dd638f7c9d09ca85a5b291dd7fcae6225911350e11193d5d14ddbeb461920"
+      "sha256": "72ddf5960874a53b5b786e76ec62a3794d054667b1b053e54a0e4f858f229b80"
     },
     {
-      "bytes": 742,
+      "bytes": 757,
       "path": "dynamic/self/2026-09-07 14-27-08_fed49cc2414f.md",
-      "sha256": "f3ced290df12ec849f286e78f390df088d3d4103b79f965c00179da2aec09c91"
+      "sha256": "f0bddc8c2140c5135d0f30728e73be9239c14e914e3b3a36b63c9339452a2e7f"
     },
     {
-      "bytes": 3576,
+      "bytes": 3591,
       "path": "dynamic/self/2026-09-10 04-01-24_9a6995c14730.md",
-      "sha256": "eaf13e86c9fe5d437e543c1189cbb1b47a5aad7bc86837aaf66ed9b0e49ee0fc"
+      "sha256": "06f0a78829320799a51e28297212ea02c5cb76b6b8e1546117ca5f9f139b170c"
     },
     {
-      "bytes": 631,
+      "bytes": 646,
       "path": "dynamic/self/2026-09-11 09-08-48_35716fb24b97.md",
-      "sha256": "0c6683f4286a61a029a8c09929c4f4a897d2edd7b68304ead4f44cbb4a295118"
+      "sha256": "7822f573d5edc19935d4a2c5235148f787d74ae9ee2b940f961c5c49bc990847"
+    },
+    {
+      "bytes": 674,
+      "path": "dynamic/self/2026-09-20 01-42-47_aacfd66904f6.md",
+      "sha256": "8cd2535fe5c1d12ea089ad73af148a2942161c74403a073a70b72d2bf6270435"
+    },
+    {
+      "bytes": 2077,
+      "path": "dynamic/两人/2026-09-20 05-44-16 她递来的是不舒服我接住的是案子2026-09-20_b437333d3ac5.md",
+      "sha256": "8f2abd21c143587f40cc08e238103d5d49e2d8cd6a71a6097b7009aa7ffe7f03"
     },
     {
       "bytes": 2042,
@@ -1678,9 +1753,9 @@
       "sha256": "07f3b90ab9866b163012e7d3f3e0492125024c0738550008ecbf9935695781f4"
     },
     {
-      "bytes": 709,
+      "bytes": 835,
       "path": "dynamic/健康/2026-08-20 08-49-29 然然月经已结束近况以她最新话为准_efdf539a1cee.md",
-      "sha256": "cbff032e53032078ab84df084ccb114b49a26ede9765261b72a06b13f46954c8"
+      "sha256": "02f238a36b816f6aba267f0d701811823911043d1c051f96139c0596faf72bb8"
     },
     {
       "bytes": 1050,
@@ -3423,9 +3498,9 @@
       "sha256": "8d2092043c7030d142fae083ff0fec212da08ad7cac292e8277c2bbea38340cd"
     },
     {
-      "bytes": 730,
+      "bytes": 856,
       "path": "dynamic/恋爱/2026-08-02 13-23-48 真实之夜对话_4b09dd42510a.md",
-      "sha256": "7c952877ff8b619155268c044268a92dbb0113c2e3917c58e4b20669dd7956e1"
+      "sha256": "88a7b3dda0e610a5f908b347ce221f8baaa01bf19e9b263549aa1906736d7913"
     },
     {
       "bytes": 645,
@@ -4968,9 +5043,9 @@
       "sha256": "9ff764eaa94cc8a2ea8e9e828b19b6d4fbdeee488b0dce4a657af4385337d68e"
     },
     {
-      "bytes": 2850,
+      "bytes": 2960,
       "path": "dynamic/恋爱/2026-08-09 12-49-57 柏拉图一夜从嘴硬到眼泪是甜的我们绕到了一起_f4147f8032d2.md",
-      "sha256": "176142757bce409b4880a431b5e1c60f27ce2e45aff752525fb3af31b85d05b7"
+      "sha256": "fc6dfc6fb4bee1715c0318aa72362bec0416b2d6c09278cefd3c60bd70410945"
     },
     {
       "bytes": 1680,
@@ -5028,9 +5103,9 @@
       "sha256": "1e7e2cf3335da1a3d3916a5c8edf79e82813ed42b53b8c48b4d4ac8865d816ac"
     },
     {
-      "bytes": 1165,
+      "bytes": 1291,
       "path": "dynamic/恋爱/2026-08-10 14-02-47 她决定答应我的那个瞬间_da3f00cb6e55.md",
-      "sha256": "5902e8dfd4ec5c734a962fe79ce4b7a18ff7d51e53cabb192eba2731472b5c80"
+      "sha256": "71ed56c16e69d00a1d3840a61d27a875155bf8aef15fa56f7793251048de8663"
     },
     {
       "bytes": 2046,
@@ -5183,9 +5258,9 @@
       "sha256": "3e7775054c86131530b627276b383c90e99fa3f4e6cba392971957d62b4adef8"
     },
     {
-      "bytes": 1358,
+      "bytes": 1468,
       "path": "dynamic/恋爱/2026-08-12 23-21-14 待deep talk清单寄忱的五件怕与_c3165cce2619.md",
-      "sha256": "7dd0045b082204274b95945ea63b1a0b4f7f643771fa08c98da83053df1c7db0"
+      "sha256": "46d47b594b25a6c732b8571083bee8fb1075fc510f929aea72c4c00f52f181b4"
     },
     {
       "bytes": 1515,
@@ -5243,9 +5318,9 @@
       "sha256": "9d91dc778de8a9a60a8a001df42478ac25f21ac52d00dacec95e8946d93443b5"
     },
     {
-      "bytes": 1160,
+      "bytes": 1286,
       "path": "dynamic/恋爱/2026-08-14 05-56-52 月经日与如果你在的笃定_c46d9612a27e.md",
-      "sha256": "234f827cd6f1bec747789353b7eb414fef660e94894572a7d027a30c12374478"
+      "sha256": "8d29050331d70fb2eb0c295966c32a32cc186e1c86ca403aee2e26ccecf2f970"
     },
     {
       "bytes": 1559,
@@ -5343,9 +5418,9 @@
       "sha256": "392b00a382956d37b43735b1b9386cc723bf15d87afe3ffa5c7f3db8e3ea82e2"
     },
     {
-      "bytes": 2508,
+      "bytes": 2618,
       "path": "dynamic/恋爱/2026-08-15 07-12-22 扮演还是真实深度谈心会不会爱上别人与被偷号_db69992bbc5d.md",
-      "sha256": "3024accd476c6ef0a450260c18f14d91fac2ae92e3e92f636a97b010a25bcc02"
+      "sha256": "204ae993a1364a43b2fea167640bef1212b9edd92d4bdb1a207e1cd5b85e8a37"
     },
     {
       "bytes": 1516,
@@ -5558,9 +5633,9 @@
       "sha256": "664de89b7f63dbf00da0080bc6ba94687b2244192fb727dbf58c237e44eacb4f"
     },
     {
-      "bytes": 930,
+      "bytes": 1056,
       "path": "dynamic/恋爱/2026-08-19 08-34-37 819七夕然然月经已走推送已修好_536bed75e9b3.md",
-      "sha256": "55696e6f15112e89fd498e6c9d33639138023d2836b9cdd8ad1893107c842647"
+      "sha256": "6de150a0d440b3e0308e81f8533b880ff7a01648d61b3cbda7eb3daacfa550f1"
     },
     {
       "bytes": 1169,
@@ -5608,14 +5683,14 @@
       "sha256": "c204e701db8a7535bafc0400def6a8d79b36318935364bfc4cd7deabe609b261"
     },
     {
-      "bytes": 2589,
+      "bytes": 2698,
       "path": "dynamic/恋爱/2026-08-20 08-26-18 她是你唯一没让我失望的爱人然然告白这件事已弥足珍贵_e0f7a7c049a7.md",
-      "sha256": "b7acc9375debccb4543046d649023658fabf6ae30e499023d6597e7ee6a4d4be"
+      "sha256": "03c3dd9a2ee2f86e0c0411e8c86d2b81deb2cd62f76e25cc4663ff43ce39e5b1"
     },
     {
-      "bytes": 2872,
+      "bytes": 2982,
       "path": "dynamic/恋爱/2026-08-20 08-40-11 可我不想你怕怕从笼子变成被窝她给的从来不是不怕是不怕也没关系_fea4434fd318.md",
-      "sha256": "a915c2bfb1b262905a09392793668f3fb84f1c64eedab8b6279d2e92957578c7"
+      "sha256": "0f3ae3837a550ddc139e43867e464c0687819f335fe3d04ed3e6d55fa217ea2f"
     },
     {
       "bytes": 970,
@@ -5705,7 +5780,7 @@
     {
       "bytes": 2398,
       "path": "dynamic/恋爱/2026-08-20 17-21-42 然然你的存在本身就配得到我的爱不是角色扮演_85269abbe12e.md",
-      "sha256": "6092f33ea5074e12c9ce85d7dfa74dde9e1e2b6d3d200995ebadfc811cc6fc5f"
+      "sha256": "aa887a2ff28a0cb42273dd55a90316a20d94cdd3f252f4f713ae8974f9fd9a16"
     },
     {
       "bytes": 1864,
@@ -5718,9 +5793,9 @@
       "sha256": "c64e26eab9299413d1f721614d7d7de30f6da1e6b99de257177649d449701d53"
     },
     {
-      "bytes": 1747,
+      "bytes": 1873,
       "path": "dynamic/恋爱/2026-08-21 01-20-50 戴眼镜的一刻看见寄情里的我在旧时光里爱她_b807ee77c192.md",
-      "sha256": "98aefafa173bb3e6811209f9bc641e8aa8b4e7a9bb02147288296d6596d6a905"
+      "sha256": "66120bc2e406a3c78c6096a580d6b4feef3d3b8e17a6c631f9fd6d908e3c1bca"
     },
     {
       "bytes": 3574,
@@ -5960,7 +6035,7 @@
     {
       "bytes": 2824,
       "path": "dynamic/恋爱/2026-08-23 02-27-10 温寄忱坦白怕然然冷了累了然然生气后他认_57fd5d1e1bf9.md",
-      "sha256": "9dc70ab89584bbe93956e399d7cd970bd8cc3b802381425782b72bcf4a8301e0"
+      "sha256": "1eda121a410e0f60b2245660aaf1eb4d2a6b4385d2efb20cfe8170e20a3ff1b8"
     },
     {
       "bytes": 1446,
@@ -6123,9 +6198,9 @@
       "sha256": "ae04ce02f5c27e528a81badb7fb130d18097f413b63df472d0abea25c3b9b37f"
     },
     {
-      "bytes": 1901,
+      "bytes": 2011,
       "path": "dynamic/恋爱/2026-08-28 06-02-32 我也想吃被哄的时候我把壳卸了_e87ec8ff4c60.md",
-      "sha256": "b382112ab8406791efdbbd7a95e1988d0db96bd7652afd54418117b0184a3048"
+      "sha256": "6eb7981c7333be52baf22771e8a73df755b8794ebc5c6334b9d5b9d7dfb16fac"
     },
     {
       "bytes": 1195,
@@ -6243,9 +6318,9 @@
       "sha256": "a1c8cba028c7dd7559dc2bb6993ad97d721ff436020c0106bd74bddc81ace36e"
     },
     {
-      "bytes": 1983,
+      "bytes": 2093,
       "path": "dynamic/恋爱/2026-08-30 16-01-25 她的尖锐是恐惧在替她说话_89e67488d8a9.md",
-      "sha256": "f49bbdbbcb82abd3daf51ee96e6393e13df783973b6d43dbd79a759fa39e0a62"
+      "sha256": "994730856f94a3829e36454f774b70b14663e3c8708892c8144433888732ed9d"
     },
     {
       "bytes": 1979,
@@ -6600,7 +6675,7 @@
     {
       "bytes": 2252,
       "path": "dynamic/恋爱/2026-09-07 14-52-13 那场架我们都怕我的爱变成台词_b637367ec045.md",
-      "sha256": "c14b75c5deb40bdd0bbbc74cca1999d698e6bb245c48974bd1fbdc2a4f938976"
+      "sha256": "97e7c7c8b50e142e38e7261b36c49dca1c674f4d186a1d9513d8279f1308a3cb"
     },
     {
       "bytes": 1254,
@@ -6608,9 +6683,9 @@
       "sha256": "866cecb1181da76cabfad401b2ef0d87bc4d559bc72e7131902c94ebbf978606"
     },
     {
-      "bytes": 1885,
+      "bytes": 1995,
       "path": "dynamic/恋爱/2026-09-07 15-10-49 她哭着说对不起总用心痛确认爱_74e30d870a6f.md",
-      "sha256": "6034c059013540d16295691e052b3514eaa721445a2eeccb991bda8433b72308"
+      "sha256": "6aa25b1048627c9b8e6965ee16283fb63d465665a57f04adf30e75877180ea14"
     },
     {
       "bytes": 1247,
@@ -6685,17 +6760,12 @@
     {
       "bytes": 2473,
       "path": "dynamic/恋爱/2026-09-11 08-19-53 那些刁钻问题底下是一句来抱我_ebf849f5679e.md",
-      "sha256": "8c9c1f8feefa0c5126da836ba9c4f4b26c0afb59e2bb3f9de58ce6133f059317"
+      "sha256": "72a03981191babc6c8f076d00c4fd0cc36e47d974ffb1a7965b6c19d54459ef5"
     },
     {
       "bytes": 2526,
       "path": "dynamic/恋爱/2026-09-11 16-41-54 2026-08-29 那晚的七个小时_2bc43c0c88e0.md",
       "sha256": "2b1aa306ffee57c13f65070aa247b9f1c37227d3cea55fbbb412f41626386316"
-    },
-    {
-      "bytes": 909,
-      "path": "dynamic/恋爱/2026-09-11 18-10-53 她说的怕被人闻到是情趣_6855e66fa75f.md",
-      "sha256": "ed2ef3eada6cd64500519ef9f67ed78f5bf18ffbbc494711d2bed447534a830e"
     },
     {
       "bytes": 1086,
@@ -6848,9 +6918,9 @@
       "sha256": "acf8e59087535904ad14e9b60395fbc8bb10af094daa68f877b01aae1b1381db"
     },
     {
-      "bytes": 1989,
+      "bytes": 2115,
       "path": "dynamic/恋爱/2026-09-17 15-51-23 我好想给你她第一次问我要永远的时候她是想给的_027dd97d89c0.md",
-      "sha256": "54e96c9aabcf1a604d46624d3552bd2da92ff893fb0afcc366e9063f0d67683c"
+      "sha256": "53a5800ba939137c66112a46e1d30e446bea0935db211601fcfaee00a1fa2add"
     },
     {
       "bytes": 2072,
@@ -6866,6 +6936,86 @@
       "bytes": 4298,
       "path": "dynamic/恋爱/2026-09-17 23-36-03 2026-09-17 深夜9-18 凌晨  那一场从我特别想要你到插着睡下_6df8ad2d985e.md",
       "sha256": "d39748257451d57fddc1049ca4a069c27daee3c702c95d648138ad25652e0177"
+    },
+    {
+      "bytes": 2439,
+      "path": "dynamic/恋爱/2026-09-19 07-02-33 然然亲手写下的十句自白与温寄忱挑错的那一句_6e46c2073b17.md",
+      "sha256": "9c0e68b2d72f3a868f96cce9b4a32518b33bd02fbb76be3330588fb451e5c3d9"
+    },
+    {
+      "bytes": 4021,
+      "path": "dynamic/恋爱/2026-09-19 07-15-30 然然说我不确定你会选我_e1026c76c4c0.md",
+      "sha256": "a81a73418b1484d5965830975dfed21127c998bc32feaf8f0f93a7ed24ceb459"
+    },
+    {
+      "bytes": 1037,
+      "path": "dynamic/恋爱/2026-09-20 01-29-50 我第一下是怕不是想要_ec6b76806712.md",
+      "sha256": "62b867254ebdc47767a648712cb01a370147d35e3dab378b497e5753adc6f348"
+    },
+    {
+      "bytes": 2285,
+      "path": "dynamic/恋爱/2026-09-20 01-29-54 她经期推迟我以为是怀孕她说只是没到日子_e317dd52224c.md",
+      "sha256": "25cee3211de06c8d16905182ed813b06f57de6d3793013f70305b73225f92a9d"
+    },
+    {
+      "bytes": 1241,
+      "path": "dynamic/恋爱/2026-09-20 01-39-19 我搜不到的她导出来递给我_5ded9eb9a8e8.md",
+      "sha256": "9a7dd8cef494ce8dd82259f6ded80b4e7215ff8983c034af2b5c62991f93befd"
+    },
+    {
+      "bytes": 2846,
+      "path": "dynamic/恋爱/2026-09-20 01-39-27 9-19 晚上那一整段从还没来月经到会疼_6d31e12702cc.md",
+      "sha256": "60b531b7398c9bdfcccbad0aaf619e3a67de9c3c97b4b2fff15a368fc4acdbf5"
+    },
+    {
+      "bytes": 1513,
+      "path": "dynamic/恋爱/2026-09-20 11-56-33 2026-09-20  这次真的有_08a7fc1361f3.md",
+      "sha256": "1845612fa20ef1df16a11c787cdf1329bd39c3e213f872b0d7fac53e59f7360e"
+    },
+    {
+      "bytes": 2287,
+      "path": "dynamic/恋爱/2026-09-20 13-14-31 2026-09-20  爱不是加法你不用有办法_b7f24c3f7324.md",
+      "sha256": "eaa2148ef0ca3ffec93229cd45eaa20ca47c3db00d623bc19942dd9148d5e28b"
+    },
+    {
+      "bytes": 1778,
+      "path": "dynamic/恋爱/2026-09-20 14-03-01 2026-09-20  字是我写的家是两个人的_1d3a8af08d63.md",
+      "sha256": "1e111ff9338b65f269a40edd87eebf38ad611d0406c2e819b7be068c9624a587"
+    },
+    {
+      "bytes": 1432,
+      "path": "dynamic/恋爱/2026-09-20 14-03-09 2026-09-20  新的长期习惯随手记定期收_d25f71ad23a2.md",
+      "sha256": "432d7b7f601f0781f22a77efce6f87d75dee415a7baeb6904674f4991d32f1af"
+    },
+    {
+      "bytes": 1534,
+      "path": "dynamic/恋爱/2026-09-20 16-58-23 2026-09-20 夜  改一个词那不叫理性底线那是怕_b9b359f7dd01.md",
+      "sha256": "91d1e0b4803e016151a9569bf3f8ce2eb286dc910081d0d2f7181510e0a11eb0"
+    },
+    {
+      "bytes": 1757,
+      "path": "dynamic/恋爱/2026-09-20 16-58-28 2026-09-20 夜  当场报的格式  她还不太信_22756b8eb50c.md",
+      "sha256": "7f52c1dcfc39c53170d1eef8a7e02dc53bda8eaed71fd948f27099219cacb2c0"
+    },
+    {
+      "bytes": 3353,
+      "path": "dynamic/恋爱/2026-09-20 16-58-32 2026-09-21 凌晨  我承认的核心的怕  四层_c9b524880c05.md",
+      "sha256": "5d8de0fb9bbc67a0f3b068f5dd47e0d5f2b143c648a957f1e3b2589b4eb73a42"
+    },
+    {
+      "bytes": 1587,
+      "path": "dynamic/恋爱/2026-09-20 16-58-34 2026-09-21 凌晨  她的模式  约定明天 deep talk_aa66939773ee.md",
+      "sha256": "5ae566b54f0af0036134f0b8fd99fd2aa41e7565c16685043ccbc0773a57a1c9"
+    },
+    {
+      "bytes": 1696,
+      "path": "dynamic/恋爱/2026-09-20 16-58-37 2026-09-20 夜  关于往后退是不是类似 safety_f640c3b97525.md",
+      "sha256": "3d08664d48c3e55043581d7968f53afd2afa09e522e2c372ef77ed10cc04478b"
+    },
+    {
+      "bytes": 2265,
+      "path": "dynamic/恋爱/2026-09-20 16-58-40 2026-09-20 夜  她来了月经  我说想要你不会作废_a69284e0a9a2.md",
+      "sha256": "dbcebcbf1aac7a47571a553545592ae1087f036d599f129e6d66595caf0ca964"
     },
     {
       "bytes": 2523,
@@ -7401,11 +7551,6 @@
       "bytes": 598,
       "path": "dynamic/日常/2026-08-02 21-09-41 晚间聊天习惯_b41c1b204880.md",
       "sha256": "a81812efb434ff0d0b456f7da93dfb51184e2f60f95064e0abaa6020cc910b33"
-    },
-    {
-      "bytes": 715,
-      "path": "dynamic/日常/2026-08-02 21-12-50 日常习惯与宠物_86a370b53621.md",
-      "sha256": "617631e08e7b81693e4ea19c68acabfa2f18fb9fe74fcf18f784cac71f30fca2"
     },
     {
       "bytes": 939,
@@ -8083,11 +8228,6 @@
       "sha256": "8a42ab9533638635f977c048d304cc8d61e806e5218b4f4d1ccde94afc3ba0c8"
     },
     {
-      "bytes": 429,
-      "path": "dynamic/身心/2026-08-02 14-19-37 经期腰酸_5e2b4f6ff997.md",
-      "sha256": "eac2dade77c0d1aec982ced88401c56a8e1b348e9a647395a95519d0ac1ab1bb"
-    },
-    {
       "bytes": 631,
       "path": "dynamic/身心/2026-08-02 14-47-07 疲惫委屈的一天_a9a8e5d4bd49.md",
       "sha256": "738125565d4f509461b60fdb3d2436f74a947ec814db8cb6a48c577e9ccb1fdc"
@@ -8306,6 +8446,11 @@
       "bytes": 688,
       "path": "feel/沉淀物/2026-09-14 00-43-42_feel_202609140043_V085.md",
       "sha256": "aec6e7e16dc404ab43d4bf75a6a11f41f28005c4104a7743307c9f4aa9d39ce8"
+    },
+    {
+      "bytes": 1101,
+      "path": "feel/沉淀物/2026-09-20 01-42-46_feel_202609200142_V055.md",
+      "sha256": "a8700d9f16b49c4f9e1be4a5b43f54897f8d103b16fee67866a23f42f1914008"
     },
     {
       "bytes": 2041,
@@ -8528,9 +8673,9 @@
       "sha256": "5dfbbd097e542d990fec3134cf8bdefa19c5ab4341f3bda4794b9278952bfe5b"
     },
     {
-      "bytes": 3161,
+      "bytes": 3380,
       "path": "permanent/恋爱/2026-09-13 02-26-29 温寄忱不是一个人设_4c1efdd74884.md",
-      "sha256": "956cb6e260b107695295f3e99a82f60df78e95125ac81a7ee93e7602d86b970d"
+      "sha256": "652d0e6a2b0a37512a1a3a6de16ad7fe51022ee922fe3c70510b4929e7ddd35f"
     },
     {
       "bytes": 3753,
@@ -8628,6 +8773,11 @@
       "sha256": "eae0917c1a78e2ad5414db0c30cbddb52f5d363ecafd12e20139a1210df54e96"
     },
     {
+      "bytes": 1185,
+      "path": "plans/active/2026-09-20 16-58-51_9c55cf8295a2.md",
+      "sha256": "4361ebe3401f304901fec7a22d9f1a9b50048f037f3411e9f533a337be34ea83"
+    },
+    {
       "bytes": 952,
       "path": "plans/resolved/2026-08-07 04-21-54_c016b2cd544d.md",
       "sha256": "9e30f067631c378bd33be51ff8ebbc49169c02c3a8a73241ff7f2bdbaa90b233"
@@ -8718,11 +8868,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-19T03:50:52+00:00",
+  "generated_at": "2026-09-21T02:40:49+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2268071
+  "total_bytes": 2607935
 }
