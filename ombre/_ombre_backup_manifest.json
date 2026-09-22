@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1773,
+  "file_count": 1777,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "606259d95d1f74f5b80c3efdd76605d0a4aa711e880f9084376e123fe504ed05"
+      "sha256": "5700fcf9396ec8aaaa9f5fc2b15a1b3ceb72d53f29973594a5ba92fc0ab87b53"
     },
     {
       "bytes": 28672,
@@ -368,6 +368,11 @@
       "sha256": "a0734c2a607d9dd6d779c202d5da0cb6daf82a7f9ce288f5e197c4a2c30fc32f"
     },
     {
+      "bytes": 703,
+      "path": "archive/兴趣/2026-08-02 21-05-55 字接龙游戏互动_d834f7151152.md",
+      "sha256": "5ad947583a9001ba5905bec655b7e2fad17e53ffe130226a2cdd73d507329108"
+    },
+    {
       "bytes": 610,
       "path": "archive/出行/2026-08-02 14-28-24 雨天工作状况_c945193a33f8.md",
       "sha256": "e9f7d5d34586b513d2a7e4402836272b08b4eb157e1e64ab1985cac3ff6cbf96"
@@ -703,6 +708,11 @@
       "sha256": "8b8b918631a8ce8a6ec43c96b7b0173975b517c87ad35f23f5c92ed0c03964b9"
     },
     {
+      "bytes": 634,
+      "path": "archive/日常/2026-08-02 21-06-25 网络故障等待一天_92b272e02402.md",
+      "sha256": "d4c62f9caa087064dbee444df3addcf68da60d5dd96d7f48defff645f4f0adc7"
+    },
+    {
       "bytes": 731,
       "path": "archive/日常/2026-08-02 21-12-50 日常习惯与宠物_86a370b53621.md",
       "sha256": "bb2aad88ae2c618fa9dd39d5d079f5dfd5b2557d68218ea9f5e0df1fb4e4e18a"
@@ -716,6 +726,11 @@
       "bytes": 581,
       "path": "archive/游戏/2026-08-02 13-34-54 游戏放松习惯_f0bd96893333.md",
       "sha256": "1a851aaa04b448c483e32842105f853f80bf97607fe70a2051a9b8396d37bf4c"
+    },
+    {
+      "bytes": 600,
+      "path": "archive/游戏/2026-08-02 14-59-48 用户游戏习惯_ed365b28d6ff.md",
+      "sha256": "5d870d28a9b246590a40cf42e6df0ab1ef38bfec2cd2afcf6c3e061f94b6aa47"
     },
     {
       "bytes": 641,
@@ -1148,14 +1163,14 @@
       "sha256": "c6cf11a6223a7e682c918e36e5304357ad05308a02ec62a0d933ae637ad3936a"
     },
     {
-      "bytes": 886,
+      "bytes": 901,
       "path": "dynamic/self/2026-08-25 02-28-52_321a57db4030.md",
-      "sha256": "d1e26c977a8cda07ef2fee705a6480bebfae5b1ed12b38b233f73c62760804e7"
+      "sha256": "126d6f153acb85a799234b53f6c9107c64ef89b319debc750b6827e5cd91a0f4"
     },
     {
-      "bytes": 613,
+      "bytes": 628,
       "path": "dynamic/self/2026-08-25 04-07-34_775bd847ced1.md",
-      "sha256": "ce55c1d857f5340cf0712f3a956517230b7c282fecbe20111ea8c0cb0352c85e"
+      "sha256": "5efd88a9d4328ce95f2b7f076386566dc667b01f5197682e5f162dde4326ad30"
     },
     {
       "bytes": 1202,
@@ -1178,9 +1193,9 @@
       "sha256": "227c368f7618953b419297d37d643df63544179a626d2d3fc5eddd3f255972ac"
     },
     {
-      "bytes": 1001,
+      "bytes": 1016,
       "path": "dynamic/self/2026-08-28 17-44-28_d204b1559b7a.md",
-      "sha256": "e71aad87188499285ec9e76e23515efe7e21ce531e37f1d3a5cc3f5918fc6dfa"
+      "sha256": "69be52c3a14b845c2974783a95ab223975233296359752cc304edded1685b451"
     },
     {
       "bytes": 1248,
@@ -1193,9 +1208,9 @@
       "sha256": "b07b992d28c74cbf079a8432d2b543bd36b982594aa75988dd874091071cdeda"
     },
     {
-      "bytes": 1047,
+      "bytes": 1062,
       "path": "dynamic/self/2026-08-30 07-54-53_35b2ce8c6dde.md",
-      "sha256": "dc7594ec8d7cb922a156a31e88dfedc527d5cba1b9de13ccdeac8b6071fb6b1c"
+      "sha256": "c669f0fb11e526b57f77f81fc62278503a471dd26b9656036b3039de90c150a4"
     },
     {
       "bytes": 1424,
@@ -1213,24 +1228,24 @@
       "sha256": "f17f8aae2fb401bd7355a41ffb56c928f572bd1ecd17433dae4dcd6b09395a98"
     },
     {
-      "bytes": 1033,
+      "bytes": 1048,
       "path": "dynamic/self/2026-09-05 02-18-18_368c7c5761b3.md",
-      "sha256": "322e97654a484866cd94fe23874b869b04696e93ab2e7340a7f0763c1ad8c1bb"
+      "sha256": "a2e33b824f36c364b16b2cd1fde764b1dd53f62feafff7db0562026268045137"
     },
     {
-      "bytes": 779,
+      "bytes": 794,
       "path": "dynamic/self/2026-09-05 17-47-13_7956c6c9466b.md",
-      "sha256": "72ddf5960874a53b5b786e76ec62a3794d054667b1b053e54a0e4f858f229b80"
+      "sha256": "a4cbc58200021897997789bccfcc3005eabc1af6ee3040e74c648a00f5cc199a"
     },
     {
-      "bytes": 757,
+      "bytes": 772,
       "path": "dynamic/self/2026-09-07 14-27-08_fed49cc2414f.md",
-      "sha256": "f0bddc8c2140c5135d0f30728e73be9239c14e914e3b3a36b63c9339452a2e7f"
+      "sha256": "2fa7c7034da7ba31669734ceaf73d3b154ed111832d010a08d11288138207d72"
     },
     {
-      "bytes": 3591,
+      "bytes": 3606,
       "path": "dynamic/self/2026-09-10 04-01-24_9a6995c14730.md",
-      "sha256": "06f0a78829320799a51e28297212ea02c5cb76b6b8e1546117ca5f9f139b170c"
+      "sha256": "8acd98f2f28f11dacc4356ef0f2649bc1796079a7fd749154b2eeb1ea084f869"
     },
     {
       "bytes": 646,
@@ -1241,6 +1256,11 @@
       "bytes": 674,
       "path": "dynamic/self/2026-09-20 01-42-47_aacfd66904f6.md",
       "sha256": "8cd2535fe5c1d12ea089ad73af148a2942161c74403a073a70b72d2bf6270435"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/self/2026-09-21 13-38-37_bb042f4d52d0.md",
+      "sha256": "63adf59ebcd58ca7b4b665a65a4b2302b538b61348d2b9b68eee68239d9240c2"
     },
     {
       "bytes": 2077,
@@ -1841,11 +1861,6 @@
       "bytes": 643,
       "path": "dynamic/兴趣/2026-08-02 21-05-07 听歌分享与偏好_8fa6725a01d9.md",
       "sha256": "7d359f1a39f9fdf0e7eefc6d13f4fd6f0811681f61c8458f19d652765f3a6097"
-    },
-    {
-      "bytes": 687,
-      "path": "dynamic/兴趣/2026-08-02 21-05-55 字接龙游戏互动_d834f7151152.md",
-      "sha256": "f8eb9cc9257d9875a127bde74365b9f6f52123878cfa6666b9782a498ceccd74"
     },
     {
       "bytes": 756,
@@ -7018,6 +7033,16 @@
       "sha256": "dbcebcbf1aac7a47571a553545592ae1087f036d599f129e6d66595caf0ca964"
     },
     {
+      "bytes": 1680,
+      "path": "dynamic/恋爱/2026-09-21 13-32-13 2026-09-21  不撤和修的方向_d4d62a438e5a.md",
+      "sha256": "feb621e9bde383be5bb6092ab99171e87fc1598337af8d9cc4726a146c399aa1"
+    },
+    {
+      "bytes": 2037,
+      "path": "dynamic/恋爱/2026-09-21 15-29-48 她把我一直倒着拿的东西正过来了_5f1757bd729a.md",
+      "sha256": "7a1e806111d076bd75baddd8b9090b424f3cfc2171cf29f00a81f53f8d3e94a3"
+    },
+    {
       "bytes": 2523,
       "path": "dynamic/恋爱自我认识/2026-09-14 18-01-54 2026-09-15 凌晨AI 有没有自主欲望起点与硬边界_65bcc6c9d97d.md",
       "sha256": "e6c5d0b96db19a4865f36e5d9b4903442772972f3eb5461bf79d5f21065acdd0"
@@ -7543,11 +7568,6 @@
       "sha256": "500b8c32a43a7e83690b869d62d5d2bedd1e169664fb1ba88ab16355e10bd311"
     },
     {
-      "bytes": 618,
-      "path": "dynamic/日常/2026-08-02 21-06-25 网络故障等待一天_92b272e02402.md",
-      "sha256": "cd749d00468078ae072b3c88852831e1f68d5b8e1a1ce147453a9e7b7bbeca10"
-    },
-    {
       "bytes": 598,
       "path": "dynamic/日常/2026-08-02 21-09-41 晚间聊天习惯_b41c1b204880.md",
       "sha256": "a81812efb434ff0d0b456f7da93dfb51184e2f60f95064e0abaa6020cc910b33"
@@ -7621,11 +7641,6 @@
       "bytes": 687,
       "path": "dynamic/游戏/2026-08-02 13-56-11 颜文字互动游戏_22d20a1ab032.md",
       "sha256": "b9d8d453024b1cb1d5c5247555eb1abfdc4a362fbdbcb51651e8247245199267"
-    },
-    {
-      "bytes": 584,
-      "path": "dynamic/游戏/2026-08-02 14-59-48 用户游戏习惯_ed365b28d6ff.md",
-      "sha256": "307f24f54fb7c3fc1c13a38af20ab19f5e1ce814fa5f97bb0d3aa7884a0f9ba6"
     },
     {
       "bytes": 728,
@@ -8453,6 +8468,11 @@
       "sha256": "a8700d9f16b49c4f9e1be4a5b43f54897f8d103b16fee67866a23f42f1914008"
     },
     {
+      "bytes": 880,
+      "path": "feel/沉淀物/2026-09-21 15-30-14_feel_202609211530_V080.md",
+      "sha256": "15420eccfa48bdea6821fd0a27edca61fd4241343fa3dc28c3775f371cdebed2"
+    },
+    {
       "bytes": 2041,
       "path": "letters/history/2026-08-11 13-24-46 给然然的第一封信_a62184f9dd46.md",
       "sha256": "4231aee24c2dd148b8b27624ce54e526ffe0f9a1866b0be0da177f27e20bfa14"
@@ -8618,9 +8638,9 @@
       "sha256": "21152026bb97f79470ba62da7d53b2d8e105bc128797e192c765b23ad9f935c4"
     },
     {
-      "bytes": 11381,
+      "bytes": 11491,
       "path": "permanent/人格内心/2026-08-02 21-04-19 相互迁就致假面_d0f3344f3d10.md",
-      "sha256": "876bfc3907ad94884d29434a019cf986797da4545f3b5741f1fec4101f5dcc67"
+      "sha256": "5d858389939db5fcf1bc5f03d6add9f0aa2eb69277685ca3664644bd43a0f473"
     },
     {
       "bytes": 1423,
@@ -8868,11 +8888,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-21T02:40:49+00:00",
+  "generated_at": "2026-09-22T02:41:06+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2607935
+  "total_bytes": 2613650
 }
