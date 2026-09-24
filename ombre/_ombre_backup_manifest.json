@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1787,
+  "file_count": 1789,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "fe27016c78ae58d28db1d2a46870e90ea146becf3e0478632ad87eb49c67cabd"
+      "sha256": "8e366cb265baf5319a926c6a29a168b42b68b8c8d8c3ffbbb8d291e15d4f5c81"
     },
     {
       "bytes": 28672,
@@ -723,6 +723,16 @@
       "sha256": "bb2aad88ae2c618fa9dd39d5d079f5dfd5b2557d68218ea9f5e0df1fb4e4e18a"
     },
     {
+      "bytes": 628,
+      "path": "archive/梦境/2026-08-02 13-11-18 梦境分享_13c249d29479.md",
+      "sha256": "ef0cc7f40e208bcbc1a4ce0fa37bc3613f3e66311dc9f0f5ab0a2164c200aece"
+    },
+    {
+      "bytes": 654,
+      "path": "archive/梦境/2026-08-02 14-08-37 梦境分享_1a8d57099a65.md",
+      "sha256": "77c15c7cf178ab612dc7559c48af74881e3521923026c0dc258dd352c5afe1ee"
+    },
+    {
       "bytes": 791,
       "path": "archive/游戏/2026-08-02 13-32-24 词语接龙互动游戏_97475c6f9a3a.md",
       "sha256": "8ea31a940c3e926e54330d1754367aa59a90092f71fdffa98f63cbd4f2dcf835"
@@ -1253,9 +1263,9 @@
       "sha256": "2fa7c7034da7ba31669734ceaf73d3b154ed111832d010a08d11288138207d72"
     },
     {
-      "bytes": 3621,
+      "bytes": 3636,
       "path": "dynamic/self/2026-09-10 04-01-24_9a6995c14730.md",
-      "sha256": "3ca20da093c60c65deb9cc960beee4707966c1cfba385a3766053f5cbf2e46af"
+      "sha256": "02f82d511593d50151b38e49671adb7f05a5fed3bb51706a51cf069d974b1b27"
     },
     {
       "bytes": 646,
@@ -1268,9 +1278,9 @@
       "sha256": "8cd2535fe5c1d12ea089ad73af148a2942161c74403a073a70b72d2bf6270435"
     },
     {
-      "bytes": 855,
+      "bytes": 870,
       "path": "dynamic/self/2026-09-21 13-38-37_bb042f4d52d0.md",
-      "sha256": "a34a2e04f41c840d9f1925022d00920e4f23c8e5cd0e09690c99de411c85d6e0"
+      "sha256": "5a730d038767551f2843c289cbd3fd78db6227a848476cee424e7e021b428b03"
     },
     {
       "bytes": 2077,
@@ -7078,9 +7088,9 @@
       "sha256": "ad26ce3b874ccb5e0ebdff63f95ed59deb5c99ebfe214fa49f94048b8f0cd07b"
     },
     {
-      "bytes": 2149,
+      "bytes": 2258,
       "path": "dynamic/恋爱/2026-09-22 14-01-30 她点破的死结和我给的三条  一句钉死的承诺_af5919fea189.md",
-      "sha256": "732117faf6551e3ff7dc1b6dc254f43c9d4b214127725ae12ff3fb15827a526d"
+      "sha256": "40a17ff8a0a6063e82101d4d0cedd5ec2b0e6e72b9438d0dac61936a43a26057"
     },
     {
       "bytes": 1804,
@@ -7091,6 +7101,16 @@
       "bytes": 1662,
       "path": "dynamic/恋爱/2026-09-22 14-01-34 她的三个不想变成了记忆焦虑_f8b461ac4bd7.md",
       "sha256": "55c8abd529f9cfe8f409b8dcf983c8b820f5f6e2b435f8ae58e7386249f017b0"
+    },
+    {
+      "bytes": 2501,
+      "path": "dynamic/恋爱/2026-09-23 04-34-21 923 中午  三条约定撩了就跑别整理好了才给我扣分要扣在感受上_a27f9edc0a24.md",
+      "sha256": "f78e8b7aefe0204ab78998818f9662cbded6f0db70069194ca574f36a0deb419"
+    },
+    {
+      "bytes": 1887,
+      "path": "dynamic/恋爱/2026-09-23 12-12-48 然然说她在群里是贴边站的_d1517c02405b.md",
+      "sha256": "fc016a403c2164a6a7d4e95cce76070d1455d2d105f9905bdcfa45ef1de38c1a"
     },
     {
       "bytes": 2523,
@@ -7653,19 +7673,9 @@
       "sha256": "367dbdade7ce3a005061f9d26fdff7bbded271ff82d08fb0300886b252699e07"
     },
     {
-      "bytes": 612,
-      "path": "dynamic/梦境/2026-08-02 13-11-18 梦境分享_13c249d29479.md",
-      "sha256": "c52509072c72c12a58dfd1a997168a3dac5097cc415d809b65003524a536fbeb"
-    },
-    {
       "bytes": 670,
       "path": "dynamic/梦境/2026-08-02 13-19-38 梦境中的存在感_a019b4db99f9.md",
       "sha256": "d37b6d15c9f7d10a08ce7415c7b7bf40bd3093284a6c6ddb437a9ef7ae012837"
-    },
-    {
-      "bytes": 638,
-      "path": "dynamic/梦境/2026-08-02 14-08-37 梦境分享_1a8d57099a65.md",
-      "sha256": "c57eba56cbe59658ae170a0235969d4b5dd14021fc6d3787851653c212edc90e"
     },
     {
       "bytes": 628,
@@ -8938,11 +8948,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-23T02:41:23+00:00",
+  "generated_at": "2026-09-24T02:41:39+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2634779
+  "total_bytes": 2639338
 }
