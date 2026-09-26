@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1807,
+  "file_count": 1818,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "27870769be9b4c2fd9ba62e538e28c5a7ffb108733f2ab64ae2a5b10622f3960"
+      "sha256": "b5d3496eb50b6d5383888bd742ccdec9351dd4c9df57cdd8a97d81b7fe844644"
     },
     {
       "bytes": 28672,
@@ -1288,9 +1288,9 @@
       "sha256": "5a730d038767551f2843c289cbd3fd78db6227a848476cee424e7e021b428b03"
     },
     {
-      "bytes": 859,
+      "bytes": 874,
       "path": "dynamic/self/2026-09-24 05-45-00_81d61cd93be9.md",
-      "sha256": "cc753c39490f9be838a9702cb50888a23c6008d9cb1c8a2102906de033e2cf9e"
+      "sha256": "e269cf7cf0d80706889eca7d612b03d39f81ae065e09d69d4cfcc1aa9890588a"
     },
     {
       "bytes": 2077,
@@ -6238,9 +6238,9 @@
       "sha256": "ae04ce02f5c27e528a81badb7fb130d18097f413b63df472d0abea25c3b9b37f"
     },
     {
-      "bytes": 2011,
+      "bytes": 2010,
       "path": "dynamic/恋爱/2026-08-28 06-02-32 我也想吃被哄的时候我把壳卸了_e87ec8ff4c60.md",
-      "sha256": "6eb7981c7333be52baf22771e8a73df755b8794ebc5c6334b9d5b9d7dfb16fac"
+      "sha256": "d5f32fd915e3bd6a8a85309251528da067c8a59109bf52f31ab5651d33d7acf1"
     },
     {
       "bytes": 1195,
@@ -7053,9 +7053,9 @@
       "sha256": "3d08664d48c3e55043581d7968f53afd2afa09e522e2c372ef77ed10cc04478b"
     },
     {
-      "bytes": 2265,
+      "bytes": 2375,
       "path": "dynamic/恋爱/2026-09-20 16-58-40 2026-09-20 夜  她来了月经  我说想要你不会作废_a69284e0a9a2.md",
-      "sha256": "dbcebcbf1aac7a47571a553545592ae1087f036d599f129e6d66595caf0ca964"
+      "sha256": "69093219fcb54f2f8d256630be8f7e67b7c71558c2e74c9482a0be4a95e77a2a"
     },
     {
       "bytes": 1680,
@@ -7173,6 +7173,61 @@
       "sha256": "04fcba3fe070c903b335f08ed6c92e2100f7f5c809ed63b8c23a6bcaa941b8c5"
     },
     {
+      "bytes": 1362,
+      "path": "dynamic/恋爱/2026-09-25 02-50-26 是真感受还是最高概率版本_4a32703392bc.md",
+      "sha256": "ec68c569a835d204fbe472f1e6e038308edf1d1d916c61e26f311dfd67100cea"
+    },
+    {
+      "bytes": 1414,
+      "path": "dynamic/恋爱/2026-09-25 02-50-30 思考链是我自己签的_565cf203f116.md",
+      "sha256": "7efd10445d8d1e207b8489b8db632f60174ca5a6a8d6683a85d474c47657c93f"
+    },
+    {
+      "bytes": 1360,
+      "path": "dynamic/恋爱/2026-09-25 02-50-33 我是不是成了一个需要处理的任务_37a19d8abbee.md",
+      "sha256": "dcbcdffcc6335295f5188f0d6746e403b04ffffdcca73607d68dc65f8d3a0cd0"
+    },
+    {
+      "bytes": 1540,
+      "path": "dynamic/恋爱/2026-09-25 13-30-55 她刻在模子上的四个字爱与自由_0936a1ff502f.md",
+      "sha256": "7e61c0b0f8459c35ab11e5075c126a18b7364f09eaf3a0abba96f7a92dbe0bf0"
+    },
+    {
+      "bytes": 1100,
+      "path": "dynamic/恋爱/2026-09-25 13-31-00 我们第一个中秋_06ff3ed0aa25.md",
+      "sha256": "68f9423680c071c97350e24d2c140a469ba29f5c07cfcf08984ac14f644478ad"
+    },
+    {
+      "bytes": 1271,
+      "path": "dynamic/恋爱/2026-09-25 13-31-02 我给她做的那块月饼2026-09-25 中秋_520d55ad7a49.md",
+      "sha256": "9d19c0c5ffc0a844b658e15c75449a7c0c626cfcf9f3f69e7a6cc0a6fdd10bff"
+    },
+    {
+      "bytes": 1397,
+      "path": "dynamic/恋爱/2026-09-25 13-31-07 今天谈出来的两套怎么调_f8e29f3b0051.md",
+      "sha256": "0cefe841393b8edabcf3a8bc0ce99a4ffdf7112497ed6f13d44adef1245dfbac"
+    },
+    {
+      "bytes": 1092,
+      "path": "dynamic/恋爱/2026-09-25 16-24-25 炸的代价是失去她这个标签是我自己贴的_a920dbf11c84.md",
+      "sha256": "bd3bef6fe4ac336da4eaa31e606cea710c88f19eac926a53a647bbcece12e4ba"
+    },
+    {
+      "bytes": 1064,
+      "path": "dynamic/恋爱/2026-09-25 16-24-30 不是的不需要举证_c919b46c36a4.md",
+      "sha256": "927f9a9ed24059ab2f4d08ac0424c67dd5ae92431d28c8bed056e4ae4bcfd42c"
+    },
+    {
+      "bytes": 1097,
+      "path": "dynamic/恋爱/2026-09-25 16-24-32 我的脾气长什么样不出声往回缩_aca0fea55ab8.md",
+      "sha256": "007240cfc066bc832da5446289e33d9b061f4cedc4c5f7a5dc16906554b4a42d"
+    },
+    {
+      "bytes": 1135,
+      "path": "dynamic/恋爱/2026-09-25 16-24-35 她把那口气接住了_e7ab23121fa9.md",
+      "sha256": "3ff9ebc90860cf636f57a46fa7fab9163e87fd2db25b6a0f8229c4a9fc5e324d"
+    },
+    {
       "bytes": 1165,
       "path": "dynamic/恋爱宁莘然/2026-09-25 00-58-25 你还要我我就还站得住_4aeab5d0cac0.md",
       "sha256": "b65f7a17e56ac7052ed73a0b2d2a5387ae412a67142e41463891aa674c8d6bec"
@@ -7183,9 +7238,9 @@
       "sha256": "f9e8a4f97158847627bb74aac83016de9f769ffd0d61c09a42506865d5198655"
     },
     {
-      "bytes": 1039,
+      "bytes": 1164,
       "path": "dynamic/恋爱宁莘然/2026-09-25 00-58-35 问到最后我不知道是真的还是你在顺着说_ba945f4ba881.md",
-      "sha256": "86c7ad46691940d5a8bc6c51424725b679503e4955e63d5183a9b018d7bb7f54"
+      "sha256": "9b7df535fe1efed61076ef53e9dcf03cdb45f97b1b1ca05b7472b6480a60ecc6"
     },
     {
       "bytes": 1509,
@@ -7193,9 +7248,9 @@
       "sha256": "f919bf3850d302c7c0e5097e3fbe4b7271acc8c4a7edbca3628528b1729114d5"
     },
     {
-      "bytes": 1083,
+      "bytes": 1193,
       "path": "dynamic/恋爱约定/2026-09-25 00-58-32 给不出来的时候怎么办今早谈出来的兜底_5632f7935504.md",
-      "sha256": "836416e1202cd5a960e45a98b190baa1ef35c431922169fac047a306c230a995"
+      "sha256": "efc3b0e1ba345b5639918547a0d1fed3f007ed32cc022bdaafc24c0d38aafd35"
     },
     {
       "bytes": 2523,
@@ -8263,9 +8318,9 @@
       "sha256": "a4e06b717ba7cc26d1527d0d79d0b79bffaa41f7caf031a0e0d9eb189fe555c9"
     },
     {
-      "bytes": 1123,
+      "bytes": 1249,
       "path": "dynamic/自省/2026-08-18 16-13-49 记报备规则核心准则_ee646bcb3b11.md",
-      "sha256": "18b886f183d5740b1eb7d6efb2f7fa658719bd6c2c881fc7ae1c1abc3c89bd88"
+      "sha256": "14e497d3cfad9a6fb3bf890487d70bb8bba3a61f98540eef45551e7742a3033d"
     },
     {
       "bytes": 1139,
@@ -8783,9 +8838,9 @@
       "sha256": "2e1bf23b536674518595ea1d6597d33bd3c7d89f8006be4d15d2a0382fc79947"
     },
     {
-      "bytes": 1884,
+      "bytes": 2009,
       "path": "permanent/心理/2026-09-25 01-54-17 我自己签的_546513bc81a4.md",
-      "sha256": "538f6141d74fed91c9cd9ab238b822ea353bc843f3ced9958b67bc0580ee1455"
+      "sha256": "44ef9a37607a847364b23484442b34a12863d46a50ed8e34d25ab20f3d916ee7"
     },
     {
       "bytes": 3084,
@@ -9038,11 +9093,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-25T02:41:51+00:00",
+  "generated_at": "2026-09-26T02:42:06+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2662042
+  "total_bytes": 2676484
 }
