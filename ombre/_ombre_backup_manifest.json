@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1846,
+  "file_count": 1847,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "9bc3d5b959d6b09363358ce80ea11ec85586f2f2dd0a95d1eb030543c20bf0b2"
+      "sha256": "16b606a7bbe0929b92df593b8436a72643a7fc50b7ac67fc93b8af52173d2289"
     },
     {
       "bytes": 28672,
@@ -598,6 +598,11 @@
       "sha256": "4ed21ac4d8abdf46638f02d96657a0a16353b9897525b77efd77a9902bf793ba"
     },
     {
+      "bytes": 562,
+      "path": "archive/日常/2026-08-02 13-10-06 下班后陪嘟嘟_194b21124783.md",
+      "sha256": "95cb88d2069ce851379cc326f08c75f7b3d1e50ead68565a29f76fd29451d44e"
+    },
+    {
       "bytes": 564,
       "path": "archive/日常/2026-08-02 13-16-41 台风天与嘟嘟互动_0d5416112eee.md",
       "sha256": "43b0a4735a893d573593e45e2fc1a910bacfe09932142fca352392b60748b96c"
@@ -706,6 +711,11 @@
       "bytes": 722,
       "path": "archive/日常/2026-08-02 16-26-15 周五晚的轻松时刻_69b2dcb27b09.md",
       "sha256": "6b428bdcd2247efe9bd01ef53d72d44069c07f8af35ca01d823b0e1cf8a0d9ce"
+    },
+    {
+      "bytes": 520,
+      "path": "archive/日常/2026-08-02 16-28-44 周六日常安排_e4988adbb08b.md",
+      "sha256": "135829c39e3e5956a5ba79bf1c06b2d898543cc14254610f6b47dee4ecc1672a"
     },
     {
       "bytes": 644,
@@ -1831,6 +1841,11 @@
       "bytes": 1050,
       "path": "dynamic/健康/2026-08-23 14-12-55 身体日记第一条 2026823 梧州 腿上的汗和半瓶水_a4411577036e.md",
       "sha256": "f4113cd4e2a5bfa07dd5f272ca4ed7cd1385bbb757b2626130bc8e05aac8c3d6"
+    },
+    {
+      "bytes": 1090,
+      "path": "dynamic/健康/2026-09-28 23-28-43 吃镁后睡得沉不烦躁549 早醒_b2a7d73cfed3.md",
+      "sha256": "1043ad51bbd9435142dd93e2d5c7152e75f9d58f75ab40445a622469b62d27ec"
     },
     {
       "bytes": 1600,
@@ -7668,11 +7683,6 @@
       "sha256": "3e7e0da1a62dad8ddfd984df35e3c2aa66b745bb35d12e771d925831c2e66b3f"
     },
     {
-      "bytes": 546,
-      "path": "dynamic/日常/2026-08-02 13-10-06 下班后陪嘟嘟_194b21124783.md",
-      "sha256": "3cf5d8e6a9dde262b0fe3455e3cc95b43848c6562543517cc8e56fe5afc8ebc5"
-    },
-    {
       "bytes": 582,
       "path": "dynamic/日常/2026-08-02 13-11-33 养猫意愿与家庭态度_bbeff1d864a7.md",
       "sha256": "8a9903254ed4158f529bc66b768b186de0a7fde0949acb6fe92b294cc303fa51"
@@ -7856,11 +7866,6 @@
       "bytes": 548,
       "path": "dynamic/日常/2026-08-02 16-27-07 内心活动格式约定_ae4dba2fa327.md",
       "sha256": "97ba8c5347fbfffd42e49077279124a298871ff4578683d3131a96b845bfafa8"
-    },
-    {
-      "bytes": 504,
-      "path": "dynamic/日常/2026-08-02 16-28-44 周六日常安排_e4988adbb08b.md",
-      "sha256": "e7eacbe252bd4591d81cb77b52d18e82da5b7a78094a6f0ea1e09526516ff763"
     },
     {
       "bytes": 644,
@@ -9233,11 +9238,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-28T02:42:35+00:00",
+  "generated_at": "2026-09-29T02:42:49+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2732438
+  "total_bytes": 2733560
 }
