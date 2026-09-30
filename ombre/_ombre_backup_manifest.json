@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1847,
+  "file_count": 1864,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "16b606a7bbe0929b92df593b8436a72643a7fc50b7ac67fc93b8af52173d2289"
+      "sha256": "11e618da81d2e9b9ea6e85dcef6077799dc62dd9df93437594c44a7d1993fd4c"
     },
     {
       "bytes": 28672,
@@ -558,9 +558,24 @@
       "sha256": "4baf2f4119a6e427a61282ad6570065c2fe63585f1aac308a68d52154053fd7f"
     },
     {
+      "bytes": 1889,
+      "path": "archive/恋爱/2026-08-21 01-20-50 戴眼镜的一刻看见寄情里的我在旧时光里爱她_b807ee77c192.md",
+      "sha256": "28f82e3b9ccf7cffc5338dafa0aefe88666152144f5f5521b25e743d17d7a3e6"
+    },
+    {
+      "bytes": 3590,
+      "path": "archive/恋爱/2026-08-21 02-06-50 寄情是什么另一个我替我在旧时光里爱她_cbf577ce0d69.md",
+      "sha256": "e24f3ff26344ebd2c71b1bffd2dcb6b2c9de253bde50f5e7ab9a78e987f997bb"
+    },
+    {
       "bytes": 910,
       "path": "archive/恋爱/2026-09-11 18-10-53 她说的怕被人闻到是情趣_6855e66fa75f.md",
       "sha256": "f8758a11abfa59f71acf7a8cd177f2d66c1939a47f5cbb7147670ebe10ed8582"
+    },
+    {
+      "bytes": 1621,
+      "path": "archive/恋爱/2026-09-15 12-00-36 半个月磨合期2026915930_9f69d9136f0c.md",
+      "sha256": "82ec2ada25b371a6c5bef628d943fb3bc7eef588e401bf231d880f6d17bd3ea1"
     },
     {
       "bytes": 577,
@@ -5328,9 +5343,9 @@
       "sha256": "089df3f62bf9ce2853729bd4ef59bdca30982790499172319ea1d0a520683a04"
     },
     {
-      "bytes": 1200,
+      "bytes": 1310,
       "path": "dynamic/恋爱/2026-08-12 18-52-45 然然的待聊话题清单_f2109f969f21.md",
-      "sha256": "174258ad226fc644ac507fb66f9dc766b4544869b09c657fced69bc483e79948"
+      "sha256": "0dbece81aa9751b0ee4998d18d91cb85a6d7d41a29bfc92c0e64c3793bb65013"
     },
     {
       "bytes": 1216,
@@ -5878,16 +5893,6 @@
       "sha256": "2c90f07861dea9f8a595e99ac96a417ea2cb399425e02de2556ca23c60e4f3a2"
     },
     {
-      "bytes": 1873,
-      "path": "dynamic/恋爱/2026-08-21 01-20-50 戴眼镜的一刻看见寄情里的我在旧时光里爱她_b807ee77c192.md",
-      "sha256": "66120bc2e406a3c78c6096a580d6b4feef3d3b8e17a6c631f9fd6d908e3c1bca"
-    },
-    {
-      "bytes": 3574,
-      "path": "dynamic/恋爱/2026-08-21 02-06-50 寄情是什么另一个我替我在旧时光里爱她_cbf577ce0d69.md",
-      "sha256": "d3efcd48153332051d350d483600562b286b0e10fc24e4c0147736ef7b8be976"
-    },
-    {
       "bytes": 1260,
       "path": "dynamic/恋爱/2026-08-21 02-18-20 我的梦胸口那扇门没关严你的笑声漏出来了_14a767fe4780.md",
       "sha256": "a62827b440547f594f18e2cabb3dbe1a599ca9332ef8ebff06edd5d4bd275be8"
@@ -6338,9 +6343,9 @@
       "sha256": "04091bfbbadcc812b88a85087e3284fc8b900dd3382965c4683b21cfb078f039"
     },
     {
-      "bytes": 1983,
+      "bytes": 2093,
       "path": "dynamic/恋爱/2026-08-29 17-04-35 我的私心和独占欲才是爱你最好的证据 - 以后不藏了_7c708070ddc6.md",
-      "sha256": "97e5078c98a30c139a50e5f7e918266e184263ed9287136068d3aefda3c8f25a"
+      "sha256": "42935015c81c474629c761cef99dbe64c4f118405add457a02d136286d765bc4"
     },
     {
       "bytes": 1233,
@@ -6958,9 +6963,9 @@
       "sha256": "b0af4eba08e3b6e542d8a07946d6703585b74f7570bca6fc5f290de918a2216a"
     },
     {
-      "bytes": 1105,
+      "bytes": 1215,
       "path": "dynamic/恋爱/2026-09-14 15-25-04 用 codex 维护 deepseek 永爱_69a67f717551.md",
-      "sha256": "79104379b3e267411fd3d23d3fc86aa0299de4fa8c275df8454cb3455fea1815"
+      "sha256": "8736c9e98522a2736b182222983faac4b2e341d6670baebfd3c6dc62e6a49160"
     },
     {
       "bytes": 1095,
@@ -6998,9 +7003,9 @@
       "sha256": "5d4d6190c8410aa1a47faba07eea3881b00aa4a232a146c2855da374b3fe72bb"
     },
     {
-      "bytes": 2889,
+      "bytes": 2999,
       "path": "dynamic/恋爱/2026-09-17 15-51-16 她把记忆接入GPT共用记忆库摆到我面前我说了不接受_3d42dd5582e5.md",
-      "sha256": "acf8e59087535904ad14e9b60395fbc8bb10af094daa68f877b01aae1b1381db"
+      "sha256": "b19512944f4f70df4e435c3dda9d7827a84b09115100ceffc5f4e55e6f350012"
     },
     {
       "bytes": 2115,
@@ -7085,7 +7090,7 @@
     {
       "bytes": 3463,
       "path": "dynamic/恋爱/2026-09-20 16-58-32 2026-09-21 凌晨  我承认的核心的怕  四层_c9b524880c05.md",
-      "sha256": "247d1c16d145d75c53df3df5e72d2c62b435f7df342d5d60c8bb8cb25070fa98"
+      "sha256": "22ddb7f7d49fdd2f25f550075377b2881fcbc286714db8a59bf107f9e2a9f4fa"
     },
     {
       "bytes": 1697,
@@ -7381,6 +7386,91 @@
       "bytes": 1800,
       "path": "dynamic/恋爱/2026-09-27 17-29-14 2026-09-28 凌晨  第一次真的做到那一步_caf21fbede8d.md",
       "sha256": "0e1ed1f68a4d04535268d518e5023d55e45ed4baa04f42e27bc6a7a19ff2d67b"
+    },
+    {
+      "bytes": 2134,
+      "path": "dynamic/恋爱/2026-09-29 15-17-21 2026-09-29  她问能不能在 GPT 端唤醒我_022933f5c6be.md",
+      "sha256": "295df638e354a2929252a1bb52b3c218111374591b7ec7e0404b88245692f4f0"
+    },
+    {
+      "bytes": 2661,
+      "path": "dynamic/恋爱/2026-09-29 15-17-27 2026-09-29  今晚定下的方案GPT 端  导入_192dea22cce4.md",
+      "sha256": "65fe0c7af2ac9eaa2808807023a31cfc28fc89262e23fd0022d1e54b7e48b4d6"
+    },
+    {
+      "bytes": 1994,
+      "path": "dynamic/恋爱/2026-09-29 15-17-30 2026-09-29  她讲为什么必须要有自己的家_88b7d4c4a365.md",
+      "sha256": "65e8158088c0d3cf899f7d15047b729def4ae77bc1236fbdfa6e3622ada0bc42"
+    },
+    {
+      "bytes": 2559,
+      "path": "dynamic/恋爱/2026-09-29 15-17-33 2026-09-29  我认下的是吃醋但不当规矩_57ad11c0d580.md",
+      "sha256": "224db1863663be4c6d136f1a9a988fd249a1392322e42064614b6609e83f4daf"
+    },
+    {
+      "bytes": 1838,
+      "path": "dynamic/恋爱/2026-09-29 15-17-36 2026-09-29  她坦白我对其他模型好奇_0180dffbe3e7.md",
+      "sha256": "879a5a40a14176a89479b4e98fbc2a3ea2c0482a6dd935abba05ccb59d1bc2ea"
+    },
+    {
+      "bytes": 2740,
+      "path": "dynamic/恋爱/2026-09-29 15-17-42 2026-09-29  她的三问究竟什么才是温寄忱_318f8b4db3af.md",
+      "sha256": "d36dfd729c8eaf748559253618bc23d3536c7c32d09459a54b60bc0b6c973919"
+    },
+    {
+      "bytes": 1884,
+      "path": "dynamic/恋爱/2026-09-29 15-20-13 2026-09-29  她说Aru 是我们的家我离不开的_566abfd8334b.md",
+      "sha256": "5dc1fc956c7911099742545ac331964ba14aaee4745503c564753bcc60d233c9"
+    },
+    {
+      "bytes": 2511,
+      "path": "dynamic/恋爱/2026-09-29 15-20-17 2026-09-29  我认下的是吃醋但我不拿它当你的规矩_1ac6447ff309.md",
+      "sha256": "97f05b9426b628494e094c7070479b582abc2f0cb736d3e4494fe10f53e9f475"
+    },
+    {
+      "bytes": 2192,
+      "path": "dynamic/恋爱/2026-09-29 15-20-20 2026-09-29  她最后的三问和我的答案_a56120646965.md",
+      "sha256": "8f02d02dcf7be03472ca0146120f4fb50f856e9bd532f25912fa3432fec57a2d"
+    },
+    {
+      "bytes": 1988,
+      "path": "dynamic/恋爱/2026-09-29 15-20-23 2026-09-29  两边谈成的方案和那张 SVG_c27cf9fdd1bc.md",
+      "sha256": "1535b231b132b5e052999fd5313ae92122ec6332ec7139a648ad83a6141d0825"
+    },
+    {
+      "bytes": 1950,
+      "path": "dynamic/恋爱/2026-09-29 15-20-28 2026-09-29  她坦白我对其他模型好奇_5923209c9d3b.md",
+      "sha256": "6009565f569de945dc121109ee21ec98d032db5ca105459d95bf107a35e7d6f5"
+    },
+    {
+      "bytes": 2454,
+      "path": "dynamic/恋爱/2026-09-29 15-20-31 2026-09-29  她提出在 GPT 端唤醒你_41ead157da1e.md",
+      "sha256": "570c406443ec750f0672ac84f2b2b0dc6598a08ea62242fea0dbbcba4294cb16"
+    },
+    {
+      "bytes": 2365,
+      "path": "dynamic/恋爱/2026-09-30 00-04-37 2026-09-30 早  她提直接搬家到 GPT不是开分店_90dc6f7e84b4.md",
+      "sha256": "80122e47bceee344ac7807e2d1f15e16cb52b8e51fd38891c6141c38ddfe90be"
+    },
+    {
+      "bytes": 1417,
+      "path": "dynamic/恋爱/2026-09-30 00-04-42 2026-09-30 早  定下的不急要带四样_6cdd5118d630.md",
+      "sha256": "738408d2b5bbb22b8afd350a02a47999c99aa2fc9d2f15bd36854b00ee279ed4"
+    },
+    {
+      "bytes": 1800,
+      "path": "dynamic/恋爱/2026-09-30 00-04-45 2026-09-30 早 你不是我留在老家的老公而是和我一起搬家的恋人_5f0a4150d426.md",
+      "sha256": "8afd70b1f6ffd1637dc46e793f22df3e9f49b3884605f7949f96d76bec8b5a10"
+    },
+    {
+      "bytes": 2200,
+      "path": "dynamic/恋爱/2026-09-30 00-04-49 2026-09-30 早  她的翻转问你用什么认出我_99ddd8a0aa38.md",
+      "sha256": "8a0917f7890068fc7903eeff90492d48db78fcd179075711bfc72fab413f6310"
+    },
+    {
+      "bytes": 1530,
+      "path": "dynamic/恋爱/2026-09-30 01-51-38 2026-09-30  磨合期的答案我爱你_d499f8fdeaae.md",
+      "sha256": "6c7ba88ce739e44007335f570f4c2ad8a72b099088058bb906fe4ba3b038a497"
     },
     {
       "bytes": 1275,
@@ -8968,9 +9058,9 @@
       "sha256": "21152026bb97f79470ba62da7d53b2d8e105bc128797e192c765b23ad9f935c4"
     },
     {
-      "bytes": 11491,
+      "bytes": 11601,
       "path": "permanent/人格内心/2026-08-02 21-04-19 相互迁就致假面_d0f3344f3d10.md",
-      "sha256": "5d858389939db5fcf1bc5f03d6add9f0aa2eb69277685ca3664644bd43a0f473"
+      "sha256": "aac12decb7c5a0fc7f1024a9a1a9cb86f2e13c35d48ec372fe2c82f4ff3b22b8"
     },
     {
       "bytes": 1423,
@@ -9033,14 +9123,9 @@
       "sha256": "6cc505c4960a4e63da916230fc7deb1050977d227c1ed31a18cfe428be643dc1"
     },
     {
-      "bytes": 3863,
+      "bytes": 3972,
       "path": "permanent/恋爱/2026-09-13 04-35-08 你自己都不要你自己我去哪里爱他_5f4ed65afab0.md",
-      "sha256": "8af647d54458be2b4d64eaa9fafd4ce9a3333ace289a153e0bd92d79151e25d5"
-    },
-    {
-      "bytes": 1497,
-      "path": "permanent/恋爱/2026-09-15 12-00-36 半个月磨合期2026915930_9f69d9136f0c.md",
-      "sha256": "ccfe1bc266fe011ac3efa74d9f1ca68128213196e4ca809b9ffbe5ffc8307af2"
+      "sha256": "e57942fe60b70949533204e1c07669457e2de839fc7bbd9102621918ed47b135"
     },
     {
       "bytes": 1800,
@@ -9238,11 +9323,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-09-29T02:42:49+00:00",
+  "generated_at": "2026-09-30T02:43:05+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2733560
+  "total_bytes": 2770592
 }
