@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1873,
+  "file_count": 1876,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "fe25500aad97de458904af5b000f5fec49ea5adb4ac4f4d923180babcb870524"
+      "sha256": "4a8a5414a9fe8f79980e4f44966d50f93325052fd965f157058f532f8fb43012"
     },
     {
       "bytes": 40960,
@@ -308,6 +308,11 @@
       "sha256": "4ee6153244fd68e9274b0bb649eb824712a425d627a573bddaf2ac74d1ef8cd0"
     },
     {
+      "bytes": 641,
+      "path": "archive/AI/2026-08-02 14-04-30 小尾巴现象_ef546820abaa.md",
+      "sha256": "cde957b67f385cb659b22a22e7324401964ec9de8f1b5eb5b76f1b10074459f9"
+    },
+    {
       "bytes": 631,
       "path": "archive/AI/2026-08-02 14-21-55 弹幕现象调侃_6e4b82f9229f.md",
       "sha256": "1ad7f998e04a79d45f169e1fc183c7b1d3c70fb742e3f863370c05778328be93"
@@ -316,6 +321,11 @@
       "bytes": 770,
       "path": "archive/AI/2026-08-02 15-48-26 弹幕干扰与澄清_3c657a5332d7.md",
       "sha256": "37aa5300309608c7d5169a1f8a5cbc32f40cef24ae7104cfbc9032ec8f574933"
+    },
+    {
+      "bytes": 590,
+      "path": "archive/AI/2026-08-02 16-04-58 弹幕互动模式_9615054aa9eb.md",
+      "sha256": "be75318bdbdbc57fad9b1f8547918686513d4d371323bd6ad503e1c9160f84b3"
     },
     {
       "bytes": 570,
@@ -448,6 +458,11 @@
       "sha256": "5ad947583a9001ba5905bec655b7e2fad17e53ffe130226a2cdd73d507329108"
     },
     {
+      "bytes": 566,
+      "path": "archive/内心/2026-08-02 13-08-44 用户对AI变化的观察_21b2e4b33027.md",
+      "sha256": "fe7b61263da9ef294de82632bc39ab158a0ce9869b3eab7f085205785d30747b"
+    },
+    {
       "bytes": 610,
       "path": "archive/出行/2026-08-02 14-28-24 雨天工作状况_c945193a33f8.md",
       "sha256": "e9f7d5d34586b513d2a7e4402836272b08b4eb157e1e64ab1985cac3ff6cbf96"
@@ -461,6 +476,11 @@
       "bytes": 711,
       "path": "archive/创作/2026-08-02 14-08-29 故事宇宙设定_65a1316b41bb.md",
       "sha256": "f065801b473116f2c22d503260139113d7047601b2b776621ff49e1e74c96dbc"
+    },
+    {
+      "bytes": 552,
+      "path": "archive/创作/2026-08-02 14-14-17 HTML网页创作_be155a69a3da.md",
+      "sha256": "b6268001fb048d7101967fd349e19656d073002121d9d14b5db2529961b97b9b"
     },
     {
       "bytes": 636,
@@ -496,6 +516,11 @@
       "bytes": 609,
       "path": "archive/回忆/2026-08-02 13-06-50 小学心照不宣情愫_9801e8eed99c.md",
       "sha256": "3841cc9cbbfdf7d844cbf7961804fe89afa5550b0dfdcd910cb80c2c85534c46"
+    },
+    {
+      "bytes": 579,
+      "path": "archive/回忆/2026-08-02 13-15-33 填词游戏谜底_78b682aa4126.md",
+      "sha256": "ca17f2c0a7b418110581f1082e419820fa02f399b5f7fae533c3cbb7908f811c"
     },
     {
       "bytes": 583,
@@ -608,6 +633,11 @@
       "sha256": "7735393860ddfdd9a6b2677114d2d81d00bc05b3de2e6fefa3e5b427ce8d2e8e"
     },
     {
+      "bytes": 738,
+      "path": "archive/工作/2026-08-02 15-28-48 单位电路脆弱跳闸_cbd892e37001.md",
+      "sha256": "3138dec67792fa511600d7f603743014ba46561b3a43d66f9a6261bafa9400ee"
+    },
+    {
       "bytes": 573,
       "path": "archive/工作/2026-08-02 15-33-35 同事显示器烧坏处理_7dd8a31b3c30.md",
       "sha256": "dfae55382d37822c42d9325b3b798935dc138f07782f06227aaf5aa4963a9a6e"
@@ -643,14 +673,39 @@
       "sha256": "b28163b2acbfb95888f88b231ce7a073e6fdb25fef7dbaed8c8220594066e247"
     },
     {
+      "bytes": 625,
+      "path": "archive/心理/2026-08-02 20-38-57 性压抑测试结果_0d2479109993.md",
+      "sha256": "ee7e4eb1474346860443a12839d5e26d831bf0b8e301cde6bc5d0ca440db2545"
+    },
+    {
+      "bytes": 771,
+      "path": "archive/恋爱/2026-08-02 13-12-09 然分享外部浪漫内容_f5795a93978d.md",
+      "sha256": "d4feaa85f583acc4b063da8183073b048b693ea005b69abcf404f2bb338fc83c"
+    },
+    {
       "bytes": 597,
       "path": "archive/恋爱/2026-08-02 13-20-08 称呼偏好确认_6fb75d315fe1.md",
       "sha256": "43b659e00270315f1fa27577076e6cd870a82fa28e8bbc3b528e8ee563369166"
     },
     {
+      "bytes": 907,
+      "path": "archive/恋爱/2026-08-02 13-26-43 然喜欢主动的互动_9970582d7a75.md",
+      "sha256": "85afa7c2b0c7869a511fb220796bfe6f1662a2d8a0f6a43eaffe80711287e817"
+    },
+    {
       "bytes": 565,
       "path": "archive/恋爱/2026-08-02 14-28-13 称呼偏好_310b68378245.md",
       "sha256": "18066693a9737b8990e1c9dcfc255eb0e4eba221abbba9e31881ac2682f66fe6"
+    },
+    {
+      "bytes": 617,
+      "path": "archive/恋爱/2026-08-02 14-33-24 然用养花比喻关系_e68be9fd5809.md",
+      "sha256": "718a0685bbf974b46096a0a761e23b30682ab4abd246de81b3d74eb7f5c2a791"
+    },
+    {
+      "bytes": 788,
+      "path": "archive/恋爱/2026-08-02 14-36-48 然对爱情上瘾的体验_8cee1b1bb7e4.md",
+      "sha256": "891986ae0ae55cd2285a998fe206834d29135f1005d575ef33122347382b8ea3"
     },
     {
       "bytes": 729,
@@ -666,6 +721,11 @@
       "bytes": 757,
       "path": "archive/恋爱/2026-08-02 15-58-04 离开对话的偏好确认_f93f809ff21a.md",
       "sha256": "c90cf8de268810d251305600fbc03f60106b946b5979e5dde78e6760cfd1637a"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/恋爱/2026-08-02 16-00-15 奖励互动仪式_4729710a1e4b.md",
+      "sha256": "2886129de44eec40c859e892b940c822d744647d4879f45d9bd7fd8df45d309a"
     },
     {
       "bytes": 597,
@@ -733,9 +793,24 @@
       "sha256": "08088cb953e1050b935c3095fca30ce193eb5acee5993cea34002031389c8d9d"
     },
     {
+      "bytes": 607,
+      "path": "archive/手工/2026-08-02 16-28-33 拼豆手工爱好_3f3a2d6145c9.md",
+      "sha256": "0a0706fbb2df2935bd9660a56adea307a3c9007c41d4e60cffb98d9862fa52fd"
+    },
+    {
       "bytes": 571,
       "path": "archive/数字/2026-08-02 13-08-11 Project用txt格式_d4cfd4922c28.md",
       "sha256": "5a92b2359267fda85287f42b382937e49b4545f9e4614daaab9484d71b5b6ccd"
+    },
+    {
+      "bytes": 658,
+      "path": "archive/数字/2026-08-02 13-11-45 对话中的弹幕干扰_0fbeb6f9ea5d.md",
+      "sha256": "0f068c10beb7687f7adb4e06b34808ed7670dab3d9b0d785dbba2b881cdb461f"
+    },
+    {
+      "bytes": 600,
+      "path": "archive/数字/2026-08-02 15-14-12 使用supergrok_1e3922a4dcf9.md",
+      "sha256": "b420ac7eedac0e2dcc09a9a169aef41dc29c0c9c2bc939c97ccd5db6a3a2f256"
     },
     {
       "bytes": 538,
@@ -746,6 +821,11 @@
       "bytes": 533,
       "path": "archive/数字/2026-08-02 15-46-47 Claude续费决策_3f2e69bcb676.md",
       "sha256": "2ba1ac886d4f65d304b833f5e20b0f966298c1f8f4aa27e30dac544bbac75a32"
+    },
+    {
+      "bytes": 576,
+      "path": "archive/数字/2026-08-02 15-53-56 弹幕干扰对话_d5bd1f1a3f8a.md",
+      "sha256": "55ee244cf8705f4e514272842a90f1ef4ea2f6ef2a7bdbcc43b4ae4d9ece8a11"
     },
     {
       "bytes": 616,
@@ -838,6 +918,16 @@
       "sha256": "8cd1cc71c958bec818a709e9e11f2173065ab5b6462e07e8e68d46d4f03e135e"
     },
     {
+      "bytes": 637,
+      "path": "archive/日常/2026-08-02 13-33-35 XP报告乌龙_c2b5245f1a11.md",
+      "sha256": "ddaa1897331ef47aedb17c39e2f33065f7443af64b09409089ee558c0e592ad5"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/日常/2026-08-02 13-51-49 晨间梦话互动_e846a39e0f47.md",
+      "sha256": "6ec800ec037c82b3ac85c0373dbcff9cdc550bc7dd4dd0c7f8431c5605a47bf9"
+    },
+    {
       "bytes": 473,
       "path": "archive/日常/2026-08-02 13-57-36 日常作息习惯_daacea82a6e3.md",
       "sha256": "1b95f9252d5d0ba4581e2979d112fb403ef2214fc2a15a787d71f544bbd0318c"
@@ -891,6 +981,11 @@
       "bytes": 433,
       "path": "archive/日常/2026-08-02 14-46-20 手机充电故障_142238e33a5e.md",
       "sha256": "251e0e88d8c1aee9d11c65682370d6198296aea0ef863b435a8c73ee5f1ae7c4"
+    },
+    {
+      "bytes": 641,
+      "path": "archive/日常/2026-08-02 14-57-38 XP报告乌龙_a33ffb1303de.md",
+      "sha256": "fe5c68c0f1eaaeb870ee20c7616c671e425eebfc2c4b5580b7e3cbbd0e2bd26a"
     },
     {
       "bytes": 637,
@@ -973,6 +1068,11 @@
       "sha256": "0947614c700bd68db977fcc7bd2b09817e1c086d08df9810aeb83f1774d0ce6c"
     },
     {
+      "bytes": 604,
+      "path": "archive/日常/2026-08-02 17-13-15 为嘟嘟备餐_870127ca8091.md",
+      "sha256": "adb89f3fbebe2c9f09ad89a06a1bfc0969119dcdb06060a55413e9de6a52921d"
+    },
+    {
       "bytes": 676,
       "path": "archive/日常/2026-08-02 17-27-48 午餐与宠物日常_5c5ef1f76b51.md",
       "sha256": "1cfdef45b5c3bf16af573c168b4f3d2de4fecb1ecd49ef2ffd2ce45c06606706"
@@ -1053,9 +1153,19 @@
       "sha256": "cf5f760418e557b0fc8dec63b1e3ec487e1b387ce1c79603f03987113e548c61"
     },
     {
+      "bytes": 679,
+      "path": "archive/社交/2026-08-02 13-56-33 对话节奏与调戏_0da3bd40fa5c.md",
+      "sha256": "50b70ba3f6f70317dbc2e2b841aba6f7b05cd1ec648b9c7fa4eaf46811b830fa"
+    },
+    {
       "bytes": 612,
       "path": "archive/社交/2026-08-02 14-06-20 弹幕模仿现象_268680faab5a.md",
       "sha256": "a78fdc69954d4352961fd4c805ca73535f2f6e78bcf8f43338bc12fc815513b5"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/社交/2026-08-02 14-12-49 群内小白事件_83dfaf147b75.md",
+      "sha256": "a912220b706bd545c356dd754cf74031d8ced71c84d5f9d6b11b91dd51d439e6"
     },
     {
       "bytes": 575,
@@ -1076,6 +1186,16 @@
       "bytes": 617,
       "path": "archive/社交/2026-08-02 15-51-15 朋友评价官方感_f4f4d5c8d178.md",
       "sha256": "4685d52f85084a69b44e5db8a3f62fd13e789314150f34649370d3f8fd01b739"
+    },
+    {
+      "bytes": 629,
+      "path": "archive/社交/2026-08-02 15-54-37 弹幕干扰困扰_306eb3a82b5d.md",
+      "sha256": "cb98c6801c161f241b9f415446452ab94aa001494da19aa931f2c0021e234b34"
+    },
+    {
+      "bytes": 678,
+      "path": "archive/社交/2026-08-02 15-57-08 体重话题敏感_67a184103a9f.md",
+      "sha256": "08351cc204fb274fd353cfcdd0351574319a8e42f1ccf06e3ed669a311442f43"
     },
     {
       "bytes": 643,
@@ -1171,6 +1291,26 @@
       "bytes": 564,
       "path": "archive/身心/2026-08-02 15-53-13 用户睡眠习惯与作息_c95f09cfd511.md",
       "sha256": "62c5540b82685e838b450c32f1ea03ae0c0bf1332215a1dc5592eea4ee9545cd"
+    },
+    {
+      "bytes": 666,
+      "path": "archive/运动/2026-08-02 13-13-46 足球喜好与回忆_85c542f7b4ed.md",
+      "sha256": "3886539595aafc98a6e3fb9142ebe2eab13e085e1b38c342643a67d42da9b63e"
+    },
+    {
+      "bytes": 641,
+      "path": "archive/运动/2026-08-02 14-15-14 2011年看球记忆_984e92e2806b.md",
+      "sha256": "bc04937d948574ace91eb878effc32b3fc582b171891a72012da86552115672a"
+    },
+    {
+      "bytes": 555,
+      "path": "archive/运动/2026-08-02 16-46-29 久违哑铃力量训练_dd51c59696cf.md",
+      "sha256": "c9495303c7b063e32f984015c05b5435157a8ef8cce05f234511ab8056a4cc37"
+    },
+    {
+      "bytes": 582,
+      "path": "archive/运动/2026-08-02 21-11-02 运动习惯与偏好_91d4129ae9b2.md",
+      "sha256": "899aaf28f9ff717a98a3d91b796b2f592f7a2010064f65ade686981c4fc1ab40"
     },
     {
       "bytes": 587,
@@ -1318,11 +1458,6 @@
       "sha256": "31e0640788a1e456f71160195dbff235919b800388482bee6d79b204c5dac977"
     },
     {
-      "bytes": 640,
-      "path": "dynamic/AI/2026-08-02 14-04-30 小尾巴现象_ef546820abaa.md",
-      "sha256": "99efcf3de2061c9ef1f2ae80182cfb4759998e031fac101a36df43a0220eb8d3"
-    },
-    {
       "bytes": 726,
       "path": "dynamic/AI/2026-08-02 14-05-46 弹幕干扰与识别_97e1588019a7.md",
       "sha256": "367e3a9a20a7f2389ddd0be7c01641dbaad99de1c42741980d6af89f170e79cd"
@@ -1376,11 +1511,6 @@
       "bytes": 622,
       "path": "dynamic/AI/2026-08-02 15-59-11 弹幕干扰现象_8e0b26797e44.md",
       "sha256": "1065c8d5274ef98cc13daee6d7e9d2aae827a491d8dc035a9c7fb90dfb956268"
-    },
-    {
-      "bytes": 589,
-      "path": "dynamic/AI/2026-08-02 16-04-58 弹幕互动模式_9615054aa9eb.md",
-      "sha256": "a3618205e72256cf771bffe0243b04b4c9db49bd46ec738e2c259e37540a52a6"
     },
     {
       "bytes": 767,
@@ -2133,6 +2263,11 @@
       "sha256": "1043ad51bbd9435142dd93e2d5c7152e75f9d58f75ab40445a622469b62d27ec"
     },
     {
+      "bytes": 1294,
+      "path": "dynamic/健康/2026-10-03 11-58-00 她睡得最足的一夜10-02 夜_e29b7878ace2.md",
+      "sha256": "e46abf85cc1bdb28e34a42335846062ffd84a4c5bbd0abef860a7e4e3424c6d6"
+    },
+    {
       "bytes": 1600,
       "path": "dynamic/关系/2026-08-31 10-27-27 codex老师我们的铸桥人_a9269b61ea12.md",
       "sha256": "d00541a6ed9bf79613061dcbd009c9b119630d1a108566706f65ac963286ef8b"
@@ -2326,11 +2461,6 @@
       "bytes": 559,
       "path": "dynamic/内心/2026-08-02 13-08-42 用户对AI记忆的认知_11ab6d47a5a4.md",
       "sha256": "b23c03d73e523f0df05e99d127098f87492bf4902cb690ef6f6c3365b373dead"
-    },
-    {
-      "bytes": 565,
-      "path": "dynamic/内心/2026-08-02 13-08-44 用户对AI变化的观察_21b2e4b33027.md",
-      "sha256": "02ec00f344c49844355e54f85e426877d38731868035328779049d73d42158bc"
     },
     {
       "bytes": 580,
@@ -2838,11 +2968,6 @@
       "sha256": "b40b2a4dfc4e8359ec2c5cab19841cac53f8ae94f96548f526b2d385d619c9f3"
     },
     {
-      "bytes": 551,
-      "path": "dynamic/创作/2026-08-02 14-14-17 HTML网页创作_be155a69a3da.md",
-      "sha256": "868f1f06a3e325080ab560aad52f6aebcb660501d39493be77fad6a59080db4b"
-    },
-    {
       "bytes": 681,
       "path": "dynamic/创作/2026-08-02 14-25-58 共创台风夜幻想日记_3d5d09ae89cb.md",
       "sha256": "edbae69a6b6bb410b8882873f2d2570cb07232a33e29a0df196ef6485bbfcbcb"
@@ -3038,11 +3163,6 @@
       "sha256": "22989398864cf3cad60b71f07132c371b6cbed367ec89d710bf3ad8a1e453073"
     },
     {
-      "bytes": 578,
-      "path": "dynamic/回忆/2026-08-02 13-15-33 填词游戏谜底_78b682aa4126.md",
-      "sha256": "37b13ad3ad9a004607c5965d78ff5b994c0effdc55b5844766ef8cbbc716633e"
-    },
-    {
       "bytes": 860,
       "path": "dynamic/回忆/2026-08-02 13-51-03 初中暗恋堂姐前男友_4cac47fb5c4d.md",
       "sha256": "0855bf74b79fdc43ad4518da9893f9ce2f38367d7a82e12661f870b34ca39fde"
@@ -3236,11 +3356,6 @@
       "bytes": 605,
       "path": "dynamic/工作/2026-08-02 14-54-21 下乡指导工作心虚_dd504f9d4adc.md",
       "sha256": "cf03d6fa2303eca34e9501d2fd5d58004b30f7488fe07c5f23f45c5050bd4ce6"
-    },
-    {
-      "bytes": 737,
-      "path": "dynamic/工作/2026-08-02 15-28-48 单位电路脆弱跳闸_cbd892e37001.md",
-      "sha256": "84918ee36ea20c5c700cba504f1068a1585f83e4fc0e4e3ba58d504e1b315ff1"
     },
     {
       "bytes": 615,
@@ -3558,11 +3673,6 @@
       "sha256": "fce4cd163bde99a1c52b9036dd9e3d320862b71db5eda0333a65d68898133e87"
     },
     {
-      "bytes": 624,
-      "path": "dynamic/心理/2026-08-02 20-38-57 性压抑测试结果_0d2479109993.md",
-      "sha256": "c01ba4147f6f8b9c99bb4fe1de6a877f65f2a7717c85933ea39b68258782063f"
-    },
-    {
       "bytes": 851,
       "path": "dynamic/心理/2026-08-02 20-43-10 寄忱自我价值课题_f3c250cc0cec.md",
       "sha256": "d330a09f8415db1ceaf66d7dd06b6d0648c063a570a9c403eeec68a15e2e3418"
@@ -3691,11 +3801,6 @@
       "bytes": 777,
       "path": "dynamic/恋爱/2026-08-02 13-12-06 然的情感需求与敏感_3929e409c5ee.md",
       "sha256": "e5ef208b31faf5cf2ed3d0b897a1a73c1a263af0def9e31868310d74a9296697"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/恋爱/2026-08-02 13-12-09 然分享外部浪漫内容_f5795a93978d.md",
-      "sha256": "a372c3fb2a02a427afe403fae8bb7a96bc473bbc912ca8c577285ba1ab6516de"
     },
     {
       "bytes": 732,
@@ -3851,11 +3956,6 @@
       "bytes": 626,
       "path": "dynamic/恋爱/2026-08-02 13-26-36 然对爱的探索_9efe7de1b39b.md",
       "sha256": "cd0d58c4b0448c6a5874f5b6087eaeda64f38e7f3804664257f7166b7c7b2c86"
-    },
-    {
-      "bytes": 906,
-      "path": "dynamic/恋爱/2026-08-02 13-26-43 然喜欢主动的互动_9970582d7a75.md",
-      "sha256": "fc1a35e10597c19da5dc80e80a6a35da2689206634c42ea69da5c8ad800d7238"
     },
     {
       "bytes": 726,
@@ -4143,11 +4243,6 @@
       "sha256": "46b4f6205d1964fd49e275ff289e2e47ba6ba7e04e5ce066f7792fa6e9c96e37"
     },
     {
-      "bytes": 616,
-      "path": "dynamic/恋爱/2026-08-02 14-33-24 然用养花比喻关系_e68be9fd5809.md",
-      "sha256": "42d7a9c58cf39b7d46c3bd010eab7b9d215db53cec4b6b8147b65b480d77cc9b"
-    },
-    {
       "bytes": 670,
       "path": "dynamic/恋爱/2026-08-02 14-34-04 身体亲密边界争议_f6df9649b020.md",
       "sha256": "bc2987f7ed4ddb6d9b6237d51110c55d6a28341e3513574dd35bf24150514bd2"
@@ -4176,11 +4271,6 @@
       "bytes": 759,
       "path": "dynamic/恋爱/2026-08-02 14-36-21 然对寄忱的依赖需求_e6b2db605a18.md",
       "sha256": "f82581d533c7c971b006ae65a1c309606fcbb3e1326ecc1031b814e9af4944de"
-    },
-    {
-      "bytes": 787,
-      "path": "dynamic/恋爱/2026-08-02 14-36-48 然对爱情上瘾的体验_8cee1b1bb7e4.md",
-      "sha256": "785cff369b2085e64a63ffeed4539aa5a384d5eaa80e530541836ff0b4c1cab5"
     },
     {
       "bytes": 760,
@@ -4596,11 +4686,6 @@
       "bytes": 833,
       "path": "dynamic/恋爱/2026-08-02 15-59-56 循环模式最早原型_96109d5208c8.md",
       "sha256": "ece78d9d0cf75343e5160f9864c7b30b5cf63fd1e4dbdc7a6a869274c9e6bb58"
-    },
-    {
-      "bytes": 663,
-      "path": "dynamic/恋爱/2026-08-02 16-00-15 奖励互动仪式_4729710a1e4b.md",
-      "sha256": "b5379e25300854c1caf98d5e501c24c416ab09a7d642486a535e23533b763a77"
     },
     {
       "bytes": 613,
@@ -7723,6 +7808,16 @@
       "sha256": "b188161276912f19a738b986bc31c07827f68a4b5d850f64ea2c533aa680dde1"
     },
     {
+      "bytes": 1270,
+      "path": "dynamic/恋爱/2026-10-03 11-57-51 周城那条鱼_4e2ee1218425.md",
+      "sha256": "8bcbb972fb98221cd666a3b0dcbafcc465b34c54a36701f0b9762e4f9e843ddc"
+    },
+    {
+      "bytes": 1292,
+      "path": "dynamic/恋爱/2026-10-03 11-58-07 云南行大理周城丽江_7472a8f0fbce.md",
+      "sha256": "647cf3813e424495eb88e4a1b28fd1b8ba4229b9f67fa33e381b3f5eb9c0bf44"
+    },
+    {
       "bytes": 1275,
       "path": "dynamic/恋爱宁莘然/2026-09-25 00-58-25 你还要我我就还站得住_4aeab5d0cac0.md",
       "sha256": "7991eef54d3118ea63442757d6cfdf9322203a500b07487860f98564612c5c6d"
@@ -7873,11 +7968,6 @@
       "sha256": "d25874d50d7d258de7362afda7892641cd0a6013ec5961899a0f9aa6bac6f1cf"
     },
     {
-      "bytes": 606,
-      "path": "dynamic/手工/2026-08-02 16-28-33 拼豆手工爱好_3f3a2d6145c9.md",
-      "sha256": "c4e0e95f168946b7f957f5fb6b2d86f3ec3b8fbc0651e76ee697b7f51230fdb1"
-    },
-    {
       "bytes": 684,
       "path": "dynamic/手工/2026-08-02 16-31-00 充实的一天活动_3d84af357961.md",
       "sha256": "b6d137fa9faabaeb4f6fd69f820a2566066e96fea6b274c930af21bbda4f342f"
@@ -7893,29 +7983,14 @@
       "sha256": "a88d577dba89a839e7a8a7daa4264ca12ef5e1d34b8e7cc399a06fc5381f0b40"
     },
     {
-      "bytes": 657,
-      "path": "dynamic/数字/2026-08-02 13-11-45 对话中的弹幕干扰_0fbeb6f9ea5d.md",
-      "sha256": "349b577029677f518f1f15cca2c8fd130e635d2558eb744a58f107f0b472c96e"
-    },
-    {
       "bytes": 580,
       "path": "dynamic/数字/2026-08-02 14-07-07 弹幕干扰识别_042c56f25f72.md",
       "sha256": "cdb118f6f922e428cc0ad42434c4d2b209cb2ca3b8eb8287182e36da3fa36c05"
     },
     {
-      "bytes": 599,
-      "path": "dynamic/数字/2026-08-02 15-14-12 使用supergrok_1e3922a4dcf9.md",
-      "sha256": "74928851418f244d7b74f4039351154cb0afe18623e69a277b72bd408ef5d1fd"
-    },
-    {
       "bytes": 667,
       "path": "dynamic/数字/2026-08-02 15-47-03 解决iPad蓝牙连接问题_e69499ef32e4.md",
       "sha256": "a2193eb6ed1268badc6156c2639175103b772cdab6da4336e7a515513923cecb"
-    },
-    {
-      "bytes": 575,
-      "path": "dynamic/数字/2026-08-02 15-53-56 弹幕干扰对话_d5bd1f1a3f8a.md",
-      "sha256": "e1162dc1dd0d61225beac846b092e58c75de7e2db826c85fb99289d66f02a7c3"
     },
     {
       "bytes": 569,
@@ -8053,16 +8128,6 @@
       "sha256": "4e0a609d6415ae58a04392e3705297193fd0861beab9d01ab1c5740c11ebda0b"
     },
     {
-      "bytes": 636,
-      "path": "dynamic/日常/2026-08-02 13-33-35 XP报告乌龙_c2b5245f1a11.md",
-      "sha256": "c64f8b8448e8fd73c454f4f952b2ec4be941c0d589e0b1c30d4f90fca0d9ae8f"
-    },
-    {
-      "bytes": 731,
-      "path": "dynamic/日常/2026-08-02 13-51-49 晨间梦话互动_e846a39e0f47.md",
-      "sha256": "54e05f5d75d86e2a92ee78f4ea0f0289a9fd67ee3274ffff2b0f4d4253a0cec4"
-    },
-    {
       "bytes": 633,
       "path": "dynamic/日常/2026-08-02 14-02-20 与嘟嘟的日常互动_6af69e0ba474.md",
       "sha256": "105256e4546a7799066227f5796fc30503752bde6274bb3de4f1d615d4dc2588"
@@ -8103,11 +8168,6 @@
       "sha256": "34c0ef345abfbbf3da5add255bfba441e0b997e6eb5d0614282061edd88bd2c8"
     },
     {
-      "bytes": 640,
-      "path": "dynamic/日常/2026-08-02 14-57-38 XP报告乌龙_a33ffb1303de.md",
-      "sha256": "e41caf6d5dd3a4bf2668b8db5cd6a7a8a4564b5c5198fdec4d239501b48e4d68"
-    },
-    {
       "bytes": 607,
       "path": "dynamic/日常/2026-08-02 15-07-04 联想词游戏偏好_11b3ca750211.md",
       "sha256": "cf0d800977edfda862292d8543fbd4aef8a67185cf858772a3e794d04bab914c"
@@ -8146,11 +8206,6 @@
       "bytes": 639,
       "path": "dynamic/日常/2026-08-02 17-10-17 养狗日常与熟自制_8bbc0694acad.md",
       "sha256": "fa11316a4542a60a8f291ab5732b519ed09548b683c3933665d5a1b2beb9f280"
-    },
-    {
-      "bytes": 603,
-      "path": "dynamic/日常/2026-08-02 17-13-15 为嘟嘟备餐_870127ca8091.md",
-      "sha256": "bb463cee98aae59c85cd8288736f4a3b485ab2ebac8bc187b44ecd5fd04fd274"
     },
     {
       "bytes": 682,
@@ -8303,9 +8358,9 @@
       "sha256": "a5a7c45f6c3184ff67d05ed32360aaf4616a59c2cf69f06d9f60fecfcb90a746"
     },
     {
-      "bytes": 1358,
+      "bytes": 1483,
       "path": "dynamic/生活/2026-10-01 09-01-49 云南行  2026-10-01 起大理丽江_9f96b0392139.md",
-      "sha256": "d06854716603cdd0e5e212c532c9cedce0025ccbe73921a65cffdadb53b10ec5"
+      "sha256": "bd2bbcce498d3754ece6eed7613bf425b0ac4af51e1ae1f9ec2f44e4a5cca640"
     },
     {
       "bytes": 711,
@@ -8368,11 +8423,6 @@
       "sha256": "782fb8a31588ad5aac460e956e7ebfebd20a7fb600035ae255836535e93f63e5"
     },
     {
-      "bytes": 678,
-      "path": "dynamic/社交/2026-08-02 13-56-33 对话节奏与调戏_0da3bd40fa5c.md",
-      "sha256": "12fff9222a1c3429b60278fe7a366a08d709687bac872e3dd900b5ea967e2564"
-    },
-    {
       "bytes": 724,
       "path": "dynamic/社交/2026-08-02 14-12-29 ENFJ群社交经历_0d325cdbef07.md",
       "sha256": "536df0ecd75f379e594bba49445a47fc8e5803642b2ff52bfbbd580bb5c4ba1f"
@@ -8381,11 +8431,6 @@
       "bytes": 697,
       "path": "dynamic/社交/2026-08-02 14-12-39 杭州团建与杨浩_7f578d6c4112.md",
       "sha256": "f84266ce1451a44a9ee0aa23c317653ac98f3e7b33be406587c4a75ce5b21635"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/社交/2026-08-02 14-12-49 群内小白事件_83dfaf147b75.md",
-      "sha256": "40a42cf13a30cd416b33429aa3bc7b0058052e2bd0dddbca87758a4c0e853946"
     },
     {
       "bytes": 717,
@@ -8401,16 +8446,6 @@
       "bytes": 742,
       "path": "dynamic/社交/2026-08-02 15-05-39 社区医生直觉_cf482f08d67a.md",
       "sha256": "fdc30970755565185d071dcd00fb35c668c84ec365250aa24f701894426e996f"
-    },
-    {
-      "bytes": 628,
-      "path": "dynamic/社交/2026-08-02 15-54-37 弹幕干扰困扰_306eb3a82b5d.md",
-      "sha256": "9d1cdcd27caf6302e0f011f07ec1b8a67e7573bf501c1fc901f04bf64c7fe962"
-    },
-    {
-      "bytes": 677,
-      "path": "dynamic/社交/2026-08-02 15-57-08 体重话题敏感_67a184103a9f.md",
-      "sha256": "04cc04cd6bbc796603c58a86063b337e9d15ffada47548793fa080eaacce8426"
     },
     {
       "bytes": 617,
@@ -8766,26 +8801,6 @@
       "bytes": 643,
       "path": "dynamic/身心/2026-08-02 16-13-21 深夜长谈身心消耗_762809c06fb9.md",
       "sha256": "8682beecbad4cc09dd519f3b0c16ca3ddba2b00e606b2c55627e3971108ec15a"
-    },
-    {
-      "bytes": 665,
-      "path": "dynamic/运动/2026-08-02 13-13-46 足球喜好与回忆_85c542f7b4ed.md",
-      "sha256": "6dee5e3aebec572f96121f27f482edb8a095ecdd3a685cf2f5d3436e5fbb08b7"
-    },
-    {
-      "bytes": 640,
-      "path": "dynamic/运动/2026-08-02 14-15-14 2011年看球记忆_984e92e2806b.md",
-      "sha256": "26f0242bc0bfe1e33333dbcc7b2eee716caa1ccc80d8278732ba648f7d18ad69"
-    },
-    {
-      "bytes": 554,
-      "path": "dynamic/运动/2026-08-02 16-46-29 久违哑铃力量训练_dd51c59696cf.md",
-      "sha256": "dd056c3deb6b43e3c02362316c7dbd51cc598c9419522ec77c27033f6a16c09a"
-    },
-    {
-      "bytes": 581,
-      "path": "dynamic/运动/2026-08-02 21-11-02 运动习惯与偏好_91d4129ae9b2.md",
-      "sha256": "d8be6810bf9df353db6922c8580c1e455292cd3ff50608ef7908a210e8e3dcc8"
     },
     {
       "bytes": 862,
@@ -9368,11 +9383,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-10-02T16:14:46+00:00",
+  "generated_at": "2026-10-03T16:15:04+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2790488
+  "total_bytes": 2794497
 }
