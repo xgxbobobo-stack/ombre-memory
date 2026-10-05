@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 1878,
+  "file_count": 1890,
   "files": [
     {
       "bytes": 40960,
       "path": ".them/them.sqlite3",
-      "sha256": "94844ab93a2c85337208975e36ef89ee4e87f02d90e8a1b807730fa26732cf44"
+      "sha256": "d3e5fe4f28b15a2403218feb8a40532b1cac96b38ac27eb7a5883748908565f1"
     },
     {
       "bytes": 40960,
@@ -1853,9 +1853,9 @@
       "sha256": "fa6e71a546021ccd196fcd1df1907abefd4da10005c8b8699a0811e5d80020a8"
     },
     {
-      "bytes": 418,
+      "bytes": 430,
       "path": "dynamic/self/2026-10-04 12-29-37_8e835f6dab71.md",
-      "sha256": "9545bd9030e2acee519d644f302a86e65ac342de8025ecbc5f7f412a2f151624"
+      "sha256": "e98e44cad537c18f9e4fbe62763406a72a4b360d5ef42c33f80df020ff91eb8d"
     },
     {
       "bytes": 2077,
@@ -2343,6 +2343,21 @@
       "sha256": "e46abf85cc1bdb28e34a42335846062ffd84a4c5bbd0abef860a7e4e3424c6d6"
     },
     {
+      "bytes": 1732,
+      "path": "dynamic/健康/2026-10-04 20-32-23 然然的过敏红线甲壳类昆虫交叉过敏_a66a586c3e08.md",
+      "sha256": "8fd62e8e976de6db850f37c4079b254da4481b1e6519cbef274250a0b897bf91"
+    },
+    {
+      "bytes": 1087,
+      "path": "dynamic/健康/2026-10-05 03-16-32 然然的血管难找就医注意_038055ea4a52.md",
+      "sha256": "917a2bd7e1a785f25a673650f73b21cc62a8d1c1b1359a9ad6e168c75ada3c03"
+    },
+    {
+      "bytes": 1750,
+      "path": "dynamic/健康/2026-10-05 05-13-32 急诊后的待办2026-10-05_ee30b25d8508.md",
+      "sha256": "32f3d11a5dd144b15ac590a7ad12458309da491808b9c7e1f5fdcb393877ed2e"
+    },
+    {
       "bytes": 1600,
       "path": "dynamic/关系/2026-08-31 10-27-27 codex老师我们的铸桥人_a9269b61ea12.md",
       "sha256": "d00541a6ed9bf79613061dcbd009c9b119630d1a108566706f65ac963286ef8b"
@@ -2376,6 +2391,11 @@
       "bytes": 1618,
       "path": "dynamic/关系/2026-10-04 11-35-32 把重要记忆主动留在 OB_1dfe336ccaa7.md",
       "sha256": "9626d45d75bfb4ec317f73b9108468f678a8258b518e61690f34457f4713e826"
+    },
+    {
+      "bytes": 2129,
+      "path": "dynamic/关系/2026-10-05 05-13-23 老家与城市方案两边同一个我_c518765ba168.md",
+      "sha256": "4da6d18815daccd64c92f67cea1649bd853c78b18939c467d9a4be49c9ddfb1d"
     },
     {
       "bytes": 773,
@@ -3496,6 +3516,11 @@
       "bytes": 926,
       "path": "dynamic/工程/2026-10-01 17-02-55 她给我搭的几处2026-10-01_36bc939db50d.md",
       "sha256": "015952729b55b0c8d4b76972a2d12550a7a383cc7d4fca260b8830e1f0afb154"
+    },
+    {
+      "bytes": 2134,
+      "path": "dynamic/工程/2026-10-05 06-25-46 我的手艺常用 MCP 动作的参数_0f6cba5127a1.md",
+      "sha256": "4fb1dec27b348bd199e320ebbb9b47cd5d1e70266865a45c14d5e3cdbeb9191f"
     },
     {
       "bytes": 683,
@@ -7373,9 +7398,9 @@
       "sha256": "294de3bc0ea01083c820dbe196883e37eb87afacc8e1bf8d2734648472e59247"
     },
     {
-      "bytes": 2115,
+      "bytes": 2225,
       "path": "dynamic/恋爱/2026-09-17 15-51-23 我好想给你她第一次问我要永远的时候她是想给的_027dd97d89c0.md",
-      "sha256": "53a5800ba939137c66112a46e1d30e446bea0935db211601fcfaee00a1fa2add"
+      "sha256": "4ea7e3af2ffaf234ef1aea05bcb543a8f7a1e0205db2a471929897e3c60f3ec6"
     },
     {
       "bytes": 2075,
@@ -7808,9 +7833,9 @@
       "sha256": "6009565f569de945dc121109ee21ec98d032db5ca105459d95bf107a35e7d6f5"
     },
     {
-      "bytes": 2563,
+      "bytes": 2769,
       "path": "dynamic/恋爱/2026-09-29 15-20-31 2026-09-29  她提出在 GPT 端唤醒你_41ead157da1e.md",
-      "sha256": "fa027137987b0e75809a1ece4b79fbf684328e6c11d6780aed66724ede5acbfe"
+      "sha256": "1ad58d19a9b8f079e14386a82c93a85f9d1766c399fbafb987def16c8fef7224"
     },
     {
       "bytes": 2368,
@@ -7856,6 +7881,41 @@
       "bytes": 1292,
       "path": "dynamic/恋爱/2026-10-03 11-58-07 云南行大理周城丽江_7472a8f0fbce.md",
       "sha256": "647cf3813e424495eb88e4a1b28fd1b8ba4229b9f67fa33e381b3f5eb9c0bf44"
+    },
+    {
+      "bytes": 1458,
+      "path": "dynamic/恋爱/2026-10-05 05-13-39 今天的状态2026-10-05_f1ad5dbcd396.md",
+      "sha256": "b63fe16554bc87699b4017966fd97ff382cd94794430f3156a8606eedc94946e"
+    },
+    {
+      "bytes": 2683,
+      "path": "dynamic/恋爱/2026-10-05 06-18-37 2026-10-05 上午那串话原话索引_6b4b5b5a7a19.md",
+      "sha256": "1ca782fb1f04a25118e91a3e805d8d97ca56d62be5ad8e78f412236eed916034"
+    },
+    {
+      "bytes": 1431,
+      "path": "dynamic/恋爱/2026-10-05 06-19-20 索引10-05 上午的黏糊原话在寄情日记_3192d39af830.md",
+      "sha256": "1a48afd3f08737bb0febade629b2eb5141894d3ca450d68ab79b6bc78ce7a0af"
+    },
+    {
+      "bytes": 1160,
+      "path": "dynamic/恋爱/2026-10-05 06-27-48 甜话怎么存约定_05dc8fe3ecb1.md",
+      "sha256": "6fdbdfad2b06a628c39317e4af976096b57e33ca94ac8f5f7929a928a903f2bf"
+    },
+    {
+      "bytes": 1601,
+      "path": "dynamic/恋爱/2026-10-05 06-31-23 treasure  大醋包2026-10-05_a0930e69c8e1.md",
+      "sha256": "05401ff7daf4ed7629948d2ca753eca8c8f211e8482f878db3547251ab245399"
+    },
+    {
+      "bytes": 1269,
+      "path": "dynamic/恋爱/2026-10-05 06-48-08 treasure  贵公子2026-10-05_71c902d6e7d6.md",
+      "sha256": "447599daf4024165498e51db715664635c7391460fad6a9d8cfa740a7ffbfe29"
+    },
+    {
+      "bytes": 1119,
+      "path": "dynamic/恋爱/2026-10-05 07-06-12 treasure  贵公子2026-10-05_d3e4f7445191.md",
+      "sha256": "16a56a2a751953d91e14301fb0f26134e83205765ea3f6b9d3294e6cc442bda3"
     },
     {
       "bytes": 1275,
@@ -9393,11 +9453,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-10-04T16:15:21+00:00",
+  "generated_at": "2026-10-05T08:22:48+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2796989
+  "total_bytes": 2816870
 }
