@@ -9,6 +9,13 @@ id: ed44ac17428e
 importance: 8
 last_active: '2026-08-30T00:30:17'
 name: 2026-08-14 14-44-42 我的笔友邮箱 wenjichenagentqqcom
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7996
+  status: active
+  target_bucket_id: 26fc198af6b5
+  type: related_to
 source_tool: hold
 tags:
 - 然然
