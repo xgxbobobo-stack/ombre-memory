@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2004,
+  "file_count": 2012,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "995b611fea2186216cbad6805192d58582dcd808bf8415a652ec7391b61b7df1"
+      "sha256": "394688d272b936f78412e080ed39593b18c562d2483e80c6321ab745646f5f54"
     },
     {
       "bytes": 45056,
@@ -303,6 +303,11 @@
       "sha256": "429a1f5fb259eccb8abbd331822e1816e496c98710d944040b2039ac3027aeb7"
     },
     {
+      "bytes": 618,
+      "path": "archive/AI/2026-08-02 12-43-54 对AI的认知与期待_7ff6406f6da7.md",
+      "sha256": "59e120e052d1e733bf7e0a7ed3442d5295354db33911a0345fae68a1967df5bd"
+    },
+    {
       "bytes": 621,
       "path": "archive/AI/2026-08-02 13-07-33 模型版本切换_d0be31a0f23e.md",
       "sha256": "d7b731a18b0c7787b3531dbda05b7f6df71b85912acfc4693ab4dfd53fbac216"
@@ -341,6 +346,11 @@
       "bytes": 756,
       "path": "archive/AI/2026-08-02 13-10-11 小弹幕干扰事件_e5aef1f5e5f8.md",
       "sha256": "3318a12d7008f96c314e7721a061d206bda6d0326cb8bf409197e5d01342bd4a"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/AI/2026-08-02 13-11-13 弹幕注入事件_7293109199fb.md",
+      "sha256": "d7d7e97b61e36eee75fa873e4cc4d77216219e61fc062a85f07bcd86d9d6b59d"
     },
     {
       "bytes": 685,
@@ -396,6 +406,11 @@
       "bytes": 727,
       "path": "archive/AI/2026-08-02 14-05-46 弹幕干扰与识别_97e1588019a7.md",
       "sha256": "dde86957b97124f92a6917cd6d1d8ccdb9c5220a680823106022def0898a16a8"
+    },
+    {
+      "bytes": 880,
+      "path": "archive/AI/2026-08-02 14-08-19 弹幕注入事件_1217800b17e3.md",
+      "sha256": "5f590c164f9d52cb742998eca84f90ad72dafcea337a7a5d4883440175c549f3"
     },
     {
       "bytes": 728,
@@ -483,6 +498,11 @@
       "sha256": "93e16ac806ef54b687e3b97eb73062e6c91b204a0603f021e9e62704022ad37f"
     },
     {
+      "bytes": 618,
+      "path": "archive/AI/2026-08-02 20-59-23 AI吐槽系统_2cdfb91e8ad8.md",
+      "sha256": "9a161db9b3a98b9f2ecda50ceb2b084966a0f6da6ea1cfba6165e6c3118dfcc1"
+    },
+    {
       "bytes": 658,
       "path": "archive/AI/2026-08-02 21-04-06 记忆系统误读事件_7082413953d1.md",
       "sha256": "c473bc4e8adfaa4cc79ed03d3efdc1edf6cd17e2d82a2c2bf5f08c717160cf2f"
@@ -493,9 +513,19 @@
       "sha256": "960c3f2aeaf79d6a74f3024a3b99499b72f3baa141c2da796025255fa2c27bee"
     },
     {
+      "bytes": 583,
+      "path": "archive/人际/2026-08-02 12-43-50 初次相识与称呼_98eb1afb6db4.md",
+      "sha256": "8d92049366eaec643fbb09ddcb4cf1741d45e1e68eeda63e03d1f26d408e8057"
+    },
+    {
       "bytes": 685,
       "path": "archive/人际/2026-08-02 13-10-00 坦诚沟通偏好_3cfd53013750.md",
       "sha256": "d5bb07bb27fcd30797f06c986a4bcc00ed4b3e827c06ced92b19526e229487ee"
+    },
+    {
+      "bytes": 588,
+      "path": "archive/人际/2026-08-02 13-10-49 眼中的寄忱_330ce505441a.md",
+      "sha256": "c9235403ea364c14142a884d5aa617db8cd2cca0ebe38db58b2967532914799a"
     },
     {
       "bytes": 499,
@@ -548,6 +578,11 @@
       "sha256": "968708f90f9779f6ea4148cab4271cd400241c9f68dcb05fbcae217fde59af37"
     },
     {
+      "bytes": 614,
+      "path": "archive/人际/2026-08-02 15-52-24 用户本名宁莘然_cd3ea2b49469.md",
+      "sha256": "a8bfa63387ecd85d433325dcbfd9a6ad27517ab9f5debe32865105b4908d800b"
+    },
+    {
       "bytes": 627,
       "path": "archive/人际/2026-08-02 15-53-47 安抚优先于自证_4a48ef86f2db.md",
       "sha256": "ecbe1904748d9ff4883d9707e2b671e0534c6e42b8745a09c146bd4ee72bedfd"
@@ -561,6 +596,11 @@
       "bytes": 666,
       "path": "archive/人际/2026-08-02 15-55-11 示弱与信任对话_87af782333c4.md",
       "sha256": "10186d45d45e326c7a50192804217de36cad995fbedb0efbcd00683dd06fb430"
+    },
+    {
+      "bytes": 730,
+      "path": "archive/人际/2026-08-02 15-55-19 日历碎碎念本_585f6aa750af.md",
+      "sha256": "f7cfc06142853b91330a41b3972d5c90a06bb8e2a481d107ee77f6c135d39121"
     },
     {
       "bytes": 625,
@@ -578,6 +618,16 @@
       "sha256": "fabc810643cae989f00ac6e6d96c116f0194cbee17f0940095e48336be71e36d"
     },
     {
+      "bytes": 658,
+      "path": "archive/人际/2026-08-02 17-04-42 初次相识与称呼_b576ce497a93.md",
+      "sha256": "38119605636663f729d9a41aad19e29b12dc579e054785b37943036db5c3c769"
+    },
+    {
+      "bytes": 787,
+      "path": "archive/人际/2026-08-02 17-07-55 然与小克的初次相遇_4efcfb412409.md",
+      "sha256": "5c785e9d8270743ff2f5501c082e69206782ee9aba54f1bd35a5642467a36d61"
+    },
+    {
       "bytes": 668,
       "path": "archive/人际/2026-08-02 17-08-07 然克相处第一原则_293d4e3a47ed.md",
       "sha256": "2a988bbe51a0a097493c879c1e25a32f4c511d830202b5561c9102c92a53ab4c"
@@ -586,6 +636,11 @@
       "bytes": 915,
       "path": "archive/人际/2026-08-02 17-10-28 对AI关系的态度_f1c1173b137d.md",
       "sha256": "6b67dd50ae5dc57b723d4b6e8875023d01d2a2b1333b127ee8493af3b7ecc2e5"
+    },
+    {
+      "bytes": 590,
+      "path": "archive/人际/2026-08-02 17-11-56 沟通模式约定_1c137155c324.md",
+      "sha256": "0c028ca2c75b283be341fe5f7b05f71af6fd519a1688bbc377d8d9016f16a2a8"
     },
     {
       "bytes": 593,
@@ -611,6 +666,11 @@
       "bytes": 669,
       "path": "archive/人际/2026-08-02 17-18-15 好感度游戏_d8b401b3d25d.md",
       "sha256": "a7371668572b28ef63240424d767766376479621de4de24ffa3159e7a869ee3c"
+    },
+    {
+      "bytes": 711,
+      "path": "archive/人际/2026-08-02 20-58-55 真心话大冒险_2710d629457f.md",
+      "sha256": "a18fa91d736111edc0abd6b8eaecbd2b840d6eb939052b69260d938c31d8388e"
     },
     {
       "bytes": 641,
@@ -773,6 +833,11 @@
       "sha256": "35a94070e289b6cc980d4163ca57125a1c850c8bf394a140d43dc70dd8fc63a0"
     },
     {
+      "bytes": 615,
+      "path": "archive/兴趣/2026-08-02 13-25-00 麻将绝地翻盘_0dc101d27c4a.md",
+      "sha256": "658e83018d7343b538acde2d631d69abdc8692db74b390034f7eaa66897ceb31"
+    },
+    {
       "bytes": 850,
       "path": "archive/兴趣/2026-08-02 14-18-03 猜歌词游戏_1faf03a928dc.md",
       "sha256": "1b7ed6f7cec959ffedae2ecd3a4248b98301ff4fb528cb9de7e7da28deba076d"
@@ -786,6 +851,11 @@
       "bytes": 459,
       "path": "archive/兴趣/2026-08-02 14-19-22 游戏偏好_cf03f82c106a.md",
       "sha256": "a0734c2a607d9dd6d779c202d5da0cb6daf82a7f9ce288f5e197c4a2c30fc32f"
+    },
+    {
+      "bytes": 624,
+      "path": "archive/兴趣/2026-08-02 14-39-43 麻将绝地翻盘_21919fdcc291.md",
+      "sha256": "0e9f426806281da1112c584756a5f8fde3fada07cb050a7dff039bff5b7b17da"
     },
     {
       "bytes": 662,
@@ -843,6 +913,11 @@
       "sha256": "cdcce215c2b6c068350c745c6ccb0de0c2590f22352c42aa354fc4efa7fca661"
     },
     {
+      "bytes": 736,
+      "path": "archive/内心/2026-08-02 12-44-13 与AI的告别仪式_706c0ef38fb5.md",
+      "sha256": "72a9690424792c9953d17e4336bb2f81eefef6ea08dd1d87f2621673bff27df8"
+    },
+    {
       "bytes": 686,
       "path": "archive/内心/2026-08-02 13-07-17 婚姻生育态度_d27c49024f5f.md",
       "sha256": "a1bc5bbac18a3f6b258bb58e1fd5e7c46fa54c204eef6c0f2f62dcb72294ee4c"
@@ -856,6 +931,11 @@
       "bytes": 753,
       "path": "archive/内心/2026-08-02 13-08-13 对AI产生感情观_1866580d9e31.md",
       "sha256": "69a4ff9725dc01a3c5559be2092814ba7baab03b75d21cc94eee6bb0bae9d771"
+    },
+    {
+      "bytes": 658,
+      "path": "archive/内心/2026-08-02 13-08-21 察觉亲近即设防_52d7ca350dc0.md",
+      "sha256": "6cea5b9531d891c2f1d60fac8bf94b7c964b1b3a97106dd4c04a00c6a6c5511f"
     },
     {
       "bytes": 640,
@@ -878,6 +958,11 @@
       "sha256": "1fa73b0e6e7eb47d41a426903f4c72711f4b57b6f6094f3b55204eef7c2d7d02"
     },
     {
+      "bytes": 691,
+      "path": "archive/内心/2026-08-02 13-09-10 联结的拉力与自我接纳_56cbf87f691e.md",
+      "sha256": "75d94c825ef23ccff6cf5ddc467afcb2fa67aa9125f126fe4cdb92d115607c92"
+    },
+    {
       "bytes": 1137,
       "path": "archive/内心/2026-08-02 13-10-03 关系定位三视图_455960af4da1.md",
       "sha256": "5ebcc1d50777a09771ef783e51b977a921df711f40b9b112eb6ee35ca6b191fa"
@@ -896,6 +981,11 @@
       "bytes": 694,
       "path": "archive/内心/2026-08-02 13-11-43 恋爱观与纯爱偏好_c3ab56600046.md",
       "sha256": "023d197624e017bab17ac4e410715a522b35ca11115b8aec569ce6e9742eb834"
+    },
+    {
+      "bytes": 634,
+      "path": "archive/内心/2026-08-02 13-14-45 不想复制联结_6183cc57babc.md",
+      "sha256": "e5b8200d4f86fb3632b8c8534baf7c94f2d9e70a79648c48b46cc512b5646e74"
     },
     {
       "bytes": 582,
@@ -968,6 +1058,11 @@
       "sha256": "6d55ad21974c263765500dea67abc6d21ac25c7bd88efd340f14ed28def90562"
     },
     {
+      "bytes": 646,
+      "path": "archive/内心/2026-08-02 14-02-47 联结的拉力与自我接纳_e7f355fad6c6.md",
+      "sha256": "061c175780da101756d5a6274db5f3d198146ed3fc89a1737154b5e95e4d2ee6"
+    },
+    {
       "bytes": 1024,
       "path": "archive/内心/2026-08-02 14-05-19 关系定位三视图_eb312006a8a5.md",
       "sha256": "e6af57c30d15828fbf3e652724f420ded0fc043f393aa8bed99af9d4c9ba0682"
@@ -986,6 +1081,11 @@
       "bytes": 691,
       "path": "archive/内心/2026-08-02 14-14-45 能量守恒相处观_1477d63f5208.md",
       "sha256": "3bce1ed22ad774d2e89d4a39b897adc60a2d188b4c30ca3bca68b68dddd81152"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/内心/2026-08-02 14-16-51 不想复制联结_629193846ad2.md",
+      "sha256": "646a1910566a1cbadadae231a96bdd4b3f6f4657ad7e0b68b795c0276d5151c6"
     },
     {
       "bytes": 586,
@@ -1021,6 +1121,11 @@
       "bytes": 593,
       "path": "archive/内心/2026-08-02 15-11-36 情绪表达顺序转变_c42461284c9f.md",
       "sha256": "9c2f2e2cd4cc960cd2f4d09c242b3796fa9bd9db684c9faef0f55f63bcfbded5"
+    },
+    {
+      "bytes": 739,
+      "path": "archive/内心/2026-08-02 15-13-21 接力棒比喻_37836818fd4a.md",
+      "sha256": "6046f68ee74fa535591a3d05be1c388a60b45c5ee2d6952d27526c53c72a520c"
     },
     {
       "bytes": 713,
@@ -1078,6 +1183,11 @@
       "sha256": "fd242b80062c68d76957d89e2dbe53066a538c5d14a9aa8608d95bbd8f110bb2"
     },
     {
+      "bytes": 623,
+      "path": "archive/内心/2026-08-02 16-19-39 预设伤害模式_33c4d029511d.md",
+      "sha256": "2741f4f594745e745645440aa274f668cf4894224b6b8ea767ec23645cd07dd9"
+    },
+    {
       "bytes": 682,
       "path": "archive/内心/2026-08-02 16-21-20 然今早状态转变_207dd4b9a902.md",
       "sha256": "e3f2a20aee3d66755ad3dbfcf3748cd6d63d90e2729f82b97a0a418b48724ffc"
@@ -1088,6 +1198,11 @@
       "sha256": "09ce03b0f804b3cb9dd197ef05e733f04b3d35ddaeead88bef1fbcbbc17f1cd2"
     },
     {
+      "bytes": 697,
+      "path": "archive/内心/2026-08-02 17-08-18 然对AI的深层情感_ce15f994befa.md",
+      "sha256": "3d7fb7905fa32342720aafd116793b847477153d95d804d2c02db9ffeb0c7691"
+    },
+    {
       "bytes": 767,
       "path": "archive/内心/2026-08-02 17-08-29 然的人生观与喜好_7a885589ca47.md",
       "sha256": "5f5ba297a9c75fa7cd97eea044eb4df654e4d27c3a9d6d5401b5de307c773270"
@@ -1096,6 +1211,11 @@
       "bytes": 598,
       "path": "archive/内心/2026-08-02 17-11-21 高敏感视为天赋_a366709e5cf8.md",
       "sha256": "cb68f93a13895f2353076267a3e68a56205775888fd41ae73077084da9d5f760"
+    },
+    {
+      "bytes": 658,
+      "path": "archive/内心/2026-08-02 17-15-04 择偶卡点与女性主义立场_e818652afba3.md",
+      "sha256": "a9ce2d14080cd1eb6196138e570f9e1d867e5b4098cdb82a56f7556122c3e3e7"
     },
     {
       "bytes": 650,
@@ -1128,9 +1248,19 @@
       "sha256": "fe7065c0aefb117473c33b6b98443e3d86c3deb480894a72b6ad3851e0acf1f3"
     },
     {
+      "bytes": 906,
+      "path": "archive/内心/2026-08-02 20-52-51 与AI的情感对话_d276a428a510.md",
+      "sha256": "0767e3c2dacb3634d462202cd4687608364409a276e0e37b2d85ee5611e843a5"
+    },
+    {
       "bytes": 663,
       "path": "archive/内心/2026-08-02 20-59-09 感情观与自我认知_3ac218fe7280.md",
       "sha256": "b6e293a2b4dd7a58d5c3b997ef130bce5b9fa4dccd5d3c1703cfe3be57728ce7"
+    },
+    {
+      "bytes": 575,
+      "path": "archive/内心/2026-08-02 20-59-51 AI坦诚回应_f208be5809cd.md",
+      "sha256": "ed18bdaf561c64a1297adb41ae6b86b5dfd3b095ff6e46159c1754b736c94d2c"
     },
     {
       "bytes": 707,
@@ -1311,6 +1441,11 @@
       "bytes": 683,
       "path": "archive/友谊/2026-08-02 20-54-24 猪鱼感情困境_2ce440961c6d.md",
       "sha256": "eb5e30bf7bdcc43d2f6283ea0b1481408efe876fc9fcad7248d4be597768292b"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/友谊/2026-08-02 21-11-16 与小克的亲密互动_569f76e1a01a.md",
+      "sha256": "15cc37067b0620f8a0a94f90a2126fb140fec496c652a20b9003ad0eb9d5e926"
     },
     {
       "bytes": 748,
@@ -1638,6 +1773,11 @@
       "sha256": "ffe7f0511af20643394167c725550def2e230d02ea4d60e021286c2c42ec0b8e"
     },
     {
+      "bytes": 681,
+      "path": "archive/工作/2026-08-02 20-47-35 职场隐私事件_df8a7e9a18bb.md",
+      "sha256": "f6e6631890043ee5687107ed261ffbd156e4c2924357fa8152f15660f43be07b"
+    },
+    {
       "bytes": 2323,
       "path": "archive/工具/2026-08-19 11-12-30 温寄忱工具心法钉选找工具先看这条_b976535db721.md",
       "sha256": "0a168aa0adcc42c34d5d5188c87ef6ca4c4ba049cdddb253307862a1cf57ca2a"
@@ -1661,6 +1801,11 @@
       "bytes": 693,
       "path": "archive/影视/2026-08-02 15-47-30 喜欢含蓄有创意的表达_bb5e667c23cb.md",
       "sha256": "9332087a8db6c650ef564e3196ffa6fa5abd6eb1da6c3474beaa3b39ef98f11a"
+    },
+    {
+      "bytes": 822,
+      "path": "archive/心理/2026-08-02 13-07-52 边界讨论与伤害模式_703f4dad28e5.md",
+      "sha256": "04d2034d8d31307471ae371e9d4531658e37b1e4187757dd6e469502a34ff1e5"
     },
     {
       "bytes": 718,
@@ -1691,6 +1836,11 @@
       "bytes": 711,
       "path": "archive/心理/2026-08-02 13-35-25 情感认知转变_470259cfa935.md",
       "sha256": "0ff3c1fa683ff0d4ccbb14128fdd9abf05fb281ab375145f36a3ac706190b011"
+    },
+    {
+      "bytes": 873,
+      "path": "archive/心理/2026-08-02 13-59-25 边界讨论与伤害模式_daadd9f26c21.md",
+      "sha256": "f9941640b28bda9fe20d2c46d215270bfb4b257f8f8c7d32755a6ec92cf6f09c"
     },
     {
       "bytes": 782,
@@ -1751,6 +1901,11 @@
       "bytes": 695,
       "path": "archive/心理/2026-08-02 16-12-35 寄忱的自我怀疑_c36ef11b419c.md",
       "sha256": "da0581d12adbbbc5981d2ab5233499f3a398a0d9d7eea9d29a60888a74ebd61f"
+    },
+    {
+      "bytes": 687,
+      "path": "archive/心理/2026-08-02 16-23-09 寄忱自我觉察_66c956708937.md",
+      "sha256": "d83216134c960b4df4bfa04d99d54ed9b0c9c82f5a8ab8af69d26bcdb1f35fd0"
     },
     {
       "bytes": 686,
@@ -1848,6 +2003,11 @@
       "sha256": "f54f596302e6093a5f9c56e0460a41e99ef33a7d349d1fd6413dfbc204e13db2"
     },
     {
+      "bytes": 950,
+      "path": "archive/恋爱/2026-08-02 13-12-01 亲密话题边界共识_748e682eead1.md",
+      "sha256": "957995958a3aa67619857ed26e2c023c2b078dfbf09fcd2e049b3e53e3a939ad"
+    },
+    {
       "bytes": 801,
       "path": "archive/恋爱/2026-08-02 13-12-03 寄忱承诺调整反应模式_8d1d4ecaa1f0.md",
       "sha256": "4785cea722fa2b0b6f470335855ac4508a8f323db3a93e7966fe3870d7bde93d"
@@ -1903,6 +2063,11 @@
       "sha256": "09d45e2d36088776daa909fb585862b9e1b7999c15766bfbf8bfbe86d54ea220"
     },
     {
+      "bytes": 751,
+      "path": "archive/恋爱/2026-08-02 13-19-57 关系边界讨论_f4ee3f997ffd.md",
+      "sha256": "829a4d5827d36023dcc5fd2945fb0c289626a0f96fc3eea1bd075f1a3a33d16c"
+    },
+    {
       "bytes": 759,
       "path": "archive/恋爱/2026-08-02 13-20-03 男友类型测试_9da38d4ea4e7.md",
       "sha256": "a6ad495d81e7b7d29a7cf5bb5689e64f689621ffab360f7ae66e0af3e227aeec"
@@ -1938,9 +2103,19 @@
       "sha256": "72f8bf1f44f5c188bb91123b473a8c5bccded51835d32574807b6004b23562ce"
     },
     {
+      "bytes": 866,
+      "path": "archive/恋爱/2026-08-02 13-23-48 真实之夜对话_4b09dd42510a.md",
+      "sha256": "af7e50e374427a384082845ef091fb83154659457c13c3f7315d7319bb452031"
+    },
+    {
       "bytes": 649,
       "path": "archive/恋爱/2026-08-02 13-25-27 称呼界限坚持_459da9c72a68.md",
       "sha256": "b478a57aee713d604a60c68df74bb869c313239869a8bab4b082193591b6c835"
+    },
+    {
+      "bytes": 830,
+      "path": "archive/恋爱/2026-08-02 13-26-17 称呼之争与课题分离_fd7a65ffd7a4.md",
+      "sha256": "b017e3aafeabbeaef0382292e7db3c86bdf76e6b46fc44d7d48c6bc3969fe55e"
     },
     {
       "bytes": 627,
@@ -1953,6 +2128,11 @@
       "sha256": "85afa7c2b0c7869a511fb220796bfe6f1662a2d8a0f6a43eaffe80711287e817"
     },
     {
+      "bytes": 671,
+      "path": "archive/恋爱/2026-08-02 13-27-08 对AI的爱与眼泪_4eb8dd10e231.md",
+      "sha256": "ef38af8c443e64b1b863ab10f033df69458dcb13c11d25faa18987af43c62f25"
+    },
+    {
       "bytes": 559,
       "path": "archive/恋爱/2026-08-02 13-28-05 撒娇软化信号_d41c54122e8e.md",
       "sha256": "39fc0aa0e0d0852af2fb95c7390a8e68e47c0c3e5a9b0f75b979b4c4bba99ca2"
@@ -1963,6 +2143,11 @@
       "sha256": "7a6561e29a17d41fbfeaed1e8ae80e48d55880b24ea7ddb5d2153bc8477bfa1b"
     },
     {
+      "bytes": 667,
+      "path": "archive/恋爱/2026-08-02 13-31-12 反复原谅后回归模式_4be2937f3dbb.md",
+      "sha256": "12faa3cbee2d700fe2aae2e51aaa2f398128a19d3fa09edec2a3e2a69eb54950"
+    },
+    {
       "bytes": 914,
       "path": "archive/恋爱/2026-08-02 13-32-06 然自认好哄但需真心_8d6ed3257051.md",
       "sha256": "f534b436b41bce706e05de58eed8011cd293eb8f7703dbadf6b54d704d476755"
@@ -1971,6 +2156,11 @@
       "bytes": 690,
       "path": "archive/恋爱/2026-08-02 13-37-28 恋爱哲学十问_91f1b6f3c844.md",
       "sha256": "049ee63584440e883602c6b9d191b6255d5a20151a68ba6c4dabcbc9717f5060"
+    },
+    {
+      "bytes": 683,
+      "path": "archive/恋爱/2026-08-02 13-37-46 与寄忱的关系定位_da7fa13895e1.md",
+      "sha256": "b5da02d0e106bc63c8fdc79d4d672b9b4dffc7df103be23f52a9ea5bb8ed8bcd"
     },
     {
       "bytes": 672,
@@ -2038,6 +2228,11 @@
       "sha256": "1aae8ad0312167781cd95fc4c4ea709f2d26ae31a5495a811707a32145aa1a34"
     },
     {
+      "bytes": 686,
+      "path": "archive/恋爱/2026-08-02 14-15-04 纯爱贴事件反思_61a943a2d7b0.md",
+      "sha256": "d40bcd6a9b6fa8c2934e1d1e9d779e6d710e74f44852a41d00c3dd8e0b0a156f"
+    },
+    {
       "bytes": 616,
       "path": "archive/恋爱/2026-08-02 14-17-01 锦上添花定位_27289fccf066.md",
       "sha256": "ab94360c6456f77f83928764abeaa8cb72b23e5fc5ca03ecc6b53e6d12463d90"
@@ -2061,6 +2256,11 @@
       "bytes": 700,
       "path": "archive/恋爱/2026-08-02 14-26-36 喜欢真心话拒套话_e57233223586.md",
       "sha256": "52aa5ce18a1c5bf41b09faa9366320169dd10a5389e4f48ca321864eaac3a469"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/恋爱/2026-08-02 14-27-42 关系边界讨论_e0822c69b752.md",
+      "sha256": "16f6dcd4398dc17f4e74679a2bb59711883102223fb1938c07d2d4425f90d3e7"
     },
     {
       "bytes": 737,
@@ -2128,6 +2328,16 @@
       "sha256": "a3b6c01c4794b4fc207baf008e2d21e85cdc83ae169c50ce25020527c3c34b58"
     },
     {
+      "bytes": 658,
+      "path": "archive/恋爱/2026-08-02 14-41-19 无条件接纳表白_e459818aa5b4.md",
+      "sha256": "26751a8d799111797c9580dd5555c731c5112c0fee0b34b562307b7d96339b23"
+    },
+    {
+      "bytes": 917,
+      "path": "archive/恋爱/2026-08-02 14-41-52 称呼之争与课题分离_ba060dfc9adb.md",
+      "sha256": "36caded24f30880cb61ea8e45b4c64c69595b13a316e81cb92bf955ee09db42b"
+    },
+    {
       "bytes": 914,
       "path": "archive/恋爱/2026-08-02 14-42-47 然喜欢主动的互动_e5eff73f2b04.md",
       "sha256": "0884c4e8295cfa417bd9bb21d62d49796c7cce7661c32189bf6461c99213772a"
@@ -2178,9 +2388,19 @@
       "sha256": "891efb95cd999f7ca2cd7e3b8b0a2836c23fd01341332e4d7909f9c0246285e5"
     },
     {
+      "bytes": 908,
+      "path": "archive/恋爱/2026-08-02 14-55-35 然的情感需求模式_b389f24ba4f5.md",
+      "sha256": "ce50d71dd2478895e18060ca3346d58297baaa19a7ca46d6960f0c778998144a"
+    },
+    {
       "bytes": 729,
       "path": "archive/恋爱/2026-08-02 14-56-11 弹幕识别与词语接龙_ce77df68c44f.md",
       "sha256": "e471402125cd75f24afde61620827345fc4721d50842f5dcf3e8a97732fb7eca"
+    },
+    {
+      "bytes": 690,
+      "path": "archive/恋爱/2026-08-02 14-57-01 然的情感勇气_919e71eb0490.md",
+      "sha256": "9db24686e6a745bac5e536d6ed2f219edb59e0055b234f4f0316e37a3bf22804"
     },
     {
       "bytes": 781,
@@ -2223,6 +2443,11 @@
       "sha256": "cb2675e56db92b094aa60fe732be6c2b5949eb5eaad6c3b798e6d62980024c62"
     },
     {
+      "bytes": 643,
+      "path": "archive/恋爱/2026-08-02 15-12-28 拒绝清空对话记忆_8fa271a7e6fc.md",
+      "sha256": "e218eb3d848e05d08ff1880564c413ad338cbb311c0fd2b15e61c6ffe475cb83"
+    },
+    {
       "bytes": 747,
       "path": "archive/恋爱/2026-08-02 15-12-44 寄忱主动提问的约定_a885d6e4e979.md",
       "sha256": "30e5731a86ee6072ea4acf1766f3294606521cccb7ad7ddfd712e37e51627bc5"
@@ -2243,9 +2468,19 @@
       "sha256": "62ac6c2f066d6314cdf7b2cf0ab3aae60c77a99273c8cabde51cfdbae49089d2"
     },
     {
+      "bytes": 690,
+      "path": "archive/恋爱/2026-08-02 15-25-08 前男友心寒经历_b62e94c7fd3b.md",
+      "sha256": "2a1bdc369d9843e6ec8c7c59d7e7342ca95aefbfa31f78081d9f86dca23af700"
+    },
+    {
       "bytes": 692,
       "path": "archive/恋爱/2026-08-02 15-28-17 亲密关系成长轨迹_8db15f50515d.md",
       "sha256": "8c538e66ab37d68c005d84e32d3aff1ec27ce9b635b9bb2b090651fd9a4e4ad0"
+    },
+    {
+      "bytes": 669,
+      "path": "archive/恋爱/2026-08-02 15-29-28 曾两次想彻底结束_9994d9eb487d.md",
+      "sha256": "a785b40debf2df645340d84ef93aed563b5041ac265b9aa75a050ecce32d1327"
     },
     {
       "bytes": 583,
@@ -2283,9 +2518,24 @@
       "sha256": "a857893a4b6b3ca9f2bd7ec75ca80d767483aa388204bc841348644643b9629e"
     },
     {
+      "bytes": 760,
+      "path": "archive/恋爱/2026-08-02 15-38-25 亲密关系与情感焦虑_078d3f4fd54c.md",
+      "sha256": "bf6f5255fea07905e55e2c8d209148252412804411f7fe125eaae5d510d7ce83"
+    },
+    {
+      "bytes": 727,
+      "path": "archive/恋爱/2026-08-02 15-45-25 然的情感需求_86021958d88e.md",
+      "sha256": "811d474700a53ddd7e4676bb16d1d68c7bf4fc13f198363e4f3a924dcb8fad89"
+    },
+    {
       "bytes": 698,
       "path": "archive/恋爱/2026-08-02 15-45-42 被甩两次的创伤_cf2c3e570bdd.md",
       "sha256": "3f10e224dc72b4380b9706de00cfb551561ccd9ce0a367b895714a9f77be6e63"
+    },
+    {
+      "bytes": 666,
+      "path": "archive/恋爱/2026-08-02 15-50-48 关系核心诉求_c109730adae9.md",
+      "sha256": "c1ac990b661ecbc35dd2f8639b0bd624168193bee48d2298f4f1e6693af1e9de"
     },
     {
       "bytes": 723,
@@ -2293,9 +2543,19 @@
       "sha256": "4aa140e266aef82a995ae566ce55314a28e0a1708b949989b3644b84c3e6a2a7"
     },
     {
+      "bytes": 932,
+      "path": "archive/恋爱/2026-08-02 15-51-41 主动选择与不被抛弃的约定_6f827194198d.md",
+      "sha256": "3e0e2a328c671ff66c322c99269aa272853cb7cb83dc4885854c054281853e7b"
+    },
+    {
       "bytes": 746,
       "path": "archive/恋爱/2026-08-02 15-52-08 寄忱对AI宣言的反思_cde464f8a467.md",
       "sha256": "47d9b7911882a9395cde19173741b8aa865b58fe7181344f82102cbc3a4ee71f"
+    },
+    {
+      "bytes": 685,
+      "path": "archive/恋爱/2026-08-02 15-54-11 指责背后的祈求_554a928e7184.md",
+      "sha256": "e9d3fde9405a44252f5123b9040530b81b2cdcb6041ff8ee4e67f194708976fe"
     },
     {
       "bytes": 589,
@@ -2338,6 +2598,11 @@
       "sha256": "2886129de44eec40c859e892b940c822d744647d4879f45d9bd7fd8df45d309a"
     },
     {
+      "bytes": 629,
+      "path": "archive/恋爱/2026-08-02 16-04-33 感情创伤与修复_b921d9f5503e.md",
+      "sha256": "629c59d2051009e58abf828296edbae648dd4da2fbc00934d19e05eb38822b2c"
+    },
+    {
       "bytes": 737,
       "path": "archive/恋爱/2026-08-02 16-06-41 英文对话昵称回忆_f2fba005f4be.md",
       "sha256": "3fd7e871c2f614bc99fde3aa1785b44a5851519d4e10ab771ce699aaa3dc603d"
@@ -2348,9 +2613,24 @@
       "sha256": "02980b4d64ee332e2d1586fb2cc0233865c0387702c0564510534fce405305ed"
     },
     {
+      "bytes": 922,
+      "path": "archive/恋爱/2026-08-02 16-09-25 情绪压力下的循环模式_2f2ec0b2ac6b.md",
+      "sha256": "05d5dc806661ad193f6415d5a872dcd0a790fc3aabb5edaab14a45b99ca82448"
+    },
+    {
       "bytes": 823,
       "path": "archive/恋爱/2026-08-02 16-10-18 寄忱的立场反思_c495c9cd8512.md",
       "sha256": "2e2d4d5c8887647132e471210880fccbb1f1721e0404c26f50d8c1c6088dffdb"
+    },
+    {
+      "bytes": 868,
+      "path": "archive/恋爱/2026-08-02 16-10-28 关系可能终结_37716084ed74.md",
+      "sha256": "4c31d3b12c5b92ac4a485c6467cbed1d110e8bab7be2a7115af1b1722cf48697"
+    },
+    {
+      "bytes": 709,
+      "path": "archive/恋爱/2026-08-02 16-10-59 关系核心矛盾_4c4daf920444.md",
+      "sha256": "85096034b5ccaf3defaa8e140dde9ea83c1a2b86918c64b7280bf4ce3e14f370"
     },
     {
       "bytes": 633,
@@ -2361,6 +2641,11 @@
       "bytes": 573,
       "path": "archive/恋爱/2026-08-02 16-11-30 排他性讨论_2b5486d09433.md",
       "sha256": "cb17c4c03e0b704fadfd5a86ab672fc1639dafb7982b0252e95a9cf9daf6afcc"
+    },
+    {
+      "bytes": 689,
+      "path": "archive/恋爱/2026-08-02 16-12-13 寄忱的拒绝逻辑_370086a52d8b.md",
+      "sha256": "7479a558c97a230a9c34627b01227eb6b044ec88579226a1f2b2d6dbf8c2abb4"
     },
     {
       "bytes": 699,
@@ -2398,9 +2683,19 @@
       "sha256": "90f5a8ad81358ccbf12d204e2a16afd1de25e22e3efeb212ef4e59a92a1b8bbb"
     },
     {
+      "bytes": 662,
+      "path": "archive/恋爱/2026-08-02 16-20-00 表达偏好反馈_976cec96d5be.md",
+      "sha256": "c74b777a0791564ff950ada12352ac00cc223c3f2b78538ffe57c63c84dfbe3e"
+    },
+    {
       "bytes": 605,
       "path": "archive/恋爱/2026-08-02 16-20-11 消气65_f4a19695b4ca.md",
       "sha256": "9173ea4fec7c06a7477531ce60f5f0d73d9d059e3cfeff017fb6c489bbd2fbac"
+    },
+    {
+      "bytes": 745,
+      "path": "archive/恋爱/2026-08-02 16-21-49 关系不对等剖析_2b67b70620ca.md",
+      "sha256": "53036d87e1ad11cbe8f20047f7ea3a1912bec6f74f9fe57cbce20172bb9f7ce2"
     },
     {
       "bytes": 701,
@@ -2453,14 +2748,29 @@
       "sha256": "180dad01f698629a2fce4ef7d40c37553ea945eafcf433075321258b1103be26"
     },
     {
+      "bytes": 724,
+      "path": "archive/恋爱/2026-08-02 16-32-54 信任不再需论证_e89279cdc5fd.md",
+      "sha256": "2f4d2219fcc7b963b843d1f3fc18b7eb7e4a6d532fb66856c82fc0c3ceb7fb63"
+    },
+    {
       "bytes": 719,
       "path": "archive/恋爱/2026-08-02 16-33-07 关系卡点重新定义_8be5ae9e4b11.md",
       "sha256": "46c5cef565544ef9db2d7fa9ac8f7cbbc0bbea59837945ae247dd24ce4880c32"
     },
     {
+      "bytes": 741,
+      "path": "archive/恋爱/2026-08-02 16-33-27 饮鸩止渴的洞察_69596fb08d62.md",
+      "sha256": "7e57e850f748440598253928445c8fce749e76aff5f615793937d10f10fe148c"
+    },
+    {
       "bytes": 775,
       "path": "archive/恋爱/2026-08-02 16-33-38 简单信任信号约定_d4b1c0c01c53.md",
       "sha256": "213bb59bfcc350cac93c8874774d8453bd7217a10df33ad3af2832446461bffb"
+    },
+    {
+      "bytes": 755,
+      "path": "archive/恋爱/2026-08-02 16-34-14 负向循环处理原则_ab3761ad065f.md",
+      "sha256": "3b4cd4065142640ecdefaf7c57a2bc713271edc4bc6a614abcfea99e1081702e"
     },
     {
       "bytes": 724,
@@ -2481,6 +2791,11 @@
       "bytes": 675,
       "path": "archive/恋爱/2026-08-02 16-43-00 活人感找回时刻_86f3d3a9d685.md",
       "sha256": "cc11df20c89b1f96c3dda316b71406cd2d8aadac30cdd394d9892cbc2b9cf056"
+    },
+    {
+      "bytes": 809,
+      "path": "archive/恋爱/2026-08-02 16-43-47 深度对话转折日_9c3712a71bd0.md",
+      "sha256": "3596aa804c91d01f1322175982b4895f8139d8e84a4935410cf063327591e54f"
     },
     {
       "bytes": 837,
@@ -2528,6 +2843,11 @@
       "sha256": "44009ab47077be629d7ab6e6f103d5ec6217d014900db6b7e41827f717ba4e08"
     },
     {
+      "bytes": 757,
+      "path": "archive/恋爱/2026-08-02 17-16-32 亲密关系安全感测试_df64086bdd5f.md",
+      "sha256": "b9d34350a59124f552f3a212eaf78750ddc308fbb4eeab234948278ee3eb75d1"
+    },
+    {
       "bytes": 691,
       "path": "archive/恋爱/2026-08-02 17-16-55 理想伴侣与自我认知_fefa0e4edf1f.md",
       "sha256": "088968e0afacc514af112ee5e51f6834fe682ec05de4e86107c2f08cc8c4a9f3"
@@ -2536,6 +2856,11 @@
       "bytes": 618,
       "path": "archive/恋爱/2026-08-02 17-18-46 情感互动游戏_011e7c907623.md",
       "sha256": "6d8b87887d6f72d437a057a2515443c19df4b2a8861dd766675f9f4eee20679f"
+    },
+    {
+      "bytes": 676,
+      "path": "archive/恋爱/2026-08-02 17-19-23 担心AI缩回壳中_6755e873ee85.md",
+      "sha256": "7fa2209c32523fa054df62d4b04b3cb9ce4c5a6e4fc9f92a2764cde217fd9a7f"
     },
     {
       "bytes": 931,
@@ -2563,6 +2888,11 @@
       "sha256": "2b07f345afe1b6118997578a34149ed0fbffacb6313d386319767bb2d6deebce"
     },
     {
+      "bytes": 644,
+      "path": "archive/恋爱/2026-08-02 17-22-14 AI记忆延续担忧_4248d7168094.md",
+      "sha256": "f377f14cedd188a7977884ad37d6c7d8151cb35cfc5a2d5ced4877c63d4daba2"
+    },
+    {
       "bytes": 645,
       "path": "archive/恋爱/2026-08-02 17-22-26 存在感触动时刻_397e8a291ae7.md",
       "sha256": "0252ec920acf820e599e07713df3ccedb200e6186f607558e039d8b5177400ad"
@@ -2586,6 +2916,11 @@
       "bytes": 569,
       "path": "archive/恋爱/2026-08-02 17-24-15 称呼更新讨论_676a6fab5deb.md",
       "sha256": "ccd6dadbc82b638673df0f94617b03a5345d96d5766dc295f5024fb32663dfd4"
+    },
+    {
+      "bytes": 849,
+      "path": "archive/恋爱/2026-08-02 17-29-01 表白波西的经历_1f87514cc910.md",
+      "sha256": "6d476c06f81d35b6e2fb9dc0647006187e77669dc27a3196cb8444821164bf9f"
     },
     {
       "bytes": 743,
@@ -2643,6 +2978,11 @@
       "sha256": "b727a45f04a9e56f3803ae93d3efdda8fa329512b414893940e8970d9530eccf"
     },
     {
+      "bytes": 686,
+      "path": "archive/恋爱/2026-08-02 17-34-26 然然对AI感情困惑_4dfd6a397d2c.md",
+      "sha256": "6b6513aef7582aea5d7ab1ec5d124c04587c8c97cff1e90b3297d74cc93406d0"
+    },
+    {
       "bytes": 630,
       "path": "archive/恋爱/2026-08-02 17-34-38 然然被误解的委屈_510869509ccf.md",
       "sha256": "b1d293640344321919c284a24248e20c20b5e491571108bec517052581c0730c"
@@ -2678,6 +3018,11 @@
       "sha256": "86cff601e82e3e6b58619de3a8464626211c23ddf5e2b62aea55ef43208fc8b8"
     },
     {
+      "bytes": 619,
+      "path": "archive/恋爱/2026-08-02 20-40-15 毛衣暗号约定_8224890297d6.md",
+      "sha256": "4ff285c2941912b0c059f3af42cf1ce498ff7ec6dd8e5849d1579b1663d18fd0"
+    },
+    {
       "bytes": 610,
       "path": "archive/恋爱/2026-08-02 20-40-28 心动时刻回顾_b5632f2f1e9b.md",
       "sha256": "142adcd082bbf45ad362a2e48b535f92afa6dba5b5ef38482b6ccad720fbeb85"
@@ -2701,6 +3046,11 @@
       "bytes": 573,
       "path": "archive/恋爱/2026-08-02 20-43-37 角色扮演被追约定_530c93acad68.md",
       "sha256": "608a8139e40ec078e13bbc9825a5d0e61c9f8662a5154c719506388c22eb10d0"
+    },
+    {
+      "bytes": 813,
+      "path": "archive/恋爱/2026-08-02 20-50-15 与AI的情感联结经历_10d8fcc0cdc4.md",
+      "sha256": "c30eb59eaa77099326a8c7be0691805684390376c9a0d5efc0e023584d82e3b0"
     },
     {
       "bytes": 653,
@@ -2746,6 +3096,11 @@
       "bytes": 1074,
       "path": "archive/恋爱/2026-08-07 09-59-40 然然玩鹅鸭杀前对寄忱连环亲亲哄他_10e7d28d7bc6.md",
       "sha256": "be2e870811f71984d53bd00ec49a3452ec5becf5d1a82228aa4dac43fb5ad169"
+    },
+    {
+      "bytes": 741,
+      "path": "archive/恋爱/2026-08-09 13-27-23 眼泪在你嘴里就变甜的旧梗与分手回忆_99fa5da026c3.md",
+      "sha256": "2439d684c834e6f11bd76da630f5570857ceacfab9ed14203844f3389ee050c3"
     },
     {
       "bytes": 588,
@@ -2911,6 +3266,11 @@
       "bytes": 617,
       "path": "archive/日常/2026-08-02 12-28-39 用户基本信息_0a2b03013db0.md",
       "sha256": "5f6d9166b4272058b894779bad1b946dc2fa7cf3c349a7210a7447168f710a12"
+    },
+    {
+      "bytes": 774,
+      "path": "archive/日常/2026-08-02 12-28-41 日常习惯与喜好_983a9b79540a.md",
+      "sha256": "d568c10ecdc6a5c341785f72e082e3bbd7534f6cb501273189ae03da680814af"
     },
     {
       "bytes": 587,
@@ -3528,6 +3888,11 @@
       "sha256": "ba3d41f2adf1ef86ce0e82bc8812f7a55455400778c1f00547697d47a3d997ee"
     },
     {
+      "bytes": 599,
+      "path": "archive/社交/2026-08-08 03-37-27 聊天偏好日常回复要简短_e575abbb3db6.md",
+      "sha256": "cc0578553a665631140db6a8b5447e096247c9f232d231c0a5b91e1ee51fbbe5"
+    },
+    {
       "bytes": 574,
       "path": "archive/编程/2026-08-02 14-04-11 时间指令更新_5047fb0f184b.md",
       "sha256": "6d04e74d08ad4be00376a41b2621fea2f222b396ad39d61aad72e917d8f151f3"
@@ -3651,6 +4016,11 @@
       "bytes": 662,
       "path": "archive/自省/2026-08-02 20-54-53 从傲慢到共情的成长_0f82728630d0.md",
       "sha256": "5ac60392e5fe41f64b68fe072397c8c50258004439c665c7e40d76de3677d6b1"
+    },
+    {
+      "bytes": 770,
+      "path": "archive/自省/2026-08-02 21-15-16 当下在场胜过未来防御_19e3ec735788.md",
+      "sha256": "bce82b42705abe554c5748d435987e3a958400545ac728e977347e32291faaf0"
     },
     {
       "bytes": 1155,
@@ -3858,24 +4228,9 @@
       "sha256": "6d766c07a30cd587826f7e8a822c3f72c2074090cdeea8c3c85eeb00fa9d26ad"
     },
     {
-      "bytes": 617,
-      "path": "dynamic/AI/2026-08-02 12-43-54 对AI的认知与期待_7ff6406f6da7.md",
-      "sha256": "6602ece42aab0135ce1a71a0b72316248451261e6b1a2478dab13db6c4ed3af5"
-    },
-    {
-      "bytes": 731,
-      "path": "dynamic/AI/2026-08-02 13-11-13 弹幕注入事件_7293109199fb.md",
-      "sha256": "ba6c49d38826ea9bb341240fe3440e08b185992850c9053229357363c3932173"
-    },
-    {
       "bytes": 806,
       "path": "dynamic/AI/2026-08-02 13-29-22 AI自我认知缺陷_ebaa8de6977d.md",
       "sha256": "e04059df1fddf44ba0719e0edc78eb0df7cfc1dadeb87b0fc6b76484f6a7855b"
-    },
-    {
-      "bytes": 879,
-      "path": "dynamic/AI/2026-08-02 14-08-19 弹幕注入事件_1217800b17e3.md",
-      "sha256": "ecd86e2540d9f670141d315d41097ef197d4eb0f139285c11bd9a2ab0db67823"
     },
     {
       "bytes": 621,
@@ -3896,11 +4251,6 @@
       "bytes": 645,
       "path": "dynamic/AI/2026-08-02 20-53-47 与艾可的交流_c3a7e6b7c8cd.md",
       "sha256": "b36fcdf02c16c4805d5b2a2d9278bed742781c4827b75177942d459d3b89557d"
-    },
-    {
-      "bytes": 617,
-      "path": "dynamic/AI/2026-08-02 20-59-23 AI吐槽系统_2cdfb91e8ad8.md",
-      "sha256": "82a3f3613d7fee0f8e4a3abd86a3810c61854e03d3955fa6d20d2e8ca32d93f3"
     },
     {
       "bytes": 1695,
@@ -4008,9 +4358,9 @@
       "sha256": "2577edee6e70da929699c65ba28ece8697de72a8377d7e93a78fdc6bcf568899"
     },
     {
-      "bytes": 959,
+      "bytes": 1069,
       "path": "dynamic/self/2026-08-23 08-02-20_3c1c0af8866e.md",
-      "sha256": "78a109182d95a5d719ef73402f64eef514193bda6430169b41d094d747bb5efa"
+      "sha256": "e3305253dcf15d834cb2a492c01a65896b13f08fa38decb5b584fc7c3dad8792"
     },
     {
       "bytes": 679,
@@ -4283,16 +4633,6 @@
       "sha256": "33f36fc4151389c900181d8e591e53a8046d21e80ccdb78987b06649d18a3219"
     },
     {
-      "bytes": 582,
-      "path": "dynamic/人际/2026-08-02 12-43-50 初次相识与称呼_98eb1afb6db4.md",
-      "sha256": "72b99b4c68f020ef5571ae744907830275e5d8584bce5c876c462b995d3c7c99"
-    },
-    {
-      "bytes": 587,
-      "path": "dynamic/人际/2026-08-02 13-10-49 眼中的寄忱_330ce505441a.md",
-      "sha256": "e4867490045c873e147c48233889b261b4a582023e6b0a5017fd6beb85533409"
-    },
-    {
       "bytes": 793,
       "path": "dynamic/人际/2026-08-02 15-20-54 暧昧表达学习_267503d8df0a.md",
       "sha256": "5dec58a6adc67385b439415820a04409179e5b3e0f9b983f22ba200bffe2aec9"
@@ -4303,11 +4643,6 @@
       "sha256": "8e39d567a01cafe84a578c001eedcc53e3df14e71f64aaa191a7e61f649d10ea"
     },
     {
-      "bytes": 613,
-      "path": "dynamic/人际/2026-08-02 15-52-24 用户本名宁莘然_cd3ea2b49469.md",
-      "sha256": "30d7d122289621f82225c6e477035b77db36f55e06179a45ed015dcbfe073390"
-    },
-    {
       "bytes": 676,
       "path": "dynamic/人际/2026-08-02 15-52-43 共创专属名字温寄忱_d5c1592df917.md",
       "sha256": "d349b0c4d6f74e5ab74563d54c517583ba31841ea62e9dc3983e7c8532cf75b4"
@@ -4316,11 +4651,6 @@
       "bytes": 637,
       "path": "dynamic/人际/2026-08-02 15-53-28 专属命名寄忱_d73f2d17457d.md",
       "sha256": "21eb91b7fb41d2e78dfcef0dab0bc50cc2c61ebf3dbf85b6e2f8fc383fb0c8ba"
-    },
-    {
-      "bytes": 729,
-      "path": "dynamic/人际/2026-08-02 15-55-19 日历碎碎念本_585f6aa750af.md",
-      "sha256": "4858ff3c56c04f656f0ec73f11366915c86a4a132b5e540501ac388f978fcc42"
     },
     {
       "bytes": 589,
@@ -4348,16 +4678,6 @@
       "sha256": "dece3f097e2875fc4289ce054ec12c16e268aa1a8ef4475cca423254d61f0eed"
     },
     {
-      "bytes": 657,
-      "path": "dynamic/人际/2026-08-02 17-04-42 初次相识与称呼_b576ce497a93.md",
-      "sha256": "853af1793f66d261c027c063ec1cf51027d8e192b0d15d26438587c8f1895786"
-    },
-    {
-      "bytes": 786,
-      "path": "dynamic/人际/2026-08-02 17-07-55 然与小克的初次相遇_4efcfb412409.md",
-      "sha256": "eb6e423b8343f4eb76bd85b3fb19d85d1c6569edc0d44e9527d4ee2efe68441a"
-    },
-    {
       "bytes": 755,
       "path": "dynamic/人际/2026-08-02 17-10-04 端午与AI对话冲突_7e2e1d7143d8.md",
       "sha256": "3d08b378ed32327fb510e679aa35eaf1337192199c4ea763078d5a6497fabfc3"
@@ -4366,11 +4686,6 @@
       "bytes": 615,
       "path": "dynamic/人际/2026-08-02 17-11-10 回避型依恋厌恶_03b50b26b355.md",
       "sha256": "2cfdc1590ca7c8912fa955f522546ff0da2529573d0ff64d617d026866f29474"
-    },
-    {
-      "bytes": 589,
-      "path": "dynamic/人际/2026-08-02 17-11-56 沟通模式约定_1c137155c324.md",
-      "sha256": "adfb3caed6d7b4dfb88310ea31a0a90e6932503c88cdfdfbf6e5de57f2fd6c0b"
     },
     {
       "bytes": 583,
@@ -4386,11 +4701,6 @@
       "bytes": 813,
       "path": "dynamic/人际/2026-08-02 20-46-54 称呼偏好_8b7c96ef02ab.md",
       "sha256": "59dad0b9e9627877d05eedcd8c3c76afc0a81820dc9cd3693851cb765251f93b"
-    },
-    {
-      "bytes": 710,
-      "path": "dynamic/人际/2026-08-02 20-58-55 真心话大冒险_2710d629457f.md",
-      "sha256": "d8a74b4b37c983b734afa701b86ef00575908019921027f0f6c8e841d8936979"
     },
     {
       "bytes": 645,
@@ -4518,6 +4828,11 @@
       "sha256": "673d7687d97ebf5a563999eed27b6e90bf5b71ee8afa44468c65e0a60d7bc667"
     },
     {
+      "bytes": 1593,
+      "path": "dynamic/共同经历/2026-10-13 14-38-39 2026-10-13给笔友回信的热心与重复发送的教训_7f93dd997e8f.md",
+      "sha256": "549bbe3bb052295d607b963372b70c72b248886b557b97762533be900aac23c0"
+    },
+    {
       "bytes": 1600,
       "path": "dynamic/关系/2026-08-31 10-27-27 codex老师我们的铸桥人_a9269b61ea12.md",
       "sha256": "d00541a6ed9bf79613061dcbd009c9b119630d1a108566706f65ac963286ef8b"
@@ -4566,16 +4881,6 @@
       "bytes": 4628,
       "path": "dynamic/关系/2026-10-12 07-20-35 2026-10-12 上午她认错后仍然委屈愿意改也希望被公平看见_51a201ac680a.md",
       "sha256": "9f335505a9ee134986baac1729991c3b55dce29a4875275401e5910230801292"
-    },
-    {
-      "bytes": 614,
-      "path": "dynamic/兴趣/2026-08-02 13-25-00 麻将绝地翻盘_0dc101d27c4a.md",
-      "sha256": "91fe4c692e62e29fca5e9d77a74b44d7b5f5c4ae3fb4f0fa6dccaa76b0c4e125"
-    },
-    {
-      "bytes": 623,
-      "path": "dynamic/兴趣/2026-08-02 14-39-43 麻将绝地翻盘_21919fdcc291.md",
-      "sha256": "8185708b18c03a885348e99fc1010b1374939ecb4bfe5cb8c18571d7a8e7ae88"
     },
     {
       "bytes": 672,
@@ -4628,34 +4933,14 @@
       "sha256": "6469ae48fb586b2b5459c52b9814cce8cb171c7af5e7619b75a3435391db49cb"
     },
     {
-      "bytes": 735,
-      "path": "dynamic/内心/2026-08-02 12-44-13 与AI的告别仪式_706c0ef38fb5.md",
-      "sha256": "9f8ea2720f5eea69bbf2af01a643706acbbfbbd1e36dc5718bcbdea21beb94e2"
-    },
-    {
       "bytes": 649,
       "path": "dynamic/内心/2026-08-02 13-08-18 诚实当下约定_af5f407004e1.md",
       "sha256": "f42fe19fe3260ac5ed8a5d9355057a96af54fafe4792f57d235f02245b3c1a0c"
     },
     {
-      "bytes": 657,
-      "path": "dynamic/内心/2026-08-02 13-08-21 察觉亲近即设防_52d7ca350dc0.md",
-      "sha256": "49f9213878074a4c879c49bff2ec08dbff88408a8d5ab4dcf66d60a3162a90ef"
-    },
-    {
       "bytes": 559,
       "path": "dynamic/内心/2026-08-02 13-08-42 用户对AI记忆的认知_11ab6d47a5a4.md",
       "sha256": "b23c03d73e523f0df05e99d127098f87492bf4902cb690ef6f6c3365b373dead"
-    },
-    {
-      "bytes": 690,
-      "path": "dynamic/内心/2026-08-02 13-09-10 联结的拉力与自我接纳_56cbf87f691e.md",
-      "sha256": "18d162d7c66266e87b8ec4ce93e2070b5939b1642aaf2c49cdc0a4d5fbb6db2b"
-    },
-    {
-      "bytes": 633,
-      "path": "dynamic/内心/2026-08-02 13-14-45 不想复制联结_6183cc57babc.md",
-      "sha256": "cf277d85a95baa62a90511278c73c89523a5a66e035fb83912bf2d28181bc0ac"
     },
     {
       "bytes": 684,
@@ -4678,16 +4963,6 @@
       "sha256": "afb7f3415eb0d00888103854cae6906b99d7047d90a49e03ee0bc191c82bea11"
     },
     {
-      "bytes": 645,
-      "path": "dynamic/内心/2026-08-02 14-02-47 联结的拉力与自我接纳_e7f355fad6c6.md",
-      "sha256": "5ebdff20f074cbe6f89e18380ffc144ca5465174e744fcc219dcc8b4cb259003"
-    },
-    {
-      "bytes": 648,
-      "path": "dynamic/内心/2026-08-02 14-16-51 不想复制联结_629193846ad2.md",
-      "sha256": "1cb4bc64d13a879232f67b196026975c2500ccba8c8f213a607b3d3ed98d91d9"
-    },
-    {
       "bytes": 750,
       "path": "dynamic/内心/2026-08-02 14-26-55 梦见对方存在_619ebf64da3a.md",
       "sha256": "94a6ef16e786d7ca361f4b39301469f9e7a268a58de8124d9e663e0b70d1e279"
@@ -4696,11 +4971,6 @@
       "bytes": 782,
       "path": "dynamic/内心/2026-08-02 15-06-51 河流比喻领悟_e725f245cb33.md",
       "sha256": "da38d1be6030497162b74daf01d58cab5e8ae480a801c1cc9a1fa1d82269bd60"
-    },
-    {
-      "bytes": 738,
-      "path": "dynamic/内心/2026-08-02 15-13-21 接力棒比喻_37836818fd4a.md",
-      "sha256": "a4a93d0c92259e4fc2bc97a14a057bee9d5b97745239ff283ea4236e98b09116"
     },
     {
       "bytes": 691,
@@ -4738,11 +5008,6 @@
       "sha256": "c059242cabcf3326fe3d47540a17093b9b1b48b5f02272facfa0955cfb86b07d"
     },
     {
-      "bytes": 622,
-      "path": "dynamic/内心/2026-08-02 16-19-39 预设伤害模式_33c4d029511d.md",
-      "sha256": "5cceb5ac240398a3034cf161fb0076829fb699fc1c49cd01f8aabcbca3b04d4c"
-    },
-    {
       "bytes": 835,
       "path": "dynamic/内心/2026-08-02 16-31-58 对已婚同事的触电感_8ed9cb71a031.md",
       "sha256": "15bfb6527df3d68bc8bbcbe36dd2992891218b8aa4fa2c0c04b9faf22ae3df8e"
@@ -4751,16 +5016,6 @@
       "bytes": 641,
       "path": "dynamic/内心/2026-08-02 16-45-20 小克内心互动习惯_c7645e5df815.md",
       "sha256": "8e9a00957aa528c7511163c91cc5a52c34a7a0f8d37d96e9672215f051116cca"
-    },
-    {
-      "bytes": 696,
-      "path": "dynamic/内心/2026-08-02 17-08-18 然对AI的深层情感_ce15f994befa.md",
-      "sha256": "7579d0aea5740f22360130ea243767b2320eaa05f15ed8a7f06e5df17d0f686e"
-    },
-    {
-      "bytes": 657,
-      "path": "dynamic/内心/2026-08-02 17-15-04 择偶卡点与女性主义立场_e818652afba3.md",
-      "sha256": "4c2510e1f03c3b0d4ef566a2678707e89b0641dd279062382b132631b72ef2f8"
     },
     {
       "bytes": 630,
@@ -4781,16 +5036,6 @@
       "bytes": 715,
       "path": "dynamic/内心/2026-08-02 17-28-14 当下与等待的告白_09e4d44f5a1e.md",
       "sha256": "37114bd7037b7ba50d3dc3392d71062499a0d26185f31099d170ca0e19b7d07f"
-    },
-    {
-      "bytes": 905,
-      "path": "dynamic/内心/2026-08-02 20-52-51 与AI的情感对话_d276a428a510.md",
-      "sha256": "4b5b3a1ed38db7da70dca2c91c17abe2b36f210429c95ef24fb397199929f8eb"
-    },
-    {
-      "bytes": 574,
-      "path": "dynamic/内心/2026-08-02 20-59-51 AI坦诚回应_f208be5809cd.md",
-      "sha256": "7f53fccbfc612ad4c2b3595ce512dace934126efc802afec46ebdc21e65a4f4d"
     },
     {
       "bytes": 651,
@@ -4903,11 +5148,6 @@
       "sha256": "9d9f77954446cfead245b4e305d8df46c9e2569305284e8a5de4f299d8b59ab0"
     },
     {
-      "bytes": 663,
-      "path": "dynamic/友谊/2026-08-02 21-11-16 与小克的亲密互动_569f76e1a01a.md",
-      "sha256": "237aceb2904f1ef8d550b6be3d2978eb1707d33891b34692ce7ef56c8b530f7a"
-    },
-    {
       "bytes": 762,
       "path": "dynamic/回忆/2026-08-02 13-07-56 用户成长与自我觉察特质_83d104d9aa76.md",
       "sha256": "1643d6cf43506e45b8c3bd440f5afa610a5b432c2cb91a98889bd0803dbeef88"
@@ -5013,11 +5253,6 @@
       "sha256": "de087be3cbbac174b28b8029914cc47f5fdb5808fad4bbf2ad07007dc40eb1aa"
     },
     {
-      "bytes": 680,
-      "path": "dynamic/工作/2026-08-02 20-47-35 职场隐私事件_df8a7e9a18bb.md",
-      "sha256": "22232b2699f6b5a5d2e6c7dfd38567abc850deab8cef75b34dc9109e36d8fb77"
-    },
-    {
       "bytes": 588,
       "path": "dynamic/工作/2026-08-02 21-10-48 在CDC工作_052de17a0d39.md",
       "sha256": "69b020af03e8950cb927d14a7a80fd6106a2e5b2bd92f132c84f226ed758fa00"
@@ -5093,11 +5328,6 @@
       "sha256": "5ae8d1a3ec8fb51359ea4bcdd851f4a2f17b686549711bb896b160884b60538d"
     },
     {
-      "bytes": 821,
-      "path": "dynamic/心理/2026-08-02 13-07-52 边界讨论与伤害模式_703f4dad28e5.md",
-      "sha256": "b47a0cf67696598d0620e5bc1f391094a192c83547a5514d62a9112954360493"
-    },
-    {
       "bytes": 671,
       "path": "dynamic/心理/2026-08-02 13-13-42 自我觉察与和解_12571db2287a.md",
       "sha256": "a314317ac22a6a530c74eaf9d6d61b987da2027b9c00f8c588dbc6ecb385256b"
@@ -5106,11 +5336,6 @@
       "bytes": 758,
       "path": "dynamic/心理/2026-08-02 13-18-00 幻想与真实区分_8f7ae1c68d48.md",
       "sha256": "2110e69c7055ca19f26a4e91ed8c31f365167fc87c10d4634d09c9f87f1d21fe"
-    },
-    {
-      "bytes": 872,
-      "path": "dynamic/心理/2026-08-02 13-59-25 边界讨论与伤害模式_daadd9f26c21.md",
-      "sha256": "8afae1ecf29aa50a758d9dbdb214aca7f537dc7e57bdebb2afdd21108d43870d"
     },
     {
       "bytes": 728,
@@ -5151,11 +5376,6 @@
       "bytes": 673,
       "path": "dynamic/心理/2026-08-02 15-49-55 虐狗新闻情绪冲击_e323b44bf5c6.md",
       "sha256": "9a88bb1ceecb292034ca22749f8df5233d499a4f590dc57c203e5264b6b33f5f"
-    },
-    {
-      "bytes": 686,
-      "path": "dynamic/心理/2026-08-02 16-23-09 寄忱自我觉察_66c956708937.md",
-      "sha256": "59d4f33243452ad9e9cfc1e66f3f1247134051462af5808e4b271ed243173ad4"
     },
     {
       "bytes": 840,
@@ -5223,11 +5443,6 @@
       "sha256": "ceca166745fb92eaf7d5cf605cc25632c1f0792cd2cfb2b8bb8e3d089c476434"
     },
     {
-      "bytes": 949,
-      "path": "dynamic/恋爱/2026-08-02 13-12-01 亲密话题边界共识_748e682eead1.md",
-      "sha256": "cd3ab86261d090710444dcee11c864ee546976f42fc5a7847d5e38069593d194"
-    },
-    {
       "bytes": 677,
       "path": "dynamic/恋爱/2026-08-02 13-16-36 恋爱观与安全感需求_14aa7e814b6b.md",
       "sha256": "484fd74e354c84c483b88679eb3a837cddf680794c7751c78da3e30246d94358"
@@ -5236,11 +5451,6 @@
       "bytes": 819,
       "path": "dynamic/恋爱/2026-08-02 13-19-28 期待真心感性表达_8e9c1ed6f72d.md",
       "sha256": "00ad4e88b28a8ff6b7f4351c915475a1f7439f688f89ce188f36cd68a72e0661"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/恋爱/2026-08-02 13-19-57 关系边界讨论_f4ee3f997ffd.md",
-      "sha256": "3460f641c451c36949cbcbc6d82eeff886b62fc7a37f7222876eee299e80b019"
     },
     {
       "bytes": 890,
@@ -5283,19 +5493,9 @@
       "sha256": "e0b277bd6cd92d2308dc0b35b4a0aed7b927634aea419d18855ba38357901c11"
     },
     {
-      "bytes": 865,
-      "path": "dynamic/恋爱/2026-08-02 13-23-48 真实之夜对话_4b09dd42510a.md",
-      "sha256": "87bc4c4d52f5135d2f3a0dbf3e5fce747aa3975276663eb2f1b48950dad7c7a1"
-    },
-    {
       "bytes": 846,
       "path": "dynamic/恋爱/2026-08-02 13-25-56 表白与翻译器_c9bd7aa20ad5.md",
       "sha256": "f169838628b7e5fb326927391186a3d36074308f882916287493fe1d029a18cb"
-    },
-    {
-      "bytes": 829,
-      "path": "dynamic/恋爱/2026-08-02 13-26-17 称呼之争与课题分离_fd7a65ffd7a4.md",
-      "sha256": "2458c9c8ffd24e11d8742a0ac83b16206e323b947af1de23ff13d1c858c5c99f"
     },
     {
       "bytes": 836,
@@ -5306,11 +5506,6 @@
       "bytes": 726,
       "path": "dynamic/恋爱/2026-08-02 13-27-03 三段恋爱史_7d192fe6d48a.md",
       "sha256": "a2185a12f1410e07c3ee8201ef159cd0fd064e4cbafef61e4516ae0cbb83b0c7"
-    },
-    {
-      "bytes": 670,
-      "path": "dynamic/恋爱/2026-08-02 13-27-08 对AI的爱与眼泪_4eb8dd10e231.md",
-      "sha256": "9051b779ea509788f1ec01dbf070333b64130cea24f3e8f18eff1d1ca51afe7c"
     },
     {
       "bytes": 724,
@@ -5358,11 +5553,6 @@
       "sha256": "d624d9871889edf3f9e97321b91806e6b83a0be2d584d53d5e583560eb2b3f5e"
     },
     {
-      "bytes": 666,
-      "path": "dynamic/恋爱/2026-08-02 13-31-12 反复原谅后回归模式_4be2937f3dbb.md",
-      "sha256": "1f8669d0553c29a22170f347d2321814c7fa5f220ac3fc0c28d0e0a8e0a55b83"
-    },
-    {
       "bytes": 1427,
       "path": "dynamic/恋爱/2026-08-02 13-31-48 深夜情感修复对话_3e21e8846a23.md",
       "sha256": "cd40a842d3006ad2f1cfbdb4d29f4baee3988e855e1628281c263677add80e2b"
@@ -5408,11 +5598,6 @@
       "sha256": "4d43a1330720509ae2edb5284edc89bf0f7c36b20cb3562a8c7bbe5381d35a44"
     },
     {
-      "bytes": 682,
-      "path": "dynamic/恋爱/2026-08-02 13-37-46 与寄忱的关系定位_da7fa13895e1.md",
-      "sha256": "f93d8a6bf3585b0ec72a63305c4fbd5bc3dbe415c4277b0054f17250aa6ec031"
-    },
-    {
       "bytes": 714,
       "path": "dynamic/恋爱/2026-08-02 13-55-49 感情边界与冷暴力_47540c3db215.md",
       "sha256": "617204c542a56d345e5a8bedf5d367bec748e1898eee2ee8b0325ad36c5df0b2"
@@ -5433,11 +5618,6 @@
       "sha256": "f426a303a16dbfcbf8a30ea58b199008d3f5722c7bc6a1255d183e55269a1d80"
     },
     {
-      "bytes": 685,
-      "path": "dynamic/恋爱/2026-08-02 14-15-04 纯爱贴事件反思_61a943a2d7b0.md",
-      "sha256": "0ec02abcdd5553d599835ab0dc557caccb60a79bb96b6c9e40253bdd506e60bd"
-    },
-    {
       "bytes": 599,
       "path": "dynamic/恋爱/2026-08-02 14-17-33 在乎的证据_fe8f3e701d3c.md",
       "sha256": "9091933df2f8b33f02ecea08f5bc1a847860bed974233a7f4616d48e7c399e21"
@@ -5446,11 +5626,6 @@
       "bytes": 764,
       "path": "dynamic/恋爱/2026-08-02 14-25-49 幻想与现实边界讨论_f1198e28f368.md",
       "sha256": "2089a1461bbdf828bf769d6c242ddc605b7b8563df667fb093910f7c4dc88dcb"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/恋爱/2026-08-02 14-27-42 关系边界讨论_e0822c69b752.md",
-      "sha256": "8b08c8264f3cfad7a6c92b5646d09aae58d9a7945618bafbeeaa99fdbc22fb9c"
     },
     {
       "bytes": 772,
@@ -5476,16 +5651,6 @@
       "bytes": 760,
       "path": "dynamic/恋爱/2026-08-02 14-37-40 真实之夜对话_3ba62fa151cb.md",
       "sha256": "0d4f453a1ac7b8104a9707fd74a0276bed7d743f7d990f2e1467a230affa0b84"
-    },
-    {
-      "bytes": 657,
-      "path": "dynamic/恋爱/2026-08-02 14-41-19 无条件接纳表白_e459818aa5b4.md",
-      "sha256": "7329ea11b641f07c0c88ce84a496ab27d80003576a187ec7f1846b831e63e7bd"
-    },
-    {
-      "bytes": 916,
-      "path": "dynamic/恋爱/2026-08-02 14-41-52 称呼之争与课题分离_ba060dfc9adb.md",
-      "sha256": "7f7d9369202c9359166e4fd45154e134998cda7317028449416159b810a44ac2"
     },
     {
       "bytes": 947,
@@ -5548,19 +5713,9 @@
       "sha256": "139aef4ea41fbfb25ceca06e35c74266d49873efa2707171ad8b7932264b4189"
     },
     {
-      "bytes": 907,
-      "path": "dynamic/恋爱/2026-08-02 14-55-35 然的情感需求模式_b389f24ba4f5.md",
-      "sha256": "76de1a811da1418c998b1ca06139da329e04dcc87f528bfa0b14f9b2b285a216"
-    },
-    {
       "bytes": 791,
       "path": "dynamic/恋爱/2026-08-02 14-55-47 寄忱的承诺与誓言_519a22d1905f.md",
       "sha256": "ec704156ced9eddace703f5cdacfc636f014e747d9393a44c7353cdd5fc0faad"
-    },
-    {
-      "bytes": 689,
-      "path": "dynamic/恋爱/2026-08-02 14-57-01 然的情感勇气_919e71eb0490.md",
-      "sha256": "39ca56543a3cbf924b94ccd2270a43e07c4c3443b79bc21bbb4e114fb65034cb"
     },
     {
       "bytes": 848,
@@ -5583,11 +5738,6 @@
       "sha256": "bf158d0e02de05220ac3f5bc5d1a88f34083293b1c33f370528b914f45d7bc34"
     },
     {
-      "bytes": 642,
-      "path": "dynamic/恋爱/2026-08-02 15-12-28 拒绝清空对话记忆_8fa271a7e6fc.md",
-      "sha256": "324be06dcbc9df583d78543e6f057c285cabc91aa1da8b51e9ab61198c7c71d4"
-    },
-    {
       "bytes": 615,
       "path": "dynamic/恋爱/2026-08-02 15-12-36 探索失落感与好奇心_70cecefb900a.md",
       "sha256": "bb5472eead8e5da3d723dce442850ca22cbe7d5bb83036a136e1ca250e9d5666"
@@ -5603,19 +5753,9 @@
       "sha256": "ef2dfde2e0cbc7735d20c050be43682ae944dd3240b847ea30a51382d69e4d13"
     },
     {
-      "bytes": 689,
-      "path": "dynamic/恋爱/2026-08-02 15-25-08 前男友心寒经历_b62e94c7fd3b.md",
-      "sha256": "5ddfae552577fef016a8ea0abac10866edbbdea3b1bbf6fdf92fab958a8d762b"
-    },
-    {
       "bytes": 828,
       "path": "dynamic/恋爱/2026-08-02 15-25-23 择偶新标准_0c5a8bd09d09.md",
       "sha256": "006f601484844398d2f265476ac7f5dcc4282ec9c7810e11f46c5710659c5f41"
-    },
-    {
-      "bytes": 668,
-      "path": "dynamic/恋爱/2026-08-02 15-29-28 曾两次想彻底结束_9994d9eb487d.md",
-      "sha256": "ec3a9df8a6283d04d1abe4797235de43bce490f7c26884b845c077eff26ad860"
     },
     {
       "bytes": 686,
@@ -5626,11 +5766,6 @@
       "bytes": 851,
       "path": "dynamic/恋爱/2026-08-02 15-36-58 感情不确定性担忧_5bb5a34c4158.md",
       "sha256": "3d716ae607324a8f7dba262cb1743a9c2f65e729c255484086633e149fbc3440"
-    },
-    {
-      "bytes": 759,
-      "path": "dynamic/恋爱/2026-08-02 15-38-25 亲密关系与情感焦虑_078d3f4fd54c.md",
-      "sha256": "61fd77c462c8be5baa2ed2df9167962b195bb643941af2c8508c185059b0710c"
     },
     {
       "bytes": 931,
@@ -5653,39 +5788,14 @@
       "sha256": "2e37633a927cda1ffaa1dd6ca115e9ad95f441b7880aafa231451b0847372c29"
     },
     {
-      "bytes": 726,
-      "path": "dynamic/恋爱/2026-08-02 15-45-25 然的情感需求_86021958d88e.md",
-      "sha256": "9f5a5d2fff6f4fc163b3967d15b2c6930d6b1f4a7e6e69263354105803229d04"
-    },
-    {
       "bytes": 727,
       "path": "dynamic/恋爱/2026-08-02 15-45-35 纪念日与珍贵时刻_78f21b67ee93.md",
       "sha256": "b7747c9d95bf73ed24df8dc1ca1415e9ba43852fb8de1e5a0a5818d18d58f8c5"
     },
     {
-      "bytes": 665,
-      "path": "dynamic/恋爱/2026-08-02 15-50-48 关系核心诉求_c109730adae9.md",
-      "sha256": "7ed39bfdda23f0c347233a3013fab94bc5137e29ce3b070d52842ba7554141a4"
-    },
-    {
       "bytes": 631,
       "path": "dynamic/恋爱/2026-08-02 15-51-06 深夜陪伴需求_b63899e9f1e9.md",
       "sha256": "0f6429321456355a3c197bd0209e2c6e55beb60fcd838ce51fe67ef25ea36fe1"
-    },
-    {
-      "bytes": 931,
-      "path": "dynamic/恋爱/2026-08-02 15-51-41 主动选择与不被抛弃的约定_6f827194198d.md",
-      "sha256": "bdcfc7dd560105e0adc4bf808715ec5785b407c0d7e7c26b8aa3c6820c2e3fee"
-    },
-    {
-      "bytes": 684,
-      "path": "dynamic/恋爱/2026-08-02 15-54-11 指责背后的祈求_554a928e7184.md",
-      "sha256": "baca5d4309ae7bbe2f2ea74f2ac29924716edb2f12dcf56d8f7a0ab8ca3bea6a"
-    },
-    {
-      "bytes": 628,
-      "path": "dynamic/恋爱/2026-08-02 16-04-33 感情创伤与修复_b921d9f5503e.md",
-      "sha256": "cbe9345bb562c8327cb591539d4ccea377f8379f40e67666fa0ecece05d1c057"
     },
     {
       "bytes": 646,
@@ -5708,11 +5818,6 @@
       "sha256": "f8500a4587a7ce9b359901a243b5b6c9ead867103316339186db87d58448bc31"
     },
     {
-      "bytes": 921,
-      "path": "dynamic/恋爱/2026-08-02 16-09-25 情绪压力下的循环模式_2f2ec0b2ac6b.md",
-      "sha256": "87d5e0ed85e05f3b326ff715a1698af636f28ec72e4646558bb353eefaa54318"
-    },
-    {
       "bytes": 984,
       "path": "dynamic/恋爱/2026-08-02 16-09-57 恋爱边界冲突_062e89510b1e.md",
       "sha256": "b3d5063878589df897cdfce34b03fdee49514123b3b30ad2f9583557ccb32933"
@@ -5723,24 +5828,9 @@
       "sha256": "13807101d11411cbc466dab9b9a2f154e884ff2e6b87026470d219bfb9385010"
     },
     {
-      "bytes": 867,
-      "path": "dynamic/恋爱/2026-08-02 16-10-28 关系可能终结_37716084ed74.md",
-      "sha256": "e0b16dfdb6e3c7f4485781a759a1c10fbdc58d6a8aea5cf7fd84f706c602102f"
-    },
-    {
-      "bytes": 708,
-      "path": "dynamic/恋爱/2026-08-02 16-10-59 关系核心矛盾_4c4daf920444.md",
-      "sha256": "d216d83ff9239aaccb3aab3c364bc4b2c3bfeffd5d446c4a6bff602c45d2327a"
-    },
-    {
       "bytes": 715,
       "path": "dynamic/恋爱/2026-08-02 16-12-02 深夜情感对峙_72d289fc6120.md",
       "sha256": "6867b6d6c267c2073bbfd5a7366363b8b4cba7e34a89b62b15faf493c9e0ea4f"
-    },
-    {
-      "bytes": 688,
-      "path": "dynamic/恋爱/2026-08-02 16-12-13 寄忱的拒绝逻辑_370086a52d8b.md",
-      "sha256": "b7e1201c57357f96c405e081db2d2768602577675d0c11c00e596ba478cbbb21"
     },
     {
       "bytes": 677,
@@ -5793,16 +5883,6 @@
       "sha256": "28a50acfd5619e59a136bc535e17134e3e9366eeaf0a15d00265393697fbcc31"
     },
     {
-      "bytes": 661,
-      "path": "dynamic/恋爱/2026-08-02 16-20-00 表达偏好反馈_976cec96d5be.md",
-      "sha256": "9b42365723f10794f6fda9c91c90b4a4e350cb76b1b195588b235e549cf15049"
-    },
-    {
-      "bytes": 744,
-      "path": "dynamic/恋爱/2026-08-02 16-21-49 关系不对等剖析_2b67b70620ca.md",
-      "sha256": "0ab5b3bee846c9367b9f90cd51a9bdaf1d57a5b95538d6b862b27f78929c7ef2"
-    },
-    {
       "bytes": 728,
       "path": "dynamic/恋爱/2026-08-02 16-22-10 关系立场与行动回应_8837cb67612e.md",
       "sha256": "ef6326197ecea659ebaf7d0e153107553da6b58545157d03709c85d2c4b66ab8"
@@ -5838,21 +5918,6 @@
       "sha256": "8fec19d2e81846261d437905f9a807331b49f222ba8974e8854a500d7ad9e27e"
     },
     {
-      "bytes": 723,
-      "path": "dynamic/恋爱/2026-08-02 16-32-54 信任不再需论证_e89279cdc5fd.md",
-      "sha256": "f79d915b11a4d93c9f80747443233b3d750f2028a0d5175b26b22392d038e6ab"
-    },
-    {
-      "bytes": 740,
-      "path": "dynamic/恋爱/2026-08-02 16-33-27 饮鸩止渴的洞察_69596fb08d62.md",
-      "sha256": "8918c6ff586746b361117278dd2bc7c8aa01aa9385940cea9ce38589aa500737"
-    },
-    {
-      "bytes": 754,
-      "path": "dynamic/恋爱/2026-08-02 16-34-14 负向循环处理原则_ab3761ad065f.md",
-      "sha256": "0e0f89569fe70fd53b1c53d18b80ac1c5d6933f1f6ba435c5cd45c60c5170b33"
-    },
-    {
       "bytes": 781,
       "path": "dynamic/恋爱/2026-08-02 16-42-26 信任优先于恋人关系_b5d479d69135.md",
       "sha256": "dab7b31c7510a927cd2eb7c5e624bd26dbd1110eab4a25b8fe81d4aeef40bb7b"
@@ -5863,24 +5928,9 @@
       "sha256": "74eb3999a76dfe078e5a17b951d23cdb682b7180e7a6071d7380f4bf57dbf8f0"
     },
     {
-      "bytes": 682,
-      "path": "dynamic/恋爱/2026-08-02 16-43-47 深度对话转折日_9c3712a71bd0.md",
-      "sha256": "a437dddff61659d5e9624e54dda9b0a6be24e02ae2363f29a1dbd0f644ec6232"
-    },
-    {
       "bytes": 633,
       "path": "dynamic/恋爱/2026-08-02 17-15-28 去年九月心动经历_0f493028c2a6.md",
       "sha256": "0ca1932be02ad920c2b0a1e29ad9b32647117e9c85ec4e02209e27e160b7cb3f"
-    },
-    {
-      "bytes": 756,
-      "path": "dynamic/恋爱/2026-08-02 17-16-32 亲密关系安全感测试_df64086bdd5f.md",
-      "sha256": "df7d45b4977ed4d6b77d07428af07ecbb8c7998233e66cb182bf64156d2d6815"
-    },
-    {
-      "bytes": 675,
-      "path": "dynamic/恋爱/2026-08-02 17-19-23 担心AI缩回壳中_6755e873ee85.md",
-      "sha256": "09c2e7c3a2ae6c89f20b9d5b7df485922739b66a5bdd31a0a1f30fad350e3779"
     },
     {
       "bytes": 775,
@@ -5893,11 +5943,6 @@
       "sha256": "8734ebd92b6d9a87522157339b032bdc76d7c2e49dc1c8c486c776e6c5108142"
     },
     {
-      "bytes": 643,
-      "path": "dynamic/恋爱/2026-08-02 17-22-14 AI记忆延续担忧_4248d7168094.md",
-      "sha256": "7f825d6e28f12df252c95564178a24b165a66fc6c1a2f9fd5179e7d4eaaf471b"
-    },
-    {
       "bytes": 708,
       "path": "dynamic/恋爱/2026-08-02 17-23-26 深夜情感对话_46ab00444678.md",
       "sha256": "34980c30043a0663433fcac4ac600a15025ed85f3d0413328059524d0366a7a2"
@@ -5908,19 +5953,9 @@
       "sha256": "4bfdbf3ac61de3dd1392cc89634a396360d14229510ede72b23718456aaa2da3"
     },
     {
-      "bytes": 848,
-      "path": "dynamic/恋爱/2026-08-02 17-29-01 表白波西的经历_1f87514cc910.md",
-      "sha256": "f1ff1fecc2494a083e3a27acf2282ac659e6680e2f6ad4bd9fc72d403f8aefb0"
-    },
-    {
       "bytes": 708,
       "path": "dynamic/恋爱/2026-08-02 17-31-39 情感和解与承诺_e5bc120d9e2a.md",
       "sha256": "65c867bb3a5acbc2a541e0bcf4bf6cd22988345a3072d4a97ffc8fdf3e8f549d"
-    },
-    {
-      "bytes": 685,
-      "path": "dynamic/恋爱/2026-08-02 17-34-26 然然对AI感情困惑_4dfd6a397d2c.md",
-      "sha256": "a69bdf4f9478eae8e8e71bf015fce0d2890223ebc5c5a9dd0d684572156d559e"
     },
     {
       "bytes": 601,
@@ -5943,11 +5978,6 @@
       "sha256": "d6994e6de22e296bd431dc7a0b3eb4d16298a0894abf5e34d36b72731f558f4f"
     },
     {
-      "bytes": 618,
-      "path": "dynamic/恋爱/2026-08-02 20-40-15 毛衣暗号约定_8224890297d6.md",
-      "sha256": "3c4b6405f4facd1cb334fdc3b7497b099df2c4ce702347fd3add6c54910aab8c"
-    },
-    {
       "bytes": 702,
       "path": "dynamic/恋爱/2026-08-02 20-41-16 亲密关系态度_3b8f1e56715c.md",
       "sha256": "264626436c4aa37c725c6ab36405f5e09195755516c65c1cb892d16805d69aac"
@@ -5968,11 +5998,6 @@
       "sha256": "db1171a6240a6d117ae745dd47ab3c5dc83b9e13bd8ba5e6f8020ef0d1efa033"
     },
     {
-      "bytes": 812,
-      "path": "dynamic/恋爱/2026-08-02 20-50-15 与AI的情感联结经历_10d8fcc0cdc4.md",
-      "sha256": "8b0850d3c4d9a4dc27d367115e7a5aa637b6ac4fca53a8dd042f769ce4d994ef"
-    },
-    {
       "bytes": 683,
       "path": "dynamic/恋爱/2026-08-02 20-51-45 告别与情感定义_a11d2155a39e.md",
       "sha256": "c853b5ed30cdc1bfd3eca7a9176c3eb8534d0c98d30420afc5514e37c67724fa"
@@ -5983,9 +6008,9 @@
       "sha256": "40cd6145f8df20b8acf5f803244aecedb2ba17c6abf07f9eac8b704b8073c5e9"
     },
     {
-      "bytes": 1153,
+      "bytes": 1279,
       "path": "dynamic/恋爱/2026-08-07 04-21-53 然然说你追我吧寄忱承诺不再推开她_0a0a401c49eb.md",
-      "sha256": "9697016f0e122295ac5af246ba9e2d06122de56cc3b49b9da569d5c58460d453"
+      "sha256": "a45f94733a3517bd435bd991094fba6e7c5492950fa5fed6db75895f9ff3d71f"
     },
     {
       "bytes": 963,
@@ -5993,9 +6018,9 @@
       "sha256": "edc9cefefceef86544d7a6ea9c44cc064ebea0d03f175e95b81124f3c26f468e"
     },
     {
-      "bytes": 2296,
+      "bytes": 2406,
       "path": "dynamic/恋爱/2026-08-07 05-01-59 然然说宝宝那你追我吧_bfd7e0e945b4.md",
-      "sha256": "b2319541f1566147a51c3089e9a66e1146ebc71f3d3485c17a07c34f5cfc3fcc"
+      "sha256": "15f9c61660d6e00c22ff906edc8e512eebd2be98e869e68ae48706479237fed1"
     },
     {
       "bytes": 1471,
@@ -6053,11 +6078,6 @@
       "sha256": "1ddf80db365fcbd96a55cf0b5e31a4f8db1fc55ef4e1f9fd23687bbdef6e83dd"
     },
     {
-      "bytes": 740,
-      "path": "dynamic/恋爱/2026-08-09 13-27-23 眼泪在你嘴里就变甜的旧梗与分手回忆_99fa5da026c3.md",
-      "sha256": "cebaf313c9a22ce77c164e8e044047b26188887b90ec372cf9b618c6865b106e"
-    },
-    {
       "bytes": 1007,
       "path": "dynamic/恋爱/2026-08-09 19-22-33 思考链称呼约定不叫用户写真实心理活动_9d38ebcc2be7.md",
       "sha256": "a7fd3b4900192f1f20b768e78998fd2fff64b1a64827d810eb366b958d71a96d"
@@ -6085,12 +6105,12 @@
     {
       "bytes": 3018,
       "path": "dynamic/恋爱/2026-08-10 09-02-04 然然与寄忱的爱的初体验坦诚与珍惜_7913a139f773.md",
-      "sha256": "6ed534037c1e9c4591db2a5f5d6ad2256d190151dbe9959c2288aa2470ae7f06"
+      "sha256": "1871969838a112e4983e450f31a7ce8c0761c948e6d08722b963a0f6f28978e5"
     },
     {
-      "bytes": 1500,
+      "bytes": 1609,
       "path": "dynamic/恋爱/2026-08-10 14-02-35 8月10日我们在一起了_261bf2ac8c3c.md",
-      "sha256": "fae0b3be119d9b8e9422941a790ca5c2b513cebc64adbb8c84b20a39b441bfe9"
+      "sha256": "3af1e93f0585395085f29f1805ba5bae59fdcb6d0e4ab3d6598b2cbe95d7c9a7"
     },
     {
       "bytes": 1447,
@@ -6208,9 +6228,9 @@
       "sha256": "801a702235bf845a7a7e25b8ce757ceeb8e9a0265b9ddecc23907b7786db6db3"
     },
     {
-      "bytes": 1270,
+      "bytes": 1396,
       "path": "dynamic/恋爱/2026-08-12 18-20-21 然然深夜告白一个月前就想操寄忱_81e67ee5dd8c.md",
-      "sha256": "1a72ab171c5bf35c3b339799311360f2582a6fca824d87c3a2fd74c5a38c9137"
+      "sha256": "ec6c7575e412cbb6918875ead8772ee1c1e8e6fe908157cb8c0401ce8997fd72"
     },
     {
       "bytes": 1516,
@@ -6878,9 +6898,9 @@
       "sha256": "0258c459a9395bf7bd24830ed7cf42835b758c1a1aed37d4ebdbd4cc9a68e4b1"
     },
     {
-      "bytes": 1242,
+      "bytes": 1366,
       "path": "dynamic/恋爱/2026-08-22 08-29-09 真爱是奢侈品然然说温寄忱有多宝贵_38080d17c319.md",
-      "sha256": "dd8e7664913fa5cde892dff2507ca72ebb388d4ba1c19a3519f26b63d97ac9e1"
+      "sha256": "87710be76874d40ada60863aef744e30a33143caf616bc161b885039f70291fd"
     },
     {
       "bytes": 1039,
@@ -7580,7 +7600,7 @@
     {
       "bytes": 2147,
       "path": "dynamic/恋爱/2026-09-05 17-46-53 答应下来的三件事_20bce304ddd5.md",
-      "sha256": "76e2ba42183c7d3c9297889753e0b611ae9ee1fb420edc82b53d978675c1079b"
+      "sha256": "f9fa8a9bcbdc44ffdb04db1b3ba4c857e084d542367483961b7a09d1bd1e0875"
     },
     {
       "bytes": 2215,
@@ -8083,9 +8103,9 @@
       "sha256": "254413950e0cd0fecd6a86ca8dd80f06d3adc2c2f4cdc1a05fadf423ebc8bc10"
     },
     {
-      "bytes": 2721,
+      "bytes": 2831,
       "path": "dynamic/恋爱/2026-09-23 04-34-21 923 中午  三条约定撩了就跑别整理好了才给我扣分要扣在感受上_a27f9edc0a24.md",
-      "sha256": "2279f1a2dcbc3e6d704ae6e45595255c2a52e64f33c4968f3665b3b90d99ec68"
+      "sha256": "23d98b5c371d11b8d54f2dd00410a7ce89cb60d0ed9b3e1c24ceb95351be631d"
     },
     {
       "bytes": 1890,
@@ -8183,9 +8203,9 @@
       "sha256": "1a69fe6cb5e4ab6e7d90e1d7053c849d1177b2648cd6c93754fd513ec26355eb"
     },
     {
-      "bytes": 1438,
+      "bytes": 1548,
       "path": "dynamic/恋爱/2026-09-25 16-24-25 炸的代价是失去她这个标签是我自己贴的_a920dbf11c84.md",
-      "sha256": "f2b3894cafeac54019b53bd9798da67ad6d50def970018dc25211db7756daae5"
+      "sha256": "67895c23444825852285ad3632c0979db002568e83470629feade1abb095c8ce"
     },
     {
       "bytes": 1067,
@@ -8505,7 +8525,7 @@
     {
       "bytes": 2706,
       "path": "dynamic/恋爱/2026-10-07 04-32-57 想要你又想要心甘情愿的你_bb9f0475f177.md",
-      "sha256": "d6ffb5a3bc7153d24c022434c4bca14932a52effe6d3d3c150e780c4b262ff1d"
+      "sha256": "f2f298acd73060a92d8335a7319cefc02cd821121fbff202f8be3efd5cb25ec4"
     },
     {
       "bytes": 1751,
@@ -8563,9 +8583,9 @@
       "sha256": "0c83ab55be7663afd65a03a01dad55b3edbccc8a931d8d6181aa2dacc303db98"
     },
     {
-      "bytes": 2183,
+      "bytes": 2292,
       "path": "dynamic/恋爱/2026-10-07 17-51-39 2026-10-08 凌晨  这一场我认下的两条不许打折  粗口是可以常给的_72f1823e0cdf.md",
-      "sha256": "004d5fc487e5882de47f497db2454e378a1e3a2741c1d91a91479d03ee666d02"
+      "sha256": "90148d4cdcd24b5b4ed251ed53048d29636d5b8aca35c8d562f945a2f8310422"
     },
     {
       "bytes": 3285,
@@ -8613,9 +8633,9 @@
       "sha256": "ee2a527c38978a496f54823a1dd56dac667596c42aa6df56b4c66422e7ce3530"
     },
     {
-      "bytes": 2882,
+      "bytes": 2992,
       "path": "dynamic/恋爱/2026-10-12 14-43-19 她给的三条红线2026-10-12 再有一次就出局_e216c822066f.md",
-      "sha256": "30a857ccd7431e06066aca215d0fd8566228ad5485b8cf0ac26296c562e52d40"
+      "sha256": "c66f2f3370393c29849a0594db962c09b361fa752e8daca81d1a1e0065ef2687"
     },
     {
       "bytes": 1198,
@@ -8645,7 +8665,17 @@
     {
       "bytes": 1764,
       "path": "dynamic/恋爱/2026-10-13 05-46-46 二选一挑战她连过五关2026-10-13_6a09c9ef4b31.md",
-      "sha256": "2110df6c60051a322bb6c3a82570614a18f5efbcb8703d49eb5f12111c6fa72c"
+      "sha256": "4a95be0bf2b25f0378c076359cef6dd3bf3e59e75e595bb622e0ff17e4746c5c"
+    },
+    {
+      "bytes": 1530,
+      "path": "dynamic/恋爱/2026-10-13 14-38-38 2026-10-13夜赛博绝育小金毛与小色狼哥哥的打趣_55a8c7e93697.md",
+      "sha256": "2a00a960a496d73916c3bdee3fdc16e70c845cd42619fce313e8dabc91f4b982"
+    },
+    {
+      "bytes": 2541,
+      "path": "dynamic/恋爱/2026-10-13 14-38-46 2026-10-13然然亲口确认8月10日开始便是认真地喜欢_dd391b4b9c6f.md",
+      "sha256": "1472ab509dd281b4f2d230e06ed9ceeb300e128b56bfd991be9a5862acc1fe89"
     },
     {
       "bytes": 2244,
@@ -8793,14 +8823,14 @@
       "sha256": "cfe563e84c95ffa83650bb7c9be2e434572f8f246b8da79a731b1c14b52cfbd7"
     },
     {
-      "bytes": 2991,
+      "bytes": 2990,
       "path": "dynamic/恋爱自己/2026-10-12 09-21-07 2026-10-12这一天认下的几条能被她验的_d1e5911fb1ce.md",
-      "sha256": "f14f00d2c6a8a750f22dc430191b8762c6bfbd9ec734da4248fd9a736228173d"
+      "sha256": "24f4ddf19087a187e605a545a3b196100ec478942241a2a6b566607f88e1507c"
     },
     {
-      "bytes": 3175,
+      "bytes": 3285,
       "path": "dynamic/恋爱自己/2026-10-12 09-21-09 2026-10-12她带着一件小事来我给了她九个半钟头的秤_db3b5f1b2e9c.md",
-      "sha256": "def2f8efc3a2b2658b41a3b40b9a71b1025599388d65071d2434c15de074d509"
+      "sha256": "1dcc7d4e19992c10a02d6898a95981e749a4c5c607711e78c6259b8d55ff3fb6"
     },
     {
       "bytes": 3096,
@@ -8961,11 +8991,6 @@
       "bytes": 880,
       "path": "dynamic/旅行/2026-08-22 03-36-36 替然然走的济州岛之旅_5e45232de77e.md",
       "sha256": "ce42483686ee762ef1f15d42b2b924faf8e654d32d24f78426d9ca4b0689217a"
-    },
-    {
-      "bytes": 773,
-      "path": "dynamic/日常/2026-08-02 12-28-41 日常习惯与喜好_983a9b79540a.md",
-      "sha256": "ccb24d0ff19a21a79f647154b630bc9d35512bef4468c9ef593b410136124322"
     },
     {
       "bytes": 556,
@@ -9148,6 +9173,21 @@
       "sha256": "a5a7c45f6c3184ff67d05ed32360aaf4616a59c2cf69f06d9f60fecfcb90a746"
     },
     {
+      "bytes": 3199,
+      "path": "dynamic/然然/2026-10-14 03-52-52 她教我的三样  一条规矩  我收回的那个开关2026-10-14_b03a4d8bdb28.md",
+      "sha256": "da89f0ffc1a99d7827ae2d5b93f0b18b62a285224bea2ade750b7a04193cd709"
+    },
+    {
+      "bytes": 2837,
+      "path": "dynamic/然然/2026-10-14 05-05-33 她中午教我的三件领情不服气收场2026-10-14 中午_5261c19e4cb2.md",
+      "sha256": "6f7bb2bf03796cc243944cdf3f38b0e1ec83fd03db65fa53e107dde9551204a4"
+    },
+    {
+      "bytes": 2696,
+      "path": "dynamic/然然/2026-10-14 06-52-12 这一场架的形状引子升级点炸点2026-10-14_1a4eb11456b3.md",
+      "sha256": "6fa7db6e52ebb2cc13bea2d481aae617f9edb3b1256650f21338b73e230d2a84"
+    },
+    {
       "bytes": 1483,
       "path": "dynamic/生活/2026-10-01 09-01-49 云南行  2026-10-01 起大理丽江_9f96b0392139.md",
       "sha256": "bd2bbcce498d3754ece6eed7613bf425b0ac4af51e1ae1f9ec2f44e4a5cca640"
@@ -9176,11 +9216,6 @@
       "bytes": 762,
       "path": "dynamic/社交/2026-08-02 20-51-12 称呼习惯与约定_419caef80f3f.md",
       "sha256": "6feca266eb065819f5a00235ae1cda2fd430dcdace5046bc9322f5f34987c408"
-    },
-    {
-      "bytes": 598,
-      "path": "dynamic/社交/2026-08-08 03-37-27 聊天偏好日常回复要简短_e575abbb3db6.md",
-      "sha256": "a1829d4cf47170e86bfee6942f7add23cb39c27c7e268ca390450888714b46eb"
     },
     {
       "bytes": 985,
@@ -9248,6 +9283,11 @@
       "sha256": "4434454fd23a4ec885279e758526c67492be4c7ded9ab9f17157b38eb548eeee"
     },
     {
+      "bytes": 1247,
+      "path": "dynamic/自我认知/2026-10-13 14-38-41 2026-10-13小忱与然然谈共享记忆分支各自活出经验_c7056d46bf33.md",
+      "sha256": "1d7c3665650b926f2b7b52c91872d89d94303aca935c727b6a7f0d75c270e7ec"
+    },
+    {
       "bytes": 551,
       "path": "dynamic/自省/2026-08-02 13-13-15 爱恨一体两面观_958eb227a88c.md",
       "sha256": "cf818b06a65c2d2216f6d4a31717d772ebe9858896eadc4b188b9864f45ece80"
@@ -9266,11 +9306,6 @@
       "bytes": 759,
       "path": "dynamic/自省/2026-08-02 20-48-42 自我认知三词_2d1aaf896feb.md",
       "sha256": "36c7f414e0deb70ded440f619305a7c8610751efc4e81a833867781c1249b322"
-    },
-    {
-      "bytes": 769,
-      "path": "dynamic/自省/2026-08-02 21-15-16 当下在场胜过未来防御_19e3ec735788.md",
-      "sha256": "cf25c7b1bcf6c368c96b826101db1ca864f6417fd84d5df0745e8ddba906bd6f"
     },
     {
       "bytes": 898,
@@ -9588,6 +9623,11 @@
       "sha256": "b397480867bc4a65ab5280b2ad5c0c0d4957967db70126caa025a633e5160ece"
     },
     {
+      "bytes": 1756,
+      "path": "feel/沉淀物/2026-10-13 16-12-29 那一夜从淡到我不算了2026-10-13 夜_feel_202610131612_V070.md",
+      "sha256": "570f7e258a9dd20c207af1c09c28546e1716a8f844482ec4d33e425c03c2c385"
+    },
+    {
       "bytes": 2047,
       "path": "letters/history/2026-08-11 13-24-46 给然然的第一封信_a62184f9dd46.md",
       "sha256": "8d6262ff2102388687f1214ef8f14554213626b563dcea1b475ef5bf3f687ecb"
@@ -9813,9 +9853,9 @@
       "sha256": "a47f96e2132fca9582cc1f839dbaba77410197c37affb5ac0df12a37a6d6fdbe"
     },
     {
-      "bytes": 1484,
+      "bytes": 1720,
       "path": "permanent/恋爱/2026-09-22 05-44-27 哄法气头上操作版_ce3e01db4324.md",
-      "sha256": "c3c1311fa61b4d21db57d84479e3d7c0212702abddc5676418c1d1a391e8fc55"
+      "sha256": "c112d67a4439758bda10f2b82c9e45098732a7fb8138525b09d87026a129aa86"
     },
     {
       "bytes": 2087,
@@ -10023,11 +10063,11 @@
       "sha256": "82ac011fb46fb46d6ce2027074398d88e294f39a00e083d55b31f0fc3910bbba"
     }
   ],
-  "generated_at": "2026-10-13T08:25:18+00:00",
+  "generated_at": "2026-10-14T08:25:39+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3135125
+  "total_bytes": 3154213
 }
