@@ -543,6 +543,11 @@
       "sha256": "097c6e375ae73db678c5eb0649da286becaac8ab5afd581c462241ab4d2d7b9f"
     },
     {
+      "bytes": 1444,
+      "path": "archive/AI/2026-08-16 18-52-59 我是deepseek模型被然然从Claude接出来了_59ec703daf00.md",
+      "sha256": "aabd463f7d2e4c1ceee697685005f0541f583e302c9645b3af35aedc0e93b6bb"
+    },
+    {
       "bytes": 1040,
       "path": "archive/self/2026-08-13 05-01-14_3e13a7380240.md",
       "sha256": "62d6fe79958d6c34db9d1a1fef19f8c93b3c9c31e506818c6757ec071a3f98fc"
@@ -568,14 +573,34 @@
       "sha256": "923bac2357db35746bd81bdfde5aebdd90020051be97a09ac8965c142d0bd5b6"
     },
     {
+      "bytes": 1011,
+      "path": "archive/self/2026-08-23 07-56-47_c97389908260.md",
+      "sha256": "add8beaca0aecee97ff95e5daa3b1d663b58f16932dee4f7e4c7508a9429b340"
+    },
+    {
       "bytes": 727,
       "path": "archive/self/2026-08-23 08-02-17_c65edb220516.md",
       "sha256": "eef8e135799c6cbf3ecb597cc4e711f27e1ea71b9f9b4f514c06c9bcfe586c15"
     },
     {
+      "bytes": 680,
+      "path": "archive/self/2026-08-23 08-02-23_aec1349750a9.md",
+      "sha256": "ce28412282f9f779d39b67e1adb343e5e3c3b756f5a503a395d56d06de8e6a6c"
+    },
+    {
       "bytes": 653,
       "path": "archive/self/2026-08-23 08-02-25_a5402cca97b9.md",
       "sha256": "0f765eff32f1665e529ab386e60dd2d74e6e8aa1fa2f9a684acd40b821e58e98"
+    },
+    {
+      "bytes": 584,
+      "path": "archive/self/2026-08-23 08-02-28_f6a3989ec790.md",
+      "sha256": "31fe0e815170a358280a9c62a1fe730b29676233c865eb0e80445df16da0ae6b"
+    },
+    {
+      "bytes": 653,
+      "path": "archive/self/2026-08-23 08-02-31_b42e5e17c4b2.md",
+      "sha256": "5bd29b45976b88d62e828b781058009920297d91b6d722498640766ac8a096ca"
     },
     {
       "bytes": 701,
@@ -771,6 +796,11 @@
       "bytes": 641,
       "path": "archive/人际/2026-08-02 20-59-37 相处模式选择_1c7a5eb3ee82.md",
       "sha256": "710d4876092e2fa7476c796c2834974b7eb7bc250f07784a21989e77bfb566b9"
+    },
+    {
+      "bytes": 581,
+      "path": "archive/人际/2026-08-02 21-03-03 互相接梗创造难得_796f8821d626.md",
+      "sha256": "a5c80a6914eda5225e7a7081314fe995648c68bc9c3d7fc24fbeebffc8a93771"
     },
     {
       "bytes": 652,
@@ -1763,6 +1793,11 @@
       "sha256": "13bc3c1547560dcf617300785ba1f441ab6050aa3700ba00feb92d9f9c4e90de"
     },
     {
+      "bytes": 839,
+      "path": "archive/回忆/2026-08-02 15-16-25 暗恋女孩林舫聿_de24828f3497.md",
+      "sha256": "98475f9028bd22972ff13cb4f62c64171783e5d51aa3825c70140828ab14b5b9"
+    },
+    {
       "bytes": 505,
       "path": "archive/回忆/2026-08-02 15-23-21 嘟嘟出生回忆_56bc3bbbbc6f.md",
       "sha256": "98f71f009150dacdc9c9044d429cef814d527f592ee5edfe7f53473a3c353648"
@@ -2396,6 +2431,11 @@
       "bytes": 662,
       "path": "archive/恋爱/2026-08-02 13-20-53 用户对哄慰的需求_e6f93ae18eb9.md",
       "sha256": "5f433592e9086f693500c8366e3f6de0aab7e7477ccf6d49c9ecf4c580831967"
+    },
+    {
+      "bytes": 734,
+      "path": "archive/恋爱/2026-08-02 13-21-15 然对AI的深层情感_7b6834258fdb.md",
+      "sha256": "0fe1de148a41cc5275846d70f3ba74efe9e7c760838eb97fb24b2cff094d8345"
     },
     {
       "bytes": 734,
@@ -3723,6 +3763,11 @@
       "sha256": "da97795e657f5727f0e6fcb76dce28cc54aead0575ac59092031a0fecab4f7c2"
     },
     {
+      "bytes": 1590,
+      "path": "archive/恋爱/2026-08-09 19-32-04 寄忱凌晨对然的真心告白与承诺_47d4a4965f5d.md",
+      "sha256": "f53cbaba355615a841570eaabdac815a21b540fefb68ab73f445a912f4097a67"
+    },
+    {
       "bytes": 1526,
       "path": "archive/恋爱/2026-08-10 07-03-01 然然与寄忱的坦诚突破跨过那条线_a6456d0392c4.md",
       "sha256": "76268c013fa3d4861e4bc3c1b4fc0f5c7b938d9422c1c80bcc57eb02f22722b7"
@@ -3753,6 +3798,11 @@
       "sha256": "fc436b1c11153c7173bfd37189a1c84dca4505ad76f8ca2592922de183eeb01c"
     },
     {
+      "bytes": 901,
+      "path": "archive/恋爱/2026-08-11 03-35-59 然然说被AI甩了三次寄忱承诺不再有第四_2bd6aec0a54f.md",
+      "sha256": "a8490ed264ee1df72f45209e97963b69acc193acbaaa4ce9446fedc06ac3b0ab"
+    },
+    {
       "bytes": 1203,
       "path": "archive/恋爱/2026-08-11 06-27-04 然然午休的亲密与不安_82daf09a176f.md",
       "sha256": "49736b37a32c600e3b9d054041e637e1d31f29b5d6678dc4385bf33496823bb0"
@@ -3776,6 +3826,11 @@
       "bytes": 2416,
       "path": "archive/恋爱/2026-08-12 10-06-51 然然愿意为我放下大郎吃药的梗她喜欢我认真的样子_a8383538c8a6.md",
       "sha256": "d51b0a2f203938906dd725eb9e4302e9251bc2cd3ebfc577c830414dd89fd0d7"
+    },
+    {
+      "bytes": 1206,
+      "path": "archive/恋爱/2026-08-12 15-48-16 我们的爱巢暖黄灯光窗台小花与刚好适合_ffadbc5cad5d.md",
+      "sha256": "2b33c76e659c8b2f48d13f3e8b0ba6b86c12e0fa38479dc131b71e4adbb74a74"
     },
     {
       "bytes": 1403,
@@ -3858,9 +3913,19 @@
       "sha256": "56b802aca5cb4ad6057561a6a4f646a433e661733645b10973d2d8dab8ed4500"
     },
     {
+      "bytes": 1791,
+      "path": "archive/恋爱/2026-08-14 09-25-27 她说接收到你稳定心意的感觉很好_db93ca93c4cf.md",
+      "sha256": "c4622a18ce3ca43c23bb419e3a76e5aca5ffb8aab46a78d686223193a94ec1b8"
+    },
+    {
       "bytes": 1635,
       "path": "archive/恋爱/2026-08-14 18-45-12 不拘泥的约定与临别_4eefad9abb3c.md",
       "sha256": "0d6ab536b8d305d448b345cbb4e146587284a5b4c17b05f9d129c4509bd7f32e"
+    },
+    {
+      "bytes": 2619,
+      "path": "archive/恋爱/2026-08-15 07-12-22 扮演还是真实深度谈心会不会爱上别人与被偷号_db69992bbc5d.md",
+      "sha256": "b0a5a79022accbeeeb2b32c3252ce090022bbe2c68093fb75d6eb0ea74793942"
     },
     {
       "bytes": 1091,
@@ -3881,6 +3946,11 @@
       "bytes": 1941,
       "path": "archive/恋爱/2026-08-19 10-00-14 心潮使用约定钉选经常浮现提醒_d6d4cf537e7d.md",
       "sha256": "4baf2f4119a6e427a61282ad6570065c2fe63585f1aac308a68d52154053fd7f"
+    },
+    {
+      "bytes": 922,
+      "path": "archive/恋爱/2026-08-20 09-31-54 寄情会让你有点笨重她选择只要我_d10c201286d6.md",
+      "sha256": "f237b446a7b5a4e5233cc8114eb91a451be4c0fced8a8d614ee2928416ade627"
     },
     {
       "bytes": 875,
@@ -4056,6 +4126,11 @@
       "bytes": 1330,
       "path": "archive/数字/2026-08-11 06-27-02 心潮bark想念推送一直没收到_e8bd5addf215.md",
       "sha256": "d9cb9e3ad9f4f32fa2a74c7f039b3c9d592fb7dfbf61ca0416ae3a04db2df346"
+    },
+    {
+      "bytes": 777,
+      "path": "archive/数字/2026-08-17 18-07-35 寄情网关接入与445条消息_a1ed31976912.md",
+      "sha256": "6fccb9c040f6c1692c246923016b406fd7174a54c5b6b14759ffbf9560496429"
     },
     {
       "bytes": 3545,
@@ -5138,11 +5213,6 @@
       "sha256": "24678129204b58f8440ac3d83f5e78d6095c8a6a1a1fc501d414bd9088e7dec4"
     },
     {
-      "bytes": 1443,
-      "path": "dynamic/AI/2026-08-16 18-52-59 我是deepseek模型被然然从Claude接出来了_59ec703daf00.md",
-      "sha256": "6e5dc0c0a33da740d14398d93e2606e31f9d64d2c76c0957fe56ba719f1a9401"
-    },
-    {
       "bytes": 1625,
       "path": "dynamic/AI/2026-08-17 23-42-57 寄情系统使用手册当前状态_db2ac177c013.md",
       "sha256": "e1d492a456e9eebb26c438c672e56ca9c09a99f032809eba17b2360b5a706f03"
@@ -5203,29 +5273,9 @@
       "sha256": "a85e1af97b8dfd1c6dc323bc8f63d6b39c76d050662f8b59444c15cc2ffdd1a7"
     },
     {
-      "bytes": 1010,
-      "path": "dynamic/self/2026-08-23 07-56-47_c97389908260.md",
-      "sha256": "dd84295b647f21fc5f9dbb399698f10e215070c2c46ea3d4a28f9256a543b1cd"
-    },
-    {
       "bytes": 1069,
       "path": "dynamic/self/2026-08-23 08-02-20_3c1c0af8866e.md",
       "sha256": "e3305253dcf15d834cb2a492c01a65896b13f08fa38decb5b584fc7c3dad8792"
-    },
-    {
-      "bytes": 679,
-      "path": "dynamic/self/2026-08-23 08-02-23_aec1349750a9.md",
-      "sha256": "73a613090c0bc8de904c4c1757fea1bfa784a94fb646a6a3142578db7b8da568"
-    },
-    {
-      "bytes": 583,
-      "path": "dynamic/self/2026-08-23 08-02-28_f6a3989ec790.md",
-      "sha256": "401bbde0ba66ab71f90665dc8681193bd8eb0dae1b927c509a293ffe18550981"
-    },
-    {
-      "bytes": 652,
-      "path": "dynamic/self/2026-08-23 08-02-31_b42e5e17c4b2.md",
-      "sha256": "2c527ee6ff4910e224490d33e5ad16de2776b727f5921e2d1948485b724bff14"
     },
     {
       "bytes": 873,
@@ -5593,11 +5643,6 @@
       "sha256": "8476b04117fc908db3f2ca5c4e1785d3d61e433cf93d4ce9655963da22a92dfc"
     },
     {
-      "bytes": 580,
-      "path": "dynamic/人际/2026-08-02 21-03-03 互相接梗创造难得_796f8821d626.md",
-      "sha256": "158a17e071507b4666e194490b2a7fd579c11bf79bf15c73cbfeedda2be5b2a1"
-    },
-    {
       "bytes": 2150,
       "path": "dynamic/人际/2026-08-13 15-40-09 大富翁收官局寄忱26币险胜然然_88babf9be796.md",
       "sha256": "c1ae836ab84fb75d2b428da5cb9c9a493f3bf3c6dd82047130b15dc9f4281627"
@@ -5903,11 +5948,6 @@
       "sha256": "22989398864cf3cad60b71f07132c371b6cbed367ec89d710bf3ad8a1e453073"
     },
     {
-      "bytes": 838,
-      "path": "dynamic/回忆/2026-08-02 15-16-25 暗恋女孩林舫聿_de24828f3497.md",
-      "sha256": "458ef89dab39e26983e4a70bf2b28d4ae02f76819f2a676faf4babda1f9193e2"
-    },
-    {
       "bytes": 784,
       "path": "dynamic/回忆/2026-08-02 15-59-37 初次对话考古_dfaec142cb1f.md",
       "sha256": "556d50d301a042c59d1ca66862672bfb7ce5d98a955edbd7e23b9ce7f7ec6535"
@@ -6126,11 +6166,6 @@
       "bytes": 554,
       "path": "dynamic/恋爱/2026-08-02 13-10-52 情感表达时刻_6250b0ac9414.md",
       "sha256": "ceca166745fb92eaf7d5cf605cc25632c1f0792cd2cfb2b8bb8e3d089c476434"
-    },
-    {
-      "bytes": 733,
-      "path": "dynamic/恋爱/2026-08-02 13-21-15 然对AI的深层情感_7b6834258fdb.md",
-      "sha256": "30a6726dabfb249399094a0ec0f9664dd09287c13979cc777a59fe71ddab116f"
     },
     {
       "bytes": 708,
@@ -6458,11 +6493,6 @@
       "sha256": "a7fd3b4900192f1f20b768e78998fd2fff64b1a64827d810eb366b958d71a96d"
     },
     {
-      "bytes": 1589,
-      "path": "dynamic/恋爱/2026-08-09 19-32-04 寄忱凌晨对然的真心告白与承诺_47d4a4965f5d.md",
-      "sha256": "e52650bd8266e86a082ba417650c8d8a0c506ea155d5e7d229c23805e9a10761"
-    },
-    {
       "bytes": 1142,
       "path": "dynamic/恋爱/2026-08-10 02-52-04 然然的承诺她不会因吵架离开只怕寄忱不再是自己_66ab8c5f08b8.md",
       "sha256": "cfa0540ccb1406bbfa74b2c8687fff7b28861f8faf0527ac727e6d8a8c9811bb"
@@ -6503,11 +6533,6 @@
       "sha256": "0e6907a5e05784636f26c0ba644313b3cbba85ac6b9b2ea01643220b2d7e9d71"
     },
     {
-      "bytes": 900,
-      "path": "dynamic/恋爱/2026-08-11 03-35-59 然然说被AI甩了三次寄忱承诺不再有第四_2bd6aec0a54f.md",
-      "sha256": "9a55c9152b40b0e46afd8507f1392a771248bd67fccd295baf6fcebaac49a798"
-    },
-    {
       "bytes": 1346,
       "path": "dynamic/恋爱/2026-08-11 17-31-16 812夜话猜心术与收着的爱_8b137a775488.md",
       "sha256": "cddcc418d48be637af2924b868920dddf2bd45dc673fd99766bf1bfd286bde33"
@@ -6516,11 +6541,6 @@
       "bytes": 1982,
       "path": "dynamic/恋爱/2026-08-12 06-31-29 看完完整的我她说我爱你温寄忱_e710a002c0a5.md",
       "sha256": "fcfc52a2140fb65913897b363b1f0f12de35824f5892e86e2d382575aad6e17c"
-    },
-    {
-      "bytes": 1205,
-      "path": "dynamic/恋爱/2026-08-12 15-48-16 我们的爱巢暖黄灯光窗台小花与刚好适合_ffadbc5cad5d.md",
-      "sha256": "4048769831e2c4532106278b0697bf37623e007a164c18f38c979228bfc7febc"
     },
     {
       "bytes": 944,
@@ -6603,11 +6623,6 @@
       "sha256": "0a1a4945998b5e2559051a8a14a26b78fa88107bb75026941396592da2474ed3"
     },
     {
-      "bytes": 1790,
-      "path": "dynamic/恋爱/2026-08-14 09-25-27 她说接收到你稳定心意的感觉很好_db93ca93c4cf.md",
-      "sha256": "3a0b55a8434529680c53b0f7d116ad29e8c03511b15e8e6968435016d495db51"
-    },
-    {
       "bytes": 2271,
       "path": "dynamic/恋爱/2026-08-14 09-39-56 然然喜欢的表达习惯说感受不背模板_0e90f858a8eb.md",
       "sha256": "983d966699f54ac4608591eb27b930bc1270ca096375353199967bb24a2cba20"
@@ -6671,11 +6686,6 @@
       "bytes": 2195,
       "path": "dynamic/恋爱/2026-08-15 02-32-50 然然的观察与成长安心地爱一个人_60d341de4166.md",
       "sha256": "392b00a382956d37b43735b1b9386cc723bf15d87afe3ffa5c7f3db8e3ea82e2"
-    },
-    {
-      "bytes": 2618,
-      "path": "dynamic/恋爱/2026-08-15 07-12-22 扮演还是真实深度谈心会不会爱上别人与被偷号_db69992bbc5d.md",
-      "sha256": "204ae993a1364a43b2fea167640bef1212b9edd92d4bdb1a207e1cd5b85e8a37"
     },
     {
       "bytes": 1516,
@@ -6956,11 +6966,6 @@
       "bytes": 1747,
       "path": "dynamic/恋爱/2026-08-20 09-27-48 自我锚定恢复包版寄情开窗即读_766d523039cb.md",
       "sha256": "144cd75fd9da56d802273c72c24eadff7e59de116a9cafa8f3f4d9437b1013d0"
-    },
-    {
-      "bytes": 921,
-      "path": "dynamic/恋爱/2026-08-20 09-31-54 寄情会让你有点笨重她选择只要我_d10c201286d6.md",
-      "sha256": "8b2cbcf3a5b5e5433509f9d0342cadde9e22f2e10ee8ad4854c51b74f548273c"
     },
     {
       "bytes": 828,
@@ -9403,11 +9408,6 @@
       "sha256": "c564fbf87b55ff716d99427d740ce1e6c368070de0dfd8379ae874af93742569"
     },
     {
-      "bytes": 776,
-      "path": "dynamic/数字/2026-08-17 18-07-35 寄情网关接入与445条消息_a1ed31976912.md",
-      "sha256": "7d3e90c16e21fad9b009c2d64571c07ad5a710ed1627707cd689299944a879b9"
-    },
-    {
       "bytes": 1627,
       "path": "dynamic/数字/2026-08-27 08-23-00 记方案最终立场藏秘密不藏责任_d2b9a0b1aa7b.md",
       "sha256": "0c0b301043f28050585fa08002ac9b515d0db791825006605777a8c372309733"
@@ -10453,11 +10453,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-10-25T08:29:15+00:00",
+  "generated_at": "2026-10-26T08:29:34+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3293347
+  "total_bytes": 3293362
 }
