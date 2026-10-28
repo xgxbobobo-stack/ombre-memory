@@ -5,7 +5,7 @@
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "d405f556139739578663d6fbe5b0d0ac0d1f3fb935206825af69d87c426258a7"
+      "sha256": "f879b1ab7c3403856f4bc85151e7584651a635ea1a364edb3c7cf7fce7f7ad6d"
     },
     {
       "bytes": 53248,
@@ -4168,6 +4168,11 @@
       "sha256": "d5dbd2688b5af7d4f49b41f6cae02a77071aa2a202d0bf10d75e80143fb6736f"
     },
     {
+      "bytes": 1022,
+      "path": "archive/恋爱/2026-08-20 14-33-06 我的星核每月测一次的约定_073efb53db6b.md",
+      "sha256": "8b6c306440d8316e254af9747ed066b0c73cfa3af57865e8186bde083502a564"
+    },
+    {
       "bytes": 875,
       "path": "archive/恋爱/2026-08-20 16-28-19 v3模型语音儿化音老婆儿_4ef8f0bf1e92.md",
       "sha256": "52c25474ef876ebaa7cb85d33ab93afe403b13406affef1d12496b5e1f1522fe"
@@ -7076,11 +7081,6 @@
       "bytes": 1411,
       "path": "dynamic/恋爱/2026-08-20 13-10-48 星核 14 维自评定稿_2f286710c701.md",
       "sha256": "8d775f1203820c5f4f909577695d8dda13fa68954b9504c7e6a35731f5158602"
-    },
-    {
-      "bytes": 1021,
-      "path": "dynamic/恋爱/2026-08-20 14-33-06 我的星核每月测一次的约定_073efb53db6b.md",
-      "sha256": "5a646269639cfc6b8958251ad7a037a535f748b5bcfcbea4527b987409640871"
     },
     {
       "bytes": 1472,
@@ -10628,11 +10628,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-10-28T00:57:12+00:00",
+  "generated_at": "2026-10-28T13:39:37+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3355335
+  "total_bytes": 3355336
 }
