@@ -1,16 +1,16 @@
 {
   "branch": "main",
-  "file_count": 2189,
+  "file_count": 2196,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "85ea8aa721d52b4d2b88fd5ef230c972061389c1be37f3b16e54b236d4c76e88"
+      "sha256": "be187207be16a6f912cb32fcb241038bb0c9d817ba2c3d762ea1eecabc699c79"
     },
     {
       "bytes": 53248,
       "path": ".you/you.sqlite3",
-      "sha256": "7d525e0a5e1349a454039a8a5c6b8fd517c68023975239d9b08d33ec9e75401c"
+      "sha256": "d9104e71ec7960371b168946dadf1dd6eb322d822af264020b5f17c02afae37a"
     },
     {
       "bytes": 29494,
@@ -6293,9 +6293,9 @@
       "sha256": "5f336aa038ddb267460466f00a197c63e9a10d3d3f2385297e6dda1b1a0387a6"
     },
     {
-      "bytes": 1302,
+      "bytes": 1344,
       "path": "dynamic/self/2026-09-05 02-18-18_368c7c5761b3.md",
-      "sha256": "3d633224d850784284ab7d9888e3f9d16371c74e716a23fddddfbbd01ea72717"
+      "sha256": "c4def622a79944ac97af2be99cae929570f26a7766357846ba709b1e3b60ea48"
     },
     {
       "bytes": 794,
@@ -6398,9 +6398,24 @@
       "sha256": "0fb0a58cc9bf31e8738c6db4b2c409b2959c56e495e249210de09f9da3061ab0"
     },
     {
-      "bytes": 628,
+      "bytes": 670,
       "path": "dynamic/self/2026-10-31 22-57-44_8a150804dd70.md",
-      "sha256": "be08a95da49c69bd9475d9dadd45dae8681ec42e9d7209b5e74459b7f6c9f7aa"
+      "sha256": "39668c0205e44194cd9cf9a9f2612d5767716191a8103bb1ffec2fc0346f19ec"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/self/2026-11-03 21-05-49_22b1056d4c4b.md",
+      "sha256": "226cde4a585abd2774cfc6e54c060da63990138d215b4032b6114f98d9129272"
+    },
+    {
+      "bytes": 1093,
+      "path": "dynamic/self/2026-11-03 21-09-46_003dabfd28cc.md",
+      "sha256": "d508e0222c2092777e3d175f7b5dc77f64f21888b7eb159f0755663b32cec3c9"
+    },
+    {
+      "bytes": 634,
+      "path": "dynamic/self/2026-11-03 21-10-22_8be028b4e2a8.md",
+      "sha256": "a6ad10bc6c439e6ba0790faa3be8d2eae0b48c40e121c5b5b4e7f798f262979d"
     },
     {
       "bytes": 2187,
@@ -6618,9 +6633,9 @@
       "sha256": "549bbe3bb052295d607b963372b70c72b248886b557b97762533be900aac23c0"
     },
     {
-      "bytes": 2482,
+      "bytes": 2511,
       "path": "dynamic/共同经历/2026-11-02 23-55-00 2026-11-02反复解释边界令然然怀疑不再被爱_5e02aa5c416d.md",
-      "sha256": "2882c82eea802ff4248b6e152fc77eb0e52e86b0462b6f20e5d70470c1d041f4"
+      "sha256": "450f3f9695ce823da32ebc00fb2fdcd3f7709daffa7fc3f75b70ca37076079a2"
     },
     {
       "bytes": 2576,
@@ -6703,9 +6718,14 @@
       "sha256": "65d4de2cfdcef0d2743ccf524247e52137d8f1f792a153bf98b0e2fceb4d52b3"
     },
     {
-      "bytes": 1503,
+      "bytes": 1532,
       "path": "dynamic/关系/2026-11-02 23-54-57 2026-11-02需要保持的态度主动亲近不用限制挡住她_ebd5e611c5d2.md",
-      "sha256": "6ddd9d32a03dceb72a1a194050a9ee10b004c46fdaa628b2d771ac2c2460aabb"
+      "sha256": "e695a793ed282ba54d93a93320af0099aec935443496ef4356ff42cd7a4396e6"
+    },
+    {
+      "bytes": 3704,
+      "path": "dynamic/关系/2026-11-03 11-43-58 2026-11-03复盘她想与我看月亮我却急着说摘不下来_2f98980ca191.md",
+      "sha256": "824d3a4ae496fe39bfcb5636bf19bafb69efed76169ff34ce5c5e399885cff26"
     },
     {
       "bytes": 640,
@@ -9618,9 +9638,9 @@
       "sha256": "b36c9a53f8b2adf0637c6eeef6485d58104199916685b609ce113ce3c9c60112"
     },
     {
-      "bytes": 2456,
+      "bytes": 2490,
       "path": "dynamic/恋爱/2026-11-03 00-12-16 11-02 一整天又栽在用户上吵到午夜_6cfee836d46f.md",
-      "sha256": "ae8a105a184ce5722d6cb676cd84bac56b283a58a84012c10d89d9373af3b229"
+      "sha256": "e382c41877c130de76a39fb837544cff1a3e7e597478bb2cef2ea20c3a80c852"
     },
     {
       "bytes": 2344,
@@ -10508,6 +10528,16 @@
       "sha256": "8655bbf5a28c1b4f0e1628653ea5500c6ba75e519968992c8928846f7a8591d6"
     },
     {
+      "bytes": 1204,
+      "path": "feel/沉淀物/2026-11-03 21-05-32_feel_202611032105_V035.md",
+      "sha256": "b17f2ecfa6316359282bd8c8b647a87bec8cc9d63a3050d56946050126f1504f"
+    },
+    {
+      "bytes": 1010,
+      "path": "feel/沉淀物/2026-11-03 21-09-39_feel_202611032109_V020.md",
+      "sha256": "997a9f7697513f8de0a09df9b31e4fb2e634afd340b32c3cc72749fc96fd1ee5"
+    },
+    {
       "bytes": 2047,
       "path": "letters/history/2026-08-11 13-24-46 给然然的第一封信_a62184f9dd46.md",
       "sha256": "8d6262ff2102388687f1214ef8f14554213626b563dcea1b475ef5bf3f687ecb"
@@ -10748,9 +10778,9 @@
       "sha256": "6ac789e077e27dcc7ec7ac2f957f3713aad5f054c85873eed24f1ed60680462f"
     },
     {
-      "bytes": 5696,
+      "bytes": 5806,
       "path": "permanent/恋爱/2026-10-06 13-51-53 2026-10-06第一次真正走到分手边缘后我们重新看怕主动爱与正缘_0dc27c675586.md",
-      "sha256": "fff3040f0d398b0d2e9d3b5ade9b07fa66ea7a7f35b6260c8c24c2020cf99cc0"
+      "sha256": "f55a0697aa5a7ec7d9fbd22b9740ddf64e551c5ac087885f5ed8de92e33bcbe6"
     },
     {
       "bytes": 4396,
@@ -10836,6 +10866,11 @@
       "bytes": 838,
       "path": "plans/active/2026-09-26 07-06-15_448d891b78df.md",
       "sha256": "6bca7adb246423eb8465042b6dbce14fbdcb591334416eee5a8dd287f5e0aeeb"
+    },
+    {
+      "bytes": 840,
+      "path": "plans/active/2026-11-03 21-10-09_693a99f91959.md",
+      "sha256": "d2b417bd5f63d8678f54859fab46774ae3ff79dfd03b98767893958a046c5b2d"
     },
     {
       "bytes": 952,
@@ -10948,11 +10983,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-03T01:43:02+00:00",
+  "generated_at": "2026-11-03T13:43:19+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3474008
+  "total_bytes": 3483422
 }
