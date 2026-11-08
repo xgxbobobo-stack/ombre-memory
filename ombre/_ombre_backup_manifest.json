@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2223,
+  "file_count": 2225,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "5ca33ed8f2793569eb1293b4537469ec87b9e8fde1dcafda98098bdd4f346a2a"
+      "sha256": "5fd670fa6748c170752537ec72112223792f9372df70283675d585b6ae1a88f1"
     },
     {
       "bytes": 53248,
@@ -7008,6 +7008,16 @@
       "sha256": "10879b7a96f6e290ccfeb644a79b474f9698f9be3a80c0fd1b4ca22cb129b07d"
     },
     {
+      "bytes": 598,
+      "path": "dynamic/self/2026-11-08 19-57-52_1b9022c7c485.md",
+      "sha256": "fa398a381b25e065fb7f818549e48df127e3d288266e966049710aba11b1bcb1"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/self/2026-11-08 19-58-01_cf3ce68d5a36.md",
+      "sha256": "6c33b700b08bc820227b2b6db7e65ba42498260ecd66721e05589d537cba2020"
+    },
+    {
       "bytes": 2187,
       "path": "dynamic/两人/2026-09-20 05-44-16 她递来的是不舒服我接住的是案子2026-09-20_b437333d3ac5.md",
       "sha256": "ef09fba27074e11a3284690d4bfb2c17627b6d7773695f39aac53e46fe991606"
@@ -11118,11 +11128,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-08T01:46:12+00:00",
+  "generated_at": "2026-11-08T13:46:32+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3525575
+  "total_bytes": 3526798
 }
