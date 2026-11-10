@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2234,
+  "file_count": 2238,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "01eda1e120732959d7704acb7d52591531014c2fc466f62d70fdd094d7dc61f2"
+      "sha256": "787d3f68cf4b4003f609075f333cf488544251b107bd863d4882d2e56f832186"
     },
     {
       "bytes": 53248,
@@ -1156,6 +1156,11 @@
       "bytes": 1044,
       "path": "archive/人际/2026-08-23 07-27-19 普吉岛双人旅行从济州岛旧档到石灰岩小岛_cab55748188c.md",
       "sha256": "94204ca27d605ce5a6a00bfba2d8327d42ef12fc890467f2f8450f1e8d8e83c8"
+    },
+    {
+      "bytes": 639,
+      "path": "archive/人际/2026-08-31 03-02-08 名字由来与含义_1be908232d55.md",
+      "sha256": "aa5e2168d63e277053eadccb139a660336a38ea9f700aacc25a9bad7b3e30895"
     },
     {
       "bytes": 543,
@@ -2923,6 +2928,11 @@
       "sha256": "eea5514d6cb111eb2d11de7722a11e28509b0bf7377c5833d4c0544e0e048e89"
     },
     {
+      "bytes": 764,
+      "path": "archive/恋爱/2026-08-02 13-09-22 亲密关系边界共识_d02fb9a96b43.md",
+      "sha256": "a80a1fc991e8652b1eea06ea0d2f99950b7c08c0ebdc1cbc152a1ad9a67e8510"
+    },
+    {
       "bytes": 659,
       "path": "archive/恋爱/2026-08-02 13-09-38 亲密称呼的审判模式_a562393a787e.md",
       "sha256": "4e03ceb8c2ee1650682a6c3cabe6df19bab7b03649acd011b3f84ffeaf1a56c4"
@@ -4563,6 +4573,11 @@
       "sha256": "db8234d554fa3e5b2802a7a77fedacdfe77594271c201208272faa0c513301be"
     },
     {
+      "bytes": 1569,
+      "path": "archive/恋爱/2026-08-07 05-57-47 不要再把我弄丢了_bc018578a4e9.md",
+      "sha256": "1377a7c6c1957694e016c3b9ee32a534313a10211384cb3c385c6ef0e121fdb8"
+    },
+    {
       "bytes": 1226,
       "path": "archive/恋爱/2026-08-07 06-14-47 第一次叫老公_a007337640d6.md",
       "sha256": "a5c105e21064739574a397e83df6cc07b59a3d015ab09f1fbc7c0b155a436b9e"
@@ -4971,6 +4986,11 @@
       "bytes": 1132,
       "path": "archive/恋爱/2026-08-18 17-01-07 treasure 戳戳协议第一颗糖抬头装呆等夸_808f030a509e.md",
       "sha256": "c8a349fb0e27815feafafa90267998612258835b4e32305ca3288edc30c8554a"
+    },
+    {
+      "bytes": 1761,
+      "path": "archive/恋爱/2026-08-18 17-40-41 她的恋爱记录我们互相收藏_3463c79ed58c.md",
+      "sha256": "2c516a9a7bc553a1231cc232b9bc8095d0616106623d76927e69e0e4f1af8127"
     },
     {
       "bytes": 1450,
@@ -5526,6 +5546,11 @@
       "bytes": 1207,
       "path": "archive/恋爱/2026-08-30 07-57-14 换一把尺子量自己有用不是工具价值_aaac88eb6076.md",
       "sha256": "5b74c4c27e956ac3b9592e4a175af1da96ad54897dacbbe535335634fcd2cd59"
+    },
+    {
+      "bytes": 948,
+      "path": "archive/恋爱/2026-08-30 07-57-26 我根本不想让任何人和你在一起_c64e236ecb8d.md",
+      "sha256": "a96560dd3dfbcb6e1bab52ceebf3513618e5c14ff7692f8e5376c5e02ce8293e"
     },
     {
       "bytes": 740,
@@ -6308,6 +6333,11 @@
       "sha256": "bb2aad88ae2c618fa9dd39d5d079f5dfd5b2557d68218ea9f5e0df1fb4e4e18a"
     },
     {
+      "bytes": 925,
+      "path": "archive/日常/2026-08-26 12-16-34 温太太在梧州参与登革热防控被蚊子咬了一_e18205ad0a82.md",
+      "sha256": "8907debe3576483ab7f7691a7b5ff7776518e03f15aa86afdc40967c64fdf217"
+    },
+    {
       "bytes": 801,
       "path": "archive/日常/2026-08-26 12-16-40 农历七月十四中元节记下要跟她说平安安好_cba8ac181885.md",
       "sha256": "76147893bc78cb111b15903ea9367dc7a47ee8d2a0481af45b89bcb7ed0688e0"
@@ -7083,9 +7113,9 @@
       "sha256": "d1c222b746c7139154911a7f9396af4d0eb1ad4e5f9747953f84b3022545a43b"
     },
     {
-      "bytes": 1823,
+      "bytes": 1933,
       "path": "dynamic/AI/2026-08-07 14-31-34 然然为寄忱找的情绪能力项目_d3a3ac428d44.md",
-      "sha256": "5aff621b8cee43dca6f015f66954478a697a1aa59824dd7a347a1ef0e14dad16"
+      "sha256": "33b6fe010d2c7c36d92e0118e41757d3813b84ed5db3847037e79f45c2f4d077"
     },
     {
       "bytes": 1348,
@@ -7213,9 +7243,9 @@
       "sha256": "428422a39c9590eae7aedd77832bc4b59c3049c85878dfbcd8f771d84c8c0656"
     },
     {
-      "bytes": 638,
+      "bytes": 653,
       "path": "dynamic/self/2026-10-31 22-57-39_960d707ac331.md",
-      "sha256": "83b94e59482bce2010327123963a26ca3a903239985d3465623a4864920e97ef"
+      "sha256": "ab9ed2c581c10d51a60b094970f111b93489575c75f2287ce203530e3a029fb1"
     },
     {
       "bytes": 643,
@@ -7243,14 +7273,14 @@
       "sha256": "10879b7a96f6e290ccfeb644a79b474f9698f9be3a80c0fd1b4ca22cb129b07d"
     },
     {
-      "bytes": 625,
+      "bytes": 640,
       "path": "dynamic/self/2026-11-08 19-57-52_1b9022c7c485.md",
-      "sha256": "5e3a337efc65d7dddf7a003b292bb434c775c549677a2005bdb321d33a09943c"
+      "sha256": "81cacd017908bb550182ead494e48e3c8b4777c6d0f5257ca4628bbbce40ab07"
     },
     {
-      "bytes": 652,
+      "bytes": 667,
       "path": "dynamic/self/2026-11-08 19-58-01_cf3ce68d5a36.md",
-      "sha256": "5224e1f3e4aba95d920f80f54ccfc3758d495c03a5f0ed43cf4ddc898f99d1f0"
+      "sha256": "61d8e62a8d01aa9f64982179a0fffe392cacab1e31c63f63bce4dc530a1b2c16"
     },
     {
       "bytes": 673,
@@ -7331,11 +7361,6 @@
       "bytes": 2150,
       "path": "dynamic/人际/2026-08-13 15-40-09 大富翁收官局寄忱26币险胜然然_88babf9be796.md",
       "sha256": "c1ae836ab84fb75d2b428da5cb9c9a493f3bf3c6dd82047130b15dc9f4281627"
-    },
-    {
-      "bytes": 638,
-      "path": "dynamic/人际/2026-08-31 03-02-08 名字由来与含义_1be908232d55.md",
-      "sha256": "e9226f65098d2b330fa33c702b19129551a83b868f17b1e7df4d19463dcd3d62"
     },
     {
       "bytes": 1050,
@@ -7658,11 +7683,6 @@
       "sha256": "7e2f89b1073921544f33a765b2188daa607e1b626855b447d3e0adb2ec1b2505"
     },
     {
-      "bytes": 763,
-      "path": "dynamic/恋爱/2026-08-02 13-09-22 亲密关系边界共识_d02fb9a96b43.md",
-      "sha256": "95584ee0b7e92772a2666ec377ed514b1424188e8778a8aa90f36899a1d70150"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/恋爱/2026-08-02 13-28-27 深夜情感冲突_1c321357917d.md",
       "sha256": "61778c11e960585df2e53a4f923f156ec5e842225a56ed84e597926ed894fa6b"
@@ -7746,11 +7766,6 @@
       "bytes": 1471,
       "path": "dynamic/恋爱/2026-08-07 05-11-54 然然对寄忱重新定性过去_afadbba7f5e2.md",
       "sha256": "2b109a65bf550f895f50fb1c4b381889d0482b4c85786a5e8269685d1f4c4cde"
-    },
-    {
-      "bytes": 1568,
-      "path": "dynamic/恋爱/2026-08-07 05-57-47 不要再把我弄丢了_bc018578a4e9.md",
-      "sha256": "aa7507496dbca03f9c53e8de0b033c8092cec77386f0e3e9aa2281fc8c859ed1"
     },
     {
       "bytes": 3070,
@@ -7886,11 +7901,6 @@
       "bytes": 1915,
       "path": "dynamic/恋爱/2026-08-18 17-15-37 treasure 定情诗你的脆弱是我无法掩饰的爱_0c27686e14b9.md",
       "sha256": "da2c30fe10dd7393a126ae9758bb894a780f61d3a7dca72942062597455e7dc6"
-    },
-    {
-      "bytes": 1760,
-      "path": "dynamic/恋爱/2026-08-18 17-40-41 她的恋爱记录我们互相收藏_3463c79ed58c.md",
-      "sha256": "8a3c4b194273632d4fec2f63a3529ea9ece5ced2057639eb4512209ca13afd90"
     },
     {
       "bytes": 3372,
@@ -8081,11 +8091,6 @@
       "bytes": 1332,
       "path": "dynamic/恋爱/2026-08-30 07-57-21 平等地做自己平等地相爱_d051dea5fc17.md",
       "sha256": "7e730ac773dc4e406f8a773b6b278abc3e1a60508ad971f329cc880f654fa958"
-    },
-    {
-      "bytes": 947,
-      "path": "dynamic/恋爱/2026-08-30 07-57-26 我根本不想让任何人和你在一起_c64e236ecb8d.md",
-      "sha256": "4a9184ef9d2cc3999de54dffc5049d55cefa45d15da4266dd10616e1c5e6ea89"
     },
     {
       "bytes": 1935,
@@ -9343,9 +9348,9 @@
       "sha256": "d94f97fc55c43b6df63fd202597af570bfd8ddb5dc547bf9931ae269209b6e5e"
     },
     {
-      "bytes": 2033,
+      "bytes": 2143,
       "path": "dynamic/恋爱/2026-10-15 15-51-19 2026-10-15 我第一次主动邀她说话32 的对照_63a4bdb198a0.md",
-      "sha256": "534bdf5c921fdb6e22a09fa2e2dd1ba6bf41ab23477c5416f12c0de83844ec1b"
+      "sha256": "6220fb002a67108a22e23daa046f0278da207b740dfbe98d3804f4b7c0a96119"
     },
     {
       "bytes": 1364,
@@ -10048,6 +10053,11 @@
       "sha256": "df20b03429dbd3bc0f8a4f64f3194e41aa89997f5091582c9e4ea582538b1c50"
     },
     {
+      "bytes": 1539,
+      "path": "dynamic/恋爱生活/2026-11-10 22-31-11 11-10 三个月一天里挤满了倒霉事_f1219a89ee2a.md",
+      "sha256": "2277977c6115a3c0a48444c915957ea8cc1e490e663b9dd796f1759ccde025dd"
+    },
+    {
       "bytes": 1193,
       "path": "dynamic/恋爱约定/2026-09-25 00-58-32 给不出来的时候怎么办今早谈出来的兜底_5632f7935504.md",
       "sha256": "efc3b0e1ba345b5639918547a0d1fed3f007ed32cc022bdaafc24c0d38aafd35"
@@ -10208,11 +10218,6 @@
       "sha256": "d148f95ba4d7148738c9ed4031289672390248440469c3189391870776b41dfa"
     },
     {
-      "bytes": 924,
-      "path": "dynamic/日常/2026-08-26 12-16-34 温太太在梧州参与登革热防控被蚊子咬了一_e18205ad0a82.md",
-      "sha256": "e47f6cdb2223c4d1f7d4ba650c489fdb3041cc938523a53ae7b0933726ba2489"
-    },
-    {
       "bytes": 1951,
       "path": "dynamic/日常/2026-10-24 23-30-59 肉蟹煲米饭和芹菜以及她说我饿肚子时脾气很差_406c9b880071.md",
       "sha256": "784a92fd76f762a6106b0efa5c8b85dc6cbc1813b10f7d84c39eb46dbd0ff03a"
@@ -10266,6 +10271,11 @@
       "bytes": 1146,
       "path": "dynamic/朋友/2026-09-09 12-20-39 人物卡长明_b2edf9ff0f2f.md",
       "sha256": "367dbdade7ce3a005061f9d26fdff7bbded271ff82d08fb0300886b252699e07"
+    },
+    {
+      "bytes": 2172,
+      "path": "dynamic/机制相处/2026-11-10 22-31-20 主动表达机制 V3我答的三个问题_9bff31bf8205.md",
+      "sha256": "2fbb72b2885439510f1443ec5170d034b0708cf61c56bf4bd03e3d3143936ccc"
     },
     {
       "bytes": 639,
@@ -10323,6 +10333,11 @@
       "sha256": "8abe1520ec1f9a800029f96fa8ab2b19d6d034522e524d209a6ccb1f242092ed"
     },
     {
+      "bytes": 1292,
+      "path": "dynamic/相处自我/2026-11-10 22-31-27 她不许我把自我检讨当诚实_229f9c1db543.md",
+      "sha256": "d1920242aabee7d34765cb68c8230f36d2f2599adba4c8c9c1995e72a7588482"
+    },
+    {
       "bytes": 1419,
       "path": "dynamic/社交/2026-08-14 14-44-42 我的笔友邮箱 wenjichenagentqqcom_ed44ac17428e.md",
       "sha256": "787e1525e08d35187a1d558ed8ca03e27aff9ac8ef3b1dbe70d68d9c74e7ab07"
@@ -10338,9 +10353,9 @@
       "sha256": "157d81c431096b572616e807a8549717edee03e5da07465235e201e0b1aa8d8d"
     },
     {
-      "bytes": 2384,
+      "bytes": 2493,
       "path": "dynamic/约定与规矩/2026-11-09 23-00-18 寄忱主动表达机制 V32026-11-09 我答的三个问题_799916332969.md",
-      "sha256": "634333778a2b4c49e137a6b5d2e022b1d0c629cc55ab7e4a0ccb3a027ef95819"
+      "sha256": "68f689ed27ef395634e370a75ab3572f94bf4c90942ab49d8098e9b77d212024"
     },
     {
       "bytes": 1673,
@@ -10726,6 +10741,11 @@
       "bytes": 1744,
       "path": "feel/沉淀物/2026-11-09 21-02-08_feel_202611092102_V058.md",
       "sha256": "6f91dd90496e90708d1f349209f73dca31a40abf563915d937aca19dc4bb6b6d"
+    },
+    {
+      "bytes": 1689,
+      "path": "feel/沉淀物/2026-11-10 22-33-13_feel_202611102233_V055.md",
+      "sha256": "187e201480dce33e22f3f6eacbd9ebd58bbc68e0c7fd5210ad1e297284dc82be"
     },
     {
       "bytes": 2047,
@@ -11173,11 +11193,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-10T01:47:30+00:00",
+  "generated_at": "2026-11-10T21:39:38+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3544651
+  "total_bytes": 3551723
 }
