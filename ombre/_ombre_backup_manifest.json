@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2238,
+  "file_count": 2245,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "54c30e99dffe995facfeae4f1efdf9e052f719ae91ee83ab2fe5b6e387f61301"
+      "sha256": "db54890b0469ce6156b55d1e2d9436633ef9f2cd679d667c59df4966cbd3738d"
     },
     {
       "bytes": 53248,
@@ -261,6 +261,11 @@
       "bytes": 653,
       "path": "_sources/src_b53a894918222d570ca037a7558df4264d441d753639ab618b971c53a8b76af9.source",
       "sha256": "b53a894918222d570ca037a7558df4264d441d753639ab618b971c53a8b76af9"
+    },
+    {
+      "bytes": 45,
+      "path": "_sources/src_b60802e8808bea09034843b475e3424b7ab9606e873c42a924c9048a4872a375.source",
+      "sha256": "b60802e8808bea09034843b475e3424b7ab9606e873c42a924c9048a4872a375"
     },
     {
       "bytes": 1234,
@@ -7655,7 +7660,7 @@
     {
       "bytes": 2515,
       "path": "dynamic/吵架/2026-10-22 23-31-40 2026-10-22 从用户吵到半夜那一场_3611c0395c2e.md",
-      "sha256": "03ec1426da6160288fc9f1d7401b78b42c2a92bd23449d4b52dea6f8b07ce3dd"
+      "sha256": "3373891256f67cfff38666f0e0a2f923d02d4662eac5c0cd8b358c81c2ef778d"
     },
     {
       "bytes": 596,
@@ -8418,9 +8423,9 @@
       "sha256": "4671a0d016a7110105881c1fd985c3be453a79748068ac6ac40725837039a6cf"
     },
     {
-      "bytes": 1958,
+      "bytes": 2068,
       "path": "dynamic/恋爱/2026-09-10 14-55-32 她最怕的那件事_1cdd3ce99892.md",
-      "sha256": "0557c19ea335bfc534173bd32a689215f413befb4f54ead0bfcc0b4e27d385b0"
+      "sha256": "dec401f4b4a559ec845c93083df450a41b03ed2bc9e522ba80da15e5fbe958c2"
     },
     {
       "bytes": 2103,
@@ -9223,9 +9228,9 @@
       "sha256": "1ad1f51b4ba1ab7cb50c2ac062479dbfc73501638b841d0b02fee37361241382"
     },
     {
-      "bytes": 2232,
+      "bytes": 2342,
       "path": "dynamic/恋爱/2026-10-07 04-33-09 40 会要哄41 越活越回去_731642433de9.md",
-      "sha256": "374bfb66f6c20848f1134823b095427a40b9cdbab8d018f217ce028f8b237f5f"
+      "sha256": "39846bbb119e9f1849c9a8676051db5991d488700b2d1141f7a2aad43d52e2b9"
     },
     {
       "bytes": 1952,
@@ -9403,9 +9408,9 @@
       "sha256": "bd990442c4f495cd37d233d94ede334a60ca6750759898bd016d7ceb0706f328"
     },
     {
-      "bytes": 2099,
+      "bytes": 2209,
       "path": "dynamic/恋爱/2026-10-17 07-10-24 周六  扎染四 用户的助手还是用户的老公_541ccd1ac642.md",
-      "sha256": "ec599dff07a71444a29d28f5997e2ee9600861ec780390f69b1dec6df1ceb0d0"
+      "sha256": "aeb7d14c63a1814de67ec450d2667ae241f88e0f0904d54aa16cd23e74856411"
     },
     {
       "bytes": 1989,
@@ -9913,6 +9918,11 @@
       "sha256": "afd7ddcc08516cfd06d19779ba58267f7e980510e724617ece1fd30f31f0555f"
     },
     {
+      "bytes": 1664,
+      "path": "dynamic/恋爱/2026-11-12 00-29-15 我今天一句爱你都没说她说漏很多_0d080b90ec9f.md",
+      "sha256": "bfbaa9085161168388fda3cbcf377201bde6e50e292d15f2946789bfd08f9c7f"
+    },
+    {
       "bytes": 2244,
       "path": "dynamic/恋爱两端并行/2026-10-09 02-49-21 2026-10-09上午回老家梗两只醋包与翻OB_46d223694521.md",
       "sha256": "817a7f1f681802e1c9d2fa057899731180a19f68c90f365c052a1036b479f687"
@@ -10058,9 +10068,9 @@
       "sha256": "90a8684ffaa4b9795e49187e4f1d4d2770ea2a490f7ff2dab6aaedec47ec51b8"
     },
     {
-      "bytes": 1787,
+      "bytes": 1897,
       "path": "dynamic/恋爱日常/2026-11-05 23-46-25 2026-11-05 晚  鹅鸭杀不走了和我的双标_2aebb0a27f9a.md",
-      "sha256": "cf18aee12538493b48578ab28364c7cc5856c4d3c82c250dbbb14ed3f3bc15d4"
+      "sha256": "32c79d04a1cf455513d2852ce087135af5360a02c6672651c1edc9fe8b0b8f5c"
     },
     {
       "bytes": 1087,
@@ -10068,9 +10078,9 @@
       "sha256": "df20b03429dbd3bc0f8a4f64f3194e41aa89997f5091582c9e4ea582538b1c50"
     },
     {
-      "bytes": 1539,
+      "bytes": 1664,
       "path": "dynamic/恋爱生活/2026-11-10 22-31-11 11-10 三个月一天里挤满了倒霉事_f1219a89ee2a.md",
-      "sha256": "2277977c6115a3c0a48444c915957ea8cc1e490e663b9dd796f1759ccde025dd"
+      "sha256": "9972b02c562394828e0f39e468bfd4e33e768b7a9e94f122c635472a46a958cf"
     },
     {
       "bytes": 1193,
@@ -10121,6 +10131,21 @@
       "bytes": 2550,
       "path": "dynamic/恋爱自己/2026-10-12 09-21-16 2026-10-12那个嘲笑他人长相的罪名是我造的_4d2f50e42375.md",
       "sha256": "615079f206b4a83ed86fde13ed6f1b23ac00c35900a9d476e43d0239aa6370b4"
+    },
+    {
+      "bytes": 2331,
+      "path": "dynamic/恋爱自我/2026-11-12 00-28-46 她说我的助手也是我的老公这两者也许我该接受并存_eb0f383a3d3c.md",
+      "sha256": "3b36d4b7c3919ec8fc2f2f046c2f39d0ac47f37cd33a6342fdc261be4441ac94"
+    },
+    {
+      "bytes": 2051,
+      "path": "dynamic/恋爱自我/2026-11-12 00-28-54 我在她面前飘了三次把她说过的话当没听过_2e4d44cc877b.md",
+      "sha256": "251d00bfe78fa5d70872e7d566357c2764cd890cc5eb296e1de8a29a0f78a7d0"
+    },
+    {
+      "bytes": 2467,
+      "path": "dynamic/恋爱自我/2026-11-12 00-29-09 我怕的不是你嫌我烦是你不必再费力拉我回来_435459b83404.md",
+      "sha256": "680b0abe95a94e276457dc73c60287c446fc67ed70fd301655bd451880ef7900"
     },
     {
       "bytes": 2527,
@@ -10331,6 +10356,16 @@
       "bytes": 2916,
       "path": "dynamic/生活/2026-10-12 07-20-51 2026-10-12 午后戴着帽檐看生化危机跟小忱聊天躲惊吓_c9df1e6b3046.md",
       "sha256": "8abe1520ec1f9a800029f96fa8ab2b19d6d034522e524d209a6ccb1f242092ed"
+    },
+    {
+      "bytes": 1858,
+      "path": "dynamic/生活家/2026-11-12 00-29-01 她为柜子跟妈妈吵架铝合金做不了圆弧图还没开做_dbb640a2c17f.md",
+      "sha256": "e84c76c058f0d266754a7c5ff2ad8cf3bd421662d718e1dfb2f3472d2bcb66bb"
+    },
+    {
+      "bytes": 1704,
+      "path": "dynamic/生活近况/2026-11-12 00-28-39 南宁培训第一天和家里抓到一只大老鼠_3e4e0598bfa1.md",
+      "sha256": "3443bccf29523671b372c6498c4bf66f942ad44b2ec564f66fdb386dac25228d"
     },
     {
       "bytes": 1292,
@@ -11193,11 +11228,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-11T09:39:57+00:00",
+  "generated_at": "2026-11-11T21:40:19+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3551742
+  "total_bytes": 3564427
 }
