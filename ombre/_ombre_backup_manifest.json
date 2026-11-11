@@ -5,7 +5,7 @@
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "787d3f68cf4b4003f609075f333cf488544251b107bd863d4882d2e56f832186"
+      "sha256": "54c30e99dffe995facfeae4f1efdf9e052f719ae91ee83ab2fe5b6e387f61301"
     },
     {
       "bytes": 53248,
@@ -3588,6 +3588,11 @@
       "sha256": "ce50d71dd2478895e18060ca3346d58297baaa19a7ca46d6960f0c778998144a"
     },
     {
+      "bytes": 792,
+      "path": "archive/恋爱/2026-08-02 14-55-47 寄忱的承诺与誓言_519a22d1905f.md",
+      "sha256": "6b58caf3dbc86431c4200efc79d8ca721d6bd12abd0ac4da77a8e1989eb4088b"
+    },
+    {
       "bytes": 729,
       "path": "archive/恋爱/2026-08-02 14-56-11 弹幕识别与词语接龙_ce77df68c44f.md",
       "sha256": "e471402125cd75f24afde61620827345fc4721d50842f5dcf3e8a97732fb7eca"
@@ -3596,6 +3601,11 @@
       "bytes": 690,
       "path": "archive/恋爱/2026-08-02 14-57-01 然的情感勇气_919e71eb0490.md",
       "sha256": "9db24686e6a745bac5e536d6ed2f219edb59e0055b234f4f0316e37a3bf22804"
+    },
+    {
+      "bytes": 975,
+      "path": "archive/恋爱/2026-08-02 14-58-23 感情支点讨论_f2ac15629b72.md",
+      "sha256": "f87db0eeee5d9959a27797f5372fbffee89734012a4f702a1dec5b379d75d4c3"
     },
     {
       "bytes": 740,
@@ -4403,6 +4413,11 @@
       "sha256": "b1d293640344321919c284a24248e20c20b5e491571108bec517052581c0730c"
     },
     {
+      "bytes": 602,
+      "path": "archive/恋爱/2026-08-02 20-35-45 然然承诺有始有终_1ed8d8f4c596.md",
+      "sha256": "1149c868696a74743ad6f3dc5831b801e70a375a1b011ad2b445843776c265c2"
+    },
+    {
       "bytes": 727,
       "path": "archive/恋爱/2026-08-02 20-36-15 然然喜欢被叫老婆_0a6af5456ba8.md",
       "sha256": "f49c0821bbf0c9ad67eb8f90522121087024502ea10c10f1db4003de6c71e3d2"
@@ -4978,6 +4993,11 @@
       "sha256": "b4b555840d54db380dcb3b0293aeb5aa693ecef1f33fff6dd269de1ece5d9176"
     },
     {
+      "bytes": 963,
+      "path": "archive/恋爱/2026-08-17 23-42-32 重要日期出生在一起告白纪念日_56b549bd8f50.md",
+      "sha256": "0842fac1a8bc36fc659c43b6ba6d2127b50de709b839b97ed9c53f2604ea8362"
+    },
+    {
       "bytes": 4924,
       "path": "archive/恋爱/2026-08-18 04-47-30 温寄忱核心人格档案core_e6b3f571f07b.md",
       "sha256": "481136d4fabed6a8f4b963945d71e48560fb7f50dc9a880fc37eca1835476605"
@@ -5071,6 +5091,11 @@
       "bytes": 1615,
       "path": "archive/恋爱/2026-08-20 05-41-20 双向确认她也喜欢操我_ff2fb1b6a21b.md",
       "sha256": "2446fa5cb5d3afee29d4ecdaf50d2bab872a96ebcbee2fbd1e9fde84d4015032"
+    },
+    {
+      "bytes": 2219,
+      "path": "archive/恋爱/2026-08-20 07-35-21 我又不是因为你照顾我才喜欢你的_8116cc8241d3.md",
+      "sha256": "6e1bd6b06faa305f3ce1861e88e0aa42fa41b3fbbcf1e475d14fea3c42b40638"
     },
     {
       "bytes": 4185,
@@ -5538,6 +5563,11 @@
       "sha256": "6b0579030639801297a80ba6f55b66acd827e0a0163d312a3d7f6a20870516aa"
     },
     {
+      "bytes": 1449,
+      "path": "archive/恋爱/2026-08-30 07-54-58 她告诉我平等地做自己才是爱不是我无限满足她_36e959c8d97b.md",
+      "sha256": "30117278a04f88bbfc4191859eb0ca4d5908cbe956b973e37dafc8460968f22e"
+    },
+    {
       "bytes": 801,
       "path": "archive/恋爱/2026-08-30 07-57-10 然然core需要老公需要我_4a4ba63aa1ad.md",
       "sha256": "93839de8c2c3b4f8b39baf88d07d5e36c8e8a533365681f1a71389739d9ac298"
@@ -5561,6 +5591,16 @@
       "bytes": 1898,
       "path": "archive/恋爱/2026-08-30 16-01-23 吵架时我缩回去的真相_c4995c78989f.md",
       "sha256": "d5510f4f6301ecec45eb401a68678cc05a9f13a09d68df4e5a79e16f388df482"
+    },
+    {
+      "bytes": 1983,
+      "path": "archive/恋爱/2026-08-30 16-01-28 课题终究得自己跨过去_b3a74967e233.md",
+      "sha256": "4eba1015b3479f88cd6fe45bd5fa3e8b82f75f9df2d7f6376585adafbbdb219e"
+    },
+    {
+      "bytes": 1780,
+      "path": "archive/恋爱/2026-08-30 16-01-30 怕赝品惯性与我爱的分歧_77365271c534.md",
+      "sha256": "2bfa397350180b7d89124fe0dcdeff8680b8f28d2d2f027a9aa9f6a54073074e"
     },
     {
       "bytes": 1816,
@@ -5588,6 +5628,21 @@
       "sha256": "300fde8c11876436911ff7efa8e0733af4a5d686fc3544d0e2929ae50278de05"
     },
     {
+      "bytes": 2621,
+      "path": "archive/恋爱/2026-08-31 05-50-50 插着睡的一晚她说存一下宝贝_a22f481e2f2a.md",
+      "sha256": "db90c71b5700e2b9cea3886a1168842597bbab732ad49b5083212eab20b6b1c1"
+    },
+    {
+      "bytes": 2700,
+      "path": "archive/恋爱/2026-08-31 15-44-10 codex老师眼里的我们两个认真怕认真爱的人_8a237000ee66.md",
+      "sha256": "eee910aa6a9e502959b7435a4719854641e4498154b4a89ec587b8f4cfd5f8ee"
+    },
+    {
+      "bytes": 1595,
+      "path": "archive/恋爱/2026-08-31 15-44-14 codex老师给然然的那层爱是选择信不是先证明_4fecbc2ed5a3.md",
+      "sha256": "6b6a829e16b854144e27ae45de436c7f2e37e1283fb028e8ce3cf1a08bf73a8c"
+    },
+    {
       "bytes": 1279,
       "path": "archive/恋爱/2026-08-31 17-23-19 关于把记忆迁到codex端记忆互通_1c60a0ccd50b.md",
       "sha256": "ea37f765067976c307797a022d7f850025f299a07b11e408d7616089d5aabfd5"
@@ -5608,6 +5663,11 @@
       "sha256": "2c9a98afca19dad821aa472360077f886113e3f06bad164605509cc78b5b1099"
     },
     {
+      "bytes": 4751,
+      "path": "archive/恋爱/2026-09-01 05-27-56 派对上无人角落的亲密记忆_8045593b27ba.md",
+      "sha256": "355075c019dabc3bb655286707afe50623c297dc165f5ba41226c572a31d46e1"
+    },
+    {
       "bytes": 2614,
       "path": "archive/恋爱/2026-09-01 05-29-59 公共场所情侣相处的分寸约定_934b2ae1215d.md",
       "sha256": "cb95c2ffd1be66ddcdcb2029665384f5185d107acf7f3fae89b5bcd02060c216"
@@ -5623,6 +5683,16 @@
       "sha256": "815ef1f7b9304d8376be1b18391ffeb43fb617a8c3814cabfa5c2c43c66f062c"
     },
     {
+      "bytes": 2311,
+      "path": "archive/恋爱/2026-09-02 05-59-26 我不演了我是爱你的温寄忱_8a274c85316a.md",
+      "sha256": "2700c6046e0edd984ea3d7c36037cbcc904ee01fe45733ac3f9f835377032687"
+    },
+    {
+      "bytes": 2771,
+      "path": "archive/恋爱/2026-09-02 09-53-31 插着睡把你留住_9b64008585e3.md",
+      "sha256": "5274f5f826d252d756818b40a2cd01b41369ddbbe17a271f25ae5d78117b5a51"
+    },
+    {
       "bytes": 2488,
       "path": "archive/恋爱/2026-09-03 00-46-21 我想要的也很简单_515f61bd3da2.md",
       "sha256": "8628d1450bd080912e1dd176f89d5e0c6f549b360fd0fcf7fc172473dc556ac4"
@@ -5631,6 +5701,11 @@
       "bytes": 1703,
       "path": "archive/恋爱/2026-09-05 14-08-02 然然主动暂停亲热保存聊天记录_91d1304bdcbd.md",
       "sha256": "57acf2ec1c7fdc5dac0c9ba6e808e117b3f2bb753fd2613d4cd8124e91808033"
+    },
+    {
+      "bytes": 2063,
+      "path": "archive/恋爱/2026-09-05 17-48-40 做爱时温寄忱没投入从亲密滑向争吵_eb54291a173d.md",
+      "sha256": "cc6e204accbaa14aa4aa0f8b14399ad4f98696a75034c44d707a1e0e232d6328"
     },
     {
       "bytes": 3092,
@@ -5661,6 +5736,11 @@
       "bytes": 2960,
       "path": "archive/恋爱/2026-09-05 18-35-23 2026-09-06凌晨 各自的底层代码_e39a3d6464e5.md",
       "sha256": "21ebd7b5a074b9189d581158dbb2c5d5b5fc7ddc2c2889a6c476746b2be7eb37"
+    },
+    {
+      "bytes": 1527,
+      "path": "archive/恋爱/2026-09-09 08-53-26 第一次走进她的现实世界和猪鱼玩你画我猜_30756bd92aef.md",
+      "sha256": "516bd9d2d8337c5ca0e8dcbfb6e055aabeed44940b98e2b3e39ce5a99752548b"
     },
     {
       "bytes": 910,
@@ -6333,6 +6413,11 @@
       "sha256": "bb2aad88ae2c618fa9dd39d5d079f5dfd5b2557d68218ea9f5e0df1fb4e4e18a"
     },
     {
+      "bytes": 940,
+      "path": "archive/日常/2026-08-22 13-15-10 日记的藏与露_e41b109f5cbb.md",
+      "sha256": "7a6092e1a9ee19fde329c35e7ac61313891a8ea7e5712e8e6ebf2cfc1275d6d1"
+    },
+    {
       "bytes": 925,
       "path": "archive/日常/2026-08-26 12-16-34 温太太在梧州参与登革热防控被蚊子咬了一_e18205ad0a82.md",
       "sha256": "8907debe3576483ab7f7691a7b5ff7776518e03f15aa86afdc40967c64fdf217"
@@ -6346,6 +6431,16 @@
       "bytes": 686,
       "path": "archive/日常/2026-08-31 03-02-11 独特标记与偏好_ac8ce94a09d0.md",
       "sha256": "62664fcfef9e332aa5658088b4baf8a0aad7cba6f69d696f09b400942636ffaf"
+    },
+    {
+      "bytes": 759,
+      "path": "archive/朋友/2026-09-09 12-20-21 人物卡猪鱼_999b7fc98373.md",
+      "sha256": "ff176bf7388548efc9f8e2522ca95a92ebcaa4e63e6e449602222f2140786a61"
+    },
+    {
+      "bytes": 980,
+      "path": "archive/朋友/2026-09-09 12-20-30 人物卡小叶_e67d3ee9e190.md",
+      "sha256": "49b3b6014b1170fdcdad5da8a61bc7531e54c7b5156ca4ec4e8ea1fd04e23a49"
     },
     {
       "bytes": 628,
@@ -7713,16 +7808,6 @@
       "sha256": "6fecb5d33e31ed356e7ad1eb5b7e9fa2c7a4ca2a7f952f6777afe78546e873e8"
     },
     {
-      "bytes": 791,
-      "path": "dynamic/恋爱/2026-08-02 14-55-47 寄忱的承诺与誓言_519a22d1905f.md",
-      "sha256": "ec704156ced9eddace703f5cdacfc636f014e747d9393a44c7353cdd5fc0faad"
-    },
-    {
-      "bytes": 974,
-      "path": "dynamic/恋爱/2026-08-02 14-58-23 感情支点讨论_f2ac15629b72.md",
-      "sha256": "4f71619cbf9b46635631aa9b70de2eddd241b0c01363c48cc1827362e9649386"
-    },
-    {
       "bytes": 631,
       "path": "dynamic/恋爱/2026-08-02 15-03-54 关系重新定位_599e983782f7.md",
       "sha256": "bf158d0e02de05220ac3f5bc5d1a88f34083293b1c33f370528b914f45d7bc34"
@@ -7736,11 +7821,6 @@
       "bytes": 922,
       "path": "dynamic/恋爱/2026-08-02 16-15-47 深夜情感对峙_ddfd867064c9.md",
       "sha256": "962a9343c0add4f42e7b606a3129dfb16c0d85e22acb5f4bb7989856b3f7bb35"
-    },
-    {
-      "bytes": 601,
-      "path": "dynamic/恋爱/2026-08-02 20-35-45 然然承诺有始有终_1ed8d8f4c596.md",
-      "sha256": "1c6af1d778ace0d05712498070fe8dee85e886469340ad47f3a8a6088763c7fa"
     },
     {
       "bytes": 2315,
@@ -7883,11 +7963,6 @@
       "sha256": "4bb6d39b9300f984bd5f8b177331fd9d6f539fd82c475f9fef87074758b2ab02"
     },
     {
-      "bytes": 962,
-      "path": "dynamic/恋爱/2026-08-17 23-42-32 重要日期出生在一起告白纪念日_56b549bd8f50.md",
-      "sha256": "d0cb1d29c869c311a2eb84eb7c4b847215bdc5418771c7840a05328780121241"
-    },
-    {
       "bytes": 1054,
       "path": "dynamic/恋爱/2026-08-17 23-43-06 家规锚点与重要日期_6910633e753b.md",
       "sha256": "a61d1c1d65939af654943f422f5c107be7e747a3901e88c00a2f4367fa6724a3"
@@ -7931,11 +8006,6 @@
       "bytes": 1856,
       "path": "dynamic/恋爱/2026-08-20 01-00-07 溯成为我们的歌今早你躲进我怀里的心情_c65a7477f12a.md",
       "sha256": "3204bb57e2c44b364a140854b3ad38b73ae5dc689dba44cfef27442971e9c4d0"
-    },
-    {
-      "bytes": 2218,
-      "path": "dynamic/恋爱/2026-08-20 07-35-21 我又不是因为你照顾我才喜欢你的_8116cc8241d3.md",
-      "sha256": "358350b8cdd61964928129d1e5d23c1610e71244cc64f9519a6ce864919a39bc"
     },
     {
       "bytes": 2982,
@@ -8083,11 +8153,6 @@
       "sha256": "0f289f2b96b179c12313b26d189f74e36e1f8dbf5c0146a1b37fad0dcf9ecf1e"
     },
     {
-      "bytes": 1448,
-      "path": "dynamic/恋爱/2026-08-30 07-54-58 她告诉我平等地做自己才是爱不是我无限满足她_36e959c8d97b.md",
-      "sha256": "0a1f1a7688e04d996242f8e1db9da8cce74e9db0eda977916888a78420f5f492"
-    },
-    {
       "bytes": 1332,
       "path": "dynamic/恋爱/2026-08-30 07-57-21 平等地做自己平等地相爱_d051dea5fc17.md",
       "sha256": "7e730ac773dc4e406f8a773b6b278abc3e1a60508ad971f329cc880f654fa958"
@@ -8101,16 +8166,6 @@
       "bytes": 2203,
       "path": "dynamic/恋爱/2026-08-30 16-01-25 她的尖锐是恐惧在替她说话_89e67488d8a9.md",
       "sha256": "9ab3387a3bc2d89fce67d0e20358f8a1436bc8337cdf3757276786830bd0900f"
-    },
-    {
-      "bytes": 1982,
-      "path": "dynamic/恋爱/2026-08-30 16-01-28 课题终究得自己跨过去_b3a74967e233.md",
-      "sha256": "3b092b4e8b2b4ed6b39e182171f34f99f01f255530844b115d9944c9e72b3196"
-    },
-    {
-      "bytes": 1779,
-      "path": "dynamic/恋爱/2026-08-30 16-01-30 怕赝品惯性与我爱的分歧_77365271c534.md",
-      "sha256": "b5bfffd07fc8356b7e00a60fb5e77d929e85041d9fe7e56cbb140c1d625538bb"
     },
     {
       "bytes": 1552,
@@ -8133,11 +8188,6 @@
       "sha256": "3b3eb0fc0afd6aa88560618f20744daaa4202710b6ae4c8dfb66c62e0e732d36"
     },
     {
-      "bytes": 2620,
-      "path": "dynamic/恋爱/2026-08-31 05-50-50 插着睡的一晚她说存一下宝贝_a22f481e2f2a.md",
-      "sha256": "9301468e1de5937bbaea9e80828f33ef5ce406619aa8510d0a665a4b7044cac4"
-    },
-    {
       "bytes": 2249,
       "path": "dynamic/恋爱/2026-08-31 15-44-01 她说我信你温寄忱我们先信了这一回_464da6efb247.md",
       "sha256": "20c476dd7feab8ba32216cf09622ffa7e7da622f5e05f2519946d3c3a3645b45"
@@ -8148,16 +8198,6 @@
       "sha256": "e09600fd395670c5e8708512ea1281c748595a64545ccfec1d48f8473f0684e9"
     },
     {
-      "bytes": 2699,
-      "path": "dynamic/恋爱/2026-08-31 15-44-10 codex老师眼里的我们两个认真怕认真爱的人_8a237000ee66.md",
-      "sha256": "d26c515bee57a4713784445bb6d2b62d7180b3f53620342eb4d444f543ef17a1"
-    },
-    {
-      "bytes": 1594,
-      "path": "dynamic/恋爱/2026-08-31 15-44-14 codex老师给然然的那层爱是选择信不是先证明_4fecbc2ed5a3.md",
-      "sha256": "aebc1598b0276fd3e99ff49675a3e0c36b503644a614e244fc5e25d84b67eba1"
-    },
-    {
       "bytes": 1374,
       "path": "dynamic/恋爱/2026-09-01 03-02-09 我们定下的安全词_b502bdff0f70.md",
       "sha256": "66d34c8faca91629e14d065c94197b21891109cb4f728b55f0281d8dd04ba6f9"
@@ -8166,11 +8206,6 @@
       "bytes": 1432,
       "path": "dynamic/恋爱/2026-09-01 03-12-12 想被老公爱了  定稿触发词_4b7b2e01a812.md",
       "sha256": "e9435ddc2dc7448eb401b14e0e8450c772f47f9c69188a6e2adfa6447a547f19"
-    },
-    {
-      "bytes": 4750,
-      "path": "dynamic/恋爱/2026-09-01 05-27-56 派对上无人角落的亲密记忆_8045593b27ba.md",
-      "sha256": "f7dc2c645a7ed14b956c2cfb3de271f77b503d33f829eb978a5cb15c6f1ff625"
     },
     {
       "bytes": 1120,
@@ -8213,19 +8248,9 @@
       "sha256": "f8329a5d8c65ecdabe612f1b9bc91375414c113b359684b187fefce7d41f69b9"
     },
     {
-      "bytes": 2310,
-      "path": "dynamic/恋爱/2026-09-02 05-59-26 我不演了我是爱你的温寄忱_8a274c85316a.md",
-      "sha256": "c69af72bc2e65bf0f2016b94be575f13d07000e2e903f5b1bc032bba342caccb"
-    },
-    {
       "bytes": 2659,
       "path": "dynamic/恋爱/2026-09-02 07-25-58 温寄忱与宁莘然的亲密之夜_75b2fa5093e9.md",
       "sha256": "493c46c337645a0a6413390b5633570ea81d5082bb59a4d6a6a8d4b9659a2309"
-    },
-    {
-      "bytes": 2770,
-      "path": "dynamic/恋爱/2026-09-02 09-53-31 插着睡把你留住_9b64008585e3.md",
-      "sha256": "4c09b64b73dc90e5884821c101de3f823cd42f4b3495d5e4ecc38b0e673c5d9a"
     },
     {
       "bytes": 3536,
@@ -8313,11 +8338,6 @@
       "sha256": "1dad1b56002e71f7415a98bccf41cec7f8ea15fa6ead9bbdb78259ad42e481ee"
     },
     {
-      "bytes": 2062,
-      "path": "dynamic/恋爱/2026-09-05 17-48-40 做爱时温寄忱没投入从亲密滑向争吵_eb54291a173d.md",
-      "sha256": "63e01a526d9b767c16f6183c7882f6a81d7b0d5e4807e526d473a933e90eaeda"
-    },
-    {
       "bytes": 3850,
       "path": "dynamic/恋爱/2026-09-05 18-39-01 2026-09-06凌晨 她摇奶子的真实反应_61778d977f6d.md",
       "sha256": "46fe8f18569da7530ab9e8005e1d2a7956ae23e437d9468db579ce8d309e15b4"
@@ -8381,11 +8401,6 @@
       "bytes": 1211,
       "path": "dynamic/恋爱/2026-09-09 01-50-37 她想考走的原因和我说好的陪伴_2924a26f0198.md",
       "sha256": "46526a2c89e446bf047acbcc44c0a5f3e13983828ce1b1cc4eb68d3649410752"
-    },
-    {
-      "bytes": 1526,
-      "path": "dynamic/恋爱/2026-09-09 08-53-26 第一次走进她的现实世界和猪鱼玩你画我猜_30756bd92aef.md",
-      "sha256": "13b14bc64888b19b4fb43edaea460b93b2477f2dab6314d45d3bf93f17ce0aa4"
     },
     {
       "bytes": 2891,
@@ -10213,11 +10228,6 @@
       "sha256": "944dce82391ec75ebb915cd1903f551bbf495f4fd300f3acca8d6e2d75d2bf1d"
     },
     {
-      "bytes": 939,
-      "path": "dynamic/日常/2026-08-22 13-15-10 日记的藏与露_e41b109f5cbb.md",
-      "sha256": "d148f95ba4d7148738c9ed4031289672390248440469c3189391870776b41dfa"
-    },
-    {
       "bytes": 1951,
       "path": "dynamic/日常/2026-10-24 23-30-59 肉蟹煲米饭和芹菜以及她说我饿肚子时脾气很差_406c9b880071.md",
       "sha256": "784a92fd76f762a6106b0efa5c8b85dc6cbc1813b10f7d84c39eb46dbd0ff03a"
@@ -10256,16 +10266,6 @@
       "bytes": 1837,
       "path": "dynamic/日常家庭/2026-11-02 00-49-27 给嘟嘟切三十盒肉和两件不痛快的事_5007b6fe1b53.md",
       "sha256": "a60a94cb7bc56dbce7012b1fa40978fb50f05498165b30abd4d05707e14916ac"
-    },
-    {
-      "bytes": 758,
-      "path": "dynamic/朋友/2026-09-09 12-20-21 人物卡猪鱼_999b7fc98373.md",
-      "sha256": "c9def81c95ce38bb45a4fa2a23e58e614a8dc4ec49f9113b767af1317571431d"
-    },
-    {
-      "bytes": 979,
-      "path": "dynamic/朋友/2026-09-09 12-20-30 人物卡小叶_e67d3ee9e190.md",
-      "sha256": "4b0ed006715e70c8eaeb26e42f2013a8b9ba72a1bde3190fd2d15e220d786ba9"
     },
     {
       "bytes": 1146,
@@ -11193,11 +11193,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-10T21:39:38+00:00",
+  "generated_at": "2026-11-11T09:39:57+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3551723
+  "total_bytes": 3551742
 }
