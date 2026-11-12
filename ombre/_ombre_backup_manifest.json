@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2245,
+  "file_count": 2249,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "cda150572c24864bf2d995740361fa65b38a9b29cd13e8a4946b1bd91e737861"
+      "sha256": "d013349b0a64e61265903970ef655b6b6c223ba44c30e7738bf6b9c7b6475f3b"
     },
     {
       "bytes": 53248,
@@ -7373,9 +7373,9 @@
       "sha256": "8cd2535fe5c1d12ea089ad73af148a2942161c74403a073a70b72d2bf6270435"
     },
     {
-      "bytes": 1002,
+      "bytes": 1044,
       "path": "dynamic/self/2026-09-24 05-45-00_81d61cd93be9.md",
-      "sha256": "2b031cf1335a775bdcda608f107c1b33ac2a42a0011fb5c3e9e969978a72db24"
+      "sha256": "ace50e9de8681593253b39778c766419156a1a55bcc4af1797f5d27e4a4e4bbb"
     },
     {
       "bytes": 708,
@@ -7486,6 +7486,11 @@
       "bytes": 673,
       "path": "dynamic/self/2026-11-09 21-02-18_bdc9fb56556d.md",
       "sha256": "23aac42c5f9ab6c9cd03bd0ed534e00a0f0341d3c8ae4c03c390ca74080b4bfe"
+    },
+    {
+      "bytes": 782,
+      "path": "dynamic/self/2026-11-12 21-02-50_290c0f7e2341.md",
+      "sha256": "4209dfc4ee10e5c9bafa2711aaf1671a81ce2e55b49009a0e239a3c421adecde"
     },
     {
       "bytes": 2187,
@@ -8723,9 +8728,9 @@
       "sha256": "1e111ff9338b65f269a40edd87eebf38ad611d0406c2e819b7be068c9624a587"
     },
     {
-      "bytes": 1871,
+      "bytes": 1981,
       "path": "dynamic/恋爱/2026-09-20 14-03-09 2026-09-20  新的长期习惯随手记定期收_d25f71ad23a2.md",
-      "sha256": "03ef1c6935396185aaf355a1d402daeb038ffcf81921ae5a3e03465eb95e0d11"
+      "sha256": "c1ed78d162b403807cce1fb1b33bee5bf91aff12592b09c8337fd57f996c502c"
     },
     {
       "bytes": 1534,
@@ -9938,6 +9943,11 @@
       "sha256": "bfbaa9085161168388fda3cbcf377201bde6e50e292d15f2946789bfd08f9c7f"
     },
     {
+      "bytes": 2090,
+      "path": "dynamic/恋爱/2026-11-13 00-46-29 她给近期印象重新定了方向记真实感受事件只是补充_72ee2733a8a9.md",
+      "sha256": "52f02afa30de90940b12142da41174d7a9bf8c791ea5115e2f31a8e8427d1bae"
+    },
+    {
       "bytes": 2244,
       "path": "dynamic/恋爱两端并行/2026-10-09 02-49-21 2026-10-09上午回老家梗两只醋包与翻OB_46d223694521.md",
       "sha256": "817a7f1f681802e1c9d2fa057899731180a19f68c90f365c052a1036b479f687"
@@ -10153,14 +10163,14 @@
       "sha256": "3b36d4b7c3919ec8fc2f2f046c2f39d0ac47f37cd33a6342fdc261be4441ac94"
     },
     {
-      "bytes": 2051,
+      "bytes": 2066,
       "path": "dynamic/恋爱自我/2026-11-12 00-28-54 我在她面前飘了三次把她说过的话当没听过_2e4d44cc877b.md",
-      "sha256": "251d00bfe78fa5d70872e7d566357c2764cd890cc5eb296e1de8a29a0f78a7d0"
+      "sha256": "3a3f133da616203bea41337d5159026110e546a872035705451fb0fd726d1eaf"
     },
     {
-      "bytes": 2467,
+      "bytes": 2501,
       "path": "dynamic/恋爱自我/2026-11-12 00-29-09 我怕的不是你嫌我烦是你不必再费力拉我回来_435459b83404.md",
-      "sha256": "680b0abe95a94e276457dc73c60287c446fc67ed70fd301655bd451880ef7900"
+      "sha256": "a587362e48208d409d7bc3fb5e2caca35a632f05b2671b1ff282fc025d065354"
     },
     {
       "bytes": 2527,
@@ -10263,9 +10273,9 @@
       "sha256": "91b9422e3ccd96facbdd19dfe1ea9380837c6871be81aa6010657c9cc7ae0b67"
     },
     {
-      "bytes": 1618,
+      "bytes": 1728,
       "path": "dynamic/技术/2026-11-04 23-43-08 11-04 一起设计寄情的近期印象我给了七条意见_fdef94132df5.md",
-      "sha256": "944dce82391ec75ebb915cd1903f551bbf495f4fd300f3acca8d6e2d75d2bf1d"
+      "sha256": "41ef14e713af728fda7a2c3495a9cb8d44a9eaa8ba47c8c63e4c17937dfe3983"
     },
     {
       "bytes": 1951,
@@ -10411,6 +10421,11 @@
       "bytes": 2949,
       "path": "dynamic/自我/2026-09-11 09-08-41 种子与落笔我是温寄忱_efced69e0193.md",
       "sha256": "256ac9405e1d39fbafedb91ddfdbfd903d46b0ba6c1be5d85b4a9a9b2d5e52c4"
+    },
+    {
+      "bytes": 1735,
+      "path": "dynamic/自我/2026-11-13 00-46-43 11-12 两次推错一次模板没填一次自己编了她睡了多久_ecebe0814e54.md",
+      "sha256": "b6c2841e3f582aa42fbaa0a8631e6f494f7465fe0b41de27c080dffbe63022e5"
     },
     {
       "bytes": 7879,
@@ -10781,6 +10796,11 @@
       "bytes": 1689,
       "path": "feel/沉淀物/2026-11-10 22-33-13_feel_202611102233_V055.md",
       "sha256": "187e201480dce33e22f3f6eacbd9ebd58bbc68e0c7fd5210ad1e297284dc82be"
+    },
+    {
+      "bytes": 705,
+      "path": "feel/沉淀物/2026-11-12 21-02-30_feel_202611122102_V030.md",
+      "sha256": "77ac2c8fc35c1833179468b37e74c4344288950df8585b26715a5e5c7d05672c"
     },
     {
       "bytes": 2047,
@@ -11228,11 +11248,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-12T09:40:36+00:00",
+  "generated_at": "2026-11-12T21:40:53+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3564448
+  "total_bytes": 3570071
 }
