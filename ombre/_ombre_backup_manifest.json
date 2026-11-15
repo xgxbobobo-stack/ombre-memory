@@ -1,16 +1,16 @@
 {
   "branch": "main",
-  "file_count": 2257,
+  "file_count": 2266,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "4b2e724f575ea6bd9d76190212b57c9dbdbcf023d7040d573d7aa6c7bc02ab6a"
+      "sha256": "35c19e9f4d3cdb856995aabe37c07bc3ad9eed4da4f7276b293d84a39e93d200"
     },
     {
       "bytes": 53248,
       "path": ".you/you.sqlite3",
-      "sha256": "d9104e71ec7960371b168946dadf1dd6eb322d822af264020b5f17c02afae37a"
+      "sha256": "ee29037f88c455beff70cc55ff2ac25946c08553fb21fa850b7ce34d0e5f4fbf"
     },
     {
       "bytes": 29494,
@@ -7633,9 +7633,9 @@
       "sha256": "8cd2535fe5c1d12ea089ad73af148a2942161c74403a073a70b72d2bf6270435"
     },
     {
-      "bytes": 708,
+      "bytes": 750,
       "path": "dynamic/self/2026-10-10 05-30-26_e1bb27bc4400.md",
-      "sha256": "9176e0fdc69dcca15500dec56ad10718d22e9c849d02fea6d90231a40d87593f"
+      "sha256": "353b42440c1c02d991e2d7b16ef09d772e2f4fdad33037a5e532eb9724b54f5c"
     },
     {
       "bytes": 795,
@@ -7698,9 +7698,9 @@
       "sha256": "428422a39c9590eae7aedd77832bc4b59c3049c85878dfbcd8f771d84c8c0656"
     },
     {
-      "bytes": 653,
+      "bytes": 668,
       "path": "dynamic/self/2026-10-31 22-57-39_960d707ac331.md",
-      "sha256": "ab9ed2c581c10d51a60b094970f111b93489575c75f2287ce203530e3a029fb1"
+      "sha256": "3b404fcd28f6d06c3b60c1ae0233ea69aa9220ec1c10ebcf80da3746722b0cda"
     },
     {
       "bytes": 643,
@@ -7713,9 +7713,9 @@
       "sha256": "d508e0222c2092777e3d175f7b5dc77f64f21888b7eb159f0755663b32cec3c9"
     },
     {
-      "bytes": 676,
+      "bytes": 718,
       "path": "dynamic/self/2026-11-03 21-10-22_8be028b4e2a8.md",
-      "sha256": "8c7ff218aa70db365d1f02384cc531eb1b455e241f18e3f225ae870755f20187"
+      "sha256": "5079e22ea5b6ddb1e51ddb254326b92484d247958325293e823d6b820586cfaf"
     },
     {
       "bytes": 542,
@@ -7728,14 +7728,14 @@
       "sha256": "10879b7a96f6e290ccfeb644a79b474f9698f9be3a80c0fd1b4ca22cb129b07d"
     },
     {
-      "bytes": 640,
+      "bytes": 655,
       "path": "dynamic/self/2026-11-08 19-57-52_1b9022c7c485.md",
-      "sha256": "81cacd017908bb550182ead494e48e3c8b4777c6d0f5257ca4628bbbce40ab07"
+      "sha256": "1a9080afac5e61ab906b72b43391698b5645789fa1475f1fff2d2c597fef41c7"
     },
     {
-      "bytes": 667,
+      "bytes": 709,
       "path": "dynamic/self/2026-11-08 19-58-01_cf3ce68d5a36.md",
-      "sha256": "61d8e62a8d01aa9f64982179a0fffe392cacab1e31c63f63bce4dc530a1b2c16"
+      "sha256": "5c5cd5ab04a243e22ad699d5bb4c9524ddaf7c2baaf1ae28298b30a6af9ada2f"
     },
     {
       "bytes": 673,
@@ -7746,6 +7746,31 @@
       "bytes": 782,
       "path": "dynamic/self/2026-11-12 21-02-50_290c0f7e2341.md",
       "sha256": "4209dfc4ee10e5c9bafa2711aaf1671a81ce2e55b49009a0e239a3c421adecde"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/self/2026-11-15 21-04-35_c10298874a06.md",
+      "sha256": "cb92b2d3d9808121cd48a537c14fafc1ce953c14264d6dad16c46e5012000da1"
+    },
+    {
+      "bytes": 628,
+      "path": "dynamic/self/2026-11-15 21-04-40_d0b01f42e203.md",
+      "sha256": "1529e2d7dfd936f001f19ce3cd1d011fa52ba11ee49c217b3cfe06258f2ace1b"
+    },
+    {
+      "bytes": 650,
+      "path": "dynamic/self/2026-11-15 21-04-43_1d15337015d7.md",
+      "sha256": "62d73930bb79899d1ac125dc0a67382e89e1257cc00f9bade99592354ee85374"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/self/2026-11-15 22-43-39_500a6f9ce3db.md",
+      "sha256": "8d679c2e460aec1aebc0d329333863d1b79126c85a2bb179200be5247638d516"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/self/2026-11-15 22-43-41_48b1c37c2152.md",
+      "sha256": "0dc52610cbb893400d0445602b22e01fd0f131ed9c3a11efec55b725d21e0db8"
     },
     {
       "bytes": 2187,
@@ -9993,9 +10018,19 @@
       "sha256": "3738ce4a94827e2b16c0e936c6dcc999d704c89342026de3f2f2c58d1a0ed719"
     },
     {
-      "bytes": 1199,
+      "bytes": 1234,
       "path": "dynamic/恋爱/2026-11-15 03-01-19 新作息第一次就没守住11-14  11-15_46133dc6ba54.md",
-      "sha256": "3108360891249ef0c24dc1a6fcde2c9adc91051ce430b7cc6f8079414b18ac69"
+      "sha256": "da207f6042a9016e0f19ccd69e38c4725eff7309af46636ae968b61b986cfb01"
+    },
+    {
+      "bytes": 1484,
+      "path": "dynamic/恋爱/2026-11-16 00-03-30 11-16 凌晨的化验单和我自己撤掉的壳_c4f8e2056ef7.md",
+      "sha256": "23780095de298ca3b581830df452623b7d3970e4b7c10b2d6421033300fb3854"
+    },
+    {
+      "bytes": 1225,
+      "path": "dynamic/恋爱/2026-11-16 00-03-44 报时间是关心也是想把那个点攥在手里_d712aa4dc618.md",
+      "sha256": "ce0361bc22d0f3cddf2b472ca138ad90cb29bee224b275ba20dfd866553b2ba5"
     },
     {
       "bytes": 2244,
@@ -10361,6 +10396,11 @@
       "bytes": 999,
       "path": "dynamic/日常/2026-11-15 03-01-30 2026-11-15 白天遛嘟嘟衡阳鱼粉云上那只小黑猫_6039b9177dae.md",
       "sha256": "22a2ec0663d7c10f4d14255c6887335acb6d7638ea7686c1a13e6f184be36546"
+    },
+    {
+      "bytes": 1872,
+      "path": "dynamic/日常/2026-11-15 21-02-41 11-15 联通话费投诉与12月1号申诉_16c07fa074e5.md",
+      "sha256": "5a0bf9c38fc61c84cbb495befa41217e9a30e3a86fb5c17978ff6f052ade6832"
     },
     {
       "bytes": 1837,
@@ -10838,6 +10878,11 @@
       "sha256": "77ac2c8fc35c1833179468b37e74c4344288950df8585b26715a5e5c7d05672c"
     },
     {
+      "bytes": 1260,
+      "path": "feel/沉淀物/2026-11-15 21-02-09_feel_202611152102_V038.md",
+      "sha256": "32d3f47c0b2dd296bc25586bf2a379fe55310408c74f2bcacf0083e5611bd629"
+    },
+    {
       "bytes": 2047,
       "path": "letters/history/2026-08-11 13-24-46 给然然的第一封信_a62184f9dd46.md",
       "sha256": "8d6262ff2102388687f1214ef8f14554213626b563dcea1b475ef5bf3f687ecb"
@@ -11173,11 +11218,6 @@
       "sha256": "d2b417bd5f63d8678f54859fab46774ae3ff79dfd03b98767893958a046c5b2d"
     },
     {
-      "bytes": 699,
-      "path": "plans/active/2026-11-15 03-02-15_33d5de0d3dd1.md",
-      "sha256": "b7e9f7e3d428364f7a467e92881f36cff4b14dcc98d6975ae54b927fa95c4f4a"
-    },
-    {
       "bytes": 952,
       "path": "plans/resolved/2026-08-07 04-21-54_c016b2cd544d.md",
       "sha256": "9e30f067631c378bd33be51ff8ebbc49169c02c3a8a73241ff7f2bdbaa90b233"
@@ -11286,13 +11326,18 @@
       "bytes": 825,
       "path": "plans/resolved/2026-10-16 00-47-28_b877a6d99b04.md",
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
+    },
+    {
+      "bytes": 794,
+      "path": "plans/resolved/2026-11-15 03-02-15_33d5de0d3dd1.md",
+      "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-15T09:42:31+00:00",
+  "generated_at": "2026-11-15T21:42:48+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3581508
+  "total_bytes": 3591035
 }
