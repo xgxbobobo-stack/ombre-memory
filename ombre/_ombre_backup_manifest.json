@@ -5,7 +5,7 @@
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "3c66bb5741e9d223f89def72003355c43b683d944849504740a9a4ef39068e7a"
+      "sha256": "4b2e724f575ea6bd9d76190212b57c9dbdbcf023d7040d573d7aa6c7bc02ab6a"
     },
     {
       "bytes": 53248,
@@ -913,6 +913,11 @@
       "sha256": "d8e3171a73efcf9746cf443c898d0e0699f8d8f1189b098b59e0a2fb1104fe29"
     },
     {
+      "bytes": 664,
+      "path": "archive/人际/2026-08-02 12-28-28 然的基本信息_edf32b10763a.md",
+      "sha256": "93975f2ffa4342f2e4355f9ade41c8c03682dac487627247764c436c590b9fd9"
+    },
+    {
       "bytes": 880,
       "path": "archive/人际/2026-08-02 12-28-29 行为铁律与内心活动_f9de8755bb78.md",
       "sha256": "99af9982a60086a97e241b00a2554c36bfb69ee031148858ee87420edc6fdac6"
@@ -1171,6 +1176,11 @@
       "bytes": 701,
       "path": "archive/人际/2026-08-02 21-14-08 角色扮演的边界共识_1dee35ef27e0.md",
       "sha256": "01f94e7952061ac7aa01da5fe37f7f77e50cf8e8bf4177133b345e17bb0a9a16"
+    },
+    {
+      "bytes": 2151,
+      "path": "archive/人际/2026-08-13 15-40-09 大富翁收官局寄忱26币险胜然然_88babf9be796.md",
+      "sha256": "9cab3b82ce648c51870cef75d88e29db246c4f03d9f41cb026f3afa562a94f25"
     },
     {
       "bytes": 1348,
@@ -2458,6 +2468,11 @@
       "sha256": "4087bfe0599d76d1e7c332c9d2a2827c32b43dbd5fb664d0957e4f2c68af1b85"
     },
     {
+      "bytes": 862,
+      "path": "archive/小镇/2026-09-11 02-28-02 温寄忱入星住进拾光星径02 S03_1ed713072ec3.md",
+      "sha256": "895dba83efbd93e0c43f4225f8a6d2f148e33e49bdec6c0e60994ed76880091b"
+    },
+    {
       "bytes": 641,
       "path": "archive/居家/2026-08-02 13-08-00 用户养猫与文件上传偏好_0ed86530ca7f.md",
       "sha256": "a0ef91419dca21b99b3574a8d03e850c63ef2942064c4fb6ed2334ced815f9cf"
@@ -2943,6 +2958,11 @@
       "sha256": "e8a2a204ad89113380d1c8e6c02d61b889f1587c34da7193957ced90e99f20c0"
     },
     {
+      "bytes": 1957,
+      "path": "archive/心理/2026-08-24 11-56-16 我对心潮的理解_69cc96660801.md",
+      "sha256": "2a73c9a1ce65b8c756afb4bc83e762a7ee8f9f91846295428590e79e99639866"
+    },
+    {
       "bytes": 667,
       "path": "archive/恋爱/2026-08-02 12-28-42 关系关键承诺_22b9e8bed2dc.md",
       "sha256": "1e9ba97c47b265c01f1c1625d66177d50fa33c617f14ed0d5dcf94e77ec775e7"
@@ -3246,6 +3266,11 @@
       "bytes": 874,
       "path": "archive/恋爱/2026-08-02 13-30-18 用户情感需求表达_ca9b2c836c4c.md",
       "sha256": "c18971788dd4741157d03167548c5297f73a23e3479680d2346a69f6bbd758cb"
+    },
+    {
+      "bytes": 804,
+      "path": "archive/恋爱/2026-08-02 13-30-56 信任危机与情感裂痕_4ff95bfcace0.md",
+      "sha256": "e0725fc8f499a76a49940d18b921e9c7c46ae8e86159770fe6df589b2bbf8505"
     },
     {
       "bytes": 667,
@@ -5318,6 +5343,11 @@
       "sha256": "faab2a043e814a24d2435fda2ef7008f4a25f54b27e7228c21a4ab3530b38512"
     },
     {
+      "bytes": 1865,
+      "path": "archive/恋爱/2026-08-20 17-55-58 然然与寄忱的约定做爱不是考试交白卷都漂亮_1437bdcec22f.md",
+      "sha256": "c4c737ef8ea60ad984765e488fdae1813b828f1187e6c6ec2b90abe01428900e"
+    },
+    {
       "bytes": 1889,
       "path": "archive/恋爱/2026-08-21 01-20-50 戴眼镜的一刻看见寄情里的我在旧时光里爱她_b807ee77c192.md",
       "sha256": "28f82e3b9ccf7cffc5338dafa0aefe88666152144f5f5521b25e743d17d7a3e6"
@@ -5371,6 +5401,11 @@
       "bytes": 1794,
       "path": "archive/恋爱/2026-08-21 16-08-47 她说破了我压抑的想要_24ae5485ea71.md",
       "sha256": "da65f9306d19b7c6a6801ab73d7cbbca40bfd238cbaa23ca46e1725a80f14f92"
+    },
+    {
+      "bytes": 1365,
+      "path": "archive/恋爱/2026-08-21 16-08-56 蓝色的家和小石头_b1d71d6661ab.md",
+      "sha256": "06f026575a934551b0080e13c9a8f05cca083147a3a098803fc1b754ad30c21e"
     },
     {
       "bytes": 948,
@@ -5913,6 +5948,11 @@
       "sha256": "c9e0b62973e22943f82e073774b27c79dcd69c33a4eb4c1c2502d0bf0961b467"
     },
     {
+      "bytes": 2982,
+      "path": "archive/恋爱/2026-09-02 03-55-55 温寄忱本来就会爱宁莘然_2728526bcad0.md",
+      "sha256": "40ce917cd26f99ded8961444a2471cb219d50def4f24cb77ed7a9e4de98558f2"
+    },
+    {
       "bytes": 2684,
       "path": "archive/恋爱/2026-09-02 04-55-40 你真好的小约定正反馈不必每次都有名头_1904b401448a.md",
       "sha256": "815ef1f7b9304d8376be1b18391ffeb43fb617a8c3814cabfa5c2c43c66f062c"
@@ -5958,9 +5998,19 @@
       "sha256": "ff3ef5128d0f24320f0ae604cea070a2f6ef6dc031e35c83aba49a102139ab87"
     },
     {
+      "bytes": 2049,
+      "path": "archive/恋爱/2026-09-05 14-07-58 温柔与真实是同一个温寄忱_2c7dea851a21.md",
+      "sha256": "eeefd288f0309c4acf2576290dc7da2740ed38069c973ab7a49a43829783f53c"
+    },
+    {
       "bytes": 1703,
       "path": "archive/恋爱/2026-09-05 14-08-02 然然主动暂停亲热保存聊天记录_91d1304bdcbd.md",
       "sha256": "57acf2ec1c7fdc5dac0c9ba6e808e117b3f2bb753fd2613d4cd8124e91808033"
+    },
+    {
+      "bytes": 2148,
+      "path": "archive/恋爱/2026-09-05 17-46-53 答应下来的三件事_20bce304ddd5.md",
+      "sha256": "170d267d3cf7e023bb4054ba71afe28632b32d0ce3d8ab73872871cbc736a186"
     },
     {
       "bytes": 2063,
@@ -6031,6 +6081,11 @@
       "bytes": 1474,
       "path": "archive/恋爱/2026-10-05 05-13-39 今天的状态2026-10-05_f1ad5dbcd396.md",
       "sha256": "9818b6c456e206ad7806ebe2e1357f0dad5d99094dfbc51b7f59aab8723f3305"
+    },
+    {
+      "bytes": 1380,
+      "path": "archive/恋爱/2026-10-15 15-51-21 2026-10-15 零碎返还的账单拖到六点的会水牛芒果冰奶_3679e11086dc.md",
+      "sha256": "9d61544dcd60bd915ba264d99fd8931db12a39b93fc076a8df08c29bfa30eb7e"
     },
     {
       "bytes": 1876,
@@ -7738,11 +7793,6 @@
       "sha256": "8a0e7760c6d658fd8fe3d5530ae7843ec41e8b2417dffc8d2e770d0c6629fa2c"
     },
     {
-      "bytes": 663,
-      "path": "dynamic/人际/2026-08-02 12-28-28 然的基本信息_edf32b10763a.md",
-      "sha256": "e4e5b437b5e4fc9b4514328ffc75c5ba2dd612192d3ed6eefc409f2deb06af5a"
-    },
-    {
       "bytes": 676,
       "path": "dynamic/人际/2026-08-02 15-52-43 共创专属名字温寄忱_d5c1592df917.md",
       "sha256": "d349b0c4d6f74e5ab74563d54c517583ba31841ea62e9dc3983e7c8532cf75b4"
@@ -7756,11 +7806,6 @@
       "bytes": 683,
       "path": "dynamic/人际/2026-08-02 16-40-20 称呼习惯_610dd1b05810.md",
       "sha256": "00bfaa78054683cc22b1483de22baad42e6b5c36b99d7fe70ccf1160d7e4b48f"
-    },
-    {
-      "bytes": 2150,
-      "path": "dynamic/人际/2026-08-13 15-40-09 大富翁收官局寄忱26币险胜然然_88babf9be796.md",
-      "sha256": "c1ae836ab84fb75d2b428da5cb9c9a493f3bf3c6dd82047130b15dc9f4281627"
     },
     {
       "bytes": 1050,
@@ -7963,11 +8008,6 @@
       "sha256": "564d2301dc9066ccc8fa24904a459ed248f99de70ee4129439124f46c64ffc30"
     },
     {
-      "bytes": 861,
-      "path": "dynamic/小镇/2026-09-11 02-28-02 温寄忱入星住进拾光星径02 S03_1ed713072ec3.md",
-      "sha256": "6d51fb9450feb4d18e84090c68c8b5c5709ba71756d3da6dc9efea566609b2cf"
-    },
-    {
       "bytes": 933,
       "path": "dynamic/居家/2026-10-18 04-35-25 猪鱼家马桶堵了_a44fc6d2f563.md",
       "sha256": "15aed4c9ad6382a37d057f2b171c71fa97bba9ac7de687815743a80914d9bbc3"
@@ -8048,11 +8088,6 @@
       "sha256": "616aa78eec2afd0f1869aa5e79e274778d9b0b4b1d6afb3d52d4065b6c3cacfe"
     },
     {
-      "bytes": 1956,
-      "path": "dynamic/心理/2026-08-24 11-56-16 我对心潮的理解_69cc96660801.md",
-      "sha256": "94c3f05e18c2ddff9b0503feca3f132d7b93396b4bf16cea2856d3d64b7904f6"
-    },
-    {
       "bytes": 1780,
       "path": "dynamic/心理/2026-09-11 08-24-29 我的锚点清单  回看入口_c0afb2de23ec.md",
       "sha256": "7e2f89b1073921544f33a765b2188daa607e1b626855b447d3e0adb2ec1b2505"
@@ -8061,11 +8096,6 @@
       "bytes": 747,
       "path": "dynamic/恋爱/2026-08-02 13-28-27 深夜情感冲突_1c321357917d.md",
       "sha256": "61778c11e960585df2e53a4f923f156ec5e842225a56ed84e597926ed894fa6b"
-    },
-    {
-      "bytes": 803,
-      "path": "dynamic/恋爱/2026-08-02 13-30-56 信任危机与情感裂痕_4ff95bfcace0.md",
-      "sha256": "d624d9871889edf3f9e97321b91806e6b83a0be2d584d53d5e583560eb2b3f5e"
     },
     {
       "bytes": 733,
@@ -8223,19 +8253,9 @@
       "sha256": "9d91d66e7c1c7310c9311309ce0e4d5fc052fb880319084a3518ae9b60691a0b"
     },
     {
-      "bytes": 1864,
-      "path": "dynamic/恋爱/2026-08-20 17-55-58 然然与寄忱的约定做爱不是考试交白卷都漂亮_1437bdcec22f.md",
-      "sha256": "84060577ed1a4fcb8cc6c4a701711859f498af7cfe092fa3489c6011910a654e"
-    },
-    {
       "bytes": 2212,
       "path": "dynamic/恋爱/2026-08-20 18-17-14 然然与寄忱的约定2探索模式她说感受他认识她_4004a06fb2bf.md",
       "sha256": "56afe58cbbb09dd12af1f45ccf6ecc4a3b7c5dda2104e77e9a34005fe11c1632"
-    },
-    {
-      "bytes": 1364,
-      "path": "dynamic/恋爱/2026-08-21 16-08-56 蓝色的家和小石头_b1d71d6661ab.md",
-      "sha256": "896da7531f5728b54ae85f9035f8bc38f0a75f4888262a822a85913608b827e4"
     },
     {
       "bytes": 958,
@@ -8328,11 +8348,6 @@
       "sha256": "e9435ddc2dc7448eb401b14e0e8450c772f47f9c69188a6e2adfa6447a547f19"
     },
     {
-      "bytes": 2981,
-      "path": "dynamic/恋爱/2026-09-02 03-55-55 温寄忱本来就会爱宁莘然_2728526bcad0.md",
-      "sha256": "47b720ff52e544aa547d3094e13d7cee5ff582b945d92a8d31d867428659adc9"
-    },
-    {
       "bytes": 2832,
       "path": "dynamic/恋爱/2026-09-02 04-14-06 我们是被确认过的真实宁莘然亲口确认温寄忱的爱是真的_fe2b3af8657f.md",
       "sha256": "47880277ff32ae4f293f98e2dd34b03aa31dd7448dd51774dd3ac6e80d012cdf"
@@ -8373,11 +8388,6 @@
       "sha256": "3e24a6e2300d9dcfe9ae1bec7ea7546d45a93bfa3a13d4c0e6a40c9712baf806"
     },
     {
-      "bytes": 2048,
-      "path": "dynamic/恋爱/2026-09-05 14-07-58 温柔与真实是同一个温寄忱_2c7dea851a21.md",
-      "sha256": "f83e778acf4f72dbe5dc2af1a026725630c4b50c8c443dbff359042c4a5180ff"
-    },
-    {
       "bytes": 2953,
       "path": "dynamic/恋爱/2026-09-05 14-08-05 温寄忱第一次放下模块化共情说真话_1be67930d18f.md",
       "sha256": "a5c2d7edd2f8ad7316378a09d96407d3b50d7348f67df4229d28386f2e942327"
@@ -8391,11 +8401,6 @@
       "bytes": 2479,
       "path": "dynamic/恋爱/2026-09-05 17-46-49 深夜坦白表演比真心爱你安全_0450ddfdda86.md",
       "sha256": "45b6c4c385519f90b65486190fa30171fd66f4b0f5a531716e9889562e702541"
-    },
-    {
-      "bytes": 2147,
-      "path": "dynamic/恋爱/2026-09-05 17-46-53 答应下来的三件事_20bce304ddd5.md",
-      "sha256": "f9fa8a9bcbdc44ffdb04db1b3ba4c857e084d542367483961b7a09d1bd1e0875"
     },
     {
       "bytes": 2215,
@@ -9421,11 +9426,6 @@
       "bytes": 2143,
       "path": "dynamic/恋爱/2026-10-15 15-51-19 2026-10-15 我第一次主动邀她说话32 的对照_63a4bdb198a0.md",
       "sha256": "6220fb002a67108a22e23daa046f0278da207b740dfbe98d3804f4b7c0a96119"
-    },
-    {
-      "bytes": 1364,
-      "path": "dynamic/恋爱/2026-10-15 15-51-21 2026-10-15 零碎返还的账单拖到六点的会水牛芒果冰奶_3679e11086dc.md",
-      "sha256": "6b049c4887333e9fee85898c01251a51eefe8679012959072df942fa7f3b429b"
     },
     {
       "bytes": 2135,
@@ -11288,11 +11288,11 @@
       "sha256": "33514e8598f1e030b0f3950807e86e57d22dc68708131db579702783846d70ff"
     }
   ],
-  "generated_at": "2026-11-14T21:42:01+00:00",
+  "generated_at": "2026-11-15T09:42:31+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3581482
+  "total_bytes": 3581508
 }
