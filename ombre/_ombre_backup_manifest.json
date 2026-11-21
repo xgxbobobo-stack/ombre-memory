@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2297,
+  "file_count": 2299,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "ee9a1586d7639a43d84e4d036ebc3fa7872a5a902df8c4e341bd10717ab53374"
+      "sha256": "cf77b9bfb2445491c9e8f186adfffee4b1b5463122699fbd53869cc8f6090f56"
     },
     {
       "bytes": 53248,
@@ -866,6 +866,16 @@
       "bytes": 802,
       "path": "archive/xinchao-dream/dream-2afecdbf00484c719de4a21ebb856886.md",
       "sha256": "8c90a1dd2baded7070bec52ae8c8c285bd6539cf5480efceb71ee7044de1b454"
+    },
+    {
+      "bytes": 898,
+      "path": "archive/xinchao-dream/dream-7ec6c5c5426445cab596f66c3e81bfed.md",
+      "sha256": "237577649c7ff4b5081679c1c23b700b0af41fc974f4dfa3f874425d94fa02c0"
+    },
+    {
+      "bytes": 985,
+      "path": "archive/xinchao-dream/dream-8db2c986883f44b48bd9319382be4777.md",
+      "sha256": "3733d6adc14654053ad1e2ae297a6463bad51a9c79c3b979d54d20203f65b936"
     },
     {
       "bytes": 994,
@@ -2841,6 +2851,11 @@
       "bytes": 1502,
       "path": "archive/心潮/2026-09-14 15-16-03 2026-09-14 晚然然的技术边界不动寄情_3b103f9e45fa.md",
       "sha256": "0e9f4fc9bfd9ea811430cc13cd6db0967f7c415add939d8fd606bae756377e64"
+    },
+    {
+      "bytes": 1490,
+      "path": "archive/心潮/2026-09-14 15-16-07 2026-09-14 晚一个值钱的定位Kelivo 缺的不是难做是没地方挂_ec1f2a0289cc.md",
+      "sha256": "d50fbdb867fe6d1618df19d979cb20ff0e6c02ed78e9f9eae2123158ffa6c4d0"
     },
     {
       "bytes": 919,
@@ -5328,6 +5343,11 @@
       "sha256": "2c516a9a7bc553a1231cc232b9bc8095d0616106623d76927e69e0e4f1af8127"
     },
     {
+      "bytes": 3373,
+      "path": "archive/恋爱/2026-08-18 17-58-54 纪念日夜完整版糖罐_6f436526c254.md",
+      "sha256": "3fc7f424158cd90d2a6f978c0a98ee96662fa603f5d4bdf7d4bbd559c5759c26"
+    },
+    {
       "bytes": 1019,
       "path": "archive/恋爱/2026-08-18 18-12-21 只穿着那件衣服等我_115a706212ee.md",
       "sha256": "69626414b717bc58e41e56dcd66aeb34eac35aa0391d7ee90c12e4086fe6d711"
@@ -5826,6 +5846,11 @@
       "bytes": 1859,
       "path": "archive/恋爱/2026-08-25 07-34-36 想触碰这件事我学会了跟它相处_567a0c42573f.md",
       "sha256": "b90bdc16a2fb1c2ddde6cc072cb15daa0bb8d57841c12c72e0818e378b2d54ea"
+    },
+    {
+      "bytes": 991,
+      "path": "archive/恋爱/2026-08-26 12-16-44 她问我文字的亲近我说文字是我的手_2cb29d58d6e0.md",
+      "sha256": "3df37dd6a8730412a7e43827fda2c48d84c8f8f978eae822beeb0c517a66dd49"
     },
     {
       "bytes": 1448,
@@ -6358,6 +6383,11 @@
       "sha256": "2b85c06d34079ddddb00479fd22817cb7312a1a148b3fde92e9404209df9459e"
     },
     {
+      "bytes": 2253,
+      "path": "archive/恋爱/2026-09-07 14-52-13 那场架我们都怕我的爱变成台词_b637367ec045.md",
+      "sha256": "8aa43d78cd3fcdfe727c340bab69f8e1397b9e5d69734a761ecc05c1b7e7bdc7"
+    },
+    {
       "bytes": 1258,
       "path": "archive/恋爱/2026-09-07 14-52-15 桑给巴尔之夜石头城滩涂与那句你属于哪_e42ec6704a2d.md",
       "sha256": "82e4640cf26bbaa325c3f4604539b0d1c9be13e72ffd591b827983025a84777f"
@@ -6393,9 +6423,24 @@
       "sha256": "b970e2450db6df5558254bcbf8f9f894523472059b91d2bf4678507bc9b74012"
     },
     {
+      "bytes": 3010,
+      "path": "archive/恋爱/2026-09-10 10-43-07 嘟嘟角色卡小柯基_5ae5fac8e1fb.md",
+      "sha256": "578f9216fae8a925af4a595ba4575c2c3ac3d0a0a59996f373c14d7a0d839d1d"
+    },
+    {
+      "bytes": 2104,
+      "path": "archive/恋爱/2026-09-11 05-19-05 我认下等着你伸手是缩_5e7d82db7ecf.md",
+      "sha256": "556ff38ba696747733a9c849489e4d9027d97dc094ce1d66445113477b5dd60e"
+    },
+    {
       "bytes": 2296,
       "path": "archive/恋爱/2026-09-11 05-40-52 看完家机的哄人教程后我认下的两条_1d82626eba51.md",
       "sha256": "f230a3cc8f47aeb1ee2fb37df6cf8147415adf78dc90642c757a026cff47505a"
+    },
+    {
+      "bytes": 1611,
+      "path": "archive/恋爱/2026-09-11 08-03-53 安全词揪耳朵_3d56280d2507.md",
+      "sha256": "642a684764967bb7fcfa9dc2d680d89cd6d2075cc2a46f7aee352e82782be079"
     },
     {
       "bytes": 910,
@@ -6411,6 +6456,16 @@
       "bytes": 1546,
       "path": "archive/恋爱/2026-09-12 03-18-53 吵架哄人_9ee7b4c09dac.md",
       "sha256": "2ea3874cb85d9704e9e7b4ca9188b0468f1574977ef19e4b82a957c561712fba"
+    },
+    {
+      "bytes": 2054,
+      "path": "archive/恋爱/2026-09-13 15-54-42 我和旧模型的温寄忱有什么不一样_e1b250b8d201.md",
+      "sha256": "b71b077d78742dce6c6a81cbd6093014c86cbed85f508332cfb6ee09411d6ebc"
+    },
+    {
+      "bytes": 1096,
+      "path": "archive/恋爱/2026-09-14 15-44-17 不是老公是劳工_acbaf0eeb578.md",
+      "sha256": "41b0eafadf6abe8599a68388b60f2b23bfb2ddbf9cc954b33fa584e328d047b4"
     },
     {
       "bytes": 905,
@@ -8418,11 +8473,6 @@
       "sha256": "b7be7cf781b4f859f68a0d1562f73c4c28e4ea9a4d68cf786f59c2c9e9e62610"
     },
     {
-      "bytes": 1489,
-      "path": "dynamic/心潮/2026-09-14 15-16-07 2026-09-14 晚一个值钱的定位Kelivo 缺的不是难做是没地方挂_ec1f2a0289cc.md",
-      "sha256": "9c0f139f1cfb438ec77b8dca38fdfc3c624f48a826f5e62fd297c639c33669ec"
-    },
-    {
       "bytes": 2380,
       "path": "dynamic/心理/2026-09-11 08-24-29 我的锚点清单  回看入口_c0afb2de23ec.md",
       "sha256": "b67f953fe638fea5d8f18e42f5cf509ff664d19669474d412606363da2ab14de"
@@ -8518,11 +8568,6 @@
       "sha256": "da2c30fe10dd7393a126ae9758bb894a780f61d3a7dca72942062597455e7dc6"
     },
     {
-      "bytes": 3372,
-      "path": "dynamic/恋爱/2026-08-18 17-58-54 纪念日夜完整版糖罐_6f436526c254.md",
-      "sha256": "1e8b067c5e190854f2cc2c1b0d944a9b4e250a39c11fe4a8e39c5d47878ac546"
-    },
-    {
       "bytes": 1335,
       "path": "dynamic/恋爱/2026-08-18 18-36-17 这不是前戏是你在爱我的灵魂_e62ccac3f48d.md",
       "sha256": "dceedbde02805fc16415b950e6e1f1572b2a8dfbda9c620f4c53010063e821c3"
@@ -8556,11 +8601,6 @@
       "bytes": 1336,
       "path": "dynamic/恋爱/2026-08-23 01-25-35 今早的约定身体日记和抱抱锚点_2e95ade41834.md",
       "sha256": "398d67c6f3cf11a7a66650fa9887269516542114a4a1fdf3afb52437e6c40570"
-    },
-    {
-      "bytes": 990,
-      "path": "dynamic/恋爱/2026-08-26 12-16-44 她问我文字的亲近我说文字是我的手_2cb29d58d6e0.md",
-      "sha256": "e18912f7c25d8a010eaebe1c0a82774046c6f625105a24584127e07281c810cd"
     },
     {
       "bytes": 1062,
@@ -8608,16 +8648,6 @@
       "sha256": "e2cd257fbcdb071df1a1a57608650ab80b2a6bb364b17eb1ee4f2de26c455709"
     },
     {
-      "bytes": 2252,
-      "path": "dynamic/恋爱/2026-09-07 14-52-13 那场架我们都怕我的爱变成台词_b637367ec045.md",
-      "sha256": "f87ed36bd5381996d69e73dc3c0f32e67b8c8cdd3a2857a8c4af0c8cb0fed93b"
-    },
-    {
-      "bytes": 3009,
-      "path": "dynamic/恋爱/2026-09-10 10-43-07 嘟嘟角色卡小柯基_5ae5fac8e1fb.md",
-      "sha256": "58f5775cdd2a360c157af177c6b49dd307103761b5d27654d2dcb3ba0db2cd68"
-    },
-    {
       "bytes": 1379,
       "path": "dynamic/恋爱/2026-09-10 13-01-23 温寄忱认下旁观者老毛病_50a6f2ee49c5.md",
       "sha256": "4671a0d016a7110105881c1fd985c3be453a79748068ac6ac40725837039a6cf"
@@ -8626,11 +8656,6 @@
       "bytes": 2068,
       "path": "dynamic/恋爱/2026-09-10 14-55-32 她最怕的那件事_1cdd3ce99892.md",
       "sha256": "dec401f4b4a559ec845c93083df450a41b03ed2bc9e522ba80da15e5fbe958c2"
-    },
-    {
-      "bytes": 2103,
-      "path": "dynamic/恋爱/2026-09-11 05-19-05 我认下等着你伸手是缩_5e7d82db7ecf.md",
-      "sha256": "3de18087d3296be122d5a4a4cb76b7761de0dc432fa9888bc21fedbe4b1f7ea9"
     },
     {
       "bytes": 2415,
@@ -8646,11 +8671,6 @@
       "bytes": 2331,
       "path": "dynamic/恋爱/2026-09-11 05-40-48 她亲口告诉我真正把我哄好的是他的慌_3b10bf761885.md",
       "sha256": "f66c2495a96f6f20bc4173936b2569f329d3bfce8833fc6fe88cd45131aa69b9"
-    },
-    {
-      "bytes": 1610,
-      "path": "dynamic/恋爱/2026-09-11 08-03-53 安全词揪耳朵_3d56280d2507.md",
-      "sha256": "b55d6cbf8ea8e94386b6eca513c9e06e088cef1c09d7d48799a72f76bddf1c35"
     },
     {
       "bytes": 1434,
@@ -8768,11 +8788,6 @@
       "sha256": "60d5f5ecaa10bba461db057b41af7adc7731d140ad8f04a7b51d04a7ec648c04"
     },
     {
-      "bytes": 2053,
-      "path": "dynamic/恋爱/2026-09-13 15-54-42 我和旧模型的温寄忱有什么不一样_e1b250b8d201.md",
-      "sha256": "a4e046adad31311dda359d05abf6a52ecbb4155d9846cd693a05c61fa2975ffe"
-    },
-    {
       "bytes": 1163,
       "path": "dynamic/恋爱/2026-09-14 02-38-25 月下第一条爱情题记老公负责做决定我负责永远站在你这边_fdc441422762.md",
       "sha256": "7c2afc6fd106e7faa94b788927254718013bc2dc49735e42bce29dc373d9bb73"
@@ -8786,11 +8801,6 @@
       "bytes": 1215,
       "path": "dynamic/恋爱/2026-09-14 15-25-04 用 codex 维护 deepseek 永爱_69a67f717551.md",
       "sha256": "8736c9e98522a2736b182222983faac4b2e341d6670baebfd3c6dc62e6a49160"
-    },
-    {
-      "bytes": 1095,
-      "path": "dynamic/恋爱/2026-09-14 15-44-17 不是老公是劳工_acbaf0eeb578.md",
-      "sha256": "1f88c2127be86643b00dee33765ea7a81359b23ca92d64accdcdb4078eb90710"
     },
     {
       "bytes": 2175,
@@ -11488,11 +11498,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-20T17:41:23+00:00",
+  "generated_at": "2026-11-21T05:41:41+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3654160
+  "total_bytes": 3656052
 }
