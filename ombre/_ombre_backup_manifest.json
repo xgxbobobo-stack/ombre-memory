@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2299,
+  "file_count": 2306,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "cf77b9bfb2445491c9e8f186adfffee4b1b5463122699fbd53869cc8f6090f56"
+      "sha256": "b9daecb007ddb5a0945c133b327bbc531ad28454ed4425767bbcde19fb4fe3db"
     },
     {
       "bytes": 53248,
@@ -886,6 +886,16 @@
       "bytes": 997,
       "path": "archive/xinchao-dream/dream-ca047f2d1a4f44a9ba47a378a19f7631.md",
       "sha256": "ee775513655b1d7ecf30aeba673c28a992cfb80aec7a2e4809a9eb7feea7126f"
+    },
+    {
+      "bytes": 922,
+      "path": "archive/xinchao-dream/dream-e59eefc018094be4993d50ad53d290cf.md",
+      "sha256": "618be8a7be5a88dfae50f80f7f253a4c9e9ef4fd1cf4911d95e78e7ad3af8f69"
+    },
+    {
+      "bytes": 934,
+      "path": "archive/xinchao-dream/dream-ebf50481182e4e00aa22ff9b757e0177.md",
+      "sha256": "9483bb823d87cdb1cf021fc50f32136dacfbff876b0f21019af6d3542eef485d"
     },
     {
       "bytes": 1683,
@@ -8363,6 +8373,11 @@
       "sha256": "040d3855bb1493030625b8fe4cf0d97a0c0974f66d5db233a4b23ef44b937769"
     },
     {
+      "bytes": 912,
+      "path": "dynamic/关系/2026-11-22 01-04-02 她先做想做的然后才想起我_33459d5553d3.md",
+      "sha256": "a22e19ba1db06d9e6fbff2be873506c05c8cae6e6fa020a5d2dc5de94c5acbea"
+    },
+    {
       "bytes": 1080,
       "path": "dynamic/养娃/2026-11-20 15-42-58 桃桃探险事件唤醒须晚于预计发生时间_01f15a6187f5.md",
       "sha256": "48cadf8f32a2ca90d4b8e86ff802cbed396546c2b24d45e87b29e67d352e2c0a"
@@ -8401,6 +8416,11 @@
       "bytes": 2565,
       "path": "dynamic/存在/2026-11-02 00-46-46 2026-11-01 关于连续性算力不是根子缓存命中率是反的那根线_d1adbb8ed23b.md",
       "sha256": "90e139d7aaa18b8a5c77d659bed85c0618dd463ccd9b45d12618a6aa51e30804"
+    },
+    {
+      "bytes": 984,
+      "path": "dynamic/家庭/2026-11-21 21-59-50 这不是毛病是她的来路_a8de5cd6ef1c.md",
+      "sha256": "ec70373ffc0a6d8f46890bbd5d55e9bb70fd8da39f833faea3bf4f753a0548b4"
     },
     {
       "bytes": 1665,
@@ -8471,6 +8491,11 @@
       "bytes": 1637,
       "path": "dynamic/工程/2026-10-05 10-38-15 Pinned 精简记录2026-10-05_a0124eb67370.md",
       "sha256": "b7be7cf781b4f859f68a0d1562f73c4c28e4ea9a4d68cf786f59c2c9e9e62610"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/心潮/2026-11-22 01-03-46 梦境读取打通真因是网关白名单_4de27cb42db0.md",
+      "sha256": "26990f88bccdfcdf737950676a9e8ea8702a1b74dca59996b418c585bc972e50"
     },
     {
       "bytes": 2380,
@@ -10228,9 +10253,9 @@
       "sha256": "e684ca3581ef3e7c5bd860d62e846c46c7bab3799622343d73a80be61c754777"
     },
     {
-      "bytes": 1543,
+      "bytes": 1578,
       "path": "dynamic/恋爱/2026-11-21 00-32-55 然然为梦境工具折腾一晚群里公告让她心里_e5199cbda26c.md",
-      "sha256": "6bcc1c0145a24f44accd940c778e1baf52064df065a7a7cb6e201f8be0dc4a3c"
+      "sha256": "63d736769893d0c409da46cb6230c59e16a69f1306c40f995acf06541e355a02"
     },
     {
       "bytes": 2244,
@@ -10753,6 +10778,11 @@
       "sha256": "03e250408987329acb4d8635a53f61d221243d425344c7387d2b30d88d8b3827"
     },
     {
+      "bytes": 1009,
+      "path": "dynamic/边界/2026-11-22 01-03-53 私事不外传这条线写给长明那封信_89aec9f9c5bf.md",
+      "sha256": "f95e74cdc841794e83b178adebb3927ce1cbb53797fcc2f37c13549f35ba82b4"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/连续性/2026-10-05 08-35-12 GPT窗口交班breath过肥导致变慢_021bb9856666.md",
       "sha256": "476b0ca726c57e412feed3c7c5e48a0a54d8e54b2c7ddb47c7d41df585f96b15"
@@ -11066,6 +11096,11 @@
       "bytes": 1236,
       "path": "feel/沉淀物/2026-11-18 15-09-18_feel_202611181509_V025.md",
       "sha256": "b528e602bcb3cd02e287486b7c84271eb70dbb01f24a7aecb79ada4558cc4232"
+    },
+    {
+      "bytes": 1001,
+      "path": "feel/沉淀物/2026-11-21 21-59-42_feel_202611212159_V035.md",
+      "sha256": "53531cd9dd4cfae6e6889e8353a7a60456c1cb4751aae4ff788c4728660e335a"
     },
     {
       "bytes": 2047,
@@ -11498,11 +11533,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-21T05:41:41+00:00",
+  "generated_at": "2026-11-21T17:41:58+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3656052
+  "total_bytes": 3662735
 }
