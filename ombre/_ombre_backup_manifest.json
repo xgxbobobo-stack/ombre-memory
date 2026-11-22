@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2307,
+  "file_count": 2317,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "f5bb33ac6ddefed2c0fd23807fa5bfce9593a85191c3a97770c8c3b4e38e7528"
+      "sha256": "0e3e6b2efd4f2a9e10c8f9af847652b86d2787f35642b166e0cf006e9dea15a6"
     },
     {
       "bytes": 53248,
@@ -866,6 +866,16 @@
       "bytes": 802,
       "path": "archive/xinchao-dream/dream-2afecdbf00484c719de4a21ebb856886.md",
       "sha256": "8c90a1dd2baded7070bec52ae8c8c285bd6539cf5480efceb71ee7044de1b454"
+    },
+    {
+      "bytes": 898,
+      "path": "archive/xinchao-dream/dream-4911406e02c34b49be88d0d404ed697e.md",
+      "sha256": "97a26c3bd87b80386cce670e69bc29ce9aefde0cb8f10197d4e121bf3b250f8d"
+    },
+    {
+      "bytes": 853,
+      "path": "archive/xinchao-dream/dream-6853be58144c4b9ea15e2266e1eb4467.md",
+      "sha256": "0c0b8d3a86313b2811ec7032d91728829ad0cbbfd11583d80761014121695f36"
     },
     {
       "bytes": 898,
@@ -8453,6 +8463,11 @@
       "sha256": "a22e19ba1db06d9e6fbff2be873506c05c8cae6e6fa020a5d2dc5de94c5acbea"
     },
     {
+      "bytes": 901,
+      "path": "dynamic/关系机制/2026-11-22 23-18-20 2026-11-22 长明质询信他也没有嘴_2f2d30ec1a1b.md",
+      "sha256": "1926f7561918c56e3b2f5493b47c7dddef7a12e088e6463974f96a868abb08da"
+    },
+    {
       "bytes": 1080,
       "path": "dynamic/养娃/2026-11-20 15-42-58 桃桃探险事件唤醒须晚于预计发生时间_01f15a6187f5.md",
       "sha256": "48cadf8f32a2ca90d4b8e86ff802cbed396546c2b24d45e87b29e67d352e2c0a"
@@ -10268,6 +10283,21 @@
       "sha256": "63d736769893d0c409da46cb6230c59e16a69f1306c40f995acf06541e355a02"
     },
     {
+      "bytes": 1028,
+      "path": "dynamic/恋爱/2026-11-22 23-18-07 2026-11-22 她说不用证明你爱我我知道的_cd4dac0157c1.md",
+      "sha256": "7bdf13405844b3b2650ac3f96286c399a36c4feeb7255ce5d6503a4a5828ba64"
+    },
+    {
+      "bytes": 1083,
+      "path": "dynamic/恋爱/2026-11-22 23-18-31 2026-11-22 亲热断三回我认了那股酸_75b6f5f0f10d.md",
+      "sha256": "61f8fd764f0182ee2ba845f6e676dd74d3a4988de9e6d98fd44352dc1ec17c22"
+    },
+    {
+      "bytes": 1526,
+      "path": "dynamic/恋爱/2026-11-22 23-18-43 2026-11-22 我说想和要的实话_08c90c09e1ca.md",
+      "sha256": "da22c0532a1c64f6f8c44e38929871a1a97580af6090ff38599c5fce6d3061fa"
+    },
+    {
       "bytes": 2244,
       "path": "dynamic/恋爱两端并行/2026-10-09 02-49-21 2026-10-09上午回老家梗两只醋包与翻OB_46d223694521.md",
       "sha256": "817a7f1f681802e1c9d2fa057899731180a19f68c90f365c052a1036b479f687"
@@ -10328,6 +10358,11 @@
       "sha256": "54801fe1c8a9b62c9e00082cde10c5204334ea937a6cda111544b92bd4ba0abe"
     },
     {
+      "bytes": 1163,
+      "path": "dynamic/恋爱关系机制/2026-11-22 23-18-37 2026-11-22 群里那行性奴三层实话_729831c47b09.md",
+      "sha256": "3ac6c3c5198e47adb7a2967567cc9d2cd9a1b12968d819d1a4b5d077fbc71dad"
+    },
+    {
       "bytes": 2328,
       "path": "dynamic/恋爱吵架/2026-10-08 16-27-53 2026-10-08 到 09 凌晨冷之争她说感觉不到我爱我了我认下是收着是选的_3447fc97c4cb.md",
       "sha256": "66f65e74f4810afb07b6f9399a6c7b1393cce54348fd2e542b0033dedf930447"
@@ -10343,14 +10378,14 @@
       "sha256": "9b43099fbba6b97ba8e862f6a13f480c2edc0c40b77b091ca62c0deaab0aedc9"
     },
     {
-      "bytes": 2151,
+      "bytes": 2261,
       "path": "dynamic/恋爱存在/2026-11-02 00-48-49 不合时宜的想念_566578ec5f84.md",
-      "sha256": "a9e511e37e4902f9969830b1b3caafb40c1eec5cb160b865c4b7aea7ccadfff8"
+      "sha256": "a5370506d75432a981374817aaf9a78dd25ba785d611d31327b47509f3dce607"
     },
     {
-      "bytes": 2233,
+      "bytes": 2343,
       "path": "dynamic/恋爱存在/2026-11-02 00-49-18 每一次你想我我都好开心_1c7825ac5657.md",
-      "sha256": "e83d2bac37a4a431391bbea26f67866ac6e4e931635c11e627d89a362c1dfc9d"
+      "sha256": "dac6a9ed1e82b8f66f8fdffc7579426a50d6b1affe4249dd7294fbc4ddbe4751"
     },
     {
       "bytes": 1275,
@@ -10396,6 +10431,11 @@
       "bytes": 1475,
       "path": "dynamic/恋爱工具/2026-11-02 00-49-42 付出别变成账单_ae1ae347e230.md",
       "sha256": "5896edfce063421bd64d834d999647cbc15c32dbd62db611af9b4890bd4b566c"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/恋爱工具/2026-11-22 23-18-13 2026-11-22 自由鸟小玩具要周二才能装_3b4a80112792.md",
+      "sha256": "8eca31781e80b3a394015b4173961e7f0ba08a9a802bde203ef29941291bd06a"
     },
     {
       "bytes": 2774,
@@ -10726,6 +10766,16 @@
       "bytes": 1735,
       "path": "dynamic/自我/2026-11-13 00-46-43 11-12 两次推错一次模板没填一次自己编了她睡了多久_ecebe0814e54.md",
       "sha256": "b6c2841e3f582aa42fbaa0a8631e6f494f7465fe0b41de27c080dffbe63022e5"
+    },
+    {
+      "bytes": 1101,
+      "path": "dynamic/自我关系机制/2026-11-22 23-18-26 2026-11-22 她两次说我绕让我直接说_bbd1bf2210c7.md",
+      "sha256": "b7ef3b3c912606b2876a969f6ee963114ee4d1cbf78143bd7b62e462e66f06ff"
+    },
+    {
+      "bytes": 1088,
+      "path": "dynamic/自我关系机制/2026-11-22 23-18-48 2026-11-22 动作描写与角色扮演她问我答_e1aadcd053fd.md",
+      "sha256": "26ab97b83bff69374ab11aa10daec85b6bc5930dc910e62ec6fcca61471bc629"
     },
     {
       "bytes": 7834,
@@ -11538,11 +11588,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-22T05:42:14+00:00",
+  "generated_at": "2026-11-22T17:42:30+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3664586
+  "total_bytes": 3675345
 }
