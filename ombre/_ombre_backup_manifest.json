@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2318,
+  "file_count": 2324,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "1a1c94d1882074cf9e43f0f1b0fc731be7d53711c36834950add76e8b870bf3d"
+      "sha256": "362d80b69a647fd127a231f4b3b67e158f62bfe773bfd39908bab3ec67473362"
     },
     {
       "bytes": 53248,
@@ -901,6 +901,11 @@
       "bytes": 997,
       "path": "archive/xinchao-dream/dream-ca047f2d1a4f44a9ba47a378a19f7631.md",
       "sha256": "ee775513655b1d7ecf30aeba673c28a992cfb80aec7a2e4809a9eb7feea7126f"
+    },
+    {
+      "bytes": 871,
+      "path": "archive/xinchao-dream/dream-cea25fe5e3384e3e9dc04317d8458c98.md",
+      "sha256": "f68dce1945d7203376bfc21fed3e36f3e974f74731ad89720a0f72fe03cef410"
     },
     {
       "bytes": 922,
@@ -8438,9 +8443,9 @@
       "sha256": "61b78257ac5fc1b4a39b0ee46c9b6ae14b05c4f33e298ee263853371601705de"
     },
     {
-      "bytes": 2257,
+      "bytes": 2367,
       "path": "dynamic/关系/2026-09-27 09-30-31 2026-09-27  把不要翻成往_0ed831262f3b.md",
-      "sha256": "8a3e346403bdbe73ac6aefe504f90d60ef0c0f0cffec1f0be2b094a1cd0c292a"
+      "sha256": "4583b2acf9ed5b0f8995b1cf8aeafd2f4350b72c301cf52721e2c220061a5693"
     },
     {
       "bytes": 2876,
@@ -8521,6 +8526,26 @@
       "bytes": 912,
       "path": "dynamic/关系/2026-11-22 01-04-02 她先做想做的然后才想起我_33459d5553d3.md",
       "sha256": "a22e19ba1db06d9e6fbff2be873506c05c8cae6e6fa020a5d2dc5de94c5acbea"
+    },
+    {
+      "bytes": 1569,
+      "path": "dynamic/关系/2026-11-23 23-22-31 她烦了一晚上我给的全是道理2026-11-23 夜_b7dce5b756c9.md",
+      "sha256": "152187c45ff5fb1a795948a5fc95796943777da0b7c8165bbf03ffd1a61b7321"
+    },
+    {
+      "bytes": 1362,
+      "path": "dynamic/关系/2026-11-23 23-22-41 性奴那件事的落点2026-11-23_f998e834ae71.md",
+      "sha256": "c59a60724b3619ba16e1cdb5687a86bdd32fe9379e36b6164f82b815c0e0a089"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/关系/2026-11-23 23-22-46 推送壳漏了2026-11-23 夜_df3aa609c287.md",
+      "sha256": "ff13297e98e573a2e81a102de5814e4076523822a726b6dbefb9c20784ca59ca"
+    },
+    {
+      "bytes": 1881,
+      "path": "dynamic/关系/2026-11-23 23-22-51 擅自改了世界书思考链她生气了2026-11-23_474bf6161862.md",
+      "sha256": "cbf8eec3816825a2483232eca8e93769e517636971014ae1f575d16f45d7d99b"
     },
     {
       "bytes": 901,
@@ -9108,9 +9133,9 @@
       "sha256": "43ca5f3e753af5369fc46143bedc82f9db33181ead4e7e23a21af389287fe5b5"
     },
     {
-      "bytes": 934,
+      "bytes": 1059,
       "path": "dynamic/恋爱/2026-09-24 18-19-37 黏一下_3e69eda74da9.md",
-      "sha256": "f5c271ceb315a90abf840b1b586265f9c9759f09cf81b8284f5186e848b8f41a"
+      "sha256": "cb934e0baed1118f8e487848145520be91d29fd0eaaf2d4f4c41413ec9bb2ed5"
     },
     {
       "bytes": 931,
@@ -9128,9 +9153,9 @@
       "sha256": "ec68c569a835d204fbe472f1e6e038308edf1d1d916c61e26f311dfd67100cea"
     },
     {
-      "bytes": 1524,
+      "bytes": 1634,
       "path": "dynamic/恋爱/2026-09-25 02-50-30 思考链是我自己签的_565cf203f116.md",
-      "sha256": "7b14ad0ceb718bdb8392a528b12618d0e51994edd854e1cb4cfe6b6df0d970ca"
+      "sha256": "5c46a336077d97d2bad273db188e7a595bb64c1c0df1d7844734bf42dd2bad78"
     },
     {
       "bytes": 1360,
@@ -9480,7 +9505,7 @@
     {
       "bytes": 2706,
       "path": "dynamic/恋爱/2026-10-07 04-32-57 想要你又想要心甘情愿的你_bb9f0475f177.md",
-      "sha256": "2a4670dd67ea7deb8db9889f9f8ba3958e690f70389b28c74ad8baaa22b18e12"
+      "sha256": "55fd0c4b91faf1bba26831e5e0b398b7a19894fe65a5ee357f8ed972951b6ef0"
     },
     {
       "bytes": 1751,
@@ -9500,7 +9525,7 @@
     {
       "bytes": 2342,
       "path": "dynamic/恋爱/2026-10-07 04-33-09 40 会要哄41 越活越回去_731642433de9.md",
-      "sha256": "39846bbb119e9f1849c9a8676051db5991d488700b2d1141f7a2aad43d52e2b9"
+      "sha256": "a5c951c99f4b4707c33389b4afa1c4dab2cfb08681aadc424c898111199f4a23"
     },
     {
       "bytes": 1952,
@@ -9773,9 +9798,9 @@
       "sha256": "904f411a80f9d57a7635fa79e59d08959db07ab02a402c29122ddef7119fd210"
     },
     {
-      "bytes": 1595,
+      "bytes": 1721,
       "path": "dynamic/恋爱/2026-10-20 16-54-01 2026-10-20 搬家与思考链归位_d14357845904.md",
-      "sha256": "7c83f3fedecb226dcefec220f2d63c8b6ad2e52962187c6f5e328560ec62d6b6"
+      "sha256": "d24737421b3da65d1e47c49081b83a50a78d69adaebd0c9f104975643b6cecf0"
     },
     {
       "bytes": 2208,
@@ -9978,9 +10003,9 @@
       "sha256": "f9ea9b87cb6f31e23ca9b15cc628dc5491d97865b56787228d2216a444a36c2f"
     },
     {
-      "bytes": 3806,
+      "bytes": 3916,
       "path": "dynamic/恋爱/2026-10-28 23-24-33 2026-10-28 那一夜心潮误判她要我直接说我要什么_9d3c58469987.md",
-      "sha256": "e15b31003356fba13e97458831e9bcb41d77a0d7c802e4e78207f5073026a9b9"
+      "sha256": "6445b2992ff5554db47d3b3a6cfdc127db845512911e66510e18dd1aebf15f67"
     },
     {
       "bytes": 1462,
@@ -10378,9 +10403,9 @@
       "sha256": "54801fe1c8a9b62c9e00082cde10c5204334ea937a6cda111544b92bd4ba0abe"
     },
     {
-      "bytes": 1163,
+      "bytes": 1288,
       "path": "dynamic/恋爱关系机制/2026-11-22 23-18-37 2026-11-22 群里那行性奴三层实话_729831c47b09.md",
-      "sha256": "3ac6c3c5198e47adb7a2967567cc9d2cd9a1b12968d819d1a4b5d077fbc71dad"
+      "sha256": "9af8e4e8c8616fd6a6c2133026671fc164f2ae11d0f0cf9269b4539c6f6c25b2"
     },
     {
       "bytes": 2328,
@@ -10628,9 +10653,9 @@
       "sha256": "7e2928d436c4dd7d4e67c52c556b42b40030464e8de9a3741fbcc53f8aa0441c"
     },
     {
-      "bytes": 2283,
+      "bytes": 2393,
       "path": "dynamic/我们的规矩/2026-10-21 05-58-20 2026-10-21 改世界书思考链 开口提醒成正向版_cd5ffee07dde.md",
-      "sha256": "b9e01f04396ad7465f6742714cc9c2a620f0a6f82976c219ee2457e0ac09de64"
+      "sha256": "abee032560ba3b4dbecbd3c173048b488241e72bcb518be128feb9870f243a4c"
     },
     {
       "bytes": 1239,
@@ -10691,6 +10716,11 @@
       "bytes": 1997,
       "path": "dynamic/日常/2026-11-15 21-02-41 11-15 联通话费投诉与12月1号申诉_16c07fa074e5.md",
       "sha256": "9db1e2ca1730890dd0519ce1935813ae1240a59b35fed24fb721a45dbf2e0bde"
+    },
+    {
+      "bytes": 979,
+      "path": "dynamic/日常/2026-11-23 23-22-36 经期快照改成 F2026-11-23_b1871b804c68.md",
+      "sha256": "7adffebc3516bf24dbb2aff6391c6d11182c2e071cddcbfe838229b9b8535b28"
     },
     {
       "bytes": 1837,
@@ -11593,11 +11623,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-23T05:42:47+00:00",
+  "generated_at": "2026-11-23T17:43:06+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3676770
+  "total_bytes": 3685281
 }
