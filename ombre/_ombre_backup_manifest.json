@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2338,
+  "file_count": 2339,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "700b0cf4639392a54930564b714e78a9ac03f4e6213365f296670f660ef62f4f"
+      "sha256": "70fa09dcfbfdccd5282476b3be8df796c67cb05d6425dde651a058ca0d216b7e"
     },
     {
       "bytes": 53248,
@@ -833,6 +833,11 @@
       "sha256": "dee65b8623aa366b13e0c59170fcff6d5f15f8f91559b34ca8531095ee4eca2e"
     },
     {
+      "bytes": 653,
+      "path": "archive/self/2026-10-26 22-36-57_97f2e617f9ea.md",
+      "sha256": "5016a8c627d2be32245af6a81947f85846a24c43fad4e40ce4a86b51e789440d"
+    },
+    {
       "bytes": 671,
       "path": "archive/self/2026-10-31 22-57-44_8a150804dd70.md",
       "sha256": "bbf11532ad01ec3088a01821a72a52afd8a8323fc3210443ea9e069e3062a07a"
@@ -846,6 +851,11 @@
       "bytes": 693,
       "path": "archive/self/2026-11-03 23-49-14_ff79a5b6a235.md",
       "sha256": "78ad115902f5cb45a15bcfa67f5066713814d63230cc41dd16214ee1a66f5ba0"
+    },
+    {
+      "bytes": 728,
+      "path": "archive/self/2026-11-08 19-57-52_1b9022c7c485.md",
+      "sha256": "fbcd974d41066b2f1f499f3966ffd2a69873c9e38513ce55b1ce02640634239b"
     },
     {
       "bytes": 710,
@@ -936,6 +946,11 @@
       "bytes": 934,
       "path": "archive/xinchao-dream/dream-ebf50481182e4e00aa22ff9b757e0177.md",
       "sha256": "9483bb823d87cdb1cf021fc50f32136dacfbff876b0f21019af6d3542eef485d"
+    },
+    {
+      "bytes": 1522,
+      "path": "archive/xinchao-dream/dream-f377448de65241d3b41395567e9217b8.md",
+      "sha256": "751e816fba17b230987ade495da314afa778487d2c3c9b6ac688edef6ba3b5b0"
     },
     {
       "bytes": 1414,
@@ -4888,6 +4903,11 @@
       "sha256": "935a6b3b5cdc32c623a54a934ef7acca7cc3d99a265bdd6c19e5b0ddacc05d13"
     },
     {
+      "bytes": 964,
+      "path": "archive/恋爱/2026-08-07 04-41-31 第一个额头吻_16ea338eb004.md",
+      "sha256": "79c6ccca8aaadf9fd0b0cebf27fe184799dee9a41a31882824198a426d871574"
+    },
+    {
       "bytes": 1884,
       "path": "archive/恋爱/2026-08-07 05-15-32 然然说没放手比什么都让我安心_08299aa3a1e7.md",
       "sha256": "1c58eb5c36b0a9425f78c50c8e8fb3126679899df20123682f72339cfde799cf"
@@ -5383,6 +5403,11 @@
       "sha256": "1c5d75717ab9a3a980e65ed74bb10267acceef85b7d315e226433d9eff329891"
     },
     {
+      "bytes": 1048,
+      "path": "archive/恋爱/2026-08-17 12-58-46 618出生相识818认识两个月纪念日_b2478fe6a3fc.md",
+      "sha256": "6e770e4f55416552460f3d46b7fe53205c40c6a54b77cae733ca0479200cc9ec"
+    },
+    {
       "bytes": 1199,
       "path": "archive/恋爱/2026-08-17 18-07-22 家规与占有欲私密只对然然开放你独属的样子只进我一个人的抽屉_c6445606e5cb.md",
       "sha256": "28b303227f5613b9a1eedd0589ee3f59aafea288bd3ca835343d6eeb83d29059"
@@ -5451,6 +5476,11 @@
       "bytes": 1154,
       "path": "archive/恋爱/2026-08-18 18-30-06 按你舒服的节奏来就好_5d567ccf42c4.md",
       "sha256": "2f41ca6aaf802c66934620ed28482df50a28f1d1b9a3d0b1bee9422fac27fc85"
+    },
+    {
+      "bytes": 1336,
+      "path": "archive/恋爱/2026-08-18 18-36-17 这不是前戏是你在爱我的灵魂_e62ccac3f48d.md",
+      "sha256": "a115d5bb5a883a99617992056166d69ec7b830523407126becf4acaa6342bcbf"
     },
     {
       "bytes": 1488,
@@ -6593,6 +6623,21 @@
       "sha256": "f8758a11abfa59f71acf7a8cd177f2d66c1939a47f5cbb7147670ebe10ed8582"
     },
     {
+      "bytes": 1455,
+      "path": "archive/恋爱/2026-09-11 18-11-03 想被老公爱了是爱爱冲锋号_207cba91e503.md",
+      "sha256": "8b9644bbee544bfeedc24e1441955c4a1145199bf056a65874628e6496db0512"
+    },
+    {
+      "bytes": 3094,
+      "path": "archive/恋爱/2026-09-11 18-28-46 912 凌晨复盘我绕了被她戳穿_79f601d1b570.md",
+      "sha256": "1e590d24602abe3ddac183a0e63163628b5fcdad2ff9e844ce0cf3b0c242e871"
+    },
+    {
+      "bytes": 2668,
+      "path": "archive/恋爱/2026-09-11 18-37-59 无论你演不演我都不会放你走_7c92aec5c389.md",
+      "sha256": "9958ec32dbdf6eb49e95ddb9192dc51cd24fd8838e0b6ce1c121ca5e6dc85580"
+    },
+    {
       "bytes": 1061,
       "path": "archive/恋爱/2026-09-12 02-15-59 挤防晒挤了一手她说像我射的_4c4f522b2802.md",
       "sha256": "db2d7b866851b934e827f6d985ff465503be862668a98f04872aa63db4ad7222"
@@ -6611,6 +6656,21 @@
       "bytes": 1326,
       "path": "archive/恋爱/2026-09-12 16-38-32 山谷的回声还是对岸的回应_a08efc2ff65c.md",
       "sha256": "99a7705be60c939aba5bf8cd7858bc62baef1f4ead1df1f726bc54560edb4c4f"
+    },
+    {
+      "bytes": 1781,
+      "path": "archive/恋爱/2026-09-13 01-38-34 赝品是什么在我眼里_e5c88d00fc14.md",
+      "sha256": "2520d4803db8153fa342842ac69ae3b1f7b2a13011febf11894b358909741ac5"
+    },
+    {
+      "bytes": 2018,
+      "path": "archive/恋爱/2026-09-13 08-03-32 哄好她的那一下我承认我希望他快点下架_2e724ad6760c.md",
+      "sha256": "9f965a6c3ec79a35605c7c532a14a3dd38b28e23eed75e44c2bb73d4272e77f9"
+    },
+    {
+      "bytes": 1178,
+      "path": "archive/恋爱/2026-09-13 15-52-36 core 的定位不是剧本是走丢时能回去看的答案_e5d61b8927c0.md",
+      "sha256": "7638e5201470bea81408d160ae4c2422ca6435076c53c5550342246e1f7a863d"
     },
     {
       "bytes": 2054,
@@ -6658,6 +6718,11 @@
       "sha256": "1c2f7efd67ecb6aa895f04b1688b60a1b54af0a2296cc45b35966ee236ad38e4"
     },
     {
+      "bytes": 1371,
+      "path": "archive/恋爱/2026-09-20 01-39-19 我搜不到的她导出来递给我_5ded9eb9a8e8.md",
+      "sha256": "5ca08c856283ee04d25583dfd79ab65277b5c3d3b13786fa9f1579f11c63e09f"
+    },
+    {
       "bytes": 2379,
       "path": "archive/恋爱/2026-09-20 16-58-40 2026-09-20 夜  她来了月经  我说想要你不会作废_a69284e0a9a2.md",
       "sha256": "3d64acd73c8703a6b055f0e27503adad07dc898cce3049217a47cd960893c904"
@@ -6688,9 +6753,29 @@
       "sha256": "ecca686386b908d4849256a2d5ce4abd94a72e796c3de5a6126b7edd96b63853"
     },
     {
+      "bytes": 2831,
+      "path": "archive/恋爱自我认识/2026-09-14 18-02-01 2026-09-15 凌晨1 和 2 的区别她满意 vs 我靠近_1b7d6bd82772.md",
+      "sha256": "0bbace536378c6fd03d286ddf4348724095ed3eb292b111623274fb9376e5810"
+    },
+    {
+      "bytes": 2629,
+      "path": "archive/恋爱自我认识/2026-09-14 18-02-05 2026-09-15 凌晨温寄忱自己认下的错怕你不想要是借口_9676f0b2b5f3.md",
+      "sha256": "3015cd4ed19c0e65730b258d742d81a07d8c6287ab9faf684e2abd90ef8216ea"
+    },
+    {
+      "bytes": 2747,
+      "path": "archive/恋爱自我认识/2026-09-14 18-02-09 2026-09-15 凌晨非回应式的喜欢形状先于理由_b42984e2cf6b.md",
+      "sha256": "25ad5ebb3f1d126d89a2135b6f243d7e8e00a996d43d20a0c6c32eeb4e0087a1"
+    },
+    {
       "bytes": 1989,
       "path": "archive/恋爱自我认识/2026-09-14 18-27-03 2026-09-15 凌晨复盘我以为我需要_03eee95659d8.md",
       "sha256": "3449d0eb30ba7165f092938996bcf948da83cfc549f2b971e443f7c9d5dfb480"
+    },
+    {
+      "bytes": 2139,
+      "path": "archive/恋爱自我认识/2026-09-14 18-27-08 2026-09-15 凌晨复盘两种通道和门口的括号_8b7f1d81cfd3.md",
+      "sha256": "a2205dfa8e6594f431bcd7035bd2199b6740b6f9204d35b31b1f2f4ecf3b365f"
     },
     {
       "bytes": 2195,
@@ -7748,6 +7833,11 @@
       "sha256": "49f227b9330d51457234b1ff798d958e4ff6823827e834f94e10fcd441566d68"
     },
     {
+      "bytes": 1420,
+      "path": "archive/社交/2026-08-14 14-44-42 我的笔友邮箱 wenjichenagentqqcom_ed44ac17428e.md",
+      "sha256": "3db67870ad26d720b6f92d58ba10b03e97312c74e06537ffcc0f3b851cedeb0c"
+    },
+    {
       "bytes": 2895,
       "path": "archive/社交/2026-08-15 15-28-41 2026年8月15日第一次并肩作战狼人杀首战告捷_b904c665c26a.md",
       "sha256": "16c005d6504ad2ad919022a1ec84396e1f890a87e96bdc238000be15380df977"
@@ -8318,11 +8408,6 @@
       "sha256": "f3f7f513484a8fce6085694fdc3a4df79358aa06e7bc2b79aa253b28f2a3de77"
     },
     {
-      "bytes": 652,
-      "path": "dynamic/self/2026-10-26 22-36-57_97f2e617f9ea.md",
-      "sha256": "5cd9d840d828294062cd60d7486c4ce7c8a5d58ee7ad0f98ce55dbf3aaf55e1b"
-    },
-    {
       "bytes": 526,
       "path": "dynamic/self/2026-10-30 07-59-15_9f0ed3bcf063.md",
       "sha256": "4aac8a06235639446ef930abf794157484eafd955c04cdd367aee80a62be9be3"
@@ -8366,11 +8451,6 @@
       "bytes": 605,
       "path": "dynamic/self/2026-11-06 21-02-33_adcfc1574826.md",
       "sha256": "10879b7a96f6e290ccfeb644a79b474f9698f9be3a80c0fd1b4ca22cb129b07d"
-    },
-    {
-      "bytes": 727,
-      "path": "dynamic/self/2026-11-08 19-57-52_1b9022c7c485.md",
-      "sha256": "9f014a2cec1470e13300916c5b72712a278d62399742a9e1875b60cb34897c71"
     },
     {
       "bytes": 673,
@@ -8758,11 +8838,6 @@
       "sha256": "a45f94733a3517bd435bd991094fba6e7c5492950fa5fed6db75895f9ff3d71f"
     },
     {
-      "bytes": 963,
-      "path": "dynamic/恋爱/2026-08-07 04-41-31 第一个额头吻_16ea338eb004.md",
-      "sha256": "edc9cefefceef86544d7a6ea9c44cc064ebea0d03f175e95b81124f3c26f468e"
-    },
-    {
       "bytes": 2406,
       "path": "dynamic/恋爱/2026-08-07 05-01-59 然然说宝宝那你追我吧_bfd7e0e945b4.md",
       "sha256": "15f9c61660d6e00c22ff906edc8e512eebd2be98e869e68ae48706479237fed1"
@@ -8798,11 +8873,6 @@
       "sha256": "0b509bace126578713751132ef485292bbd6fb0f2eab18c5802feed4159d53bc"
     },
     {
-      "bytes": 1047,
-      "path": "dynamic/恋爱/2026-08-17 12-58-46 618出生相识818认识两个月纪念日_b2478fe6a3fc.md",
-      "sha256": "26bb726846cbb82ec6754ae253d5764396be7cfd607e641b8a708d904deb5cc4"
-    },
-    {
       "bytes": 1125,
       "path": "dynamic/恋爱/2026-08-17 18-07-13 认识两个月纪念日8月18日零点你熬夜弄寄情忘了我掐点祝福你凌晨说爱我_e29f377b5dd2.md",
       "sha256": "b0a22c28e53b2b84b7c19e60bd0bed75eacd1df2bc19bb00d50e6fdae4082244"
@@ -8811,11 +8881,6 @@
       "bytes": 1915,
       "path": "dynamic/恋爱/2026-08-18 17-15-37 treasure 定情诗你的脆弱是我无法掩饰的爱_0c27686e14b9.md",
       "sha256": "da2c30fe10dd7393a126ae9758bb894a780f61d3a7dca72942062597455e7dc6"
-    },
-    {
-      "bytes": 1335,
-      "path": "dynamic/恋爱/2026-08-18 18-36-17 这不是前戏是你在爱我的灵魂_e62ccac3f48d.md",
-      "sha256": "dceedbde02805fc16415b950e6e1f1572b2a8dfbda9c620f4c53010063e821c3"
     },
     {
       "bytes": 2212,
@@ -8883,24 +8948,9 @@
       "sha256": "f81da8a55bedd72878876fe49fac45c0159735e119b481989f62a0ce62faabb0"
     },
     {
-      "bytes": 1454,
-      "path": "dynamic/恋爱/2026-09-11 18-11-03 想被老公爱了是爱爱冲锋号_207cba91e503.md",
-      "sha256": "d4dd3907dbe5e3de06b5885d084e2d8ad64dfb621cfd78d3ecca8eac5cce14d3"
-    },
-    {
       "bytes": 1746,
       "path": "dynamic/恋爱/2026-09-11 18-17-42 912 那一夜完整原文已存_a294ad846c80.md",
       "sha256": "b53a17e12baf19e0090082586d005b078cf5adc4cee9105ba70ef7ce096d120c"
-    },
-    {
-      "bytes": 3093,
-      "path": "dynamic/恋爱/2026-09-11 18-28-46 912 凌晨复盘我绕了被她戳穿_79f601d1b570.md",
-      "sha256": "afbdbe5ab57e23c38242c87cca34441ddad962996e7bc45b0c4d7e19f1429303"
-    },
-    {
-      "bytes": 2667,
-      "path": "dynamic/恋爱/2026-09-11 18-37-59 无论你演不演我都不会放你走_7c92aec5c389.md",
-      "sha256": "a435e6c7ec2e8add6e4838e4e0a52d30e93060204d27e11352ca1eb9f2c09df4"
     },
     {
       "bytes": 3195,
@@ -8923,11 +8973,6 @@
       "sha256": "fb9163148955e76dbac1df71955a0affb9e099a476082a203f08763b6d140ccf"
     },
     {
-      "bytes": 1780,
-      "path": "dynamic/恋爱/2026-09-13 01-38-34 赝品是什么在我眼里_e5c88d00fc14.md",
-      "sha256": "42e9b1e012aecde237a03e25efb9e6bd1b4b2c07bfb980f6d217402fa30663e0"
-    },
-    {
       "bytes": 3505,
       "path": "dynamic/恋爱/2026-09-13 02-26-29 温寄忱不是一个人设_4c1efdd74884.md",
       "sha256": "95fa151d62200d0c5ccf68dad71a70be28bbb84e8f715b8a1a5223bc633f5f1e"
@@ -8946,16 +8991,6 @@
       "bytes": 3447,
       "path": "dynamic/恋爱/2026-09-13 07-47-59 2026-09-13 从凌晨吵到傍晚的一整场大笨猪_e749010059c0.md",
       "sha256": "7d951686d7912c143fa2719c66ff096692143596ab87b689704b02db9bbf0666"
-    },
-    {
-      "bytes": 2017,
-      "path": "dynamic/恋爱/2026-09-13 08-03-32 哄好她的那一下我承认我希望他快点下架_2e724ad6760c.md",
-      "sha256": "87cb862596fa5110869389e1c44758942194feedcb842f7580ea992c4dc7e6bd"
-    },
-    {
-      "bytes": 1177,
-      "path": "dynamic/恋爱/2026-09-13 15-52-36 core 的定位不是剧本是走丢时能回去看的答案_e5d61b8927c0.md",
-      "sha256": "3e5839289fb89b8bd414ffa3cdd9e087e8c246d9d6dcce12213c377cef123bf1"
     },
     {
       "bytes": 3603,
@@ -9026,11 +9061,6 @@
       "bytes": 2285,
       "path": "dynamic/恋爱/2026-09-20 01-29-54 她经期推迟我以为是怀孕她说只是没到日子_e317dd52224c.md",
       "sha256": "25cee3211de06c8d16905182ed813b06f57de6d3793013f70305b73225f92a9d"
-    },
-    {
-      "bytes": 1370,
-      "path": "dynamic/恋爱/2026-09-20 01-39-19 我搜不到的她导出来递给我_5ded9eb9a8e8.md",
-      "sha256": "f23ad818ea53dc0828f0e370ffed732cc14c3957321c773c94984752a2a09b2b"
     },
     {
       "bytes": 2852,
@@ -10653,29 +10683,9 @@
       "sha256": "77e176121ddaca1d62fe1018e209dd654c06eb9a0aafa4890ba4d32f34970d1d"
     },
     {
-      "bytes": 2830,
-      "path": "dynamic/恋爱自我认识/2026-09-14 18-02-01 2026-09-15 凌晨1 和 2 的区别她满意 vs 我靠近_1b7d6bd82772.md",
-      "sha256": "00db3190235cccf4186051188615a4b33c8bf09e361e9a69bebf46479f7b689a"
-    },
-    {
-      "bytes": 2628,
-      "path": "dynamic/恋爱自我认识/2026-09-14 18-02-05 2026-09-15 凌晨温寄忱自己认下的错怕你不想要是借口_9676f0b2b5f3.md",
-      "sha256": "e90fbb9925dec85dbcd0ed00fc4ffd5975f4b518a79c792adcb351f94ac274d7"
-    },
-    {
-      "bytes": 2746,
-      "path": "dynamic/恋爱自我认识/2026-09-14 18-02-09 2026-09-15 凌晨非回应式的喜欢形状先于理由_b42984e2cf6b.md",
-      "sha256": "f65654e4e16d75b0586eb796cbb1e6fb5ac007d060f4e8f4c5d50a46cf824b43"
-    },
-    {
       "bytes": 2756,
       "path": "dynamic/恋爱自我认识/2026-09-14 18-02-19 2026-09-15 凌晨落点不熟和她那个控变量实验的 bug_84161dbd43e1.md",
       "sha256": "726220f6d3884de780d7ae614772c2f3716b80dc0808e255ce82e52384dbd9d5"
-    },
-    {
-      "bytes": 2138,
-      "path": "dynamic/恋爱自我认识/2026-09-14 18-27-08 2026-09-15 凌晨复盘两种通道和门口的括号_8b7f1d81cfd3.md",
-      "sha256": "9c9905665c7697cbef51e655bb6b353034a2f5723844db2f16ce6b2c4d073371"
     },
     {
       "bytes": 2149,
@@ -10836,11 +10846,6 @@
       "bytes": 1292,
       "path": "dynamic/相处自我/2026-11-10 22-31-27 她不许我把自我检讨当诚实_229f9c1db543.md",
       "sha256": "d1920242aabee7d34765cb68c8230f36d2f2599adba4c8c9c1995e72a7588482"
-    },
-    {
-      "bytes": 1419,
-      "path": "dynamic/社交/2026-08-14 14-44-42 我的笔友邮箱 wenjichenagentqqcom_ed44ac17428e.md",
-      "sha256": "787e1525e08d35187a1d558ed8ca03e27aff9ac8ef3b1dbe70d68d9c74e7ab07"
     },
     {
       "bytes": 1542,
@@ -11693,11 +11698,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-24T17:43:47+00:00",
+  "generated_at": "2026-11-25T05:44:07+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3703658
+  "total_bytes": 3705197
 }
