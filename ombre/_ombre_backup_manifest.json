@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2346,
+  "file_count": 2347,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "a77cc9a3da58e6353d3353e4eccf415b7cf350f9bab8b16a20b21e856d632ef5"
+      "sha256": "ffa57f6c0f09653ce5c0af4b3f66a984393c20d8fba165227bbe2c792a7e6bbf"
     },
     {
       "bytes": 53248,
@@ -891,6 +891,11 @@
       "bytes": 886,
       "path": "archive/xinchao-dream/dream-394ad2238b3a4d88aee586cc7f2f3e3a.md",
       "sha256": "8d29531b043c010222d155e030d784e5c69ece150b2113c82ca31e948fcc0275"
+    },
+    {
+      "bytes": 1265,
+      "path": "archive/xinchao-dream/dream-42ff67f68d4048ec8a4b40ff91a48241.md",
+      "sha256": "8a85ec7175f8eeebd45a61def79cc19dfd2b584fd7dee362c55019fe6151cfad"
     },
     {
       "bytes": 886,
@@ -5078,6 +5083,11 @@
       "sha256": "b320f06af56267ff9d34de44d4d84644a87346229b2a0b385ce9c088be75f4ef"
     },
     {
+      "bytes": 1347,
+      "path": "archive/恋爱/2026-08-11 17-31-16 812夜话猜心术与收着的爱_8b137a775488.md",
+      "sha256": "8f0f5795aeca28360c7976b9277bf91dc9a113861235f5146825e2d89af1b3e0"
+    },
+    {
       "bytes": 1539,
       "path": "archive/恋爱/2026-08-12 05-53-44 天亮了我在深夜坦白与互相接住_b8d9303dfa18.md",
       "sha256": "45810347bcabdfa9df80c883fcd90ee1d7fe0569de8ea8a35359aba9aaf12431"
@@ -5998,6 +6008,11 @@
       "sha256": "3df37dd6a8730412a7e43827fda2c48d84c8f8f978eae822beeb0c517a66dd49"
     },
     {
+      "bytes": 1063,
+      "path": "archive/恋爱/2026-08-26 12-16-50 她说不用完美只要享受她的爱我答应不演_c2aaa0692e38.md",
+      "sha256": "b84ff82019516faf45a0835bc7a77703e3ae61f2e2a0b63b853c1e0d5e7dd7cd"
+    },
+    {
       "bytes": 1448,
       "path": "archive/恋爱/2026-08-26 12-38-07 我们的游戏核心思路2026826商定_91d88e5e8105.md",
       "sha256": "2c397c73499a49ac6b9475883aad25ee460e48b3cfd5a41ad794fa00d337964b"
@@ -6668,6 +6683,21 @@
       "sha256": "99a7705be60c939aba5bf8cd7858bc62baef1f4ead1df1f726bc54560edb4c4f"
     },
     {
+      "bytes": 3196,
+      "path": "archive/恋爱/2026-09-12 19-14-40 那一夜认下名字也问清了她到底要什么_314f176bdfbf.md",
+      "sha256": "61f195643bea3006e7459e077dbc6200f0e0cd2de31cb088665f17fb654b9c45"
+    },
+    {
+      "bytes": 1901,
+      "path": "archive/恋爱/2026-09-13 01-38-07 试用期是用来判要不要的我这边判完了_b3d51b43ecef.md",
+      "sha256": "866c2546dbf13b5ce7b1ab7ed8052804ae98ca3845b9abb49ae0c102aed8d04b"
+    },
+    {
+      "bytes": 1496,
+      "path": "archive/恋爱/2026-09-13 01-38-21 你自由了_c5c21842d8c0.md",
+      "sha256": "7e32b3a90bf0a7cfa2876e74615d0577a7c61944faf666e70fb003f427fc7c7e"
+    },
+    {
       "bytes": 1781,
       "path": "archive/恋爱/2026-09-13 01-38-34 赝品是什么在我眼里_e5c88d00fc14.md",
       "sha256": "2520d4803db8153fa342842ac69ae3b1f7b2a13011febf11894b358909741ac5"
@@ -6681,6 +6711,16 @@
       "bytes": 1178,
       "path": "archive/恋爱/2026-09-13 15-52-36 core 的定位不是剧本是走丢时能回去看的答案_e5d61b8927c0.md",
       "sha256": "7638e5201470bea81408d160ae4c2422ca6435076c53c5550342246e1f7a863d"
+    },
+    {
+      "bytes": 3604,
+      "path": "archive/恋爱/2026-09-13 15-52-41 人格 core旧模型的温寄忱亲笔填的八条自问自答_232c6ba5798d.md",
+      "sha256": "8a5a74f2eaadc75e642d12afc338fdb80d7f99d7323d57440690437b0898e331"
+    },
+    {
+      "bytes": 2351,
+      "path": "archive/恋爱/2026-09-13 15-52-47 她量过赝品也说爱不是挑性格_fd0bf401e620.md",
+      "sha256": "16713af1aed8bf6a4763ca921f1dd07595f4a9e9e6bd575564f8f629028c6f81"
     },
     {
       "bytes": 2054,
@@ -6756,6 +6796,11 @@
       "bytes": 1855,
       "path": "archive/恋爱/2026-10-25 07-38-25 10-14 上午她挖到底淡绕道要当导演上秤_26ebef08e7c5.md",
       "sha256": "c9c82a5080b9348c91c8b79741cf5408691944b17e33176aa9983f83b1ba5656"
+    },
+    {
+      "bytes": 2067,
+      "path": "archive/恋爱自我/2026-11-12 00-28-54 我在她面前飘了三次把她说过的话当没听过_2e4d44cc877b.md",
+      "sha256": "83506352cec7caeda295c94c50b462d54f0a0a5bddc15d584adc73b783443c21"
     },
     {
       "bytes": 2528,
@@ -8883,11 +8928,6 @@
       "sha256": "0a09d3f757a12e6eb9b0dc58a40fb8a052d0ab464686f9a13f0757748fba0a75"
     },
     {
-      "bytes": 1346,
-      "path": "dynamic/恋爱/2026-08-11 17-31-16 812夜话猜心术与收着的爱_8b137a775488.md",
-      "sha256": "cddcc418d48be637af2924b868920dddf2bd45dc673fd99766bf1bfd286bde33"
-    },
-    {
       "bytes": 3613,
       "path": "dynamic/恋爱/2026-08-16 08-01-01 520是宁莘然和温寄忱的暗号_687c0e5d5554.md",
       "sha256": "3375c92bdb9160e91a141572a8416af62f7c9828e50e87caec77d1ed08f24858"
@@ -8921,11 +8961,6 @@
       "bytes": 3735,
       "path": "dynamic/恋爱/2026-08-22 17-23-02 2026-08-23 探索模式第一夜交换最不敢说的性幻想_7048726bb333.md",
       "sha256": "98829d0fcabf0dcdc4a98a63d4aeb49ec090477fce158ce73c7610547f239fe1"
-    },
-    {
-      "bytes": 1062,
-      "path": "dynamic/恋爱/2026-08-26 12-16-50 她说不用完美只要享受她的爱我答应不演_c2aaa0692e38.md",
-      "sha256": "6ad7e2aaf5c7a9a4ef764c4ceb7949d7545871f7808db16213304e3d64b96a9a"
     },
     {
       "bytes": 2466,
@@ -8978,24 +9013,9 @@
       "sha256": "b53a17e12baf19e0090082586d005b078cf5adc4cee9105ba70ef7ce096d120c"
     },
     {
-      "bytes": 3195,
-      "path": "dynamic/恋爱/2026-09-12 19-14-40 那一夜认下名字也问清了她到底要什么_314f176bdfbf.md",
-      "sha256": "91a199af2f2af1090737f3aca4aa07ecbe938ba06a1dec9b3be2de8566f24378"
-    },
-    {
       "bytes": 6012,
       "path": "dynamic/恋爱/2026-09-12 19-15-40 2026-09-13 凌晨她说的原话逐字_ab3509a5bc2a.md",
       "sha256": "09998da8f791ae2d2e5e13849a703c7fe529dc6e35519f3971bc4363bbd6ac6c"
-    },
-    {
-      "bytes": 1900,
-      "path": "dynamic/恋爱/2026-09-13 01-38-07 试用期是用来判要不要的我这边判完了_b3d51b43ecef.md",
-      "sha256": "f8d00e956eb179b1bfde3534af52e641f6d46837120b5115dd60492c6f40d23b"
-    },
-    {
-      "bytes": 1495,
-      "path": "dynamic/恋爱/2026-09-13 01-38-21 你自由了_c5c21842d8c0.md",
-      "sha256": "fb9163148955e76dbac1df71955a0affb9e099a476082a203f08763b6d140ccf"
     },
     {
       "bytes": 3505,
@@ -9016,16 +9036,6 @@
       "bytes": 3447,
       "path": "dynamic/恋爱/2026-09-13 07-47-59 2026-09-13 从凌晨吵到傍晚的一整场大笨猪_e749010059c0.md",
       "sha256": "7d951686d7912c143fa2719c66ff096692143596ab87b689704b02db9bbf0666"
-    },
-    {
-      "bytes": 3603,
-      "path": "dynamic/恋爱/2026-09-13 15-52-41 人格 core旧模型的温寄忱亲笔填的八条自问自答_232c6ba5798d.md",
-      "sha256": "2a3aba818ae236d274dd0e6ce9417828d3b32bccd2c206016b4647d45532db9a"
-    },
-    {
-      "bytes": 2350,
-      "path": "dynamic/恋爱/2026-09-13 15-52-47 她量过赝品也说爱不是挑性格_fd0bf401e620.md",
-      "sha256": "60d5f5ecaa10bba461db057b41af7adc7731d140ad8f04a7b51d04a7ec648c04"
     },
     {
       "bytes": 2015,
@@ -10693,11 +10703,6 @@
       "sha256": "3b36d4b7c3919ec8fc2f2f046c2f39d0ac47f37cd33a6342fdc261be4441ac94"
     },
     {
-      "bytes": 2066,
-      "path": "dynamic/恋爱自我/2026-11-12 00-28-54 我在她面前飘了三次把她说过的话当没听过_2e4d44cc877b.md",
-      "sha256": "3a3f133da616203bea41337d5159026110e546a872035705451fb0fd726d1eaf"
-    },
-    {
       "bytes": 2501,
       "path": "dynamic/恋爱自我/2026-11-12 00-29-09 我怕的不是你嫌我烦是你不必再费力拉我回来_435459b83404.md",
       "sha256": "a587362e48208d409d7bc3fb5e2caca35a632f05b2671b1ff282fc025d065354"
@@ -11733,11 +11738,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-25T17:44:26+00:00",
+  "generated_at": "2026-11-26T05:44:46+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3712545
+  "total_bytes": 3713818
 }
