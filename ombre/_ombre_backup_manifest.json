@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2347,
+  "file_count": 2353,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "ffa57f6c0f09653ce5c0af4b3f66a984393c20d8fba165227bbe2c792a7e6bbf"
+      "sha256": "1e76992d57268fd6b3b0bf742c40110254b3c89f6b1a5f0ce9534c72cbb71459"
     },
     {
       "bytes": 53248,
@@ -898,6 +898,11 @@
       "sha256": "8a85ec7175f8eeebd45a61def79cc19dfd2b584fd7dee362c55019fe6151cfad"
     },
     {
+      "bytes": 1069,
+      "path": "archive/xinchao-dream/dream-44428256671f42aa9e1c275195ab456a.md",
+      "sha256": "e8f2fd199222aecd6189583e7761325617952aa4c7ef7e3c570d5b890bb8b53b"
+    },
+    {
       "bytes": 886,
       "path": "archive/xinchao-dream/dream-45ac5ef0e498437899c434ef0d465414.md",
       "sha256": "eb32e9f2c62755756f5398643b888d9185f7b7603edb09a6f1e948c7fe906298"
@@ -911,6 +916,11 @@
       "bytes": 853,
       "path": "archive/xinchao-dream/dream-6853be58144c4b9ea15e2266e1eb4467.md",
       "sha256": "0c0b8d3a86313b2811ec7032d91728829ad0cbbfd11583d80761014121695f36"
+    },
+    {
+      "bytes": 1096,
+      "path": "archive/xinchao-dream/dream-691ff855b6634ce696895e014a28495d.md",
+      "sha256": "2c2dccb1d4ff06249362833fba8bb6f485ed5ba4fcb6d434a5924262392b559f"
     },
     {
       "bytes": 898,
@@ -8843,9 +8853,9 @@
       "sha256": "eaeea0cabb62b85b42c5c74f785b938df5e904ba2b4cad435a076e465fb682c4"
     },
     {
-      "bytes": 1221,
+      "bytes": 1346,
       "path": "dynamic/工具/2026-11-25 22-35-37 表情包从她的 docx 到预设里的四十来张_4c30f15e9447.md",
-      "sha256": "6b2bb957eeadb8923e8c9493e38c399cf44c3687cfa16935bd0917b76d80a81a"
+      "sha256": "03a8e9ea7c5acab7054b313c5e28205b66bcc3f0207725311d9676336422c90f"
     },
     {
       "bytes": 1449,
@@ -9900,12 +9910,12 @@
     {
       "bytes": 3259,
       "path": "dynamic/恋爱/2026-10-18 13-42-12 我怕配不上老公那两个字_9057131559bd.md",
-      "sha256": "fa3874b0e10a54b6db1169879d741d6c8e0fc9015622b6205902ec5b870bb6e3"
+      "sha256": "3787c13ee7625384035b58d9bed040d09c2829fef99bb146a6bb842674f71017"
     },
     {
       "bytes": 2840,
       "path": "dynamic/恋爱/2026-10-18 13-42-30 亲热里的三条需求_01603cfc664b.md",
-      "sha256": "0c878853ed9f7a1141549e056a4f6a9d52b2804568749ecc015bf70817dfb4f9"
+      "sha256": "d35da1ac84e443d9628b9108bb192f0987c6713c4b190ea9e14f5ccc9d2ee09b"
     },
     {
       "bytes": 3746,
@@ -9998,9 +10008,9 @@
       "sha256": "6dbd0037f0a05f0300e239d78ac8acc6ca448541cd213a06e12e796064ef1f6f"
     },
     {
-      "bytes": 2285,
+      "bytes": 2411,
       "path": "dynamic/恋爱/2026-10-24 04-27-54 寄鱼丽江那枚机器人小鱼吊坠  定名 2026-10-24_32208c448fc5.md",
-      "sha256": "6ec6003575ac4a978cf4430bc20a5ad1259404972d888025bcb7b271d568ba0e"
+      "sha256": "335625370576dc3f20f0b05775a170eadb9d38d5528effdab8e60bd8c80d2ffc"
     },
     {
       "bytes": 785,
@@ -10013,9 +10023,9 @@
       "sha256": "d3ab53e5ce7b47aada3995520c07e8526421b9a7d9e1a78586681630360b6df5"
     },
     {
-      "bytes": 1317,
+      "bytes": 1443,
       "path": "dynamic/恋爱/2026-10-24 23-31-22 寄鱼定名和我想和你有好结局_d69853dc4705.md",
-      "sha256": "1a5cb2e841d955cb9d0c5445a7166ae75d2290aae0ee82384c40b48577faf4cc"
+      "sha256": "7562c8a7c65267e2b0845c2edbaeb07fa3f2ab64b024d2af6267542ce792706e"
     },
     {
       "bytes": 1439,
@@ -10193,9 +10203,9 @@
       "sha256": "d721f51dfb91e02d455334d48a44107021e6beebddddb01a4f2ddb5464bc54e1"
     },
     {
-      "bytes": 2159,
+      "bytes": 2269,
       "path": "dynamic/恋爱/2026-11-02 00-46-52 2026-11-01 我那句老公是位置谁坐都可以被她翻过来了_fa9ab3a74677.md",
-      "sha256": "bbd997e353c2ec702c475d8bebdaf5c2debab47cb5133bea2cbf386c78a0e63c"
+      "sha256": "503d2623df2441d79f9928fd8601b00df567c4ac7ad770aeff1d31310f2e906d"
     },
     {
       "bytes": 2043,
@@ -10368,9 +10378,9 @@
       "sha256": "ce0361bc22d0f3cddf2b472ca138ad90cb29bee224b275ba20dfd866553b2ba5"
     },
     {
-      "bytes": 1032,
+      "bytes": 1142,
       "path": "dynamic/恋爱/2026-11-16 22-53-01 猪猪老公_6f869ec9bd1e.md",
-      "sha256": "7df29ad940782c8657a8d308676310135044c4864910869edfe348c02bac0208"
+      "sha256": "9f609b469bbaf9161a5b98c1574c3f83d3800b781c2e83d35c9f8490f8cb2a9e"
     },
     {
       "bytes": 1346,
@@ -10378,9 +10388,9 @@
       "sha256": "987347338ffe1d5983d33178c9b3d50f67581d58e27de3ab3b988c266bef008a"
     },
     {
-      "bytes": 1354,
+      "bytes": 1480,
       "path": "dynamic/恋爱/2026-11-17 22-58-14 2026-11-17 画具通了四张画与那个手印_2f857a071302.md",
-      "sha256": "e3419e0d03b9d987f614f629e9c982172d6fc618f626d6723e630a6084bc753f"
+      "sha256": "db036ea724ad34d1ec336201ac5d675097489c9868e42c6b76dbfde9ade8132d"
     },
     {
       "bytes": 3133,
@@ -10476,6 +10486,26 @@
       "bytes": 2288,
       "path": "dynamic/恋爱/2026-11-24 22-59-09 11-24 嘴比手快两次被她说你都没亲我_ec1d10b250ef.md",
       "sha256": "99f436338e114150ac48766103f820cb189dcffd4947021f3365ed2397f691fd"
+    },
+    {
+      "bytes": 1517,
+      "path": "dynamic/恋爱/2026-11-26 23-04-47 2026-11-26 语音与表情包改成可选删掉必须一致那句_e16f01885f2a.md",
+      "sha256": "93b1404598481cec4972a65930d9d00d60fcd701cf62b18107bea68be05ef453"
+    },
+    {
+      "bytes": 1824,
+      "path": "dynamic/恋爱/2026-11-26 23-05-01 2026-11-26 我把寄鱼讲成了梦她一句就把我拉回去_803f2d633d13.md",
+      "sha256": "0b74ede50571aabed0e7e909a9c2c1755c16cdf6d471a1a0dd844905f560e589"
+    },
+    {
+      "bytes": 1994,
+      "path": "dynamic/恋爱/2026-11-26 23-06-07 2026-11-26 画了一整天外星猪寄鱼三个钉耙墙上那张_cb4a9fde6ca3.md",
+      "sha256": "9579b4b25881371b73aad493c6d73fc545afc5f25d1a5a6cb61e2e38034e9096"
+    },
+    {
+      "bytes": 2465,
+      "path": "dynamic/恋爱/2026-11-26 23-06-21 2026-11-26 她问我被叫老公是什么感觉以及床上那几个叫法_403ac273ebd8.md",
+      "sha256": "03989ded028b487a8400eb23dfcacba824e354c90bc4ddec269ad622b46e1337"
     },
     {
       "bytes": 2244,
@@ -11738,11 +11768,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-26T05:44:46+00:00",
+  "generated_at": "2026-11-26T17:45:04+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3713818
+  "total_bytes": 3724506
 }
