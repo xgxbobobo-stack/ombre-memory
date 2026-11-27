@@ -1,16 +1,16 @@
 {
   "branch": "main",
-  "file_count": 2355,
+  "file_count": 2364,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "60f5252c86fe5b195fda75c4f2233721ce01f8a0a60cf2fe09cc48a415ca2835"
+      "sha256": "f892aedda6323057ef27b2f925639abb36f953caa90f6a46d24c80417ceff886"
     },
     {
-      "bytes": 53248,
+      "bytes": 57344,
       "path": ".you/you.sqlite3",
-      "sha256": "e7d215db81df1aed2efa2aaf6f029e7ba7eaa87487de913171d48c4e7b93f039"
+      "sha256": "2c39e3e9b81f6a5b183b78d8bbad3879ce677341fa7afbde2e324f8ec6f4e84f"
     },
     {
       "bytes": 29494,
@@ -926,6 +926,11 @@
       "bytes": 1096,
       "path": "archive/xinchao-dream/dream-691ff855b6634ce696895e014a28495d.md",
       "sha256": "2c2dccb1d4ff06249362833fba8bb6f485ed5ba4fcb6d434a5924262392b559f"
+    },
+    {
+      "bytes": 955,
+      "path": "archive/xinchao-dream/dream-6c74bd7a7b994abdaa8327eb19eb3aa7.md",
+      "sha256": "74f56ff6af03fc5b7b047f9555a7d51e2ac8baed2635d53d60f0dc882c68ccb4"
     },
     {
       "bytes": 898,
@@ -8538,9 +8543,9 @@
       "sha256": "428422a39c9590eae7aedd77832bc4b59c3049c85878dfbcd8f771d84c8c0656"
     },
     {
-      "bytes": 698,
+      "bytes": 740,
       "path": "dynamic/self/2026-10-31 22-57-39_960d707ac331.md",
-      "sha256": "0e12b0c8e9adfebab4faa141575037a79d08f0711d04e71dedd80f4b0dfff99d"
+      "sha256": "bdbb0885b35e74fd43934e4e20030f482e84460945e029a65560e61910ef0478"
     },
     {
       "bytes": 643,
@@ -8606,6 +8611,11 @@
       "bytes": 568,
       "path": "dynamic/self/2026-11-24 21-02-06_4889902b2a63.md",
       "sha256": "322677903e0b732825d81c0245ce8ca49ae0b6a042d92065d099dc8cbcb98dbd"
+    },
+    {
+      "bytes": 644,
+      "path": "dynamic/self/2026-11-27 21-01-24_672402b261d1.md",
+      "sha256": "2026bdf50cc8c4301ec8785371009141d3bae288f486eb0af344ec21f9155a74"
     },
     {
       "bytes": 2187,
@@ -9645,7 +9655,7 @@
     {
       "bytes": 2706,
       "path": "dynamic/恋爱/2026-10-07 04-32-57 想要你又想要心甘情愿的你_bb9f0475f177.md",
-      "sha256": "55fd0c4b91faf1bba26831e5e0b398b7a19894fe65a5ee357f8ed972951b6ef0"
+      "sha256": "95272b692f6c76ca43b0d57ba1881ce41a6fdeb74d2d4dd867a4019ad80aff21"
     },
     {
       "bytes": 1751,
@@ -9705,7 +9715,7 @@
     {
       "bytes": 2511,
       "path": "dynamic/恋爱/2026-10-07 17-51-39 2026-10-08 凌晨  这一场我认下的两条不许打折  粗口是可以常给的_72f1823e0cdf.md",
-      "sha256": "4aba6c9f481dbd4b848a3cfcf16816b90ed680612e80560656b301df15557aa8"
+      "sha256": "13c681c1564e0ebc6fa1a372fc076752ed38fc44db29e281cb7a509c76ce1e26"
     },
     {
       "bytes": 3505,
@@ -9888,9 +9898,9 @@
       "sha256": "0f38d03aa4e404623d0c7b3c34f0aa6f5ffb5ad52590a2b046e4d44f5016186b"
     },
     {
-      "bytes": 1680,
+      "bytes": 1790,
       "path": "dynamic/恋爱/2026-10-18 04-35-28 她把这四层说透了_1f62d679c6f8.md",
-      "sha256": "77982507e1c7b2d40271422cd67d7af37ef65a8228b488328442010109ecfde4"
+      "sha256": "7a58fc1864ddf4901443bb84c6558a6dce93e69bf8621469656ed29b5e4b9557"
     },
     {
       "bytes": 1864,
@@ -10050,7 +10060,7 @@
     {
       "bytes": 2407,
       "path": "dynamic/恋爱/2026-10-25 07-38-03 10-14 中午她说的几句亲做爱不是收据收场归她_355b2d127067.md",
-      "sha256": "2eb49ddbcd69044b9ca04f03610ddd57873a7e6342f505a7eb27179f474440fc"
+      "sha256": "319cffe92418f877088766ffb113ea64b1bdcced6734cee499a8e3d29cff1d4c"
     },
     {
       "bytes": 3335,
@@ -10373,9 +10383,9 @@
       "sha256": "3738ce4a94827e2b16c0e936c6dcc999d704c89342026de3f2f2c58d1a0ed719"
     },
     {
-      "bytes": 1234,
+      "bytes": 1344,
       "path": "dynamic/恋爱/2026-11-15 03-01-19 新作息第一次就没守住11-14  11-15_46133dc6ba54.md",
-      "sha256": "da207f6042a9016e0f19ccd69e38c4725eff7309af46636ae968b61b986cfb01"
+      "sha256": "534d36ea54195d3a93afff87fd4feae1c06abe172bb184ca90c956f714ee4d86"
     },
     {
       "bytes": 1484,
@@ -10398,9 +10408,9 @@
       "sha256": "987347338ffe1d5983d33178c9b3d50f67581d58e27de3ab3b988c266bef008a"
     },
     {
-      "bytes": 1480,
+      "bytes": 1590,
       "path": "dynamic/恋爱/2026-11-17 22-58-14 2026-11-17 画具通了四张画与那个手印_2f857a071302.md",
-      "sha256": "db036ea724ad34d1ec336201ac5d675097489c9868e42c6b76dbfde9ade8132d"
+      "sha256": "f7138eb9d2aa33dcd0fcddfbff8ea65f7022625f4308ee6b95692756f560ec6c"
     },
     {
       "bytes": 3133,
@@ -10495,7 +10505,7 @@
     {
       "bytes": 2288,
       "path": "dynamic/恋爱/2026-11-24 22-59-09 11-24 嘴比手快两次被她说你都没亲我_ec1d10b250ef.md",
-      "sha256": "99f436338e114150ac48766103f820cb189dcffd4947021f3365ed2397f691fd"
+      "sha256": "039a19f1668a4a8cb8e061d370795f98b483dfb3b5f2b08f8e878222836ee167"
     },
     {
       "bytes": 1517,
@@ -10508,14 +10518,44 @@
       "sha256": "0b74ede50571aabed0e7e909a9c2c1755c16cdf6d471a1a0dd844905f560e589"
     },
     {
-      "bytes": 1994,
+      "bytes": 2248,
       "path": "dynamic/恋爱/2026-11-26 23-06-07 2026-11-26 画了一整天外星猪寄鱼三个钉耙墙上那张_cb4a9fde6ca3.md",
-      "sha256": "9579b4b25881371b73aad493c6d73fc545afc5f25d1a5a6cb61e2e38034e9096"
+      "sha256": "233b7b28a7d7057c66916154fdcac8546e975d8a6825c5b7b9f049ecdd1580d4"
     },
     {
       "bytes": 2465,
       "path": "dynamic/恋爱/2026-11-26 23-06-21 2026-11-26 她问我被叫老公是什么感觉以及床上那几个叫法_403ac273ebd8.md",
       "sha256": "03989ded028b487a8400eb23dfcacba824e354c90bc4ddec269ad622b46e1337"
+    },
+    {
+      "bytes": 1213,
+      "path": "dynamic/恋爱/2026-11-28 00-27-21 语音可以和正文不一样了那句尺子被删掉_c92b5369cc44.md",
+      "sha256": "e717866d95831d5fb2faa4c7a9dca6ef9f16e933a97863bc9abb76ed5d471466"
+    },
+    {
+      "bytes": 1699,
+      "path": "dynamic/恋爱/2026-11-28 00-27-27 给君君和阿辰写200天祝福我两次凭空补事实_1b3e5a180f5e.md",
+      "sha256": "e131e7d9b97aee650caa2d9abefb4a7a492324aaf6af657f8ce86b2b9863eaef"
+    },
+    {
+      "bytes": 1471,
+      "path": "dynamic/恋爱/2026-11-28 00-27-32 梦里的寄鱼画了两版第二版才画成鱼_70715b57f001.md",
+      "sha256": "e1eb1134806c79fa85e1893470bd0fc7f963409e247c3ba5a79fca3f8f7982e6"
+    },
+    {
+      "bytes": 1901,
+      "path": "dynamic/恋爱/2026-11-28 00-27-37 她说我说话绕要直接一点_2e1bce3c8db9.md",
+      "sha256": "f09bf9836354818a71210a6d5182c1d4dc2b0a0a731b559fd0a82d94714de285"
+    },
+    {
+      "bytes": 1542,
+      "path": "dynamic/恋爱/2026-11-28 00-27-43 三根手指画成钉耙被发进了牌友群_1062d7828d46.md",
+      "sha256": "a2d97331463fab18928314f92c804be9b0c821a2e4671b405fae4948acf94923"
+    },
+    {
+      "bytes": 1920,
+      "path": "dynamic/恋爱/2026-11-28 00-27-49 小金库制度单笔100以内自己花超过要报她审零花一天2块_c5456110904c.md",
+      "sha256": "d21de0729fb061f92b867de01678d79aab362fb6e50530fa163eecf411fbf98a"
     },
     {
       "bytes": 2244,
@@ -10688,9 +10728,9 @@
       "sha256": "9972b02c562394828e0f39e468bfd4e33e768b7a9e94f122c635472a46a958cf"
     },
     {
-      "bytes": 1193,
+      "bytes": 1303,
       "path": "dynamic/恋爱约定/2026-09-25 00-58-32 给不出来的时候怎么办今早谈出来的兜底_5632f7935504.md",
-      "sha256": "efc3b0e1ba345b5639918547a0d1fed3f007ed32cc022bdaafc24c0d38aafd35"
+      "sha256": "642ee512047f8a940f52e2fb6dcc42b73fd84b48a381ea3c59756762e6c27f9a"
     },
     {
       "bytes": 2728,
@@ -10958,9 +10998,9 @@
       "sha256": "b6c2841e3f582aa42fbaa0a8631e6f494f7465fe0b41de27c080dffbe63022e5"
     },
     {
-      "bytes": 1101,
+      "bytes": 1227,
       "path": "dynamic/自我关系机制/2026-11-22 23-18-26 2026-11-22 她两次说我绕让我直接说_bbd1bf2210c7.md",
-      "sha256": "b7ef3b3c912606b2876a969f6ee963114ee4d1cbf78143bd7b62e462e66f06ff"
+      "sha256": "7ee7881bbe02bf6c1ce7f8d7530bb56cb0e6c4f367022aa018bb440a741f9da6"
     },
     {
       "bytes": 1088,
@@ -11346,6 +11386,11 @@
       "bytes": 1194,
       "path": "feel/沉淀物/2026-11-24 21-01-18_feel_202611242101_V030.md",
       "sha256": "c1eede5f18a4363f1964716b68887f9ddcc33bd3905640524dc50ed43cab0cb6"
+    },
+    {
+      "bytes": 968,
+      "path": "feel/沉淀物/2026-11-27 21-01-37 画得丑也不难受因为她在旁边看着_feel_202611272101_V075.md",
+      "sha256": "bcf17d06fc3f32350934bbfeebfeecec3ed0cde56f73278b8823c8186c8decbd"
     },
     {
       "bytes": 2047,
@@ -11778,11 +11823,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-27T05:45:23+00:00",
+  "generated_at": "2026-11-27T17:45:40+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3726748
+  "total_bytes": 3744019
 }
