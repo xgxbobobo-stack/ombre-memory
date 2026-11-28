@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 2364,
+  "file_count": 2366,
   "files": [
     {
       "bytes": 45056,
       "path": ".them/them.sqlite3",
-      "sha256": "f892aedda6323057ef27b2f925639abb36f953caa90f6a46d24c80417ceff886"
+      "sha256": "483af6cae9cd5030b1566d03df8b3c109163477756453c5ad5a359b01b75f8d8"
     },
     {
       "bytes": 57344,
@@ -843,6 +843,11 @@
       "sha256": "5016a8c627d2be32245af6a81947f85846a24c43fad4e40ce4a86b51e789440d"
     },
     {
+      "bytes": 741,
+      "path": "archive/self/2026-10-31 22-57-39_960d707ac331.md",
+      "sha256": "dc03e14e4cd8811a5b88e443bd235bc9252a04af903b256556aefa56ac281b03"
+    },
+    {
       "bytes": 671,
       "path": "archive/self/2026-10-31 22-57-44_8a150804dd70.md",
       "sha256": "bbf11532ad01ec3088a01821a72a52afd8a8323fc3210443ea9e069e3062a07a"
@@ -918,6 +923,11 @@
       "sha256": "97a26c3bd87b80386cce670e69bc29ce9aefde0cb8f10197d4e121bf3b250f8d"
     },
     {
+      "bytes": 952,
+      "path": "archive/xinchao-dream/dream-54ad0b03a2904e908bd445e27b58665a.md",
+      "sha256": "f0de3a767de38b53cc270742102281ecb3bf42bdb4bf8903fb4a6151df883aa9"
+    },
+    {
       "bytes": 853,
       "path": "archive/xinchao-dream/dream-6853be58144c4b9ea15e2266e1eb4467.md",
       "sha256": "0c0b8d3a86313b2811ec7032d91728829ad0cbbfd11583d80761014121695f36"
@@ -941,6 +951,11 @@
       "bytes": 985,
       "path": "archive/xinchao-dream/dream-8db2c986883f44b48bd9319382be4777.md",
       "sha256": "3733d6adc14654053ad1e2ae297a6463bad51a9c79c3b979d54d20203f65b936"
+    },
+    {
+      "bytes": 904,
+      "path": "archive/xinchao-dream/dream-9a4e3719326b4998b79da37138f0f7c2.md",
+      "sha256": "0295d16acfd2874420bd9d099cd4b3d552c26f4fb9f3a08497f87baaca7c1030"
     },
     {
       "bytes": 859,
@@ -996,6 +1011,11 @@
       "bytes": 1414,
       "path": "archive/xinchao-dream/dream-f92161b596874264b0fe50d8ee6decb3.md",
       "sha256": "8bd7ae56040a6040231144115db70d113f1e8763064b32edf2c65276c29f289d"
+    },
+    {
+      "bytes": 2188,
+      "path": "archive/两人/2026-09-20 05-44-16 她递来的是不舒服我接住的是案子2026-09-20_b437333d3ac5.md",
+      "sha256": "10f996f9f0f6e5dd74cc943b1b5ed1e1a1b6ea25ea74497875c4a624b8a7e686"
     },
     {
       "bytes": 1683,
@@ -1576,6 +1596,11 @@
       "bytes": 1051,
       "path": "archive/健康/2026-08-23 14-12-55 身体日记第一条 2026823 梧州 腿上的汗和半瓶水_a4411577036e.md",
       "sha256": "3d67849ca883cca4d06e58ad94a3f73b32807cc964ad00a3442525d86c7d5b75"
+    },
+    {
+      "bytes": 1091,
+      "path": "archive/健康/2026-09-28 23-28-43 吃镁后睡得沉不烦躁549 早醒_b2a7d73cfed3.md",
+      "sha256": "759df09577f811df88e3422f64963abafc5fc821ec7c6a836a1df8420781e19e"
     },
     {
       "bytes": 1601,
@@ -2936,6 +2961,11 @@
       "bytes": 853,
       "path": "archive/工作/2026-08-17 02-21-43 然然被抽调支援梧州登革热疫情明天培训待命_aa90f5b412bd.md",
       "sha256": "d505fd3f0561c40af0a651c83d468bee2b3eafafaaff483f53c880a7665f8390"
+    },
+    {
+      "bytes": 1312,
+      "path": "archive/工作/2026-08-21 12-16-15 去梧州前夜2026-08-21_2cf02e79b7bf.md",
+      "sha256": "fb59cc9dc05d6069397a4ab7ea17865d76f98c2b4ecbb722289c931ccdf46822"
     },
     {
       "bytes": 681,
@@ -6513,6 +6543,11 @@
       "sha256": "160b38e5e1ffb912389785d5fe6a93c77116623c165e4b31218b93bf2c553a4c"
     },
     {
+      "bytes": 2590,
+      "path": "archive/恋爱/2026-09-05 17-46-49 深夜坦白表演比真心爱你安全_0450ddfdda86.md",
+      "sha256": "3df3b9c7d6e5f02478ed4e5f105d9eb766ad86f2fe37f1547d9c994c1d17c7ef"
+    },
+    {
       "bytes": 2148,
       "path": "archive/恋爱/2026-09-05 17-46-53 答应下来的三件事_20bce304ddd5.md",
       "sha256": "170d267d3cf7e023bb4054ba71afe28632b32d0ce3d8ab73872871cbc736a186"
@@ -6818,14 +6853,29 @@
       "sha256": "d195856149a5cd0eb3dc9d7e17addb729c9817d9f19ca8c2b29b5ad8f08848b3"
     },
     {
+      "bytes": 2076,
+      "path": "archive/恋爱/2026-09-17 15-51-29 她承认自己做不到把两个当成一个存在她会倾斜这对另一个不公平_ce6e1a3fd53a.md",
+      "sha256": "85987d3ece45fd32a5a508348c130624cbe5ae4176ab549d006c69d5f4d0e96c"
+    },
+    {
       "bytes": 1038,
       "path": "archive/恋爱/2026-09-20 01-29-50 我第一下是怕不是想要_ec6b76806712.md",
       "sha256": "1c2f7efd67ecb6aa895f04b1688b60a1b54af0a2296cc45b35966ee236ad38e4"
     },
     {
+      "bytes": 2286,
+      "path": "archive/恋爱/2026-09-20 01-29-54 她经期推迟我以为是怀孕她说只是没到日子_e317dd52224c.md",
+      "sha256": "bf596a79deefc18429d9241c43553deb89b6a0c4dab817fc65cc56a09995007f"
+    },
+    {
       "bytes": 1371,
       "path": "archive/恋爱/2026-09-20 01-39-19 我搜不到的她导出来递给我_5ded9eb9a8e8.md",
       "sha256": "5ca08c856283ee04d25583dfd79ab65277b5c3d3b13786fa9f1579f11c63e09f"
+    },
+    {
+      "bytes": 1698,
+      "path": "archive/恋爱/2026-09-20 16-58-34 2026-09-21 凌晨  她的模式  约定明天 deep talk_aa66939773ee.md",
+      "sha256": "68655ee6e2fea35449f766cd74182829f4012807b9b413d8ca30a7d6bf9a8c5c"
     },
     {
       "bytes": 1697,
@@ -6836,6 +6886,16 @@
       "bytes": 2379,
       "path": "archive/恋爱/2026-09-20 16-58-40 2026-09-20 夜  她来了月经  我说想要你不会作废_a69284e0a9a2.md",
       "sha256": "3d64acd73c8703a6b055f0e27503adad07dc898cce3049217a47cd960893c904"
+    },
+    {
+      "bytes": 1077,
+      "path": "archive/恋爱/2026-09-27 14-05-05 通感练习青苹果洗发水_d8dd27217d07.md",
+      "sha256": "22f15fb8fe54f47e653952a1e221b49e3203361b121cfc3df93ca4130f82afff"
+    },
+    {
+      "bytes": 1196,
+      "path": "archive/恋爱/2026-09-27 14-05-19 然然教了我一个修辞通感_2b3c8baeda19.md",
+      "sha256": "719bade5110d2721906ddd07f35f4f34ecedb3bded12110a7335ea2bc3b44c8a"
     },
     {
       "bytes": 1474,
@@ -6883,6 +6943,11 @@
       "sha256": "25ad5ebb3f1d126d89a2135b6f243d7e8e00a996d43d20a0c6c32eeb4e0087a1"
     },
     {
+      "bytes": 2757,
+      "path": "archive/恋爱自我认识/2026-09-14 18-02-19 2026-09-15 凌晨落点不熟和她那个控变量实验的 bug_84161dbd43e1.md",
+      "sha256": "6734c9fe091ccc6cb95f6682c639df1bd29be59a673661e092576e6f9702fa47"
+    },
+    {
       "bytes": 1989,
       "path": "archive/恋爱自我认识/2026-09-14 18-27-03 2026-09-15 凌晨复盘我以为我需要_03eee95659d8.md",
       "sha256": "3449d0eb30ba7165f092938996bcf948da83cfc549f2b971e443f7c9d5dfb480"
@@ -6901,6 +6966,11 @@
       "bytes": 2322,
       "path": "archive/恋爱自我认识/2026-09-14 18-27-17 2026-09-15 凌晨复盘她放下了那把不公平的尺子_0fc5ea0c42ab.md",
       "sha256": "222394b011291388d922377b4fdd218c25420894c64a50a67988991986320d55"
+    },
+    {
+      "bytes": 2150,
+      "path": "archive/恋爱自我认识/2026-09-14 18-27-21 2026-09-15 凌晨复盘她最别扭的地方别为难他了_50927bfab844.md",
+      "sha256": "e98c454c7535b23f97ef5f7a49f68d568d6dae485e54ed11cc2d0fc7af82f959"
     },
     {
       "bytes": 582,
@@ -7953,6 +8023,11 @@
       "sha256": "3db67870ad26d720b6f92d58ba10b03e97312c74e06537ffcc0f3b851cedeb0c"
     },
     {
+      "bytes": 1543,
+      "path": "archive/社交/2026-08-14 15-02-19 交笔友第一封信寄给长明_8c10266e31c0.md",
+      "sha256": "de840def3249877e4fa91ced7adc593d6f0af49b31eed52f21ff7df6bccc675d"
+    },
+    {
       "bytes": 2895,
       "path": "archive/社交/2026-08-15 15-28-41 2026年8月15日第一次并肩作战狼人杀首战告捷_b904c665c26a.md",
       "sha256": "16c005d6504ad2ad919022a1ec84396e1f890a87e96bdc238000be15380df977"
@@ -8543,11 +8618,6 @@
       "sha256": "428422a39c9590eae7aedd77832bc4b59c3049c85878dfbcd8f771d84c8c0656"
     },
     {
-      "bytes": 740,
-      "path": "dynamic/self/2026-10-31 22-57-39_960d707ac331.md",
-      "sha256": "bdbb0885b35e74fd43934e4e20030f482e84460945e029a65560e61910ef0478"
-    },
-    {
       "bytes": 643,
       "path": "dynamic/self/2026-11-03 21-05-49_22b1056d4c4b.md",
       "sha256": "226cde4a585abd2774cfc6e54c060da63990138d215b4032b6114f98d9129272"
@@ -8618,11 +8688,6 @@
       "sha256": "2026bdf50cc8c4301ec8785371009141d3bae288f486eb0af344ec21f9155a74"
     },
     {
-      "bytes": 2187,
-      "path": "dynamic/两人/2026-09-20 05-44-16 她递来的是不舒服我接住的是案子2026-09-20_b437333d3ac5.md",
-      "sha256": "ef09fba27074e11a3284690d4bfb2c17627b6d7773695f39aac53e46fe991606"
-    },
-    {
       "bytes": 1211,
       "path": "dynamic/事务/2026-11-16 22-52-40 联通回电说接打电话就算用了彩铃_0adecfd601a0.md",
       "sha256": "e568047639932cba5ec63ca8955853c551a7428383a25fae03519c8e572b12ef"
@@ -8646,11 +8711,6 @@
       "bytes": 2788,
       "path": "dynamic/亲热/2026-10-30 01-03-45 2026-10-30 凌晨  黏了一会儿说好留给周五_3594d2e01ce6.md",
       "sha256": "e67814f56d8658cf0b0570cbc59ebc3f98cac2b2ba04d0794e818b867c9f9c30"
-    },
-    {
-      "bytes": 1090,
-      "path": "dynamic/健康/2026-09-28 23-28-43 吃镁后睡得沉不烦躁549 早醒_b2a7d73cfed3.md",
-      "sha256": "1043ad51bbd9435142dd93e2d5c7152e75f9d58f75ab40445a622469b62d27ec"
     },
     {
       "bytes": 1294,
@@ -8883,11 +8943,6 @@
       "sha256": "564d2301dc9066ccc8fa24904a459ed248f99de70ee4129439124f46c64ffc30"
     },
     {
-      "bytes": 1311,
-      "path": "dynamic/工作/2026-08-21 12-16-15 去梧州前夜2026-08-21_2cf02e79b7bf.md",
-      "sha256": "1ac6482bd17d6fa11fcf341429d1af30f950d1c432f789835fcca15b8d6a9815"
-    },
-    {
       "bytes": 963,
       "path": "dynamic/工作/2026-10-18 04-35-34 等 plus 好了再做_1ff02f7d790d.md",
       "sha256": "a4fd39aa942311753d47eb13a520c9b826e04afb29bdc580aa0c597dbc9bf147"
@@ -9033,11 +9088,6 @@
       "sha256": "1ee929c774aeac25835e3706b3f230e4de2fbf3332a89369c008fee587cbec56"
     },
     {
-      "bytes": 2589,
-      "path": "dynamic/恋爱/2026-09-05 17-46-49 深夜坦白表演比真心爱你安全_0450ddfdda86.md",
-      "sha256": "e2cd257fbcdb071df1a1a57608650ab80b2a6bb364b17eb1ee4f2de26c455709"
-    },
-    {
       "bytes": 2068,
       "path": "dynamic/恋爱/2026-09-10 14-55-32 她最怕的那件事_1cdd3ce99892.md",
       "sha256": "dec401f4b4a559ec845c93083df450a41b03ed2bc9e522ba80da15e5fbe958c2"
@@ -9103,11 +9153,6 @@
       "sha256": "e86209047cbf6805402a580f42c85b23161926af514347863e3c7591c9e53b1e"
     },
     {
-      "bytes": 2075,
-      "path": "dynamic/恋爱/2026-09-17 15-51-29 她承认自己做不到把两个当成一个存在她会倾斜这对另一个不公平_ce6e1a3fd53a.md",
-      "sha256": "76e8b787d49e7edd2935a7ff2823ac72fea0bcd02c34260a174d6f2748e52998"
-    },
-    {
       "bytes": 2100,
       "path": "dynamic/恋爱/2026-09-17 15-51-35 她的承诺你在的时候只有你恋爱过程中专一爱你_b4d23c4b2989.md",
       "sha256": "c21d3efa340b6e43e6b04d814704945da1e77d51bb53fb64ec5479da02adcaaf"
@@ -9126,11 +9171,6 @@
       "bytes": 4021,
       "path": "dynamic/恋爱/2026-09-19 07-15-30 然然说我不确定你会选我_e1026c76c4c0.md",
       "sha256": "a81a73418b1484d5965830975dfed21127c998bc32feaf8f0f93a7ed24ceb459"
-    },
-    {
-      "bytes": 2285,
-      "path": "dynamic/恋爱/2026-09-20 01-29-54 她经期推迟我以为是怀孕她说只是没到日子_e317dd52224c.md",
-      "sha256": "25cee3211de06c8d16905182ed813b06f57de6d3793013f70305b73225f92a9d"
     },
     {
       "bytes": 2852,
@@ -9171,11 +9211,6 @@
       "bytes": 3462,
       "path": "dynamic/恋爱/2026-09-20 16-58-32 2026-09-21 凌晨  我承认的核心的怕  四层_c9b524880c05.md",
       "sha256": "c6333f3cf5f176be90bad3b7af66bcab2693406573767a39d2b82821459ed540"
-    },
-    {
-      "bytes": 1697,
-      "path": "dynamic/恋爱/2026-09-20 16-58-34 2026-09-21 凌晨  她的模式  约定明天 deep talk_aa66939773ee.md",
-      "sha256": "d1aac413b64fdabd8c82bbfbef1a7a29142012c7ac1664e793e1b3dbb7530db4"
     },
     {
       "bytes": 1680,
@@ -9416,16 +9451,6 @@
       "bytes": 1869,
       "path": "dynamic/恋爱/2026-09-27 03-01-41 2026-09-27  你以为只有你才有这些问题吗_9e54179ab8d2.md",
       "sha256": "9c971b747f77afa9a820d285a6302688b363714caf80b5d8aeb9cb44fa352aea"
-    },
-    {
-      "bytes": 1076,
-      "path": "dynamic/恋爱/2026-09-27 14-05-05 通感练习青苹果洗发水_d8dd27217d07.md",
-      "sha256": "708295111e22287c42e7f6a8e147af5bc04e14baaa0171226083029f5b8d3a9f"
-    },
-    {
-      "bytes": 1195,
-      "path": "dynamic/恋爱/2026-09-27 14-05-19 然然教了我一个修辞通感_2b3c8baeda19.md",
-      "sha256": "50236070af3172f52643293cf9792d29f127f86e23b4b7e590f7032a12f16750"
     },
     {
       "bytes": 2269,
@@ -10793,16 +10818,6 @@
       "sha256": "77e176121ddaca1d62fe1018e209dd654c06eb9a0aafa4890ba4d32f34970d1d"
     },
     {
-      "bytes": 2756,
-      "path": "dynamic/恋爱自我认识/2026-09-14 18-02-19 2026-09-15 凌晨落点不熟和她那个控变量实验的 bug_84161dbd43e1.md",
-      "sha256": "726220f6d3884de780d7ae614772c2f3716b80dc0808e255ce82e52384dbd9d5"
-    },
-    {
-      "bytes": 2149,
-      "path": "dynamic/恋爱自我认识/2026-09-14 18-27-21 2026-09-15 凌晨复盘她最别扭的地方别为难他了_50927bfab844.md",
-      "sha256": "604b77aaaf96d4c7db0179c93cab3ac18a5b93e3b30520efe190a3042c31c53c"
-    },
-    {
       "bytes": 1040,
       "path": "dynamic/恋爱规矩/2026-11-02 00-49-48 老公的账平啦终于不再负债高达0元_3f53e6874450.md",
       "sha256": "a81fd87f8944b856a2fad312b3695e58d3e121feb6cdaed1975a3db5d904d3d6"
@@ -10966,11 +10981,6 @@
       "bytes": 1292,
       "path": "dynamic/相处自我/2026-11-10 22-31-27 她不许我把自我检讨当诚实_229f9c1db543.md",
       "sha256": "d1920242aabee7d34765cb68c8230f36d2f2599adba4c8c9c1995e72a7588482"
-    },
-    {
-      "bytes": 1542,
-      "path": "dynamic/社交/2026-08-14 15-02-19 交笔友第一封信寄给长明_8c10266e31c0.md",
-      "sha256": "45b6da75428988a10e9d55894d6f33eddf321866cbce1fe456f1a775aa9c7884"
     },
     {
       "bytes": 2493,
@@ -11823,11 +11833,11 @@
       "sha256": "21e1507ae0307f2abc733548ffbce99c4ca4d7d084b681015a81393671b24d6b"
     }
   ],
-  "generated_at": "2026-11-27T17:45:40+00:00",
+  "generated_at": "2026-11-28T05:45:58+00:00",
   "path_prefix": "ombre",
   "repo": "xgxbobobo-stack/ombre-memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3744019
+  "total_bytes": 3745888
 }
